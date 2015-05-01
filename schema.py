@@ -2,26 +2,27 @@
 
 class Schema:
 
-    def __init__(self):
-        self.schema_id = -1
+    def __init__(self, id = -1, fileName = ""):
+        self.schema_id = id
         # a list of Rule object(see below)
         # represent all the rules in event_schema
         self.rule_list = []
+        self.fileName = fileName
+        self.loadSchema()
 
-    def setSchemaId(self, value):
-        self.schema_id = value
+    def loadSchema(self):
+        file = open(self.fileName)
+        lines = file.readlines()
+        file.close()
 
-    def loadSchema(self, line_for_rules):
-        '''
-        Given a list of strings, each string represent one rule in the schema
-        :param line_for_rules: a list of strings
-        :return:
-        '''
-
-        for r in line_for_rules:
-            new_rule = Rule()
-            new_rule.loadRule(r.rstrip("\n").split('\t')[2:])
-            self.rule_list.append(new_rule)
+        for line in lines:
+            tuples = line.split('\t')
+            if int(tuples[1]) == self.schema_id:
+                rule = Rule(tuples[2:7])
+                self.rule_list.append(rule)
+            else:
+                if len(self.rule_list) > 0:
+                    break
 
     def matchSentence(self, sentence):
         '''
@@ -35,13 +36,14 @@ class Schema:
 # One rule in event schema
 class Rule:
 
-    def __init__(self):
+    def __init__(self, r):
         # instance for arg1
         self.arg1_ins = []
         self.arg1 = ""
         self.rel = ""
         self.arg2 = ""
         self.arg2_ins = []
+        self.loadRule(r)
 
     def loadRule(self, tuple_five):
         '''
@@ -56,34 +58,41 @@ class Rule:
         self.arg2 = tuple_five[3]
         self.arg2_ins = tuple_five[4]
 
+    def display(self):
+        print(str(self.arg1_ins) + ' ' + self.arg1 + ' ' + self.rel + ' ' + self.arg2 + ' ' + str(self.arg2_ins))
+
+
+
 
 
 
 if __name__ == "__main__":
-    schemas = {}
-
-    f = open("chosen_schema")
-    content = f.readlines()
-    f.close()
-
-    schema_id = -1
-    schema_lines = []
-    for line in content:
-        kk = line.split('\t')
-        if int(kk[1]) == schema_id:
-            #still the last schema
-            schema_lines.append(line)
-        else:
-            #a new schema is tested
-            # create a schema add it to schemas
-            if len(schema_lines) != 0:
-                new_schema = Schema()
-                new_schema.loadSchema(schema_lines)
-                schemas[schema_id] = new_schema
-
-            # clear the schema_lines
-            schema_lines = [line]
-            schema_id = int(kk[1])
+    schema = Schema(1, "chosen_schema")
+    print(len(schema.rule_list))
+    # schemas = {}
+    #
+    # f = open("chosen_schema")
+    # content = f.readlines()
+    # f.close()
+    #
+    # schema_id = -1
+    # schema_lines = []
+    # for line in content:
+    #     kk = line.split('\t')
+    #     if int(kk[1]) == schema_id:
+    #         #still the last schema
+    #         schema_lines.append(line)
+    #     else:
+    #         #a new schema is tested
+    #         # create a schema add it to schemas
+    #         if len(schema_lines) != 0:
+    #             new_schema = Schema()
+    #             new_schema.loadSchema(schema_lines)
+    #             schemas[schema_id] = new_schema
+    #
+    #         # clear the schema_lines
+    #         schema_lines = [line]
+    #         schema_id = int(kk[1])
 
 
 
