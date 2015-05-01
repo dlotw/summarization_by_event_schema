@@ -1,0 +1,54 @@
+default	120	profit;income;Earnings;Revenue;Revenues	A0:[amount]	rise	A1:[percent]	percent
+default	120	Campbell;General Motors Corp.;insurer;Chrysler Corp.;Cable &AMP	A2:[organization]	announce	A0:[amount]	profit;income;Earnings;Revenue;Revenues
+default	120	profit;income;Earnings;Revenue;Revenues	A0:[amount]	increase	A3:  [none]	percent
+default	120	profit;income;Earnings;Revenue;Revenues	A0:[amount]	beat	A5:  [none]	expectation;estimate
+default	120	profit;income;Earnings;Revenue;Revenues	A0:[amount]	fall	A7:[percent]	percent
+default	120	profit;income;Earnings;Revenue;Revenues	A0:[amount]	rise percent in	A8:  [none]	quarter
+default	166	team	A5:  [none]	beat	A0:[person]	Gomez;Johnson;Krzyzewski;he;Seles
+default	166	Gomez;Johnson;Krzyzewski;he;Seles	A0:[person]	take pass from	A6:[location]	Blake;Allison;Gretzky;Atsushi Yanagisawa;Stockton
+default	166	Gomez;Johnson;Krzyzewski;he;Seles	A0:[person]	take	A7:  [none]	pass
+default	166	Gomez;Johnson;Krzyzewski;he;Seles	A0:[person]	lose by	A9:  [none]	point
+default	166	Gomez;Johnson;Krzyzewski;he;Seles	A0:[person]	lose	A11:  [none]	game
+default	166	Gomez;Johnson;Krzyzewski;he;Seles	A0:[person]	win	A14:  [none]	championship;title
+default	483	profit;income;Earnings;Revenue;dividend	A1:[amount]	rise	A0:[percent]	percent
+default	483	Campbell;General Motors Corp.;insurer;Chrysler Corp.;Cable &AMP	A2:[organization]	announce	A1:[amount]	profit;income;Earnings;Revenue;dividend
+default	483	profit;income;Earnings;Revenue;dividend	A1:[amount]	increase	A4:  [none]	percent
+default	483	profit;income;Earnings;Revenue;dividend	A1:[amount]	beat	A5:  [none]	expectation;estimate
+default	483	profit;income;Earnings;Revenue;dividend	A1:[amount]	fall	A7:[percent]	percent
+default	483	profit;income;Earnings;Revenue;dividend	A1:[amount]	rise percent in	A8:  [none]	quarter
+default	797	Blake;Hoffa;Rusedski;I;Carter	A0:[person]	lose to	A1:[person]	Gramm;Williams;Pedro;Serena Williams;optimist
+default	797	Blake;Hoffa;Rusedski;I;Carter	A0:[person]	lose by	A6:  [none]	vote;point
+default	797	Blake;Hoffa;Rusedski;I;Carter	A0:[person]	lose	A7:  [none]	round;decision;landslide
+default	797	Blake;Hoffa;Rusedski;I;Carter	A0:[person]	lose at	A9:[location]	Wells;home;Svetlana Kuznetsova;Oakmont;Porsche Grand Prix
+default	797	Blake;Hoffa;Rusedski;I;Carter	A0:[person]	lose in	A10:[person]	Murphy Brown;people;actress;commissioner;chairman
+default	797	Gramm;Williams;Pedro;Serena Williams;optimist	A1:[person]	beat	A11:[person]	detainee;Aili;Nadal;Peden;Tiger
+default	816	he;Mr. Diehl;Matina Horner;Brown;Randolph Hearst	A2:[person]	make	A8:  [none]	play
+default	816	he;Mr. Diehl;Matina Horner;Brown;Randolph Hearst	A2:[person]	win	A10:[game;activity]	matchup;game;support;job;toss
+default	816	he;Mr. Diehl;Matina Horner;Brown;Randolph Hearst	A2:[person]	score	A11:  [none]	point
+default	816	he;Mr. Diehl;Matina Horner;Brown;Randolph Hearst	A2:[person]	catch	A12:  [none]	pass
+default	816	he;Mr. Diehl;Matina Horner;Brown;Randolph Hearst	A2:[person]	play	A13:[game;activity]	game;basketball;football;tennis;golf
+default	816	he;Mr. Diehl;Matina Horner;Brown;Randolph Hearst	A2:[person]	beat	A14:[person]	detainee;Nadal;Ike Ibeabuchi;Amelie;we
+default	1	Haley;Kramer;Neumann;Rikhye;he	A1:[person]	resign from	A0:[organization]	firm;State Department;House;automaker;United Nations
+default	1	Haley;Kramer;Neumann;Rikhye;he	A1:[person]	resign in	A4:  [none]	2004;Wednesday;February;January;Monday
+default	1	Haley;Kramer;Neumann;Rikhye;he	A1:[person]	resign on	A5:  [none]	Monday;Thursday
+default	1	Haley;Kramer;Neumann;Rikhye;he	A1:[person]	resign after	A8:  [none]	season
+default	1	Haley;Kramer;Neumann;Rikhye;he	A1:[person]	be replace by	A9:[person]	Hurvin McCormack;Allen E. Murray;John Carroll;McCormack;Paul McGrath
+default	1	Graham Watson;husband;Burt;Sen. Richard Bryan;Thompson	A10:[person]	be member of	A0:[organization]	firm;State Department;House;automaker;United Nations
+default	297	He;Mr. Diehl;Ehrling;Bernard Debre;Jabir Herbert Muhammad	A0:[person]	to run for	A1:[leader;executive]	governor;president;mayor;minister
+default	297	He;Mr. Diehl;Ehrling;Bernard Debre;Jabir Herbert Muhammad	A0:[person]	decide to run in	A3:[time_unit]	1990;January;1976;2010;1978
+default	297	He;Mr. Diehl;Ehrling;Bernard Debre;Jabir Herbert Muhammad	A0:[person]	to run in	A4:  [none]	election;2008
+default	297	He;Mr. Diehl;Ehrling;Bernard Debre;Jabir Herbert Muhammad	A0:[person]	to run as	A6:  [none]	candidate
+default	297	He;Mr. Diehl;Ehrling;Bernard Debre;Jabir Herbert Muhammad	A0:[person]	resign in	A7:[time_unit]	1912;November;1997;Oct.;1983
+default	297	He;Mr. Diehl;Ehrling;Bernard Debre;Jabir Herbert Muhammad	A0:[person]	urge	A8:[person]	they;he;Giuliani;you;lawmaker
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign as	A1:[person]	officer;governor;general;leader;announcer
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign under	A3:  [none]	pressure
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign in	A7:  [none]	2004;Wednesday;January;December;August
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign after	A8:[person]	Clinton;Dr. Claud Young;wife;investigator;Senate Foreign Relations Chairman Helms
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign on	A10:  [none]	Friday;Monday
+default	691	Kramer;Bryan;Penders;Neumann;Sampson	A0:[person]	resign from	A12:[activity]	job;practice;service;leadership;role
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign as	A4:  [none]	secretary;governor;director;executive;minister
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign after	A6:[activity]	career;raid;role;charge;kidnapping
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign from	A8:[person]	Christie;Harken;director;Cousteau Society;Gingrich
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign to take	A9:  [none]	job
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign amid	A10:[activity]	charge
+default	737	Kramer;Bryan;Neumann;Amelio;Sampson	A1:[person]	resign in	A11:[effect]	wake;aftermath
