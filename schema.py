@@ -1,5 +1,6 @@
 # Class to represent schema
-
+import nltk.tokenize as tokenizer
+from nltk.corpus import wordnet as wn
 class Schema:
 
     def __init__(self, id = -1, fileName = ""):
@@ -16,7 +17,7 @@ class Schema:
         file.close()
 
         for line in lines:
-            tuples = line.split('\t')
+            tuples = line.rstrip('\n').split('\t')
             if int(tuples[1]) == self.schema_id:
                 rule = Rule(tuples[2:7])
                 self.rule_list.append(rule)
@@ -27,9 +28,28 @@ class Schema:
     def matchSentence(self, sentence):
         '''
         A sentence to match to this schema
-        :param sentence: Sentence to be matched
-        :return:
+        :param sentence: Sentence to be matched (a string)
+        :return: matched or not
         '''
+
+    def matchSentenceWithRule(self, rule_id, sentence):
+        '''
+        This function should be called by matchSentence
+        :param rule_id: which rule use to match the sentence
+        :param sentence: sentence to be matched
+        :return: matched or not
+        '''
+
+        # for a given sentence, we test if we can match this sentence
+        # with the rule_id specified
+        rule = self.rule_list[rule_id]
+        rule.display()
+        words = tokenizer.word_tokenize(sentence)
+        print(words)
+
+
+
+
 
 
 # Rule represent one line of the event schema
@@ -68,31 +88,9 @@ class Rule:
 
 if __name__ == "__main__":
     schema = Schema(1, "chosen_schema")
-    print(len(schema.rule_list))
-    # schemas = {}
-    #
-    # f = open("chosen_schema")
-    # content = f.readlines()
-    # f.close()
-    #
-    # schema_id = -1
-    # schema_lines = []
-    # for line in content:
-    #     kk = line.split('\t')
-    #     if int(kk[1]) == schema_id:
-    #         #still the last schema
-    #         schema_lines.append(line)
-    #     else:
-    #         #a new schema is tested
-    #         # create a schema add it to schemas
-    #         if len(schema_lines) != 0:
-    #             new_schema = Schema()
-    #             new_schema.loadSchema(schema_lines)
-    #             schemas[schema_id] = new_schema
-    #
-    #         # clear the schema_lines
-    #         schema_lines = [line]
-    #         schema_id = int(kk[1])
+
+    sent = "Gates did not resign until the following year after the acquittal of the four officers caused massive rioting."
+    schema.matchSentenceWithRule(0, sent)
 
 
 

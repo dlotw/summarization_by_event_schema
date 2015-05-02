@@ -1,6 +1,7 @@
 # This class represent a document
 # use a path to initiate Document
 import re
+from nltk.tokenize import sent_tokenize
 class Document:
 
     def __init__(self, path):
@@ -9,6 +10,7 @@ class Document:
         #self.title = ""
         #self.subtitle = ""
         self.load_file(path)
+        self.sents = []
 
     def load_file(self, path):
         '''
@@ -38,7 +40,7 @@ class Document:
                 # we need to find <\TEXT>
                 t_e = False
                 while not t_e:
-                    tmp.append(content[j].strip('\n'))
+                    tmp.append(content[j].replace("\n", " "))
                     # if we can match we should stop looping
                     t_e = text_e.search(content[j])
                     j += 1
@@ -47,6 +49,7 @@ class Document:
 
             i += 1
         self.content = self.content.replace("<TEXT>", "").replace("</TEXT>", "")
+        self.sents = sent_tokenize(self.content)
 
 
 if __name__ == "__main__":
@@ -55,4 +58,4 @@ if __name__ == "__main__":
 
     d06 = Document(file)
 
-    print d06.content
+
