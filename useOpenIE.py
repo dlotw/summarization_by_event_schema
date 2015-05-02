@@ -1,63 +1,42 @@
 __author__ = 'zephyrYin'
 import sys
-from random import randint
-import
+from TfIdf import TfIdf
+from Article import Article
 
-class Article:
-    def __init__(self, path):
-        self.path = path
-        self.content = []
-        self.extraction = []
-
-    def loadArticle(self):
-        file = open(self.path)
-        lines = file.readlines()
-        file.close()
-        status = 0
-        tmp = []
-        for line in lines:
-            if line == '\n':
-                best = self.pickBest(tmp)
-                index = randint(0,len(best)-1)
-                self.extraction.append(best[index])
-                status = 0
-                tmp = []
-                continue
-            elif status == 0:
-                self.content.append(line.strip('\n'))
-                status += 1
-            else:
-                tmp.append(line.strip('\n'))
-
-    def pickBest(self, candidates):
-        max = 0
-        best = []
-        for c in candidates:
-            credit, content = self.transform(c)
-            if credit > max:
-                max = credit
-                best = []
-                best.append(content)
-            elif credit == max:
-                best.append(content)
-        return best
+def setScore(words, scores):
+    score = 0
+    for word in words:
+        if word in scores:
+            score += scores[word]
+    return score
 
 
-    def transform(self, line):
-        credit = float(line[0:4])
-        content = line[5:]
-        left = content.index('(')
-        right = content.index(')')
-        return credit, content[left+1:right]
+sentenceScores = {}
 
-if __name__ == "__main__":
+fileNames = ['d04aOpenieResult/' + str(i+1) + '.txt' for i in range(7)]
+articles = [Article(f) for f in fileNames]
+articleWords = [article.wordFrequency for article in articles]
+t = TfIdf(articleWords)
+scores = t.getScore()
 
-    file = "d04aOpenieResult/1.txt"
 
-    a = Article(file)
-    a.loadArticle()
-    print(len(a.content))
-    print(len(a.extraction))
-    for e in a.extraction:
-        print(e)
-        print('......')
+
+for article in articles:
+    for i in range(len(article.content)):
+        line = article.content[i]
+        words = article.extractionWords[i]
+        score = setScore(words, scores)
+        sentenceScores[line] = score
+
+
+print_entity = sorted(sentenceScores.items(), key=lambda d :d[1], reverse=True)
+summary = ''
+for i in range(10):
+    line = print_entity[i][0]
+    summary += line + ' '
+file= open('summary.txt','w')
+file.write(summary)
+file.close()
+
+
+

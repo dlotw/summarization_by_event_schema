@@ -79,7 +79,7 @@ class Rule:
         self.arg2_ins = tuple_five[4]
 
     def display(self):
-        print(str(self.arg1_ins) + ' ' + self.arg1 + ' ' + self.rel + ' ' + self.arg2 + ' ' + str(self.arg2_ins))
+        print(str(self.arg1_ins) + '    ' + self.arg1 + '   ' + self.rel + '    ' + self.arg2 + '   ' + str(self.arg2_ins))
 
 
 
@@ -88,7 +88,8 @@ class Rule:
 
 if __name__ == "__main__":
     schema = Schema(1, "chosen_schema")
-
+    #for r in schema.rule_list:
+     #   r.display()
     sent = "Gates did not resign until the following year after the acquittal of the four officers caused massive rioting."
     schema.matchSentenceWithRule(0, sent)
 
