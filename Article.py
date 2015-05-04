@@ -46,7 +46,7 @@ class Article:
         words = nltk.tokenize.word_tokenize(sent)
         result = []
         for w in words:
-            if len(w) >= 2 and not w in u.words:
+            if len(w) >= 2 and not w.lower() in u.words:
                 result.append(w.lower())
         return result
 

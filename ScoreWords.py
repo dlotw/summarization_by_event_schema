@@ -1,9 +1,10 @@
 __author__ = 'zephyros'
 import math
 
-class TfIdf:
-    def __init__(self, dicts):
+class ScoreWords:
+    def __init__(self, dicts, ne):
         self.dicts = dicts
+        self.nameEntity = ne
 
     def getCount(self):
         count = {}
@@ -17,6 +18,15 @@ class TfIdf:
                         count[d].append(i)
         return count
 
+    def isNameEntity(self, word):
+        for d in self.nameEntity:
+            if word in self.nameEntity[d]:
+                if d == 'O':
+                    return False
+                else:
+                    return True
+        return False
+
     def getScore(self):
         count = self.getCount()
         score = {}
@@ -26,5 +36,7 @@ class TfIdf:
                 if word in dict:
                     wholeNumber += dict[word]
 
-            score[word] = math.log(1 + wholeNumber, 2) * len(count[word])
+            k = 2 if self.isNameEntity(word) else 1
+            score[word] = math.log(1 + wholeNumber, 2) * len(count[word]) * k
+
         return score
