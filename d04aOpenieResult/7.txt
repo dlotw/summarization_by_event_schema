@@ -1,0 +1,115 @@
+US CITIES along the Gulf of Mexico from Alabama to eastern Texas were on storm watch last night as Hurricane Andrew headed west after sweeping across southern Florida, causing at least eight deaths and severe property damage.
+0.94 (US CITIES along the Gulf of Mexico from Alabama to eastern Texas; were; on storm watch; T:last night)
+0.92 (Hurricane Andrew; headed west; T:after sweeping across southern Florida)
+0.92 Context(Hurricane Andrew headed west,List([99, 127))):(Hurricane Andrew; headed west after sweeping; across southern Florida)
+0.86 Context(Hurricane Andrew headed west,List([99, 127))):(Hurricane Andrew; headed west causing; at least eight deaths and severe property damage)
+
+The hurricane was one of the fiercest in the US in decades and the first to hit Miami directly in a quarter of a century.
+0.96 (The hurricane; was; one of the fiercest in the US in decades and the first)
+0.89 (The hurricane; was one of; the fiercest)
+
+In the Bahamas, government spokesman Mr Jimmy Curry said four deaths had been reported on outlying eastern islands.
+0.97 (government spokesman Mr Jimmy Curry; said; four deaths had been reported on outlying eastern islands; L:In the Bahamas)
+0.88 Context(government spokesman Mr Jimmy Curry said,List([16, 56))):(four deaths; had been reported; L:on outlying eastern islands)
+0.39 (Mr Jimmy Curry; [is] spokesman [of]; government)
+
+Mr Justin Balcombe, of UK-based insurance adjuster Balcombe Group, said total losses could exceed Dollars 15bn if business interruption claims were taken into account.
+0.71 (Dollars; 15bn; )
+0.91 (business interruption claims; were taken; into account)
+0.95 (Mr Justin Balcombe, of UK-based insurance adjuster Balcombe Group; said; total losses could exceed Dollars 15bn if business interruption claims were taken into account)
+0.88 Context(Mr Justin Balcombe , of UK - based insurance adjuster Balcombe Group said,List([0, 71))):(total losses; could exceed; Dollars 15bn)
+
+That compares with the Dollars 4bn-Dollars 6n (Pounds 2.1bn-Pounds 3.1bn) of insurance industry losses caused by the last big US hurricane, Hugo, which hit South Carolina in 1989.
+0.38 (That; compares; with the Dollars 4bn-Dollars 6n)
+0.93 (insurance industry losses; caused; by the last big US hurricane)
+0.96 (the last big US hurricane; hit; South Carolina; T:in 1989)
+
+The brunt of the losses are likely to be concentrated among US insurers, industry analysts said yesterday.
+0.93 (The brunt of the losses; to be concentrated; L:among US insurers)
+0.96 (The brunt of the losses are likely to be concentrated among US insurers; said; T:yesterday)
+0.92 Context(The brunt of the losses are likely to be concentrated among US insurers said,List([0, 95))):(The brunt of the losses; are; likely to be concentrated among US insurers)
+
+Mr George Lloyd-Roberts, chairman of Lloyd's Underwriters' Non-Marine Association, said that, unless damage claims exceeded Pounds 3bn, the Lloyd's insurance market would feel little impact.
+0.92 (damage claims; exceeded; Pounds 3bn)
+0.89 (Mr George Lloyd-Roberts; said; that, unless damage claims exceeded Pounds 3bn, the Lloyd's insurance market would feel little impact)
+0.93 Context(Mr George Lloyd - Roberts said,List([0, 87))):(the Lloyd's insurance market; would feel; little impact)
+0.88 (Mr George Lloyd-Roberts; [is] chairman of; Lloyd)
+
+Because the reinsurance of reinsurance risk  - known as the retrocession market  - has shrunk considerably in recent years, US insurers have placed far fewer of their risks through Lloyd's.
+0.95 (the reinsurance of reinsurance risk  - known as the retrocession market; has shrunk considerably; T:in recent years)
+0.87 (US insurers; have placed; far fewer of their risks; through Lloyd's)
+
+Mr Roger Hill, insurance analyst at Warburg Securities, said he estimated that mainline UK insurers faced no more than Pounds 75m in damage claims so far.
+0.78 (Mr Roger Hill; said; he estimated that mainline UK insurers faced no more than Pounds 75m in damage claims so far)
+0.32 Context(Mr Roger Hill said,List([0, 60))):(he; estimated; that mainline UK insurers faced no more than Pounds 75m in damage claims so far)
+0.96 Context(Mr Roger Hill said he estimated,List([0, 73))):(mainline UK insurers; faced; no more than Pounds 75m in damage claims so far)
+0.88 (Mr Roger Hill; [is] insurance analyst at; Warburg Securities)
+
+'At the moment we are relaxed about it,' he said.
+0.67 (At the moment we are relaxed about it; said; he)
+0.39 Context(At the moment we are relaxed about it said,List([1, 48))):(we; are; relaxed about it; T:At the moment)
+
+The real question, he added, is the level of reinsurance available to the UK underwriters.
+0.57 (he; added; is the level of reinsurance available to the UK underwriters)
+0.93 (The real question; is; the level of reinsurance available to the UK underwriters)
+
+Royal Insurance estimated the company's losses at no more than Pounds 20m.
+0.93 (Royal Insurance; estimated; the company's losses; at)
+
+Among other UK insurers, Mr Hill estimated that General Accident may face losses of up to Pounds 30m, while Guardian Royal Exchange faced Pounds 5m and Sun Alliance and Commercial Union Pounds 10m each.
+0.94 (Guardian Royal Exchange; faced; Pounds 5)
+0.80 (Mr Hill; estimated; that General Accident may face losses of; L:Among other UK insurers)
+0.91 Context(Mr Hill estimated,List([25, 42))):(General Accident; may face; losses of)
+
+However, Hurricane Andrew gathered fresh strength as it moved across the Gulf of Mexico and there was concern last night that it might head towards New Orleans, which is especially low lying and could suffer severe flood damage.
+0.93 (Hurricane Andrew; gathered; fresh strength; T:as it moved across the Gulf of Mexico and there was concern last night)
+0.91 (New Orleans; could suffer; severe flood damage)
+0.50 (it; moved; across the Gulf of Mexico)
+0.50 (it; might head; towards New Orleans)
+0.93 (New Orleans; is; especially low lying)
+
+Scientists said the storm could make landfall anywhere between the Alabama port of Mobile and the Louisiana-Texas border, probably tomorrow night or early Thursday.
+0.93 (Scientists; said; the storm could make landfall anywhere between the Alabama port of Mobile and the Louisiana-Texas border, probably tomorrow night or early Thursday)
+0.94 Context(Scientists said,List([0, 15))):(the storm; could make; landfall anywhere between the Alabama port of Mobile and the Louisiana-Texas border)
+
+It could threaten the large concentration of offshore oil production facilities in the Gulf of Mexico.
+0.61 (It; could threaten; the large concentration of offshore oil production facilities in the Gulf of Mexico)
+
+Shell Oil was evacuating most of the 900 workers on its offshore platforms as a precaution.
+0.92 (Shell Oil; was evacuating; most of the 900 workers on its offshore platforms as a precaution)
+
+A substantial part of America's oil refining industry is concentrated on the Gulf coast, in Louisiana and Texas, and officials there were reviewing emergency plans to curtail or shut down plant operations.
+0.97 (A substantial part of America's oil refining industry; is concentrated; L:on the Gulf coast)
+0.64 (officials there; were reviewing; emergency plans to curtail or shut down plant operations)
+
+Andrew, the first Caribbean hurricane of the season, hit the eastern coast of Florida early yesterday, gusting up to 165mph.
+0.92 (Andrew; hit; the eastern coast of Florida; T:early yesterday)
+0.85 Context(Andrew hit,List([0, 56))):(Andrew; hit the eastern coast of Florida gusting up; to 165mph)
+
+It ripped roofs off houses, smashed cars and trucks, snapped power lines and uprooted trees before heading out over the Gulf.
+0.45 (It; ripped; roofs; off houses)
+0.41 (It; smashed; cars and trucks)
+0.46 (It; uprooted; trees; T:before heading out over the Gulf)
+
+A million people had been ordered to flee their homes in southern Florida as the hurricane moved in from the Bahamas on Sunday.
+0.87 (A million people; had been ordered; to flee their homes in southern Florida)
+0.90 (A million people; to flee; their homes in southern Florida; T:as the hurricane moved in from the Bahamas on Sunday)
+0.92 (the hurricane; moved; in; from the Bahamas; T:on Sunday)
+
+The Florida Power and Light company said that about 1.2m of its customers, or 32 per cent, were without power.
+0.83 (The Florida Power and Light company; said; that about 1.2m of its customers, or 32 per cent, were without power)
+0.74 Context(The Florida Power and Light company said,List([0, 40))):(about 1.2m of its customers, or 32 per cent; were; without power)
+
+Some of the strongest winds were in the affluent suburb of Coral Gables, just south of Miami, where the National Hurricane Center is located.
+0.94 (Some of the strongest winds; were just south; in the affluent suburb of Coral Gables)
+0.96 (the National Hurricane Center; is located; L:Miami)
+
+Its radar and satellite antennae were blown away.
+0.45 (Its radar and satellite antennae; were blown; away)
+
+President Bush authorised federal disaster assistance for the affected areas and made plans for an inspection tour of the state.
+0.93 (President Bush; authorised; federal disaster assistance for the affected areas)
+0.91 (President Bush; made; plans for an inspection tour of the state)
+
+Picture, Page 14
+
