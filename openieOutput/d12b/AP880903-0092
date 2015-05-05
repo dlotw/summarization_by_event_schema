@@ -1,0 +1,102 @@
+President Reagan warned Saturday that he will veto any welfare legislation Congress sends him that does not contain a work requirement.
+0.70 (President Reagan; warned; T:Saturday; that he will veto any welfare legislation)
+0.20 Context(President Reagan warned,List([0, 23))):(he; will veto; any welfare legislation Congress sends him that does not contain a work requirement)
+0.70 (Congress; sends; him; that does not contain a work requirement)
+0.35 Context(Congress sends,List([75, 89))):(him; does not contain; a work requirement)
+
+``The best way to learn to work is to work,'' the president said in a Labor Day weekend radio address from his vacation ranch 20 miles north of here.
+0.94 (The best way to learn to work is to work; said; L:in a Labor Day weekend radio address)
+0.84 Context(The best way to learn to work is to work said,List([2, 64))):(The best way to learn to work; is; to work)
+
+Rep. Thomas J. Downey, D-N.Y., in the Democrats' response, said that quiring welfare recipients work may be necessary, but he said such requirements should be controlled by state and local welfare officials, not the federal government.
+0.85 (Rep. Thomas J. Downey, D-N.Y., in the Democrats' response; said; that quiring welfare recipients work may be necessary)
+0.76 Context(Rep. Thomas J. Downey , D - N.Y . , in the Democrats ' response said,List([0, 63))):(quiring welfare recipients work; may be; necessary)
+0.51 (he; said; such requirements should be controlled by state and local welfare officials)
+0.88 Context(he said,List([123, 130))):(such requirements; should be controlled; by state and local welfare officials)
+
+Reagan mingled talk of welfare reform with celebration of his administration's economic record, saying Friday's unemployment figures showed that the jobless rate ``hovered just above the lowest it's been in 14 years.''
+0.45 (it; 's been; in 14 years)
+0.88 (Reagan; mingled; talk of welfare reform with celebration of his administration's economic record)
+0.80 Context(Reagan mingled,List([0, 14))):(Reagan; mingled talk of welfare reform with celebration of his administration's economic record saying; Friday's unemployment figures showed that the jobless rate ``hovered just above the lowest)
+0.87 Context(Reagan mingled saying,List([0, 102))):(Friday's unemployment figures; showed; that the jobless rate ``hovered just above the lowest)
+0.70 Context(Reagan mingled saying Friday 's unemployment figures showed,List([0, 139))):(the jobless rate; hovered; just above the lowest)
+
+The figures from the Labor Department showed unemployment of 5.6 percent, up from 5.4 percent in July and from the May figure of 5.3 per cent, which was a 14-year low.
+0.95 (The figures from the Labor Department; showed up; unemployment of 5.6 percent)
+0.92 (5.3 per cent; was; a 14-year low)
+
+``But there are still some Americans whom our expansion has passed by _ those caught in the welfare trap,'' he said.
+0.76 (some Americans; has passed; )
+0.23 (those; caught; in the welfare trap)
+0.68 (there are still some Americans; said; he)
+
+To deal with this, he said, his administration launched a program encouraging states to come up with their own plans to get people off the welfare rolls.
+0.22 (he; said; his administration launched a program)
+0.54 Context(he said,List([19, 26))):(his administration; launched; a program encouraging states to come up with their own plans)
+0.83 (a program; encouraging; states; to come up with their own plans)
+0.82 (states; to come up; with their own plans)
+
+``Nearly half of the states have implemented or proposed widespread welfare reform plans that build upon some good old common sense _ that the best way to learn to work is to work,'' the president said.
+0.86 (Nearly half of the states; proposed; widespread welfare reform plans that build upon some good old common sense)
+1.00 (Nearly half of the states have implemented or proposed widespread welfare reform plans that build upon some good old common sense _ that the best way to learn to work is to work; said; the president)
+0.75 Context(Nearly half of the states have implemented or proposed widespread welfare reform plans that build upon some good old common sense _ that the best way to learn to work is to work said,List([2, 201))):(Nearly half of the states; have implemented; )
+0.91 (widespread welfare reform plans; build; upon some good old common sense)
+0.88 (the best way to learn to work; is; to work)
+
+``Now, Congress appears to be close to a decision about welfare reform and I have a message for them,'' he said.
+0.91 (Congress; to be; close to a decision about welfare reform)
+0.31 (I; have; a message for them)
+0.90 (Now, Congress appears to be close to a decision about welfare reform and I have a message for them; said; he)
+0.83 Context(Now , Congress appears to be close to a decision about welfare reform and I have a message for them said,List([2, 111))):(Congress; appears; T:Now)
+
+``I will not accept any welfare reform bill unless it is geared to making people independent of welfare.''
+0.45 (I; will not accept; any welfare reform bill)
+0.45 (it; is geared; to making people independent of welfare)
+
+A House-Senate conference committee currently has before it a Senate-passed bill that contains a work requirement and a House-approved measure that does not.
+0.96 (A House-Senate conference committee; has; L:before it; a Senate-passed bill; T:currently)
+0.94 (a Senate-passed bill; contains; a work requirement and a House-approved measure)
+0.81 (a House-approved measure; does not; )
+
+``Any bill not built around work is not true welfare reform,'' the president said.
+0.90 (Any bill; not built; L:around work)
+0.96 (Any bill not built around work is not true welfare reform; said; the president)
+0.92 Context(Any bill not built around work is not true welfare reform said,List([2, 81))):(Any bill not built around work; is not; true welfare reform)
+
+``If Congress presents me with a bill that replaces work with welfare expansion and that places the dignity of self-sufficiency through work out of the reach of Americans on welfare, I will use my veto pen.''
+0.86 (Congress; presents; me; with a bill)
+0.89 (a bill; replaces; work)
+0.89 (a bill; places; the dignity of self-sufficiency; through work)
+0.31 (I; will use; my veto pen)
+
+Downey said that while more people than ever before are working, ``the fact is that the typical worker in America is no better off today than he or she was 10 years ago; in fact things have gotten worse.''
+0.79 (more people than ever before; are working; )
+0.72 (he or she; was; T:10 years ago)
+0.77 (Downey; said; that while more people than ever before are working, ``the fact is that the typical worker in America is no better off today than he or she was 10 years ago; in fact things have gotten worse)
+0.18 Context(Downey said,List([0, 11))):(things; have gotten; worse)
+0.92 Context(Downey said things have gotten,List([0, 196))):(the fact; is; that the typical worker in America is no better off today; T:while more people than ever before are working)
+0.94 Context(Downey said the fact is things have gotten,List([0, 196))):(the typical worker in America; is; no better off today than he or she was 10 years ago)
+0.39 (America; is no better off; today)
+
+The poorest 40 percent of American families, with incomes adjusted for inflation, are worse off today than they were 10 years ago; the richest 5 percent are better off than they were a decade ago; and 32.5 million Americans remain mired in poverty, he said.
+0.89 (incomes; adjusted; for inflation)
+0.93 (32.5 million Americans; remain; mired in poverty)
+0.92 (32.5 million Americans; mired; in poverty)
+0.62 (they; were; T:10 years ago)
+0.99 (The poorest 40 percent of American families, with incomes adjusted for inflation, are worse off today than they were 10 years ago; the richest 5 percent are better off than they were a decade ago; and 32.5 million Americans remain mired in poverty; said; he)
+0.83 Context(The poorest 40 percent of American families , with incomes adjusted for inflation , are worse off today than they were 10 years ago ; the richest 5 percent are better off than they were a decade ago ; and 32.5 million Americans remain mired in poverty said,List([0, 256))):(the richest 5 percent; are; better off than they were a decade ago)
+0.88 Context(The poorest 40 percent of American families , with incomes adjusted for inflation , are worse off today than they were 10 years ago ; the richest 5 percent are better off than they were a decade ago ; and 32.5 million Americans remain mired in poverty said,List([0, 256))):(The poorest 40 percent of American families, with incomes; are; worse off today than they were 10 years ago)
+0.62 (they; were; T:a decade ago)
+
+The House bill, with training and education programs as well as health and child-care benefits, would make welfare parents who work better off than those who do not, said Downey, acting chairman of the Ways and Means subcommittee on public assistance and unemployment compensation.
+0.07 (those; do not; )
+0.92 (The House bill, with training and education programs as well as health and child-care benefits; would make; )
+0.93 Context(The House bill , with training and education programs as well as health and child - care benefits would make,List([0, 106))):(welfare parents who work better off than those; said; Downey)
+0.65 Context(The House bill , with training and education programs as well as health and child - care benefits would make welfare parents who work better off than those said,List([0, 170))):(welfare parents; work better off; )
+
+``Yes, requiring a welfare recipient to work may be necessary, but those requirements should be controlled by state and local officials who administer our welfare programs, not federal bureaucrats,'' Downey said.
+0.99 (Yes, requiring a welfare recipient to work may be necessary, but those requirements should be controlled by state and local officials; said; Downey)
+0.77 Context(Yes , requiring a welfare recipient to work may be necessary , but those requirements should be controlled by state and local officials said,List([2, 211))):(Yes, requiring a welfare recipient; may be; necessary)
+0.90 (those requirements; should be controlled; by state and local officials)
+0.84 (state and local officials; administer; our welfare programs)
+

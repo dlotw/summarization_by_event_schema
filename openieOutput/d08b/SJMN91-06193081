@@ -1,0 +1,134 @@
+From Hawaii to Mexico to Central America, more than 40 million people saw the moon obscure so much of the sun that only a blazing ring was visible.
+0.95 (more than 40 million people; saw; the moon obscure so much of the sun that only a blazing ring was visible; T:From Hawaii to Mexico to Central America)
+0.84 (only a blazing ring; was; visible)
+
+In Hawaii, Mauna Loa erupted for the first time in six years, stunning scientists by releasing a dazzling fountain of lava at the height of the eclipse.;
+0.96 (Mauna Loa; erupted; T:for the first time in six years; L:In Hawaii)
+
+And in the Bay Area, more than half the sun was covered when the eclipse peaked at 11:20 a.m.
+0.96 (more than half the sun; was covered; T:when the eclipse peaked at 11:20 a.m.; L:in the Bay Area)
+0.90 (the eclipse; peaked; T:at 11:20 a.m.)
+
+The world will not see such a long-lasting eclipse for another 151 years.;
+0.94 (The world; will not see; such a long-lasting eclipse for another 151 years)
+
+Few people who saw it today will forget "The Big One.";
+0.67 (Few people who saw it today; will forget; The Big One)
+0.81 Context(Few people who saw it today will forget,List([0, 39))):(Few people; saw; it; T:today)
+
+"It looks neat.
+0.23 (It; looks; neat)
+
+It looks like someone took a bite out of an apple," said Matthew Mauranoh, 8, of Mountain View, who peered through a homemade black box at the Foothill Observatory.;
+0.89 (someone; took; a bite; out of an apple)
+0.77 (It looks like someone took a bite out of an apple; said; Matthew Mauranoh, 8, of Mountain View)
+0.40 Context(It looks like someone took a bite out of an apple said,List([0, 56))):(It; looks; like someone took a bite out of an apple)
+0.82 Context(It looks like someone took a bite out of an apple said,List([0, 56))):(Matthew Mauranoh, 8, of Mountain View; peered; )
+
+The view was diminished for many in Hawaii and Mexico, where low cloud cover obscured the celestial display.
+0.73 (The view; was diminished; )
+0.96 (low cloud cover; obscured; the celestial display; L:Hawaii and Mexico)
+
+In the 160-mile-wide swath from Hawaii to Baja to Mexico to Brazil, the morning turned into night -- the only region where the eclipse made the Earth totally dark.;
+0.97 (the morning; turned; into night; L:In the 160-mile-wide swath from Hawaii to Baja to Mexico to Brazil)
+0.95 (the eclipse; made; the Earth totally dark; L:the only region)
+
+Clouds obscured eclipse;  As totality arrived at sea level on the Big Island, the sun was hidden by a cloud layer.
+0.91 (totality; arrived; at sea level on the Big Island)
+0.96 (the sun; was hidden; by a cloud layer; T:As totality arrived at sea level on the Big Island)
+0.76 Context(the sun was hidden,List([78, 96))):(Clouds; obscured; eclipse)
+
+At the astronomy observatory at the top of 13,800-foot Mauna Kea, high cirrus clouds thwarted three of the 10 scientific experiments.;
+0.97 (high cirrus clouds; thwarted; three of the 10 scientific experiments; L:At the astronomy observatory at the top of 13,800-foot Mauna Kea)
+
+It still got dark, but the clouds disappointed about 500 people gathered on the driving range at the Mauna Lani resort in south Kohala.
+0.37 (It; got; dark; T:still)
+0.95 (the clouds; disappointed; about 500 people gathered on the driving range at the Mauna Lani resort in south Kohala)
+0.95 (about 500 people; gathered; L:on the driving range at the Mauna Lani resort in south Kohala)
+
+Their hopes had fallen and risen in the previous hour as the clouds came and went.;    "I came especially for this, and hope we get to see it," said Margaret MacLeod, a mathematics and science teacher from Manhattan Beach shortly before the eclipse in Hawaii.
+0.23 (I; hope; we get to see it)
+0.60 (Their hopes; risen; T:in the previous hour; T:as the clouds came and went)
+0.73 (the clouds; came; )
+0.27 (we; to see; it)
+0.75 (the clouds; went; )
+0.96 (Their hopes had fallen and risen in the previous hour as the clouds came and went.;    "I came especially for this, and hope we get to see it; said; Margaret MacLeod)
+0.18 Context(Their hopes had fallen and risen in the previous hour as the clouds came and went . ; " I came especially for this , and hope we get to see it said,List([0, 148))):(I; came especially; for this)
+0.29 Context(Their hopes had fallen and risen in the previous hour as the clouds came and went . ; " I came especially for this , and hope we get to see it said,List([0, 148))):(Their hopes; had fallen; )
+
+"If we don't get to see it, I may have to go to Iraq for the next one.";
+0.46 (I; to go; to Iraq; for the next one)
+0.26 (we; do n't get; to see it)
+0.26 Context(we do n't get,List([4, 16))):(we; do n't get to see; it)
+
+Because of the clouds, most were unable to see the stages of the eclipse until it got totally dark.;
+0.25 (most; were; unable to see the stages of the eclipse; T:until it got totally dark)
+0.34 (most; to see; the stages of the eclipse)
+0.28 (it; got; totally dark)
+
+In the Bay Area, though, mostly sunny skies made eclipse watching a treat, except along the coast, where it was obscured by fog.;    Parks, parking lots, shopping centers, back yards and planetariums became Eclipsefests as the peak approached.;
+0.45 (it; was obscured; by fog)
+0.97 (Parks, parking lots, shopping centers, back yards and planetariums; became; Eclipsefests; T:as the peak approached)
+0.73 (the peak; approached; )
+0.94 (mostly sunny skies; made; eclipse; L:In the Bay Area)
+0.89 Context(mostly sunny skies made,List([25, 48))):(mostly sunny skies; made eclipse watching; a treat)
+
+More than a hundred sun gazers showed up at the Branham Lane Park in south San Jose with almost as many gizmos to help them spot sunspots and watch the moon cross the sun.;
+0.93 (More than a hundred sun gazers; showed up; L:at the Branham Lane Park in south San Jose; to help them spot sunspots and watch the moon cross the sun)
+0.89 (More than a hundred sun gazers; to help; them spot sunspots and watch the moon cross the sun)
+0.47 Context(More than a hundred sun gazers to help,List([0, 118))):(them; spot; sunspots)
+0.43 (them; watch; the moon cross the sun)
+0.91 Context(them watch,List([119, 147))):(the moon; cross; the sun)
+
+There were funny Mylar glasses, big pinhole cameras, small pinhole cameras, welder's glass, welder's masks, binoculars projecting images onto cardboard and telescopes.;
+0.89 (binoculars; projecting; images)
+
+None was as impressive as Ralph Reeves' interference birefrigent hydrogen alpha filter telescope.
+0.96 (None; was; as impressive as Ralph Reeves' interference birefrigent hydrogen alpha filter telescope)
+
+All most of us need to know is that it takes electricity (provided by a gas generator) to run.
+0.38 (All most of us; need; to know)
+0.33 Context(All most of us need,List([0, 19))):(All most of us; need to know to know; )
+0.49 (All most of us need to know; is; that it takes electricity (provided by a gas generator) to run)
+
+And that you can take pictures of the eclipse through it.
+0.62 (you; can take; pictures of the eclipse)
+
+That is, if you have film.;
+
+"I didn't bring any film with me," said Reeves, a retired Lockheed instrument builder.
+0.72 (I didn't bring any film with me; said; Reeves)
+0.26 Context(I did n't bring any film with me said,List([1, 39))):(I; did n't bring; any film; with me)
+0.38 (Reeves; [is] a retired instrument builder [of]; Lockheed)
+
+"Isn't that awful?";
+
+At the Children's Discovery Museum in downtown San Jose, hundreds of youngsters and adults made cardboard telescopes, which projected the eclipse on white cards through a needle hole opening.;    Paul Stonecipher , a discovery museum staff guide, said, "We wanted to make little theaters for all of the kids to see the eclipse without burning their eyes.";
+0.98 (hundreds of youngsters and adults; made; cardboard telescopes, which projected the eclipse on white cards through a needle hole opening; L:At the Children's Discovery Museum in downtown San Jose)
+0.89 (cardboard telescopes; projected; the eclipse)
+0.86 (Paul Stonecipher; said; We wanted to make little theaters for all of the kids)
+0.36 Context(Paul Stonecipher said,List([196, 251))):(We; wanted; to make little theaters for all of the kids to see the eclipse without burning their eyes)
+0.40 Context(Paul Stonecipher said We wanted,List([196, 263))):(We; wanted to make; little theaters for all of the kids)
+
+Using mirrors, the eclipse also was projected on the exterior walls of the lavendar-colored museum.;
+0.70 (the eclipse; was projected; )
+
+Eclipse theme park;  For nearly a week now, Hawaii turned into an eclipse theme park.
+0.95 (Hawaii; turned; into an eclipse theme park; T:For nearly a week now)
+
+More than 500 astronomers and tens of thousands of amateurs flocked to the islands to sell nearly everything under the sun.;    Sun-minded entrepreneurs hawked eclipse T-shirts (60 different designs), hats, posters and cookies.
+0.92 (Sun-minded entrepreneurs; hawked; eclipse T-shirts (60 different designs), hats, posters and cookies)
+0.94 Context(Sun-minded entrepreneurs hawked,List([128, 159))):(More than 500 astronomers and tens of thousands of amateurs; flocked; to the islands; to sell nearly everything under the sun)
+0.94 Context(More than 500 astronomers and tens of thousands of amateurs flocked Sun-minded entrepreneurs hawked,List([0, 159))):(More than 500 astronomers and tens of thousands of amateurs; flocked to the islands to sell; nearly everything under the sun)
+
+There was even an eclipse haircut and, of course, an eclipse drink at the Eclipse restaurant in Kailua-Kona.;
+
+"Everything is selling pretty well except for the eclipse Frisbees.
+0.71 (Everything; is selling pretty well; )
+
+Nobody wants eclipse Frisbees," said "Wild Bill" Lawrence, who helped out at Moonshadows, one of many small
+0.91 (Nobody wants eclipse Frisbees; said; Wild Bill" Lawrence)
+0.92 Context(Nobody wants eclipse Frisbees said,List([0, 36))):(Nobody; wants; eclipse Frisbees)
+0.89 Context(Nobody wants eclipse Frisbees said,List([0, 36))):(Nobody; wants eclipse; Frisbees)
+0.93 Context(Nobody wants eclipse Frisbees said,List([0, 36))):(Wild Bill" Lawrence; helped out; L:at Moonshadows)
+

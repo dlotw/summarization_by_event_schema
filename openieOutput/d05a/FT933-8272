@@ -1,0 +1,153 @@
+The epidemic of bovine spongiform encephalopathy or 'mad cow' disease - which has killed more than 100,000 animals in the UK - is causing a new wave of public concern.
+0.92 (mad cow' disease; has killed; more than 100,000 animals; L:in the UK)
+0.95 (The epidemic of bovine spongiform encephalopathy or 'mad cow' disease; is causing; a new wave of public concern)
+
+New cases are still running at almost 1,000 a week and last month a second dairy farmer died of Creutzfeld-Jacob Disease, a brain disorder similar to BSE.
+0.92 (New cases; are running; T:at almost 1,000 a week; T:still)
+0.96 (a second dairy farmer; died; of Creutzfeld-Jacob Disease; T:last month)
+
+Richard Lacey, a microbiology professor at Leeds University and the leading critic of government policy on BSE, said the deaths this year of two farmers whose herds had suffered from mad cow disease could not be put down to chance.
+0.89 (two farmers; had suffered; from mad cow disease)
+0.90 (Richard Lacey; said; the deaths)
+0.75 Context(Richard Lacey said,List([0, 116))):(this year of two farmers; could not be put; down)
+0.88 (Richard Lacey; [is] a microbiology professor at; Leeds University)
+
+He believes that BSE can trigger human brain disease.
+0.22 (He; believes; that BSE can trigger human brain disease)
+0.83 Context(He believes,List([0, 11))):(BSE; can trigger; human brain disease)
+
+'Our worst predictions are coming true,' he said.
+0.63 (Our worst predictions are coming true; said; he)
+0.35 Context(Our worst predictions are coming true said,List([1, 48))):(Our worst predictions; are coming; true)
+
+'I find it unbelievable that the government and their hand-picked advisers can go on telling the public there is no danger.'
+0.26 (I; find; it unbelievable that the government and their hand-picked advisers can go on telling the public there is no danger)
+0.57 (the government and their hand-picked advisers; can go; on telling the public there is no danger)
+0.57 Context(the government and their hand - picked advisers can go,List([29, 81))):(the government and their hand-picked advisers; can go on telling; the public; there is no danger)
+
+The advisers, led by the government's chief medical officer Kenneth Calman and chief veterinary officer Keith Meldrum, put out a detailed statement to justify their view that last month's death of 65-year-old Duncan Templeman - following that of Peter Warhurst, 61, a year ago - showed 'no features that give cause for undue concern'.
+0.95 (The advisers; led; by the government's chief medical officer Kenneth Calman and chief veterinary officer)
+0.96 (last month's death of 65-year-old Duncan Templeman - following that of Peter Warhurst; showed; no features that give cause for undue concern'; T:a year ago)
+0.89 (no features; give; cause for undue concern)
+0.94 (The advisers, led by the government's chief medical officer Kenneth Calman and chief veterinary officer Keith Meldrum; put out; a detailed statement; to justify their view that last month's death of 65-year-old Duncan Templeman - following that of Peter Warhurst, 61, a year ago - showed 'no features)
+0.94 Context(The advisers , led by the government 's chief medical officer Kenneth Calman and chief veterinary officer Keith Meldrum put out,List([0, 126))):(The advisers, led by the government's chief medical officer Kenneth Calman and chief veterinary officer Keith Meldrum; put out a detailed statement to justify; their view that last month's death of 65-year-old Duncan Templeman - following that of Peter Warhurst, 61, a year ago - showed 'no features)
+
+The official view is that the deaths are an unfortunate coincidence, even though it is statistically unlikely that two dairy farmers should contract a disease as rare as CJD.
+0.81 (The official view; is; that the deaths are an unfortunate coincidence, even though it is statistically unlikely that two dairy farmers should contract a disease as rare as CJD)
+0.88 Context(The official view is,List([0, 20))):(the deaths; are; an unfortunate coincidence)
+
+Robert Will of Edinburgh's Western General Hospital, who has been monitoring CJD in the UK since 1990 on behalf of the health department, calculated that there was only a five per cent probability of even a single case occurring by chance among dairy farmers with BSE-affected herds.
+0.77 (even a single case; occurring; )
+0.75 (Robert Will of Edinburgh's Western General Hospital; calculated; that there was only a five per cent probability of even a single case occurring by chance among dairy farmers with BSE-affected herds)
+0.90 Context(Robert Will of Edinburgh 's Western General Hospital calculated,List([0, 148))):(Robert Will of Edinburgh's Western General Hospital; calculated that there was only a five per cent probability of even a single case occurring by chance among dairy farmers with BSE-affected herds has been monitoring; CJD; L:in the UK; T:since 1990)
+0.39 (there; was only a five per; cent probability)
+
+One argument put forward by the health department is that CJD has such a long incubation period - typically 10 to 20 years - that clinical symptoms would not yet have appeared, even if BSE had triggered any cases of CJD.
+0.93 (One argument; put; forward; by the health department)
+0.76 (clinical symptoms; would not have appeared; T:yet)
+0.93 (One argument put forward by the health department; is; that CJD has such a long incubation period - typically 10 to 20 years - that clinical symptoms would not yet have appeared)
+0.79 Context(One argument put forward by the health department is,List([0, 52))):(CJD; has; such a long incubation period - typically 10 to 20 years - that clinical symptoms would not yet have appeared)
+
+'Since the illness of the cows (in Templeman's herd) and the patient occurred within months of each other, the animals and the patient had presumably incubated disease in parallel for some years,' the health department said.
+0.96 (had presumably incubated disease in parallel for some years; said; the health department)
+0.92 Context(had presumably incubated disease in parallel for some years said,List([135, 223))):(the patient; occurred; T:within months of each other, the animals and the patient)
+
+'It is most unlikely therefore that there is any direct link between the cases of BSE and the occurrence of disease in the patient.'
+0.39 (there; is any direct link between; the cases)
+
+Another reassuring argument is that both farmers showed clinical features typical of the 'sporadic form' of CJD - of unknown cause - that usually occurs in late middle age.
+0.98 (the 'sporadic form' of CJD - of unknown cause; occurs; T:in late middle age; T:usually)
+0.88 (Another reassuring argument; is; that both farmers showed clinical features typical of the 'sporadic form' of CJD - of unknown cause)
+0.94 Context(Another reassuring argument is,List([0, 30))):(both farmers; showed; clinical features typical of the 'sporadic form' of CJD - of unknown cause)
+
+The handful of patients known to have developed CJD through infection (from contaminated human growth hormone) showed a different pattern of symptoms.
+0.88 (The handful of patients; showed; a different pattern of symptoms)
+0.90 Context(The handful of patients showed,List([0, 117))):(The handful of patients; showed a different pattern of symptoms to have developed; CJD)
+
+The second annual report of Will's National CJD Surveillance Unit in Edinburgh, published last month, shows what looks at first sight like a disturbing rise in incidence: from 32 UK cases in the year ended April 1991 to 37 in 1991/92 and 46 in 1992/3.
+0.94 (The second annual report of Will's National CJD Surveillance Unit in Edinburgh; published; T:last month)
+0.92 (the year; ended; T:April 1991)
+0.97 (The second annual report of Will's National CJD Surveillance Unit in Edinburgh; shows; what looks at first sight like a disturbing rise in incidence: from 32 UK cases in the year ended April 1991 to 37 in 1991/92 and 46 in 1992/3)
+
+But the report says that this is not statistically significant and is probably due to increasing awareness of CJD (some cases were previously attributed to Alzheimer's or other forms of dementia).
+0.50 (this; is probably; due to increasing awareness of CJD (some cases were previously attributed to Alzheimer's or other forms of dementia)
+0.93 (some cases; were attributed; to Alzheimer's or other forms of dementia; T:previously)
+0.83 (the report; says; that this is not statistically significant and is probably due to increasing awareness of CJD (some cases were previously attributed to Alzheimer's or other forms of dementia)
+0.14 Context(the report says,List([4, 19))):(this; is not; statistically significant)
+
+Meanwhile, cattle are succumbing to BSE at a rate of about one per 100 every year.
+0.95 (cattle; are succumbing; to BSE at a rate of about one per 100 every year; T:Meanwhile)
+0.72 Context(cattle are succumbing,List([11, 32))):(cattle; are succumbing to BSE at a rate of about one per 100 every year to BSE; )
+
+The epidemic continues to defy the ministry of agriculture's predictions that it is about to wane; so far this year there have been 26,695 reported cases, compared with 25,898 to the same date last year.
+0.71 (The epidemic; to defy; the ministry of agriculture's predictions that it is about to wane)
+0.28 (it; is; about to wane)
+0.17 (it; to wane; )
+
+The source of infection was protein-rich cattle feed contaminated with scrapie, a related brain disease of sheep.
+0.95 (The source of infection; was; protein-rich cattle feed contaminated with scrapie, a related brain disease of sheep)
+0.88 Context(The source of infection was,List([0, 27))):(protein-rich cattle; feed contaminated; with scrapie, a related brain disease of sheep)
+0.50 (protein-rich cattle; was The source of; infection)
+
+Although sheep-derived feeds were banned from sale in 1988, farmers apparently continued to use existing stocks for longer than the ministry had expected.
+0.77 (sheep-derived feeds; were banned; T:in 1988)
+0.73 (the ministry; had expected; )
+0.87 (farmers; apparently continued; to use existing stocks for longer)
+0.87 Context(farmers apparently continued,List([60, 88))):(farmers; apparently continued to use; existing stocks; T:for longer)
+
+The incubation period is also longer than originally expected.
+0.78 (The incubation period; is also; longer than originally expected)
+
+Veterinary experts say that almost all of the 102,000 confirmed BSE cases so far can be attributed to scrapie-contaminated feed.
+0.84 (Veterinary experts; say; that almost all of the 102,000 confirmed BSE cases so far can be attributed to scrapie-contaminated feed)
+0.63 Context(Veterinary experts say,List([0, 22))):(almost all of the 102,000; confirmed; BSE cases)
+
+According to their investigations, maternal transmission from cow to calf - which would prolong the epidemic - is very rare or non-existent.
+0.92 (maternal transmission from cow to calf; would prolong; the epidemic)
+0.91 (maternal transmission from cow to calf - which would prolong the epidemic; is; very rare or non-existent)
+
+Scientists trying to understand the epidemic face an unusual problem: BSE, scrapie and CJD are caused by a bizarre, infectious agent, the prion, which does not follow the normal rules of microbiology.
+0.89 (the prion; does not follow; the normal rules of microbiology)
+0.92 (Scientists trying to understand the epidemic; face; an unusual problem)
+0.87 Context(Scientists trying to understand the epidemic face,List([0, 49))):(Scientists; trying; to understand the epidemic)
+0.87 Context(Scientists trying to understand the epidemic face,List([0, 49))):(Scientists; trying to understand; the epidemic)
+
+Recent research shows that the prion is an abnormal form of a protein that is normally present in the brain (though its normal function is not yet known).
+0.91 (a protein; is; normally present in the brain)
+0.40 (its normal function; is not known; T:yet)
+0.85 (Recent research; shows; that the prion is an abnormal form of a protein)
+0.91 Context(Recent research shows,List([0, 21))):(the prion; is; an abnormal form of a protein)
+0.39 (the prion; is an abnormal form of; a protein)
+
+Unlike viruses and bacteria, prions contain no genetic material of their own.
+0.82 (prions; contain; no genetic material of their own)
+
+The prion may arise by a genetic mutation (spontaneous or inherited) in the host animal.
+0.94 (The prion; may arise; by a genetic mutation (spontaneous or inherited) in the host animal)
+
+Or - in the case of BSE - it may arrive from another animal.
+0.45 (it; may arrive; from another animal)
+
+Once in place in the victim's brain, it catalyses what John Collinge, a prion researcher at St Mary's Hospital Medical School, London, called a slow 'chemical chain reaction', converting the normal protein into its own abnormal form.
+0.69 (it; catalyses; what John Collinge, a prion researcher at St Mary's Hospital Medical School, London, called a slow 'chemical chain reaction; L:Once in place in the victim's brain)
+0.89 Context(it catalyses,List([37, 49))):(John Collinge; called; a slow 'chemical chain reaction)
+0.74 Context(it catalyses John Collinge called,List([37, 141))):(John Collinge; called a slow 'chemical chain reaction converting; the normal protein; into its own abnormal form)
+0.38 (John Collinge; [is] a prion researcher at; St Mary)
+
+The prion molecule is folded in a way that makes it extremely stable and therefore difficult to destroy by conventional sterilisation.
+0.75 (The prion molecule; is folded; )
+0.87 (a way; makes; it extremely stable and therefore difficult to destroy by conventional sterilisation)
+
+Experiments show that BSE can be transmitted between species, for example from cow to monkey, by injecting or eating large amounts of infected tissue.
+0.80 (Experiments; show; that BSE can be transmitted between species)
+0.83 Context(Experiments show,List([0, 16))):(BSE; can be transmitted; between species)
+
+But 'transmission is dose dependent,' Collinge says.
+0.94 (transmission is dose dependent; says; Collinge)
+0.90 Context(transmission is dose dependent says,List([5, 51))):(transmission; is; dose dependent)
+
+Most independent experts maintain that no human being - dairy farmer or beef eater - is likely to be exposed to BSE in sufficient quantities to develop brain disease.
+0.95 (no human being - dairy farmer or beef eater; to be exposed; to BSE; to develop brain disease)
+0.85 (Most independent experts; maintain; that no human being - dairy farmer or beef eater - is likely to be exposed to BSE in sufficient quantities)
+0.95 Context(Most independent experts maintain,List([0, 33))):(no human being - dairy farmer or beef eater; is; likely to be exposed to BSE in sufficient quantities)
+

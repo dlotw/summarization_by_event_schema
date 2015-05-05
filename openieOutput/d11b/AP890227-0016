@@ -1,0 +1,136 @@
+One of nature's most vicious spectacles, the tornado, is poised to renew its annual assault on America, as changeable spring weather breeds the storms that spawn twisters.
+0.89 (One of nature's most vicious spectacles; is poised; to renew its annual assault on America)
+0.89 (One of nature's most vicious spectacles; to renew; its annual assault on America)
+0.79 (changeable spring weather; breeds; the storms that spawn twisters)
+0.91 (the storms; spawn; twisters)
+
+Last year was one of fewer than normal tornado deaths, but even so, more than 700 of the violent funnel clouds struck the nation.
+0.96 (more than 700 of the violent funnel clouds; struck; the nation)
+0.89 (Last year; was one of; fewer)
+
+In 1988 the nation recorded 32 tornado deaths, down from the 59 killed a year earlier and well below the long-term average of 99 fatalities annually, the National Weather Service reported on Sunday.
+0.76 (the nation; recorded down; T:In 1988)
+0.98 (the National Weather Service; reported; T:on Sunday; T:well below the long-term average of 99 fatalities annually)
+
+But while that's good news, it isn't an indication that the danger has lessened.
+0.17 (that; 's; good news)
+0.29 (it; is n't; an indication that the danger has lessened)
+0.73 (the danger; has lessened; )
+
+``There is no way of knowing what this tornado season will bring, but the way to survive is through preparedness,'' said Ed Ferguson, deputy director of the National Severe Storms Forecast Center in Kansas City.
+0.94 (the way to survive; is; through preparedness)
+0.90 (There is no way of knowing what this tornado season will bring, but the way to survive is through preparedness; said; Ed Ferguson)
+0.38 (Ed Ferguson; [is] deputy director of; the National Severe Storms Forecast Center)
+
+Meteorologists have attributed the decline in tornado deaths in recent years to increased public awareness of the storms, which are most common in May and June but can occur in any month of the year.
+0.89 (Meteorologists; have attributed; the decline in tornado deaths; T:in recent years; to increased public awareness of the storms)
+0.90 (the storms; are; most common; T:in May and June)
+0.89 (the storms; can occur; T:in any month of the year)
+
+Unusually warm and wet weather last November helped trigger a record number of tornadoes for that month, at 121 across the country.
+0.91 (Unusually warm and wet weather last November; helped; trigger a record number of tornadoes for that month, at 121 across the country)
+0.91 Context(Unusually warm and wet weather last November helped,List([0, 51))):(Unusually warm and wet weather last November; helped trigger; a record number of tornadoes for that month, at 121 across the country)
+
+The average for November is only 23 tornadoes, and the record had been 81, set in 1973.
+0.95 (The average for November; is; only 23 tornadoes)
+0.86 (The average for November; set; T:in 1973)
+
+Last year also recorded the largest tornado outbreak in 14 years.
+
+That took place on Mother's Day when 57 twisters tore through parts of Arkansas, Illinois, Iowa and Wisconsin.
+0.54 (That; took; place; T:on Mother's Day; T:when 57 twisters tore through parts of Arkansas, Illinois, Iowa and Wisconsin)
+0.95 (57 twisters; tore; through parts of Arkansas, Illinois, Iowa and Wisconsin)
+
+That outbreak didn't cause any deaths, although 10 injuries were reported.
+0.90 (That outbreak; did n't cause; any deaths)
+0.73 (10 injuries; were reported; )
+
+Arkansas and Tennessee recorded the most fatalities last year with six deaths apiece, followed by Florida with five.
+0.93 (Arkansas and Tennessee; recorded; the most fatalities; T:last year)
+0.72 (six deaths apiece; followed; with five)
+
+Four people were killed in North Carolina and two each in Mississippi and Nebraska.
+0.92 (Four people; were killed; L:in North Carolina and two)
+
+States with a single fatality apiece were Kentucky, Michigan, Missouri, New York, Oklahoma, South Carolina and Texas.
+0.96 (States with a single fatality apiece; were; Kentucky, Michigan, Missouri, New York, Oklahoma, South Carolina and Texas)
+
+The transition from winter to spring, spurring unsettled weather and frequent thunderstorms, helps create tornadoes, violently twisting winds that reach down from thunderclouds.
+0.72 (tornadoes; violently twisting; winds that reach down from thunderclouds)
+0.79 (winds; reach; down; from thunderclouds)
+0.96 (The transition from winter to spring, spurring unsettled weather and frequent thunderstorms; helps; create tornadoes)
+0.90 Context(The transition from winter to spring , spurring unsettled weather and frequent thunderstorms helps,List([0, 98))):(The transition from winter to spring; spurring; unsettled weather and frequent thunderstorms)
+
+After a low point in the winter they begin to increase sharply in March and peak in May with a national average of 166 twisters in that month, according to records kept at the National Climatic Data Center.
+0.67 (they; begin; to increase sharply in March and peak in May with a national average of 166 twisters in that month; T:After a low point in the winter)
+0.62 (they; to increase sharply; T:in March and peak; T:in May)
+0.93 (records; kept; L:at the National Climatic Data Center)
+
+June ranks second, averaging 150 tornadoes, followed by April with 109 in a typical year.
+0.84 (June; ranks; second)
+0.95 (June; averaging; 150 tornadoes, followed by April with 109 in a typical year)
+0.87 (150 tornadoes; followed; T:in a typical year)
+
+Other months averaging more than a twister-a-day somewhere in the nation are July, 82; August, 57; March, 50 and September, 38.
+0.94 (Other months; averaging; more than a twister-a-day somewhere in the nation)
+0.98 (Other months averaging more than a twister-a-day somewhere in the nation; are; July, 82; August, 57; March, 50 and September)
+
+Hot weather stirring the air helps form thunderstorms and their tornadoes, with 60 percent of all twisters occurring between noon and sunset, according to the National Center for Atmospheric Research.
+0.90 (all twisters; occurring; T:between noon and sunset)
+0.92 (Hot weather stirring the air; helps; form thunderstorms and their tornadoes, with 60 percent of all twisters)
+0.88 Context(Hot weather stirring the air helps,List([0, 34))):(Hot weather; stirring; the air)
+
+Tornadoes are least likely during the early morning just before sunrise.
+0.89 (Tornadoes; are; least likely; T:during the early morning)
+
+The typical tornado is only about 50 yards wide and travels about two miles on the ground _ 87 percent of the time heading toward the northeast, NCAR researchers report.
+0.90 (The typical tornado; travels; about two miles; on the ground _ 87 percent of the time)
+0.99 (The typical tornado is only about 50 yards wide and travels about two miles on the ground _ 87 percent of the time; report; NCAR researchers)
+0.92 Context(The typical tornado is only about 50 yards wide and travels about two miles on the ground _ 87 percent of the time report,List([0, 168))):(The typical tornado; is; only about 50 yards wide)
+
+But while an individual twister can cover only a small area, they often come in groups and in the affected area destruction can be total.
+0.91 (an individual twister; can cover; only a small area)
+0.46 (they; come; T:often)
+
+The familiar funnel cloud is the most common sign of a tornado although adjacent winds can also cause severe damage.
+0.94 (The familiar funnel cloud; is; the most common sign of a tornado)
+0.90 (adjacent winds; can also cause; severe damage)
+0.89 (The familiar funnel cloud; is the most common sign of; a tornado)
+
+When twisters are in an area, common sense and knowing a few simple rules can save lives, the National Weather Service says.
+0.89 (twisters; are; in an area)
+0.97 (the National Weather Service; says; T:When twisters are in an area, common sense and knowing a few simple rules can save lives)
+0.85 (twisters; knowing; a few simple rules can save lives)
+0.90 Context(twisters knowing,List([5, 54))):(a few simple rules; can save; lives)
+
+If tornadoes threaten, turn on radio or television to keep current on the danger, the agency says.
+0.71 (tornadoes; threaten; )
+0.98 (If tornadoes threaten, turn on radio or television to keep current on the danger; says; the agency)
+
+The weather service even has its own radio network which can provide continual updates.
+0.85 (The weather service; even has; its own radio network which can provide continual updates)
+0.64 (its own radio network; can provide; continual updates)
+
+If a twister is reported, safety rules include:    _At home, seek shelter immediately in a basement or interior hallway.
+0.73 (a twister; is reported; )
+0.89 (safety rules; include; _At home)
+
+Stay away from windows and outside walls.
+
+_At school, move to hallways and lie flat on the floor with head covered.
+0.91 (_At school; move; to hallways)
+0.91 (_At school; lie; flat; on the floor)
+
+_In a mobile home or trailer, leave immediately.
+
+Head for a secure shelter or lie flat on the ground.
+0.93 (Head for a secure shelter; lie flat; on the ground)
+
+Be wary of areas with poor drainage, however, because of the possibility of flooding from the thunderstorm.
+
+_At work or in public buildings, head for interior hallways on the lowest floor, or designated shelter areas.
+
+_In an automobile, leave immediately.
+
+Do not try to outrun a tornado.
+

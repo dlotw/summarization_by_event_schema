@@ -1,0 +1,238 @@
+In a blow to California and other states with large immigrant populations, the  Senate voted Friday to bar the Census Bureau from counting illegal aliens in  the 1990 population count.
+0.93 (the Census Bureau; from counting; illegal aliens; L:in  the 1990 population count)
+0.97 (the  Senate; voted; T:Friday; to bar the Census Bureau from counting illegal aliens in  the 1990 population count; L:In a blow to California and other states with large immigrant populations)
+0.88 Context(the Senate voted,List([75, 92))):(the  Senate; voted to bar; the Census Bureau; from counting illegal aliens in  the 1990 population count)
+
+"I'm stunned," said Santa Ana City Council member Miguel A. Pulido.
+0.61 (I'm stunned; said; Santa Ana City Council member Miguel A. Pulido)
+0.24 Context(I 'm stunned said,List([1, 19))):(I; 'm; stunned)
+0.38 (Miguel A. Pulido; [is] said member [of]; Santa Ana City Council)
+
+Pulido and  other Santa Ana council members say that the 1980 census substantially  under-counted its population at 215,000.
+0.87 (Pulido and  other Santa Ana council members; say; that the 1980 census substantially  under-counted its population at 215,000)
+
+The city has been lobbying hard to  have its illegal alien population -- estimated at 50,000 -- included in the  1990 count.
+0.73 (its illegal alien population -- estimated at 50,000; included; in the  1990 count)
+0.80 (The city; has been lobbying hard; to  have its illegal alien population)
+0.86 Context(The city has been lobbying hard,List([0, 31))):(The city; has been lobbying hard to have; its illegal alien population -- estimated at 50,000 -- included in the  1990 count)
+
+The Senate's action came on a voice vote, despite arguments from the Bush  Administration and other opponents that it is both unconstitutional and  unworkable.
+0.94 (The Senate's action; came; T:on a voice vote)
+0.28 (it; is; both unconstitutional and  unworkable)
+
+Just before the voice vote, the senators voted, 50 to 41, against  killing the proposal to bar aliens from the count.
+0.93 (the senators; voted; 50 to 41; T:Just before the voice vote)
+
+A Senate-House conference committee will decide whether the prohibition against  including illegal immigrants in the census totals will be retained or dropped  from a $17.4-billion appropriations bill for the State, Justice and Commerce  departments.
+0.97 (the prohibition against  including illegal immigrants in the census totals; dropped; from a $17.4-billion appropriations bill for the State, Justice and Commerce  departments)
+0.97 (A Senate-House conference committee; will decide; whether the prohibition against  including illegal immigrants in the census totals will be retained or dropped  from a $17.4-billion appropriations bill for the State, Justice and Commerce  departments)
+0.82 Context(A Senate - House conference committee will decide,List([0, 47))):(the prohibition against  including illegal immigrants in the census totals; will be retained; )
+
+Would Urge Veto  Even if the prohibition survives, Secretary of Commerce Robert A. Mosbacher has  said that he would ask President Bush to veto any bill that comes to his desk  with such a provision.
+0.81 (any bill; comes; to his desk)
+0.80 (President Bush; to veto; any bill that comes to his desk  with such a provision)
+
+At stake are the number of seats in Congress for California, Florida, New York,  Illinois, Pennsylvania and other states that will be reapportioned on the basis  of next year's census.
+0.95 (At stake; are; the number of seats in Congress for California, Florida, New York,  Illinois, Pennsylvania and other states)
+0.70 (other states; will be reapportioned; )
+0.50 (stake; are the number of; seats)
+
+Federal aid to states also is frequently based on population counts, so  millions of dollars in grants and other funds made available on a per capita  basis would be affected.
+0.93 (Federal aid to states; also is based; on population counts; T:frequently)
+0.81 (millions of dollars in grants and other funds; would be affected; )
+
+State officials have said California could lose up to $300 million in federal  aid if illegal aliens were uncounted.
+0.77 (illegal aliens; were; uncounted)
+0.94 (State officials; have said; California could lose up to $300 million in federal  aid)
+0.90 Context(State officials have said,List([0, 25))):(California; could lose; up to $300 million in federal  aid)
+
+Santa Ana has estimated its potential  loss at $2 million a year.
+0.87 (Santa Ana; has estimated; its potential  loss; at $2 million a year)
+
+In addition, Pulido and county advocates for poor Latino residents expressed  concern that the decision would promote fear and intimidation in the community.
+0.93 (Pulido and county advocates for poor Latino residents; expressed; concern that the decision would promote fear and intimidation in the community)
+0.90 (the decision; would promote; fear and intimidation in the community)
+
+In 1985, before the federal immigration reform act, the number of illegal  aliens in Orange County was estimated at 229,000, ranking it just behind Los  Angeles County in California, a county official said.
+0.99 (In 1985, before the federal immigration reform act, the number of illegal  aliens in Orange County was estimated at 229,000; said; a county official)
+0.97 Context(In 1985 , before the federal immigration reform act , the number of illegal aliens in Orange County was estimated at 229,000 said,List([0, 205))):(the number of illegal  aliens in Orange County; was estimated; at 229,000; T:In 1985; T:before the federal immigration reform act)
+
+There are no current  estimates.
+
+"For example, we have close to 50,000 people in the city that have qualified  through the amnesty process for legal residency," Pulido said.
+0.89 (the city; have qualified; through the amnesty process for legal residency)
+0.87 (For example, we have close to 50,000 people in the city; said; Pulido)
+0.40 Context(For example , we have close to 50,000 people in the city said,List([1, 139))):(we; have; L:close to 50,000 people in the city)
+
+"Those  individuals, when asked or challenged about their status, can be legitimately  concerned.
+0.86 (Those  individuals; can be legitimately concerned; T:when asked or challenged about their status)
+
+I think the census's attempt to question them could be misconstrued  as an attempt by the immigration service to get information."
+0.43 (I; think; the census's attempt to question them could be misconstrued  as an attempt by the immigration service)
+0.70 Context(I think,List([0, 7))):(the census's attempt to question them; could be misconstrued; as an attempt by the immigration service)
+
+Councilman John Acosta said he "was saddened" by the Senate's action because  the city was determined "to count every single person, and I know that (now)  we're going to to suffer from this monetarily."
+0.92 (Councilman John Acosta; said; he "was saddened" by the Senate's action)
+0.22 Context(Councilman John Acosta said,List([0, 27))):(he; was; saddened" by the Senate's action; because  the city was determined "to count every single person, and I know that (now)  we're going to to suffer from this monetarily)
+0.18 (he; saddened; by the Senate's action; because  the city was determined "to count every single person, and I know that (now)  we're going to to suffer from this monetarily)
+0.41 (we; to to suffer; from this monetarily)
+0.73 (the city; was determined; )
+0.89 (the city; to count; every single person)
+
+But Pulido said he believes the House of Representatives will not allow the  prohibition to survive, especially since it killed an earlier, similar effort.
+0.90 (Pulido; said; he believes the House of Representatives will not allow the  prohibition to survive)
+0.55 Context(Pulido said,List([4, 15))):(he; believes; the House of Representatives will not allow the  prohibition to survive)
+0.86 Context(Pulido said he believes,List([4, 27))):(the House of Representatives; will not allow; the  prohibition to survive; especially since it killed an earlier, similar effort)
+0.68 Context(Pulido said he believes the House of Representatives will not allow,List([4, 71))):(the  prohibition; to survive; )
+
+The issue cuts across partisan lines in the Senate, with Minority Leader Bob  Dole (R-Kan.)
+0.94 (The issue; cuts; across partisan lines in the Senate)
+
+arguing against the White House position on grounds that  including illegal aliens in the census is unfair to American citizens.
+0.95 (including illegal aliens in the census; is; unfair to American citizens)
+
+Loss of Seats Cited  "Some states will lose congressional seats because of illegal aliens," Dole  argued.
+0.73 (Dole; argued; )
+0.92 Context(Dole argued,List([92, 104))):(Loss of Seats; Cited; Some states will lose congressional seats because of illegal aliens)
+0.88 Context(Loss of Seats Cited Dole argued,List([0, 104))):(Some states; will lose; congressional seats; because of illegal aliens)
+
+Sen. Thad Cochran (R-Miss.) said that Georgia and Indiana both lost  House seats after the 1980 Census, and that California and New York -- centers  of illegal immigration -- each gained seats.  "The bottom line is illegal aliens ought to be deported, not counted," Cochran  said.
+1.00 (California and New York -- centers  of illegal immigration -- each gained seats.  "The bottom line is illegal aliens ought to be deported, not counted; said; Cochran)
+0.87 Context(California and New York -- centers of illegal immigration -- each gained seats . " The bottom line is illegal aliens ought to be deported , not counted said,List([113, 279))):(Sen. Thad Cochran; said; that Georgia and Indiana both lost  House seats after the 1980 Census)
+0.92 Context(California and New York -- centers of illegal immigration -- each gained seats . " The bottom line is illegal aliens ought to be deported , not counted said,List([113, 279))):(The bottom line; is; illegal aliens ought to be deported, not counted)
+0.70 (illegal aliens; to be deported; )
+
+Sen. Pete Wilson (R-Calif.)
+
+countered that excluding illegal residents from the  decennial census is unfair to the states that have suffered from a huge influx  of immigration beyond the legal limits.
+0.93 (the states; have suffered; from a huge influx  of immigration beyond the legal limits)
+
+"There are enormous additional costs for states who have had a surge of  population," Wilson said, adding that those states should receive additional  federal aid to cope with the added problems.
+0.88 (states; have had; a surge of  population)
+0.80 (There are enormous additional costs for states; said; Wilson)
+0.81 Context(There are enormous additional costs for states said,List([1, 97))):(Wilson; adding; that those states should receive additional  federal aid to cope with the added problems)
+0.88 Context(There are enormous additional costs for states Wilson said adding,List([1, 105))):(those states; should receive; additional  federal aid)
+0.88 Context(There are enormous additional costs for states Wilson said adding those states should receive,List([1, 138))):(those states; should receive additional  federal aid to cope; with the added problems)
+0.50 (There; are enormous additional costs for; states)
+
+The Senate's action would also have an impact on smaller California cities  without substantial Latino populations because census population figures play  an important role in Community Development Block Grant formulas, said Don  Vestal, Westminster city planner.
+0.93 (census population figures; play; an important role in Community Development Block Grant formulas)
+0.98 (The Senate's action would also have an impact on smaller California cities  without substantial Latino populations; said; Don  Vestal)
+0.94 Context(The Senate 's action would also have an impact on smaller California cities without substantial Latino populations said,List([0, 224))):(The Senate's action; would have; an impact on smaller California cities  without substantial Latino populations; because census population figures play  an important role in Community Development Block Grant formulas)
+
+Westminster is following a recommendation by the Census Bureau to form a  Complete Count Committee of officials and community leaders to help ensure  cooperation from all city residents.
+0.93 (Westminster; is following; a recommendation by the Census Bureau)
+0.95 (a  Complete Count Committee of officials and community leaders; to help; ensure  cooperation from all city residents)
+0.95 Context(a Complete Count Committee of officials and community leaders to help,List([71, 141))):(a  Complete Count Committee of officials and community leaders; to help ensure; cooperation from all city residents)
+
+"We feel that it's in our best interest to get as complete a count as we can,"  he said.
+0.80 (We feel that it's in our best interest to get as complete a count; said; he)
+0.17 Context(We feel that it 's in our best interest to get as complete a count said,List([1, 87))):(We; feel; that it's in our best interest to get as complete a count)
+0.32 Context(We feel that it 's in our best interest to get as complete a count said,List([1, 87))):(it; 's; in our best interest)
+
+The Community Development Block Grant formula, among other things, Vestal said,  includes use of income figures and percentage of lower income residents in the  city.
+0.94 (Vestal; said; includes use of income figures and percentage of lower income residents in the  city)
+0.96 (The Community Development Block Grant formula; includes; use of income figures and percentage of lower income residents in the  city)
+
+"In addition to just counting heads, they're getting economic information  of the city that will affect us in the future," he added.
+0.81 (the city; will affect; us; T:in the future)
+0.80 (In addition to just counting heads, they're getting economic information  of the city; added; he)
+0.56 Context(In addition to just counting heads , they 're getting economic information of the city added,List([1, 131))):(they; 're getting; economic information  of the city)
+
+Gloria McDonough, director of Abrazar Center, an elderly-assistance center for  Latinos in Westminster, said the senators' action shows they have no  understanding of the impact of illegal immigration to California communities.
+0.90 (Gloria McDonough; said; the senators' action shows they have no  understanding of the impact of illegal immigration to California communities)
+0.93 Context(Gloria McDonough said,List([0, 108))):(the senators' action; shows; they have no  understanding of the impact of illegal immigration to California communities)
+0.71 Context(Gloria McDonough said the senators ' action shows,List([0, 135))):(they; have; no  understanding of the impact of illegal immigration to California communities)
+0.88 (Gloria McDonough; [is] director of; Abrazar Center)
+
+"Whether you count them or not, the undocumented residents are still going to  impact federal dollars in our community.
+0.46 (you; count; them)
+0.90 (the undocumented residents; to impact; federal dollars)
+
+And whether we like it or not they're  here and here to stay," McDonough said.
+0.28 (they; to stay; )
+0.85 (whether we like it or not they're  here and here; said; McDonough)
+0.26 Context(whether we like it or not they 're here and here said,List([4, 77))):(we; like; it)
+
+In recent weeks, representatives from the census office in Santa Ana have  visited such social centers as Abrazar and others and told center staff people  that they intend to count "everyone, regardless of where they came from,"  McDonough said.
+0.32 (they; came; )
+0.99 (In recent weeks, representatives from the census office in Santa Ana have  visited such social centers as Abrazar and others and told center staff people  that they intend to count "everyone, regardless of where they came from; said; McDonough)
+0.97 Context(In recent weeks , representatives from the census office in Santa Ana have visited such social centers as Abrazar and others and told center staff people that they intend to count " everyone , regardless of where they came from said,List([0, 244))):(representatives from the census office in Santa Ana; have visited; such social centers as Abrazar and others; T:In recent weeks)
+0.92 (representatives from the census office in Santa Ana; told; center staff people; that they intend to count "everyone, regardless of where they came from; T:In recent weeks)
+0.52 Context(representatives from the census office in Santa Ana told,List([17, 133))):(they; intend; to count "everyone, regardless of where they came from)
+0.55 Context(representatives from the census office in Santa Ana told they intend,List([17, 171))):(they; intend to count regardless; everyone)
+
+"Their big thing was, 'We do not care about the origins of where these people  are from, but, more importantly, their impact to local economies,' " she said.
+0.73 (these people; are; )
+0.95 (Their big thing was, 'We do not care about the origins of where these people  are from, but, more importantly, their impact to local economies; said; she)
+0.57 Context(Their big thing was , ' We do not care about the origins of where these people are from , but , more importantly , their impact to local economies said,List([1, 156))):(Their big thing; was more importantly; We do not care about the origins of where these people  are from)
+0.16 Context(Their big thing was , ' We do not care about the origins of where these people are from , but , more importantly , their impact to local economies said,List([1, 156))):(We; do not care; )
+
+When asked to comment, census officials in Santa Ana referred media inquiries  to the regional office in Van Nuys.
+0.97 (census officials in Santa Ana; referred; media inquiries; to the regional office in Van Nuys; T:When asked to comment)
+
+Adrian Dove, assistant regional director for the U.S. Census in charge of  outreach, said that despite the Senate's decision, the census bureau "really  doesn't know how to go about finding who was legal or illegal."
+0.82 (Adrian Dove; said; that despite the Senate's decision, the census bureau "really  doesn't know how to go about finding who was legal or illegal)
+0.80 Context(Adrian Dove said,List([0, 89))):(the census bureau; really does n't know; how to go about finding who was legal or illegal)
+0.88 (Adrian Dove; [is] assistant regional director for; the U.S. Census)
+
+"But we have a mandate to follow that law, and we would have to find out," he  said.
+0.17 (we; to find out; )
+0.82 (we have a mandate to follow that law, and we would have to find out; said; he)
+0.19 Context(we have a mandate to follow that law , and we would have to find out said,List([5, 83))):(we; have; a mandate to follow that law)
+
+Opponents of a ban on counting illegal aliens said that a ban is impractical  because the Census Bureau has already printed questionnaires that do not  contain any question about legality of residence.
+0.90 (the Census Bureau; has printed; questionnaires that do not  contain any question about legality of residence; T:already)
+0.88 (questionnaires; do not contain; any question about legality of residence)
+0.90 (Opponents of a ban on counting illegal aliens; said; that a ban is impractical  because the Census Bureau has already printed questionnaires)
+0.92 Context(Opponents of a ban on counting illegal aliens said,List([0, 50))):(a ban; is; impractical; because the Census Bureau has already printed questionnaires)
+
+For 190 years, said Sen. Daniel Patrick Moynihan (D-N.Y.), the federal  government has counted all inhabitants without regard to citizenship in  accordance with the Constitution's provisions.
+0.91 (the federal  government; has counted; all inhabitants)
+
+"Fiddling with the numbers" now  will destroy confidence in the census results, he added.
+0.95 (Fiddling with the numbers" now  will destroy confidence in the census results; added; he)
+0.93 Context(Fiddling with the numbers " now will destroy confidence in the census results added,List([1, 88))):(Fiddling with the numbers; will destroy; confidence in the census results; T:now)
+
+The Senate's action was sharply criticized by Undersecretary of Commerce  Michael Darby, but he voiced hope that it would be reversed by a Senate-House  conference.
+0.95 (The Senate's action; was sharply criticized; by Undersecretary of Commerce  Michael Darby)
+0.24 (he; voiced; hope that it would be reversed by a Senate-House  conference)
+0.50 (it; would be reversed; by a Senate-House  conference)
+
+"There really is a widespread realization that this would not only be  unconstitutional but literally impossible," Darby said.
+0.12 (this; would be; unconstitutional but literally impossible)
+0.91 (There really is a widespread realization that this would not only be  unconstitutional but literally impossible; said; Darby)
+
+But he added that he is "optimistic, cautiously optimistic," that House  conferees would resist the Senate-approved ban and not force Bush to veto the  legislation.
+0.93 (House  conferees; not force; Bush; to veto the  legislation)
+0.86 (Bush; to veto; the  legislation)
+0.20 (he; added; that he is "optimistic, cautiously optimistic," that House  conferees would resist the Senate-approved ban and not force Bush to veto the  legislation)
+0.18 Context(he added,List([4, 12))):(he; is cautiously optimistic; optimistic)
+0.92 Context(he added he is cautiously optimistic,List([4, 58))):(House  conferees; would resist; the Senate-approved ban)
+
+Mario Moreno, head of the Mexican American Legal Defense Fund, said he was  shocked by the Senate's decision.
+0.85 (Mario Moreno; said; he was  shocked by the Senate's decision)
+0.44 Context(Mario Moreno said,List([0, 67))):(he; was shocked; by the Senate's decision)
+0.88 (Mario Moreno; [is] head of; the Mexican American Legal Defense Fund)
+
+"It is going to have a dramatic and  disastrous impact in the Hispanic community," Moreno said.
+0.41 (It; to have; a dramatic and  disastrous impact in the Hispanic community)
+0.89 (It is going to have a dramatic and  disastrous impact in the Hispanic community; said; Moreno)
+
+"People are going to  be discouraged from participating."
+0.72 (People; to be discouraged; from participating)
+
+A Census Bureau spokesman took a more dispassionate view, however.
+0.94 (A Census Bureau spokesman; took; a more dispassionate view; however)
+
+"Our position is that we count everybody at their place of residence," said  bureau spokesman James Gorman.
+0.79 (Our position is that we count everybody at their place of residence; said; bureau spokesman James Gorman)
+0.27 Context(Our position is that we count everybody at their place of residence said,List([1, 75))):(Our position; is; that we count everybody at their place of residence)
+0.39 (James Gorman; [is] said spokesman [of]; bureau)
+
+"If Congress passes a law that says we will or  will not count people, we will do what it says."
+0.78 (Congress; passes; a law that says we will or  will not count people)
+0.81 (a law; says; we will or  will not count people)
+0.26 (we; will do; what it says)
+0.16 Context(we will do,List([71, 81))):(it; says; )
+

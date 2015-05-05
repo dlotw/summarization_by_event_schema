@@ -1,0 +1,100 @@
+A U.S. Air Force A-10 attack jet crashed and burned in Britain this morning while on a routine training flight.
+0.79 (A U.S. Air Force A-10 attack jet; crashed; )
+0.93 (A U.S. Air Force A-10 attack jet; burned; L:in Britain; T:this morning; L:while on a routine training flight)
+
+The Pentagon said the pilot might have ejected safely.
+0.91 (The Pentagon; said; the pilot might have ejected safely)
+0.69 Context(The Pentagon said,List([0, 17))):(the pilot; might have ejected safely; )
+
+It was the second crash of a Thunderbolt jet in Europe in two weeks.
+0.68 (It; was; the second crash of a Thunderbolt jet in Europe in two weeks)
+0.88 (It; was the second crash of; a Thunderbolt jet)
+
+Another A-10 crashed Dec. 8 in Tracy, Ariz.
+0.95 (Another A-10; crashed; Dec; L:in Tracy)
+
+Dan Howard, the Pentagon's chief spokesman, originally identified the plane as an A-10 aircraft from the 81st Tactical Fighter Wing at RAF Bentwaters, England.
+0.97 (Dan Howard; identified; the plane; as an A-10 aircraft from the 81st Tactical Fighter Wing at RAF Bentwaters; T:originally)
+
+The Air Force later corrected that statement, saying the A-10 was assigned to the 10th Tactical Fighter Wing at RAF Alconbury.
+0.86 (The Air Force; corrected; that statement; T:later)
+0.92 Context(The Air Force corrected,List([0, 29))):(The Air Force; corrected that statement saying; the A-10 was assigned to the 10th Tactical Fighter Wing at RAF Alconbury)
+0.93 Context(The Air Force corrected saying,List([0, 52))):(the A-10; was assigned; to the 10th Tactical Fighter Wing; L:at RAF Alconbury)
+
+Howard said the plane ``crashed at 9:53 a.m. EST about four miles south of St. Ives, or about 25 miles north of Cambridge.''
+0.95 (Howard; said; the plane ``crashed at 9:53 a.m. EST about four miles south of St. Ives, or about 25 miles north of Cambridge)
+0.92 Context(Howard said,List([0, 11))):(the plane; crashed; T:at 9:53 a.m. EST about four miles south of St. Ives, or about 25 miles north of Cambridge)
+
+``The pilot ejected and his chute was sighted but we don't know his status,'' Howard said.
+0.45 (his chute; was; sighted)
+0.31 (we; do n't know; his status)
+0.90 (The pilot ejected and his chute was sighted but we don't know his status; said; Howard)
+0.69 Context(The pilot ejected and his chute was sighted but we do n't know his status said,List([2, 89))):(The pilot; ejected; )
+
+The aircraft was carrying ``dummy bombs and practice 33mm ammunition,'' the spokesman said.
+0.97 (The aircraft was carrying ``dummy bombs and practice 33mm ammunition; said; the spokesman)
+0.86 Context(The aircraft was carrying `` dummy bombs and practice 33 mm ammunition said,List([0, 90))):(The aircraft; was carrying; dummy bombs and practice 33mm ammunition)
+
+He said he had no information about damage on the ground.
+0.26 (He; said; he had no information about damage on the ground)
+0.47 Context(He said,List([0, 7))):(he; had; no information about damage on the ground)
+
+The A-10, a twin-engine jet designed to support troops by killing enemy tanks and other ground targets, is an older model plane designed to be highly maneuverable at low speeds and low altitude and to carry a lot of bombs and ammunition.
+0.94 (a twin-engine jet; designed; to support troops by killing enemy tanks and other ground targets)
+0.77 (an older model plane; to be; highly maneuverable)
+0.96 (The A-10; is; an older model plane designed to be highly maneuverable at low speeds and low altitude and to carry a lot of bombs and ammunition)
+0.95 (an older model plane; designed; to be highly maneuverable at low speeds and low altitude and to carry a lot of bombs and ammunition)
+
+The Thunderbolt II is also one of the safest planes, statistically, in the Air Force inventory.
+0.93 (The Thunderbolt II; is also statistically; one of the safest planes)
+0.89 (The Thunderbolt II; is also one of; the safest planes)
+
+Nonetheless, today's crash comes just two weeks to the day after another A-10 slammed into the West German city of Remscheid, killing five and injuring dozens.
+0.95 (today's crash; comes; T:just two weeks to the day; T:after another A-10 slammed into the West German city of Remscheid)
+0.93 (another A-10; slammed; into the West German city of Remscheid)
+0.89 Context(another A - 10 slammed,List([65, 85))):(another A-10; slammed into the West German city of Remscheid injuring; dozens)
+
+That crash prompted the United States and its NATO allies to agree to suspend all A-10 flights over West Germany until Jan. 2.
+0.91 (That crash; prompted; the United States and its NATO allies; to agree to suspend all A-10 flights over West Germany until Jan)
+0.76 (the United States and its NATO allies; to agree; to suspend all A-10 flights over West Germany until Jan)
+0.66 Context(the United States and its NATO allies to agree,List([20, 66))):(the United States and its NATO allies; to agree to suspend; all A-10 flights over West Germany; T:until Jan)
+
+The suspension was ordered as German political parties and public interest groups increased their demands for an end to low-level flight training in Germany.
+0.91 (The suspension; was ordered; T:as German political parties and public interest groups increased their demands for an end to low-level flight training in Germany)
+0.94 (German political parties and public interest groups; increased; their demands for an end to low-level flight training in Germany)
+
+On the same day as the crash in Remscheid, an A-10 crashed near the heart of the Tohono O'Odham Indian Reservation, about 80 miles west of Tuscon, but the pilot ejected safely.
+0.98 (an A-10; crashed; L:near the heart of the Tohono O'Odham Indian Reservation, about 80 miles west of Tuscon; T:On the same day as the crash in Remscheid)
+0.73 (the pilot; ejected safely; )
+
+Howard refused today to discuss the possible cause of the crash in England, saying the Pentagon was still awaiting initial reports from the scene and confirmation that the pilot survived.
+0.73 (the pilot; survived; )
+0.94 (Howard; refused; T:today; to discuss the possible cause of the crash in England)
+0.87 Context(Howard refused,List([0, 14))):(Howard; refused to discuss; the possible cause of the crash in England)
+0.80 Context(Howard refused,List([0, 14))):(Howard; refused saying; the Pentagon was still awaiting initial reports from the scene and confirmation that the pilot survived)
+0.87 Context(Howard refused saying,List([0, 82))):(the Pentagon; was awaiting; initial reports from the scene and confirmation that the pilot survived; T:still)
+
+The Thunderbolt first flew in 1975 and became operational with the Air Force in 1977.
+0.90 (The Thunderbolt; flew; T:in 1975; T:first)
+0.87 (The Thunderbolt; became; operational; T:first)
+
+The plane is no longer in production, but the Air Force has more than 700 of them in its inventory.
+0.90 (The plane; is no longer; in production)
+0.91 (the Air Force; has; more than 700 of them in its inventory)
+
+Statistically, the A-10 over time has been the safest fighter or attack plane currently in the inventory.
+0.97 (the A-10 over time; has been; the safest fighter or attack plane currently in the inventory)
+
+The aircraft has chalked up a major accident rate of less than 4 Class A mishaps per 100,000 flying hours over its lifetime _ which now consists of more than 1.75 million flight hours.
+0.89 (The aircraft; has chalked up; a major accident rate of less than 4 Class A mishaps per 100,000 flying hours over its lifetime _ which now consists of more than 1.75 million flight hours)
+0.97 (a major accident rate of less than 4 Class; consists; of more than 1.75 million flight hours; T:now)
+
+A Class A mishap is one in which there is either a fatality or damage exceeding $500,000 to an aircraft.
+0.95 (A Class A mishap; is; one in which there is either a fatality or damage)
+0.89 (A Class A mishap; is one in; which)
+
+The Air Force describes the A-10 as ``a simple, effective and survivable twin-engine jet aircraft that can be used against all ground targets ... The aircraft has excellent maneuverability at low air speeds and altitude and highly accurate weapons delivery.''
+0.94 (a simple, effective and survivable twin-engine jet aircraft; can be used; against all ground targets)
+0.94 (The aircraft; has; excellent maneuverability at low air speeds and altitude and highly accurate weapons delivery)
+0.96 Context(The aircraft has,List([146, 162))):(The Air Force; describes; the A-10; as ``a simple, effective and survivable twin-engine jet aircraft)
+

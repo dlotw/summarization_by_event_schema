@@ -1,0 +1,95 @@
+Cloudy weather Saturday threatened to mar the show for thousands of Finnish and foreign skygazers hoping to glimpse a total solar eclipse in this land of the midnight sun.
+0.95 (Cloudy weather Saturday; threatened; to mar the show for thousands of Finnish and foreign skygazers)
+0.92 Context(Cloudy weather Saturday threatened,List([0, 34))):(Cloudy weather Saturday; threatened to mar; the show for thousands of Finnish and foreign skygazers)
+
+The weather forecast took a turn for the worse in the evening, when the Finnish Meteorological Services predicted cloudy weather with a chance of showers for eastern Finland on Sunday.
+0.95 (The weather forecast; took; a turn for the worse in the evening, when the Finnish Meteorological Services predicted cloudy weather with a chance of showers for eastern Finland on Sunday)
+0.94 (the Finnish Meteorological Services; predicted; cloudy weather)
+
+In the eastern town of Joensuu, a television news broadcast late Saturday showed it was already cloudy there with a light drizzle falling.
+0.94 (Saturday; showed; it was already cloudy there with a light drizzle falling; L:In the eastern town of Joensuu; T:late)
+0.46 Context(Saturday showed,List([65, 80))):(it; was; T:already; cloudy there with a light drizzle falling)
+
+The solar eclipse in Finland starts at 4:03 a.m.
+0.96 (The solar eclipse in Finland; starts; T:at 4:03 a.m.)
+
+Sunday (9:03 p.m. EDT Saturday).
+
+At that time, the moon will begin gradually moving between the Earth and the sun.
+0.84 (the moon; will begin; T:At that time)
+0.90 (the moon; gradually moving; between the Earth and the sun)
+
+The total eclipse begins at 4:52 a.m. in Helsinki and will last 83 seconds.
+0.93 (The total eclipse; begins; T:at 4:52 a.m. in Helsinki)
+0.90 (The total eclipse; will last; 83 seconds)
+
+After the total phase of the eclipse, the moon will move away, uncovering more and more of the sun.
+0.94 (the moon; will move; away; T:After the total phase of the eclipse)
+0.70 (the moon; uncovering more; )
+
+The eclipse ends at 5:45 a.m. in Helsinki.
+0.94 (The eclipse; ends; T:at 5:45 a.m. in Helsinki)
+
+About 10,000 people _ including 3,000 foreigners _ have converged on Joensuu, about 50 miles from the Soviet border.
+0.96 (About 10,000 people _ including 3,000 foreigners; have converged; on Joensuu, about 50 miles from the Soviet border)
+
+There conditions there are considered especially good for viewing the eclipse _ weather permitting.
+
+In Helsinki, the total eclipse phase will occur 16 minutes after sunrise, when the sun is only 1 degree above the horizon.
+0.97 (the total eclipse phase; will occur; T:16 minutes after sunrise, when the sun is only 1 degree above the horizon; L:In Helsinki)
+0.93 (the sun; is; only 1 degree above the horizon)
+0.39 (the sun; is only 1 degree above; the horizon)
+
+At Joensuu, 310 miles northeast of Helsinki, the sun will be 5 degrees above the horizon in the total phase at a better angle for watchers.
+0.95 (the sun; will be; 5 degrees above the horizon in the total phase; T:at a better angle for watchers; L:At Joensuu, 310 miles northeast of Helsinki)
+
+The sun rises unusually early during summer in the extreme northern latitudes where Finland is located.
+0.90 (The sun; rises unusually early; T:during summer; L:in the extreme northern latitudes)
+0.94 (Finland; is located; L:the extreme northern latitudes)
+
+The sun comes up unusually late during winter.
+0.90 (The sun; comes up; T:unusually late; T:during winter)
+
+Ten months ago, Joensuu hired an ``eclipse secretary'' to handle arrangements for the expected influx of visitors.
+0.97 (Joensuu; hired; an ``eclipse secretary'' to handle arrangements for the expected influx of visitors; T:Ten months ago)
+0.91 (an ``eclipse secretary; to handle; arrangements for the expected influx of visitors)
+
+But that official, Marjut Cadia, said she had underestimated the interest in the event.
+0.77 (that official; said; she had underestimated the interest in the event)
+0.39 Context(that official said,List([4, 37))):(she; had underestimated; the interest in the event)
+
+``We completely sold out the 10,000 special eyeglasses we made for this event, and our extra stock is finished too,'' she said in a television interview Saturday.
+0.90 (the 10,000 special eyeglasses; made; we)
+0.36 (our extra stock; is finished too; )
+0.90 (We completely sold out the 10,000 special eyeglasses we made for this event, and our extra stock is finished too; said; L:in a television interview; T:Saturday)
+0.23 Context(We completely sold out the 10,000 special eyeglasses we made for this event , and our extra stock is finished too said,List([2, 126))):(We; sold out; the 10,000 special eyeglasses we made for this event)
+
+During the past week, newspapers, television and radio have been full of information about solar eclipses, as well as advice for spectators not to stare directly into the sun.
+0.96 (newspapers, television and radio; have been; full of information about solar eclipses; T:During the past week)
+
+Some eclipse viewers won't have to worry about the clouds, because they will be above them.
+0.88 (viewers; to worry; about the clouds)
+0.46 (they; will be; above them)
+0.45 (Some; eclipse; viewers won't have to worry about the clouds, because they will be above them)
+
+Finnair, the national airline, has arranged a dozen special flights for eclipse watchers, and private companies with small planes will provide more.
+0.91 (Finnair; has arranged; a dozen special flights for eclipse watchers)
+0.81 (private companies with small planes; will provide; more)
+
+The eclipse will be total in an arc about 125 miles wide from the northern Baltic Sea and southeast Finland, across the Kola Peninsula and northeast Soviet Union, to the Aleutian Islands near Alaska.
+0.95 (The eclipse; will be northeast; L:in an arc about 125 miles wide from the northern Baltic Sea and southeast Finland)
+
+Scientists will conduct several experiments during the eclipse, including gravity test measurements of the radius of the sun.
+0.93 (Scientists; will conduct; several experiments; T:during the eclipse, including gravity test measurements of the radius of the sun)
+
+However, scientific interest in this eclipse has been less than in longer eclipses, such as the seven-minute eclipse seen from northern Kenya on June 30, 1973.
+0.95 (scientific interest in this eclipse; has been; less than in longer eclipses, such as the seven-minute eclipse)
+0.94 (the seven-minute eclipse; seen; from northern Kenya; T:on June 30, 1973)
+
+Seppo Linnaluoto of the Ursa Astronomical Association said the best place for observations of this eclipse will be the northeast Soviet Union.
+0.97 (Seppo Linnaluoto of the Ursa Astronomical Association; said; the best place for observations of this eclipse will be the northeast Soviet Union)
+0.94 Context(Seppo Linnaluoto of the Ursa Astronomical Association said,List([0, 58))):(the best place for observations of this eclipse; will be; the northeast Soviet Union)
+
+The last total eclipse to be seen in Finland occurred in 1945.
+0.89 (The last total; to be seen; L:in Finland)
+

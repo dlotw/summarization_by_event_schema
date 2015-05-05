@@ -1,0 +1,120 @@
+A major issue hanging over the 1990 Census is resolved with the decision to include military personnel stationed overseas, but Congress is arguing over whether to keep counting illegal aliens.
+0.93 (A major issue; hanging; L:over the 1990 Census)
+0.96 (A major issue hanging over the 1990 Census; is resolved; with the decision)
+0.77 (military personnel; stationed; overseas)
+0.92 (Congress; is arguing; over whether to keep counting illegal aliens)
+
+The House blocked an effort Tuesday to require aliens to be excluded from the census numbers used in House reapportionment every decade.
+0.89 (aliens; to be excluded; from the census numbers)
+0.93 (the census numbers; used; L:in House reapportionment; T:every decade)
+0.95 (The House; blocked; an effort; T:Tuesday; to require aliens to be excluded from the census numbers)
+0.86 Context(The House blocked,List([0, 17))):(The House; blocked an effort to require; aliens; to be excluded from the census numbers)
+
+But the question still may be raised in committee and in the Senate.
+0.94 (the question; may be raised; L:in committee and in the Senate; T:still)
+
+The national head count will be taken April 1, 1990.
+0.93 (The national head count; will be taken; T:April 1, 1990)
+
+Census figures are used to redistribute the 435 House seats among the states every 10 years and to distribute federal aid to local governments.
+0.96 (Census figures; are used; to redistribute the 435 House seats among the states every 10 years and to distribute federal aid to local governments)
+0.95 (Census figures; to redistribute; the 435 House seats among the states every 10 years)
+
+The reapportionment issue has riveted the attention of House members from states where slow growth threatens to result in losses of House seats.
+0.93 (The reapportionment issue; has riveted; the attention of House members)
+0.95 (slow growth; threatens; to result in losses of House seats; L:states)
+
+Most of these states are in the North, where growth has lagged behind that of the South and West.
+0.93 (Most of these states; are; in the North)
+0.66 (growth; has lagged; behind that of the South and West)
+
+Undocumented aliens are largely concentrated in the South, West and industrial states like New York, and other states fear a loss of power to those areas if the aliens are counted.
+0.77 (other states; fear; a loss of power to those areas)
+0.73 (the aliens; are counted; )
+
+While aliens have been counted in the past, military personnel stationed overseas have not.
+0.89 (aliens; have been counted; T:in the past)
+0.77 (military personnel; stationed; overseas)
+0.77 (military personnel stationed overseas; have not; )
+
+The Commerce Department settled that problem by announcing it will work with the Defense Department on ways to count the 1.2 million to 1.6 million military and civilian defense workers who live overseas.
+0.87 (the 1.2 million to 1.6 million military and civilian defense workers; live; L:overseas)
+0.80 (The Commerce Department; settled; that problem)
+0.87 Context(The Commerce Department settled,List([0, 31))):(The Commerce Department; settled that problem by announcing; it will work with the Defense Department on ways)
+0.43 Context(The Commerce Department settled by announcing,List([0, 58))):(it; will work; with the Defense Department; on ways)
+
+The problem has been in deciding which states may count these people as residents.
+0.94 (The problem; has been; in deciding which states may count these people as residents)
+
+That has yet to be decided, but possibilities include counting the state where the person owns a home or the last state where he or she lived for at least six months.
+0.22 (That; has; yet)
+0.78 (he or she; lived; T:for at least six months; L:the last state)
+0.13 (That; to be decided; )
+0.89 (possibilities; include; counting the state)
+0.96 (the person; owns; a home or the last state; L:the state)
+
+The battle over illegal aliens, meanwhile, was taken up both in committee and on the House floor.
+0.96 (The battle over illegal aliens; was taken up; L:both in committee and on the House floor; T:meanwhile)
+
+Rep. Tom Ridge, R-Pa., unsuccessfully sought to attach a ban on counting aliens to an appropriations measure providing $5.8 million to run the State, Justice and Commerce departments next year, including $800 million to take the census.
+0.94 (Rep. Tom Ridge; unsuccessfully sought; to attach a ban on counting aliens to an appropriations measure)
+0.90 Context(Rep. Tom Ridge unsuccessfully sought,List([0, 44))):(Rep. Tom Ridge; unsuccessfully sought to attach; a ban on counting aliens to an appropriations measure)
+0.78 (an appropriations measure; providing; $5.8 million)
+
+The bill was approved 258-165 and sent to the Senate.
+0.77 (The bill; was approved; 258-165)
+0.93 (The bill; sent; to the Senate)
+
+Opponents noted the Constitution requires House seats to be apportioned based on all the ``persons'' residing in a state.
+0.91 (all the ``persons; residing; in a state)
+0.93 (Opponents; noted; the Constitution requires House seats to be apportioned based on all the ``persons)
+0.95 Context(Opponents noted,List([0, 15))):(the Constitution; requires; House seats to be apportioned based on all the ``persons)
+0.75 Context(Opponents noted the Constitution requires,List([0, 41))):(House seats; to be apportioned; )
+
+``Every census since the Constitution was created has counted all residents of the states, both citizens and non-citizens,'' observed Rep. Don Edwards, D-Calif.
+0.79 (the Constitution; was created; )
+0.98 (Every census since the Constitution was created has counted all residents of the states, both citizens and non-citizens; observed; Rep. Don Edwards)
+0.96 Context(Every census since the Constitution was created has counted all residents of the states , both citizens and non-citizens observed,List([2, 133))):(Every census since the Constitution was created; has counted; all residents of the states, both citizens and non-citizens)
+
+``Congress is empowered to identify those to be counted'' in the census, responded Ridge.
+0.78 (Congress; to identify; those to be counted'' in the census)
+0.20 (those; to be counted; L:in the census)
+0.94 (Congress is empowered to identify those; responded; Ridge)
+0.54 Context(Congress is empowered to identify those responded,List([2, 82))):(Congress; is empowered; to identify those)
+
+The Census Bureau's $4 billion budget for the census is large enough to identify and separate out the illegal aliens, he said.
+0.94 (The Census Bureau's $4 billion budget for the census; to separate out; the illegal aliens)
+0.98 (The Census Bureau's $4 billion budget for the census is large enough to identify and separate out the illegal aliens; said; he)
+0.98 Context(The Census Bureau 's $ 4 billion budget for the census is large enough to identify and separate out the illegal aliens said,List([0, 125))):(The Census Bureau's $4 billion budget for the census; is; large enough to identify and separate out the illegal aliens)
+
+Rep. Mervyn Dymally, D-Calif., charged the debate is really over population shifts that will lead to more House seats for southern and western states.
+0.90 (population shifts; will lead; to more House seats for southern and western states)
+0.90 (Rep. Mervyn Dymally; charged; the debate is really over population shifts)
+0.88 Context(Rep. Mervyn Dymally charged,List([0, 38))):(the debate; is really; over population shifts)
+
+``Pennsylvania, I don't care what they do, unless they go down to the Southwest and bring the people back, they're going to lose a seat,'' said Dymally.
+0.58 (they; to lose; a seat)
+0.79 (Pennsylvania, I don't care what they do; said; Dymally)
+0.26 Context(Pennsylvania , I do n't care what they do said,List([2, 143))):(I; do n't care; what they do)
+0.32 Context(Pennsylvania , I do n't care what they do said,List([2, 143))):(they; do; )
+0.72 (they; go; down to the Southwest)
+0.64 (they; bring; the people; back)
+
+Rep. Tim Valentine, D-N.C., said, however, that counting illegal aliens ``is not fair.
+0.73 (Rep. Tim Valentine; said; however; that counting illegal aliens ``is not fair)
+0.70 Context(Rep. Tim Valentine said,List([0, 32))):(counting illegal aliens; is not; fair)
+
+It may be constitutional, but it's just not right.''
+0.23 (It; may be; constitutional)
+0.23 (it; 's just not; right)
+
+Census officials generally have opposed any attempt to delete illegal aliens, contending they cannot determine who is in the country legally.
+0.88 (Census officials; generally have opposed; any attempt to delete illegal aliens)
+0.80 Context(Census officials generally have opposed,List([0, 39))):(Census officials; generally have opposed any attempt to delete illegal aliens contending; they cannot determine who is in the country legally)
+0.55 Context(Census officials generally have opposed contending,List([0, 88))):(they; can not determine; who is in the country legally)
+
+Asking people about their status likely would result in people lying or refusing to participate in the count, officials say, resulting in a potential undercount of residents in many areas.
+0.71 (officials; say; )
+0.70 (Asking people about their status; likely would result; in people)
+0.71 (people; lying; )
+

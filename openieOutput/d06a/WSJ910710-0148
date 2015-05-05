@@ -1,0 +1,222 @@
+While the commission stopped short of blaming Chief Gates for these problems, it said that no chief should serve more than two consecutive five-year terms, and that Mr. Gates, having served 13 years, should therefore turn in his badge following a transition period.
+0.92 (the commission; stopped; L:short of blaming Chief Gates for these problems)
+0.90 (the commission; of blaming; Chief Gates; for these problems)
+0.20 (it; said; that no chief should serve more than two consecutive five-year terms, and that Mr. Gates, having served 13 years, should therefore turn in his badge following a transition period)
+0.88 Context(it said,List([78, 85))):(no chief; should serve; more than two consecutive five-year terms)
+0.91 (Mr. Gates; having served; 13 years)
+
+But the chief, who has remained steadfast through repeated calls from community leaders for his ouster, said later: "I don't expect to just run away" from the job.
+0.74 (the chief; has remained; steadfast)
+0.79 (the chief, who has remained steadfast through repeated calls from community leaders for his ouster; said; T:later; I don't expect to just run away" from the job)
+0.39 Context(the chief , who has remained steadfast through repeated calls from community leaders for his ouster said,List([4, 108))):(I; do n't expect; to just run away" from the job)
+0.39 Context(the chief , who has remained steadfast through repeated calls from community leaders for his ouster said I do n't expect,List([4, 131))):(I; do n't expect to just run; away; from the job)
+
+Nearly one-quarter of 650 officers responding to a commission survey agreed that "racial bias on the part of officers toward minority citizens currently exists and contributes to a negative interaction between police and community," and in some cases "may lead to the use of excessive force," the report said.
+0.90 (650 officers; responding; to a commission survey)
+0.97 (racial bias on the part of officers toward minority citizens; contributes; to a negative interaction between police and community; T:currently)
+0.96 (Nearly one-quarter of 650 officers; may lead; to the use of excessive force; L:in some cases)
+1.00 (Nearly one-quarter of 650 officers responding to a commission survey agreed that "racial bias on the part of officers toward minority citizens currently exists and contributes to a negative interaction between police and community," and in some cases "may lead to the use of excessive force; said; the report)
+0.86 Context(Nearly one - quarter of 650 officers responding to a commission survey agreed that " racial bias on the part of officers toward minority citizens currently exists and contributes to a negative interaction between police and community , " and in some cases " may lead to the use of excessive force said,List([0, 308))):(Nearly one-quarter of 650 officers; agreed; that "racial bias on the part of officers toward minority citizens currently exists and contributes to a negative interaction between police and community)
+0.90 Context(Nearly one - quarter of 650 officers responding to a commission survey agreed that " racial bias on the part of officers toward minority citizens currently exists and contributes to a negative interaction between police and community , " and in some cases " may lead to the use of excessive force said,List([0, 308))):(racial bias on the part of officers toward minority citizens; exists; T:currently)
+
+A scant eight hours is devoted to cultural awareness training at the Los Angeles Police Academy, and many officers who train new recruits in the field openly perpetuate the "siege mentality that alienates patrol officers from the community," the commission concluded.
+0.91 (the "siege mentality; alienates; patrol officers; from the community)
+0.89 (many officers who train new recruits in the field; openly perpetuate; the "siege mentality that alienates patrol officers from the community)
+0.86 Context(many officers who train new recruits in the field openly perpetuate,List([101, 168))):(many officers; train; new recruits; L:in the field)
+1.00 (A scant eight hours is devoted to cultural awareness training at the Los Angeles Police Academy, and many officers who train new recruits in the field openly perpetuate the "siege mentality; concluded; the commission)
+0.95 Context(A scant eight hours is devoted to cultural awareness training at the Los Angeles Police Academy , and many officers who train new recruits in the field openly perpetuate the " siege mentality concluded,List([0, 266))):(A scant eight hours; is devoted; to cultural awareness training at the Los Angeles Police Academy)
+
+Officers commonly typed racial epithets to one another on their patrol car computer systems, such as: "Sounds like monkey slapping time" and "I almost got me a Mexican last night."
+0.88 (Officers; commonly typed; racial epithets; L:on their patrol car computer systems, such as: "Sounds like monkey slapping time" and "I almost got me a Mexican last night)
+0.31 (I; almost got; me; T:a Mexican last night)
+
+Yet supervisors made no effort to monitor or control these messages, evidence of a "significant breakdown in the department's management responsibility," the report found.
+0.68 (the report; found; )
+0.91 Context(the report found,List([154, 170))):(supervisors; made; no effort to monitor or control these messages, evidence of a "significant breakdown in the department's management responsibility,)
+0.55 Context(supervisors made the report found,List([4, 170))):(supervisors; made to monitor; )
+0.81 Context(supervisors made the report found,List([4, 170))):(supervisors; made to control; these messages)
+
+The Los Angeles Police Department has long been emulated by others around the country because of its reputation for being efficient and corruption-free.
+0.94 (The Los Angeles Police Department; has been emulated; by others around the country; because of its reputation for being efficient and corruption-free; T:long)
+
+But the commission called for a shift away from the force's paramilitaristic, us-against-them style, and said the department must embrace the "community-based" policing style that encourages officers to spend less time in their cars and more time interacting with citizens in the communities they serve.
+0.90 (the commission; called; for a shift away from the force's paramilitaristic)
+0.91 (the commission; said; the department must embrace the "community-based" policing style)
+0.70 Context(the commission said,List([4, 109))):(the department; must embrace; the "community-based" policing style that encourages officers to spend less time in their cars and more time)
+0.88 (the communities; serve; they)
+0.92 (the "community-based" policing style; encourages; officers; to spend less time in their cars and more time)
+0.82 (officers; to spend; less time; L:in their cars and more time)
+
+"This report will be a must-read for police chiefs around the country," said Hubert Williams, executive director of the Police Foundation, a Washington, D.C., law enforcement research group.
+0.96 (This report will be a must-read for police chiefs around the country; said; Hubert Williams)
+0.86 Context(This report will be a must - read for police chiefs around the country said,List([1, 76))):(This report; will be; must-read for police chiefs around the country)
+0.38 (Hubert Williams; [is] executive director of; the Police Foundation)
+
+"The word is clear: the public expects high quality law enforcement within the parameters of the law."
+0.92 (the public; expects; high quality law enforcement within the parameters of the law)
+0.78 Context(the public expects,List([20, 38))):(The word; is; clear)
+
+Mr. Williams likened the report to the Knapp Commission, a 1970s blue-ribbon study that exposed widespread corruption in the New York Police Department and led to significant improvements there.
+0.94 (Mr. Williams; likened; the report; to the Knapp Commission)
+0.94 (a 1970s blue-ribbon study; exposed; widespread corruption; L:in the New York Police Department)
+0.94 (a 1970s blue-ribbon study; led; to significant improvements there)
+
+"As troubling as some of our findings are . . .
+
+they are not unique to Los Angeles," said John A. Arguelles, vice chairman of the 10-member Independent Commission on the Los Angeles Police Department.
+0.76 (they are not unique to Los Angeles; said; John A. Arguelles)
+0.61 Context(they are not unique to Los Angeles said,List([0, 41))):(they; are not; unique to Los Angeles)
+0.38 (John A. Arguelles; [is] vice chairman of; the 10-member Independent Commission)
+
+Among the commission's recommendations are:    -- A commission appointed by the mayor that oversees the department should be reorganized and strengthened, and made responsible for handling citizen complaints.
+0.92 (A commission appointed by the mayor; made; responsible for handling citizen complaints)
+0.90 (A commission; appointed; by the mayor)
+0.89 (the mayor; oversees; the department)
+0.73 (A commission appointed by the mayor; should be reorganized; )
+0.75 Context(A commission appointed by the mayor should be reorganized,List([50, 136))):(Among the commission's recommendations; are; )
+0.77 (A commission appointed by the mayor; strengthened; )
+
+It also should be "reconstituted" with members not linked with the current controversy, in the interest of a "fresh start."
+0.71 (members; not linked; )
+
+-- A "major overhaul" of the police disciplinary system and the process used by citizens to file complaints against LAPD officers, especially in excessive force cases, is needed.
+0.92 (the process; used; by citizens; to file complaints against LAPD officers)
+0.97 (A "major overhaul" of the police disciplinary system and the process used by citizens to file complaints against LAPD officers, especially in excessive force cases; is needed; )
+
+The current system is "skewed against complainants," by allowing officers' station-house colleagues to investigate complaints, perpetuating a "code of silence" among officers.
+0.92 (The current system; is; skewed against complainants)
+
+-- A new community-based police force should focus on "service to the public and prevention of crime" as primary tasks rather than amassing arrest statistics.
+0.96 (A new community-based police force; should focus; on "service to the public and prevention of crime)
+
+However, the commission didn't address how Los Angeles would pay for this major overhaul, though Mr. Christopher said that "when you see the costs of settlements accelerating" in police misconduct lawsuits as they have in recent years, "I'm not sure there will be a net cost" increase to implement the changes.
+0.90 (the commission; did n't address; how Los Angeles would pay for this major overhaul)
+0.91 Context(the commission did n't address,List([9, 38))):(Los Angeles; would pay; for this major overhaul)
+0.76 (Mr. Christopher; said; that "when you see the costs of settlements accelerating" in police misconduct lawsuits as they have in recent years, "I'm not sure there will be a net cost" increase)
+0.32 Context(Mr. Christopher said,List([97, 117))):(I; 'm not; sure there will be a net cost" increase)
+0.72 (you; see; the costs of settlements accelerating" in police misconduct lawsuits)
+0.71 (settlements; accelerating; )
+
+But with the city still sharply divided over the future of Chief Gates, and a general feeling that taxes are high enough already, it's questionable whether there will be a popular groundswell to immediately fund changes.
+0.75 (taxes; are; high enough; T:already)
+
+Over the years, the city council and the mayor have been reluctant to even add additional officers to the LAPD.
+0.97 (the city council and the mayor; have been; reluctant to even add additional officers to the LAPD; T:Over the years)
+0.93 (the city council and the mayor; to even add; additional officers; to the LAPD)
+
+Of the six largest police departments in the U.S., the nation's second largest city has the fewest officers per thousand residents.
+0.95 (the nation's second largest city; has; the fewest officers per thousand residents)
+
+There are 8,450 officers here for more than 3.5 million people; Chicago, with a smaller population, has 12,000.
+0.85 (Chicago, with a smaller population; has; 12,000)
+
+However, Michael Yamaki, one of the city's five police commissioners, believes that given the systemic problems in the department that have come to light, "citizens now will be more willing to fund police issues."
+0.92 (the systemic problems in the department; have come; to light)
+0.88 (citizens; to fund; police issues)
+0.83 (Michael Yamaki; believes; that given the systemic problems in the department that have come to light, "citizens now will be more willing to fund police issues)
+0.91 Context(Michael Yamaki believes,List([9, 78))):(citizens; will be; more willing to fund police issues; T:now)
+
+The commission's recommendations will now be reviewed by the City Council, which will weigh whether to adopt them in whole or in part.
+0.94 (The commission's recommendations; will be reviewed; by the City Council; T:now)
+
+Ultimately, voters must decide several issues, including whether to set term limits on the chief's tenure.
+0.95 (voters; must decide; several issues, including whether to set term limits on the chief's tenure; T:Ultimately)
+0.81 Context(voters must decide,List([12, 30))):(voters; must decide to set; term limits on the chief's tenure)
+
+The commission intends to reconvene in six months to assess the progress.
+0.88 (The commission; intends; to reconvene in six months to assess the progress)
+0.88 Context(The commission intends,List([0, 22))):(The commission; intends to reconvene; T:in six months; to assess the progress)
+0.82 Context(The commission intends to reconvene,List([0, 35))):(The commission; intends to reconvene to assess; the progress)
+
+Even before the commission's report was issued, community groups that monitor the LAPD noted a decline in brutality complaints.
+0.93 (community groups that monitor the LAPD; noted; a decline in brutality complaints)
+0.88 Context(community groups that monitor the LAPD noted,List([48, 92))):(community groups; monitor; the LAPD)
+
+The harsh tone of the report was welcome vindication for community leaders who have claimed that police brutality is widespread.
+0.95 (The harsh tone of the report; was; welcome vindication for community leaders)
+0.69 (community leaders; have claimed; that police brutality is widespread)
+0.77 Context(community leaders have claimed,List([57, 91))):(police brutality; is; widespread)
+0.39 (the report; was welcome vindication for; community leaders)
+
+The report "proves once and for all that the Rodney King incident was not an aberration," said Ramona Ripston, executive director of the American Civil Liberties Union of Southern California.
+0.93 (The report "proves once and for all; said; Ramona Ripston)
+0.69 Context(The report " proves once and for all said,List([0, 94))):(The report; proves; T:once and for all)
+0.38 (Ramona Ripston; [is] executive director of; the American Civil Liberties Union)
+
+"Any fair reading of the report constitutes an `F' for {Chief Gates's} job performance."
+0.96 (Any fair reading of the report; constitutes; an `F' for {Chief Gates's} job performance)
+
+The report shows a particularly damning pattern of acceptance, and even encouragement, of officers who violate the rules governing excessive force.
+0.93 (The report; shows; a particularly damning pattern of acceptance)
+0.88 (officers; violate; the rules governing excessive force)
+0.90 (the rules; governing; excessive force)
+
+One officer who had seven complaints against him that had been sustained -- as well as numerous others that hadn't been -- was described in his performance evaluation this way: "His contacts with the public are always professional and positive and his attitude with the citizens is one of concern."
+0.77 (One officer; had; seven complaints against him that had been sustained -- as well as numerous others)
+0.76 (his attitude with the citizens; is; one of concern)
+0.35 (seven complaints against him; had been sustained; )
+0.70 (numerous others; had n't been; )
+0.39 (His contacts with the public; are; T:always; professional and positive)
+0.85 Context(His contacts with the public are,List([178, 210))):(One officer who had seven complaints against him that had been sustained -- as well as numerous others that hadn't been --; was described; L:in his performance evaluation)
+0.39 (the citizens; is one of; concern)
+
+The report also reveals that racially derogatory remarks are made on an ongoing basis within the department; racist jokes and cartoons appear from time to time on bulletin boards in station locker rooms.
+0.88 (racist jokes and cartoons; appear; L:on bulletin boards)
+0.81 Context(racist jokes and cartoons appear,List([109, 141))):(The report; also reveals; that racially derogatory remarks are made on an ongoing basis within the department; racist jokes and cartoons appear from time to time on bulletin boards in station locker rooms)
+0.70 Context(The report also reveals racist jokes and cartoons appear,List([0, 141))):(racially derogatory remarks; are made; )
+
+Sexism and homophobia abound.
+0.75 (Sexism and homophobia; abound; )
+
+Minority officers complain that whites dominate managerial posts within the LAPD, possibly contributing to these problems.
+0.77 (Minority officers; complain; that whites dominate managerial posts within the LAPD)
+0.89 Context(Minority officers complain,List([0, 26))):(whites; dominate; managerial posts within the LAPD)
+0.82 Context(Minority officers complain whites dominate,List([0, 47))):(whites; dominate managerial posts within the LAPD possibly contributing; to these problems)
+
+More than 80% of the black, Hispanic and Asian police officers in the force are in the entry-level ranks, the report said.
+0.99 (More than 80% of the black, Hispanic and Asian police officers in the force are in the entry-level ranks; said; the report)
+0.97 Context(More than 80 % of the black , Hispanic and Asian police officers in the force are in the entry - level ranks said,List([0, 121))):(More than 80% of the black, Hispanic and Asian police officers in the force; are; in the entry-level ranks)
+
+But the most surprising part of the report was its recommendation that Chief Gates resign, after a transitional period in which he would begin implementing the commission's proposals.
+0.83 (the most surprising part of the report; was; its recommendation that Chief Gates resign; T:after a transitional period)
+0.79 (Chief Gates; resign; )
+0.53 (he; would begin; implementing the commission's proposals; L:a transitional period)
+0.39 Context(he would begin,List([128, 142))):(he; would begin implementing; the commission's proposals)
+0.38 (the report; was its recommendation that; Chief Gates)
+
+"We're not startled by any of the things in this report," the chief said a few hours after its release.
+0.62 (We're not startled by any of the things in this report; said; T:a few hours after its release)
+0.39 Context(We 're not startled by any of the things in this report said,List([1, 72))):(We; 're not; startled by any of the things in this report)
+
+He added that he has worked on his own to accomplish some of what the commission suggested, but has often been stymied by budget cuts.
+0.73 (the commission; suggested; )
+0.45 (he; has been stymied; by budget cuts; T:often)
+0.17 (He; added; that he has worked on his own to accomplish some of what the commission suggested, but has often been stymied by budget cuts)
+0.35 Context(He added,List([0, 8))):(he; has worked; to accomplish some of what the commission suggested)
+0.29 Context(He added he has worked,List([0, 27))):(he; has worked to accomplish; some of what the commission suggested)
+
+As for the recommendation that he step down, the embattled chief said he will wait until the voters sanction a move to limit a police chief's tenure.
+0.19 (he; step down; )
+0.90 (the voters; sanction; a move to limit a police chief's tenure)
+0.81 (the embattled chief; said; he will wait until the voters sanction a move)
+0.39 Context(the embattled chief said,List([45, 69))):(he; will wait; T:until the voters sanction a move)
+
+Overall, Chief Gates added, "It's a good report.
+
+There's a lot of thoughtful recommendations."
+
+And the chief said he will stay to implement them.
+0.27 (he; to implement; them)
+0.80 (the chief; said; he will stay to implement them)
+0.26 Context(the chief said,List([4, 18))):(he; will stay; to implement them)
+
+Mayor Bradley said he hopes that Chief Gates's will "follow the commission's recommendations" to "commence the transition to a new chief of police."
+0.79 (Mayor Bradley; said; he hopes that Chief Gates's will "follow the commission's recommendations)
+0.32 Context(Mayor Bradley said,List([0, 18))):(he; hopes; that Chief Gates's will "follow the commission's recommendations)
+0.88 Context(Mayor Bradley said he hopes,List([0, 27))):(Chief Gates's; will follow; the commission's recommendations)
+
+The mayor, who appointed Gates but lacks the authority to fire him, has previously called for Chief Gates's resignation.
+0.96 (The mayor, who appointed Gates but lacks the authority; has called; for Chief Gates's resignation; T:previously)
+0.88 Context(The mayor , who appointed Gates but lacks the authority has called,List([0, 89))):(The mayor; appointed; Gates)
+0.81 Context(The mayor , who appointed Gates but lacks the authority has called,List([0, 89))):(The mayor; lacks; the authority to fire him)
+

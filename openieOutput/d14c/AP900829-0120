@@ -1,0 +1,149 @@
+Nine reservists helping in the U.S. military buildup in the Persian Gulf were among the 13 people killed in the crash of U.S. military cargo plane in West Germany, military authorities said Wednesday.
+0.92 (Nine reservists; helping; in the U.S. military buildup in the Persian Gulf)
+0.95 (the 13 people; killed; L:in the crash of U.S. military cargo plane in West Germany)
+0.98 (Nine reservists helping in the U.S. military buildup in the Persian Gulf were among the 13 people; said; T:Wednesday)
+0.96 Context(Nine reservists helping in the U.S. military buildup in the Persian Gulf were among the 13 people said,List([0, 189))):(Nine reservists helping in the U.S. military buildup in the Persian Gulf; were; among the 13 people)
+
+The crash early Wednesday of the huge C-5A transport was the first major accident in the nearly 3-week-old, round-the-clock deployment of U.S. personnel and equipment to the gulf.
+0.99 (The crash early Wednesday of the huge C-5A transport; was; the first major accident in the nearly 3-week-old, round-the-clock deployment of U.S. personnel and equipment to the gulf)
+0.39 (the huge C-5A transport; was the first major accident in; the nearly 3-week-old , round-the-clock deployment)
+
+``I don't want to speculate on the cause of this mishap,'' said Brig.
+0.78 (I don't want to speculate on the cause of this mishap; said; Brig.)
+0.39 Context(I do n't want to speculate on the cause of this mishap said,List([2, 63))):(I; do n't want; to speculate on the cause of this mishap)
+0.39 Context(I do n't want to speculate on the cause of this mishap said,List([2, 63))):(I; do n't want to speculate; on the cause of this mishap)
+
+Gen.
+
+Richard Swope of the 316th Air Division.
+
+``We don't have any indication as to what the cause of the accident was.''
+0.45 (We; do n't have; any indication; T:as to what the cause of the accident was)
+0.83 (the cause of the accident; was; )
+
+Four of the 17 people aboard the cargo plane were injured when the massive aircraft tumbled into a field early Wednesday after taking off from Ramstein Air Base, a stopover for many U.S. military flights bound for the gulf region.
+0.97 (Four of the 17 people aboard the cargo plane; were injured; T:when the massive aircraft tumbled into a field early Wednesday after taking off from Ramstein Air Base)
+0.93 (the massive aircraft; tumbled; into a field; T:early Wednesday; T:after taking off from Ramstein Air Base)
+0.91 (the massive aircraft; after taking off; from Ramstein Air Base)
+0.94 (many U.S. military flights; bound; for the gulf region)
+
+The plane was bound for Frankfurt carrying medical supplies, food and aircraft maintenance equipment for U.S. troops sent to Saudi Arabia following the Aug. 2 Iraqi invasion of Kuwait, U.S. Air Force officials said.
+0.90 (The plane; carrying; medical supplies, food and aircraft maintenance equipment; for U.S. troops)
+0.95 (U.S. troops; sent; to Saudi Arabia; T:following the Aug)
+0.99 (The plane was bound for Frankfurt carrying medical supplies, food and aircraft maintenance equipment for U.S. troops sent to Saudi Arabia following the Aug. 2 Iraqi invasion of Kuwait; said; U.S. Air Force officials)
+0.69 Context(The plane was bound for Frankfurt carrying medical supplies , food and aircraft maintenance equipment for U.S. troops sent to Saudi Arabia following the Aug . 2 Iraqi invasion of Kuwait said,List([0, 214))):(The plane; was bound; )
+
+Late Wednesday, the Air Force released the names of the victims.
+0.97 (the Air Force; released; the names of the victims; T:Late Wednesday)
+
+No hometowns were listed.
+0.73 (No hometowns; were listed; )
+
+Nine of those killed and one of those injured were reservists with the 433rd Military Airlift Wing from Kelly Air Force Base in San Antonio.
+0.08 (those; killed; )
+0.08 (those; injured; )
+0.70 (Nine of those; were; reservists with the 433rd Military Airlift Wing from Kelly Air Force Base in San Antonio)
+0.38 (those injured; were reservists with; the 433rd Military Airlift Wing)
+
+The four others were stationed at Ramstein or at nearby Hahn Air Base.
+0.93 (The four others; were stationed; at Ramstein or at nearby Hahn Air Base)
+
+Listed as dead from the 433rd were Maj.
+
+John M. Gordon, pilot; Maj.
+
+Richard W. Chase, pilot; Sgt.
+
+Rosendo Herrera, flight engineer; Sgt.
+
+Carpio Villarreal, flight engineer; Sgt.
+
+Daniel G. Perez, loadmaster; Sgt.
+
+Edward E. Sheffield, loadmaster; Maj.
+
+Richard M. Price, first pilot; Sgt.
+
+Lonty A. Knutson, crew chief; and Sgt.
+
+Daniel Garza, crew chief.
+
+Also killed were Capt.
+
+Bradley Schuldt and Sgt.
+
+Rande Hulec of Ramstein and sergeants Samuel Gardner and Marc Cleyman of Hahn.
+
+Listed as injured were Lt. Col. Frederick Arzt and Sgt.
+
+Dwight Pettit, both of McChord Air Base in Washington state; Capt.
+
+Cynthia Borecky of England Air Base, Louisiana, and Sgt.
+
+Lorenzo Galvan Jr. of the 433rd.
+
+The four were hospitalized and reported in satisfactory condition, said Sgt. Rourk Sheehan, spokesman for the Landstuhl Army hospital nearby.
+0.25 (The four; reported; )
+0.94 (The four were hospitalized and reported in satisfactory condition; said; Sgt. Rourk Sheehan)
+0.24 Context(The four were hospitalized and reported in satisfactory condition said,List([0, 71))):(The four; were hospitalized; )
+0.38 (Sgt . Rourk Sheehan; [is] spokesman for; the Landstuhl Army hospital)
+
+The 433rd had not been called to active duty, but some reservists with the wing were voluntarily participating in Operation Desert Shield after arranging time off from their civilian jobs.
+0.90 (The 433rd; had not been called; to active duty)
+0.86 (some reservists with the wing; were voluntarily participating; in Operation Desert Shield; T:after arranging time off from their civilian jobs)
+0.84 Context(some reservists with the wing were voluntarily participating,List([50, 110))):(some reservists with the wing; were voluntarily participating in Operation Desert Shield after arranging; time off from their civilian jobs)
+
+The plane was from the 60th Military Airlift Squadron from Travis Air Force Base in California and was en route to Rhein-Mein Air Base near Frankfurt, authorities said.
+0.93 (The plane; was; en route to Rhein-Mein Air Base near Frankfurt)
+0.99 (The plane was from the 60th Military Airlift Squadron from Travis Air Force Base in California and was en route to Rhein-Mein Air Base near Frankfurt; said; authorities)
+0.95 Context(The plane was from the 60th Military Airlift Squadron from Travis Air Force Base in California and was en route to Rhein-Mein Air Base near Frankfurt said,List([0, 167))):(The plane; was; from the 60th Military Airlift Squadron from Travis Air Force Base in California)
+
+It left the Ramstein air base at about 12:30 a.m. and clipped the tops of trees before crashing and breaking apart.
+0.57 (It; left; the Ramstein air base; T:at about 12:30 a.m.)
+0.41 (It; clipped; the tops of trees; T:before crashing and breaking apart)
+
+Twisted chunks of wings, landing gear, fuselage and other debris were scattered over a wide area.
+0.96 (Twisted chunks of wings, landing gear, fuselage and other debris; were scattered; over a wide area)
+
+Firefighters were still dousing smoldering sections of wreckage 12 hours after the crash.
+0.91 (Firefighters; were dousing; smoldering sections of wreckage; T:12 hours after the crash; T:still)
+
+The weather was hazy but visibility was about one mile, said Swope.
+0.92 (visibility; was; about one mile)
+0.94 (The weather was hazy but visibility was about one mile; said; Swope)
+0.78 Context(The weather was hazy but visibility was about one mile said,List([0, 60))):(The weather; was; hazy)
+
+He said the aircraft was just over 20 years old, which he said is not uncommon for the C-5.
+0.40 (He; said; the aircraft was just over 20 years old)
+0.91 Context(He said,List([0, 7))):(the aircraft; was; just over 20 years old)
+0.44 (he; said; is not uncommon for the C-5)
+
+The accident occurred about six miles from Miesau, where U.S. military authorities have been removing a cache of chemical weapons under an agreement with the West German government.
+0.90 (The accident; occurred; from Miesau)
+0.97 (U.S. military authorities; have been removing; a cache of chemical weapons; L:Miesau)
+
+The West German Defense Ministry said in a statement Wednesday the crash posed no danger to the operation.
+0.94 (The West German Defense Ministry; said; L:in a statement; T:Wednesday; the crash posed no danger to the operation)
+0.88 Context(The West German Defense Ministry said,List([0, 37))):(the crash; posed; no danger to the operation)
+
+Ramstein, the largest U.S. Air Force base in Europe, is 90 miles west of Frankfurt.
+0.94 (Ramstein; is; 90 miles west of Frankfurt)
+
+The C-5 is the largest transport plane in the Air Force fleet and costs about $148 million.
+0.96 (The C-5; is; the largest transport plane in the Air Force fleet)
+0.86 (The C-5; costs; about $148 million)
+0.88 (The C-5; is the largest transport plane in; the Air Force fleet)
+
+It was the first crash of a C-5 in 15 years.
+0.68 (It; was; the first crash of a C-5 in 15 years)
+0.89 (It; was the first crash of; a C-5)
+
+On April 4, 1975, a C-5B carrying Vietnamese orphans crashed shortly after takeoff near Saigon, killing 172 people.
+0.94 (a C-5B; carrying; Vietnamese orphans)
+0.97 (a C-5B; crashed; T:shortly after takeoff near Saigon; T:On April 4, 1975)
+0.93 (a C-5B; killing; 172 people)
+
+The crash Wednesday occurred a day after the second anniversary of a collision during an air show at Ramstein which killed 70 people.
+0.80 (The crash Wednesday; occurred; )
+0.93 (an air show at Ramstein; killed; 70 people)
+

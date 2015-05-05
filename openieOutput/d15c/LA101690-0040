@@ -1,0 +1,125 @@
+Tuberculosis has become the world's deadliest infectious disease, and the toll  could soon rise even more dramatically if controls are not initiated quickly,  the World Health Organization said Monday.
+0.76 (the toll; could rise even more dramatically; T:soon)
+0.71 (controls; are not initiated quickly; )
+0.97 (Tuberculosis has become the world's deadliest infectious disease, and the toll  could soon rise even more dramatically; said; T:Monday)
+0.87 Context(Tuberculosis has become the world 's deadliest infectious disease , and the toll could soon rise even more dramatically said,List([0, 193))):(Tuberculosis; has become; the world's deadliest infectious disease)
+
+The U.N. agency, in its first comprehensive look at global tuberculosis in a  decade, said the disease kills nearly 3 million people a year, most of them  between the ages of 15 and 59, "the segment of the population that is  economically most productive."
+0.74 (the population; is economically; most productive)
+0.83 (The U.N. agency, in its first comprehensive look at global tuberculosis in a  decade; said; the disease kills nearly 3 million people a year, most of them  between the ages of 15 and 59, "the segment of the population)
+0.91 Context(The U.N. agency , in its first comprehensive look at global tuberculosis in a decade said,List([0, 90))):(the disease; kills; nearly 3 million people a year)
+
+WHO attributed the sharp rise in part to the growing AIDS epidemic.
+
+It  estimated that about 3 million people worldwide are dually infected with the  human immunodeficiency virus (HIV), which causes AIDS, and tuberculosis.
+0.92 (the  human immunodeficiency virus; causes; AIDS)
+0.32 (It; estimated; that about 3 million people worldwide are dually infected with the  human immunodeficiency virus (HIV), which causes AIDS, and tuberculosis)
+0.95 Context(It estimated,List([0, 13))):(about 3 million people worldwide; are dually infected; with the  human immunodeficiency virus (HIV), which causes AIDS, and tuberculosis)
+
+"It is becoming a parallel epidemic, and it is this trend that has public  health officials worried," Dr. Hiroshi Nakajima, director general of WHO, said  in a statement.
+0.45 (It; is becoming; a parallel epidemic)
+0.44 (it; is; this trend that has public  health officials worried," Dr. Hiroshi Nakajima, director general of WHO, said  in a statement)
+0.94 (this trend; has; public  health officials worried," Dr. Hiroshi Nakajima, director general of WHO, said  in a statement)
+0.70 Context(this trend has,List([47, 66))):(public  health officials; worried; )
+0.90 Context(this trend has public health officials worried,List([47, 99))):(Dr. Hiroshi Nakajima; said; L:in a statement)
+0.39 (Dr. Hiroshi Nakajima; [is] director general of; WHO)
+
+The agency estimated that between 15 million and 20 million adults will be  infected with HIV by the year 2000, and it predicted that the number of cases  and deaths from tuberculosis will rise sharply as a result, especially in  sub-Saharan Africa, Latin America and Southeast Asia.
+0.74 (The agency; estimated; that between 15 million and 20 million adults will be  infected with HIV by the year 2000, and it predicted that the number of cases  and deaths from tuberculosis will rise sharply as a result, especially in  sub-Saharan Africa, Latin America and Southeast Asia)
+0.94 Context(The agency estimated,List([0, 20))):(between 15 million and 20 million adults; will be infected; with HIV; T:by the year 2000)
+0.32 (it; predicted; that the number of cases  and deaths from tuberculosis will rise sharply as a result, especially in  sub-Saharan Africa, Latin America and Southeast Asia)
+0.96 Context(it predicted,List([116, 128))):(the number of cases  and deaths from tuberculosis; will rise sharply; as a result; L:especially in  sub-Saharan Africa, Latin America and Southeast Asia)
+
+"These new data have been stunning to everyone, because an awful lot of people  had thought that tuberculosis had gone away," said Dr. Barry Bloom, a professor  of microbiology at the Albert Einstein College of Medicine in New York and a  consultant to the United Nations.
+0.78 (an awful lot of people; had thought; that tuberculosis had gone away)
+0.70 Context(an awful lot of people had thought,List([56, 91))):(tuberculosis; had gone; away)
+0.98 (These new data have been stunning to everyone, because an awful lot of people  had thought that tuberculosis had gone away; said; Dr. Barry Bloom)
+0.83 Context(These new data have been stunning to everyone , because an awful lot of people had thought that tuberculosis had gone away said,List([1, 130))):(These new data; have been; stunning to everyone; because an awful lot of people  had thought that tuberculosis had gone away)
+0.39 (Dr. Barry Bloom; [is] a professor of; microbiology)
+
+Tuberculosis is a highly communicable disease of the lungs and other organs  caused by a bacterium transmitted through the air when infected people cough or  sneeze.
+0.95 (Tuberculosis; is; a highly communicable disease of the lungs and other organs)
+0.93 (the lungs and other organs; caused; by a bacterium)
+0.73 (a bacterium; transmitted; )
+0.73 (infected people; cough; )
+0.70 (infected people; sneeze; )
+0.89 (Tuberculosis; is a highly communicable disease of; the lungs)
+
+There are about 8 million new cases of tuberculosis a year, according to the  U.N. agency.
+0.89 (There; are about 8 million new cases of; tuberculosis)
+
+About half of these are infectious.
+0.80 (About half of these; are; infectious)
+
+Also, an estimated 1.7 billion  individuals worldwide carry the organism but are not infectious to others.
+0.93 (an estimated 1.7 billion  individuals worldwide; carry; the organism)
+0.92 (an estimated 1.7 billion  individuals worldwide; are not; infectious to others)
+
+In  these individuals, the organism can remain dormant without causing active  disease for many years unless the immune system is somehow impaired.
+0.94 (the organism; can remain; dormant; L:In  these individuals)
+0.75 (the immune system; is somehow impaired; )
+
+AIDS, or  acquired immune deficiency syndrome, destroys the body's immune system.
+0.95 (AIDS, or  acquired immune deficiency syndrome; destroys; the body's immune system)
+
+An individual does not have to have a damaged immune system to contract an  active case of tuberculosis.
+0.93 (An individual; to have; a damaged immune system to contract an  active case of tuberculosis)
+
+But when a case of tuberculosis becomes active, as  it can in individuals who carry the organism, that person can also infect  numerous others.
+0.80 (a case of tuberculosis; becomes; active)
+0.88 (individuals; carry; the organism)
+0.90 (that person; can infect; numerous others; T:when a case of tuberculosis becomes active, as  it can in individuals)
+
+This is what is happening in developing nations, where the  AIDS epidemic is raging.
+0.80 (the  AIDS epidemic; is raging; )
+0.56 (This; is; what is happening in developing nations, where the  AIDS epidemic is raging)
+
+"In many places, more than half the beds in medical wards are patients with  tuberculosis," Bloom said.
+0.98 (In many places, more than half the beds in medical wards are patients with  tuberculosis; said; Bloom)
+0.96 Context(In many places , more than half the beds in medical wards are patients with tuberculosis said,List([1, 102))):(more than half the beds in medical wards; are; patients with  tuberculosis; L:In many places)
+0.39 (medical wards; are patients with; tuberculosis)
+
+"Many of these people do, in fact, die of AIDS.
+0.90 (Many of these people; do die; of AIDS)
+
+But  if they're not treated for tuberculosis, those people will be spreading the  disease (tuberculosis) in their communities.
+0.62 (they; 're not treated; for tuberculosis)
+0.83 (those people; will be spreading; the  disease; L:in their communities)
+
+You don't have to have a depressed  immune system to get tuberculosis."
+0.58 (You; to have; a depressed  immune system to get tuberculosis)
+
+In the United States, public health officials began to recognize about five  years ago that tuberculosis -- after steadily declining since the 1950s -- was  making a surprising comeback as a result of the AIDS epidemic.
+0.91 (public health officials; began; to recognize about five  years ago that tuberculosis -- after steadily declining since the 1950s; L:In the United States)
+0.74 Context(public health officials began,List([22, 51))):(public health officials; began to recognize; T:about five  years ago that tuberculosis)
+0.86 Context(public health officials began,List([22, 51))):(public health officials; began was making; a surprising comeback; as a result of the AIDS epidemic)
+
+At that time,  they noticed a startling and unexpected drop in the rate of decline of  tuberculosis cases.
+0.63 (they; noticed; a startling and unexpected drop in the rate of decline of  tuberculosis cases; T:At that time)
+
+This year, Bloom said, the number of cases of active tuberculosis in the United  States is up nearly 5% over last year, with 23,495 new cases.
+0.96 (Bloom; said; the number of cases of active tuberculosis in the United  States is up nearly 5% over last year, with 23,495 new cases; T:This year)
+0.97 Context(Bloom said,List([11, 21))):(the number of cases of active tuberculosis in the United  States; is; up nearly 5% over last year)
+
+The overall incidence of tuberculosis in the United States is 9.5 cases per  100,000 population, he said.
+0.97 (The overall incidence of tuberculosis in the United States is 9.5 cases per  100,000 population; said; he)
+0.96 Context(The overall incidence of tuberculosis in the United States is 9.5 cases per 100,000 population said,List([0, 104))):(The overall incidence of tuberculosis in the United States; is; 9.5 cases per  100,000 population)
+0.39 (the United States; is 9.5 cases per; 100,000 population)
+
+In New York City, which has the highest number of  AIDS cases in the nation, the incidence is 36 per 100,000, Bloom said.
+0.95 (New York City; has; the highest number of  AIDS cases in the nation)
+0.99 (In New York City, which has the highest number of  AIDS cases in the nation, the incidence is 36 per 100,000; said; Bloom)
+0.96 Context(In New York City , which has the highest number of AIDS cases in the nation , the incidence is 36 per 100,000 said,List([0, 120))):(the incidence; is; 36 per 100,000; L:In New York City)
+0.39 (the incidence; is 36 per; 100,000)
+
+Effective drugs to combat tuberculosis cost about $30 to $50 per person, given  over six months.
+0.96 (Effective drugs to combat tuberculosis cost about $30 to $50 per person; given; T:over six months)
+
+However, the drugs are not always available in developing countries, and  compliance is a major problem.
+0.90 (the drugs; are not; T:always; available in developing countries)
+0.92 (compliance; is; a major problem)
+
+The drugs must be taken for the entire six  months to eliminate the infection.
+0.90 (The drugs; must be taken; T:for the entire six  months; to eliminate the infection)
+0.89 (The drugs; to eliminate; the infection)
+

@@ -1,0 +1,56 @@
+A jet trainer crashed Sunday on the flight deck of the aircraft carrier  Lexington in the Gulf of Mexico, killing five people, injuring at least two and  damaging several aircraft, the Navy said.
+0.75 (A jet trainer; injuring; at least two)
+0.98 (A jet trainer crashed Sunday on the flight deck of the aircraft carrier; said; the Navy)
+0.91 Context(A jet trainer crashed Sunday on the flight deck of the aircraft carrier said,List([0, 194))):(A jet trainer; crashed; T:Sunday; L:on the flight deck of the aircraft carrier)
+0.39 (Lexington; [is] carrier [of]; aircraft)
+
+The crash of the two-seat T-2 Buckeye caused several fires on the World War  II-era ship that sailors quickly brought under control, officials said.
+0.93 (the World War  II-era ship; quickly brought; under control)
+0.98 (The crash of the two-seat T-2 Buckeye caused several fires on the World War  II-era ship; said; officials)
+0.97 Context(The crash of the two - seat T - 2 Buckeye caused several fires on the World War II-era ship said,List([0, 147))):(The crash of the two-seat T-2 Buckeye; caused; several fires on the World War  II-era ship)
+
+Cmdr.
+
+Dennis Hessler, spokesman for the chief of naval education and training  at Pensacola, said he did not know whether the plane was taking off or landing  at the time of the crash.
+0.89 (the plane; landing; T:at the time of the crash)
+0.88 (Dennis Hessler; said; he did not know whether the plane was taking off or landing  at the time of the crash)
+0.50 Context(Dennis Hessler said,List([0, 91))):(he; did not know; whether the plane was taking off or landing  at the time of the crash)
+0.68 Context(Dennis Hessler said he did not know,List([0, 107))):(the plane; was taking off; )
+0.89 (Dennis Hessler; [is] spokesman for; the chief)
+
+It was unclear how many people were aboard the jet.
+
+The crash also did major damage to two aircraft on the flight deck and minor  damage to another, a Pentagon spokesman said.
+0.98 (The crash also did major damage to two aircraft on the flight deck and minor  damage to another; said; a Pentagon spokesman)
+0.93 Context(The crash also did major damage to two aircraft on the flight deck and minor damage to another said,List([0, 122))):(The crash; did; major damage; to two aircraft on the flight deck and minor  damage to another)
+
+The Lexington, the Navy's oldest aircraft carrier, was 17 miles south of its  home port of Pensacola when the accident occurred, Coast Guard Lt. Mark Kasper  said in New Orleans.
+0.73 (the accident; occurred; )
+0.91 (The Lexington, the Navy's oldest aircraft carrier, was 17 miles south of its  home port of Pensacola; said; L:in New Orleans)
+0.88 Context(The Lexington , the Navy 's oldest aircraft carrier , was 17 miles south of its home port of Pensacola said,List([0, 162))):(The Lexington; was; 17 miles south of its  home port of Pensacola)
+
+The jet was assigned to Training Squadron 19, based at the Meridian, Miss.,  Naval Air Station, the Navy said.
+0.98 (The jet was assigned to Training Squadron 19, based at the Meridian, Miss.,  Naval Air Station; said; the Navy)
+0.90 Context(The jet was assigned to Training Squadron 19 , based at the Meridian , Miss . , Naval Air Station said,List([0, 109))):(The jet; was assigned; to Training Squadron 19)
+
+The victims' identities were being withheld  pending notification of next of kin.
+0.92 (The victims' identities; were being withheld; T:pending notification of next of kin)
+
+Navy helicopters took the injured to hospitals, Kasper said.
+0.97 (Navy helicopters took the injured to hospitals; said; Kasper)
+0.91 Context(Navy helicopters took the injured to hospitals said,List([0, 59))):(Navy helicopters; took; the injured; to hospitals)
+
+A burn victim was  taken to the University of South Alabama Medical Center in Mobile.
+0.95 (A burn victim; was taken; to the University of South Alabama Medical Center in Mobile)
+
+Kasper said that the Coast Guard sent a jet from Mobile to fly a team of  ordnance experts in Panama City to Pensacola because the Navy apparently was  concerned that fuel cells aboard the jet might explode after being damaged in  the crash.
+0.80 (Kasper; said; that the Coast Guard sent a jet from Mobile)
+0.91 Context(Kasper said,List([0, 11))):(the Coast Guard; sent; a jet; from Mobile; to fly a team of  ordnance experts in Panama City to Pensacola; because the Navy apparently was  concerned that fuel cells aboard the jet might explode after being damaged in  the crash)
+0.91 (fuel cells aboard the jet; after being damaged; L:in  the crash)
+0.88 (the Navy; apparently was; concerned that fuel cells aboard the jet might explode after being damaged in  the crash)
+0.93 (fuel cells aboard the jet; might explode; T:after being damaged in  the crash)
+
+The 46-year-old Lexington is the only aircraft carrier used by the Navy  exclusively for training.
+0.98 (The 46-year-old Lexington; is; the only aircraft carrier used by the Navy  exclusively for training)
+0.93 (the only aircraft carrier; used; by the Navy; exclusively for training)
+

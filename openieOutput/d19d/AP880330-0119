@@ -1,0 +1,77 @@
+If the two sides trying to force changes in the 1990 census both get their way, the results would nearly balance one another, a population expert said Wednesday.
+0.89 (the two sides; trying; to force changes in the 1990 census)
+0.89 Context(the two sides trying,List([3, 23))):(the two sides; trying to force; changes in the 1990 census)
+0.92 (If the two sides trying to force changes in the 1990 census both get their way, the results would nearly balance one another; said; T:Wednesday)
+0.72 Context(If the two sides trying to force changes in the 1990 census both get their way , the results would nearly balance one another said,List([0, 150))):(the results; would nearly balance; one another)
+
+The Census Bureau is under pressure to exclude illegal aliens from its national head count.
+0.95 (The Census Bureau; is; under pressure)
+
+Traditionally, it counts everyone living in the country.
+0.89 (everyone; living; L:in the country)
+
+Groups which have filed suit to ignore the aliens contend large concentrations of them could result in in some states gaining seats in the House of Representatives at the expense of other states.
+0.92 (some states; gaining; seats in the House of Representatives)
+0.81 (Groups which have filed suit; contend; large concentrations of them)
+0.85 Context(Groups which have filed suit contend,List([0, 57))):(Groups; have filed; suit; to ignore the aliens)
+0.85 Context(Groups which have filed suit contend,List([0, 57))):(Groups; have filed suit to ignore; the aliens)
+0.37 Context(Groups which have filed suit contend,List([0, 57))):(large concentrations of them; could result; in)
+
+Meanwhile, other groups want the final census totals to be increased to account for people who may be overlooked in the census _ most often blacks and Hispanics living in urban areas.
+0.88 (people; may be overlooked; L:in the census)
+0.94 (most often blacks and Hispanics; living; L:in urban areas)
+0.96 (other groups; want; the final census totals to be increased to account for people; T:Meanwhile)
+0.90 Context(other groups want,List([11, 28))):(the final census totals; to be increased; to account for people)
+
+At stake are the 435 seats in the House, which are distributed among the states on the basis of population.
+0.92 (At stake; are; the 435 seats in the House)
+0.94 (the 435 seats in the House; are distributed; L:among the states)
+0.50 (stake; are the 435 seats in; the House)
+
+``If both sides get their way, the only change would be a flip-flop of one seat from California to Georgia,'' said William O'Hare, director of policy studies for the independent Population Reference Bureau.
+0.87 (both sides; get; their way)
+0.98 (the only change would be a flip-flop of one seat from California to Georgia; said; William O'Hare)
+0.94 Context(the only change would be a flip - flop of one seat from California to Georgia said,List([31, 114))):(the only change; would be; a flip-flop of one seat from California to Georgia)
+0.39 (William O'Hare; [is] director of; policy studies)
+
+O'Hare told a breakfast briefing for Northeast and Midwest members of Congress that he estimates their region will lose 14 House seats following the 1990 census.
+0.82 (O'Hare; told; a breakfast briefing for Northeast and Midwest members of Congress; that he estimates their region will lose 14 House seats following the 1990 census)
+0.40 Context(O'Hare told,List([0, 11))):(he; estimates; their region will lose 14 House seats following the 1990 census)
+0.62 Context(O'Hare told he estimates,List([0, 96))):(their region; will lose; 14 House seats following the 1990 census)
+
+That would continue a trend evident over the last several decades, he noted.
+0.94 (That would continue a trend evident over the last several decades; noted; he)
+0.33 Context(That would continue a trend evident over the last several decades noted,List([0, 75))):(That; would continue; a trend evident over the last several decades)
+
+Using estimates of the number of illegal aliens and undercounted minorities, he said that deleting the one group and adding in the other would make little difference in the long run.
+0.27 (he; said; that deleting the one group and adding in the other would make little difference in the long run)
+0.93 Context(he said,List([77, 84))):(deleting the one group and adding in the other; would make; little difference; T:in the long run)
+
+The only change, he said, would be that California would gain five new seats instead of six, while Georgia would add two rather than just one.
+0.33 (he; said; would be that California would gain five new seats instead of six)
+0.80 (Georgia; would add; two rather than just one)
+0.82 (The only change; would be; that California would gain five new seats instead of six)
+0.90 Context(The only change would be,List([0, 34))):(California; would gain; five new seats instead of six)
+
+``That's easy to understand, since there are so many undocumented aliens in California,'' he commented.
+0.85 (That's easy to understand, since there are so many undocumented aliens in California; commented; he)
+0.30 Context(That 's easy to understand , since there are so many undocumented aliens in California commented,List([2, 102))):(That; 's; easy to understand; since there are so many undocumented aliens in California)
+0.38 (there; are so many undocumented aliens in; California)
+
+O'Hare's study of potential changes in House seats _ based on 1990 projections with no adjustments _ calls for California to be the big gainer, adding six House seats, followed by Florida with a gain of four and Texas adding three.
+0.99 (O'Hare's study of potential changes in House seats _ based on 1990 projections with no adjustments; calls; for California to be the big gainer)
+0.92 (California; to be; the big gainer)
+0.78 (six House seats; followed; )
+
+Expected to pick up one seat each are Virginia, North Carolina, Georgia, and Arizona.
+0.59 (each; are; Virginia, North Carolina, Georgia, and Arizona)
+
+On the other hand New York would lose three seats.
+0.93 (New York; would lose; three seats)
+
+States losing two apiece would be Pennsylvania, Ohio, Illinois and Michigan.
+0.74 (States; losing apiece; two)
+0.93 (States losing two apiece; would be; Pennsylvania, Ohio, Illinois and Michigan)
+
+Expected to lose one house seat are Massachusetts, Wisconsin, Iowa, Kansas, West Virginia and Montana.
+

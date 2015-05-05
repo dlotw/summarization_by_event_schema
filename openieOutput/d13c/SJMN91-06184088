@@ -1,0 +1,123 @@
+But Sen. Howard Metzenbaum, D-Ohio, said the Senate Judiciary Committee, in confirming four justices without learning how they felt about abortion, has "given them a free ride" and should be tougher in ferreting out Thomas' views.;    "The failure to give an answer may cause me and others to be unwilling to vote for his confirmation," Metzenbaum said on "CBS This Morning.";
+0.94 (the Senate Judiciary Committee; should be; tougher in ferreting out Thomas' views)
+0.88 (The failure to give an answer may cause me and others to be unwilling to vote for his confirmation; said; T:on "CBS This Morning)
+0.90 Context(The failure to give an answer may cause me and others to be unwilling to vote for his confirmation said,List([236, 352))):(Sen. Howard Metzenbaum; said; the Senate Judiciary Committee, in confirming four justices without learning how they felt about abortion, has "given them a free ride" and should be tougher in ferreting out Thomas' views)
+0.78 Context(Sen. Howard Metzenbaum said The failure to give an answer may cause me and others to be unwilling to vote for his confirmation said,List([4, 352))):(the Senate Judiciary Committee; has given; them; a free ride)
+0.91 Context(Sen. Howard Metzenbaum said the Senate Judiciary Committee has given The failure to give an answer may cause me and others to be unwilling to vote for his confirmation said,List([4, 352))):(the Senate Judiciary Committee; has given them in confirming; four justices)
+0.85 Context(The failure to give an answer may cause me and others to be unwilling to vote for his confirmation said,List([236, 352))):(The failure to give an answer; may cause; me and others)
+0.45 Context(The failure to give an answer may cause me and others to be unwilling to vote for his confirmation said,List([236, 352))):(me and others; to be; unwilling to vote for his confirmation)
+
+Sen. Arlen Specter, R-Pa., noted that Metzenbaum did not press Justice David Souter during confirmation hearings about his position on abortion.
+0.78 (Sen. Arlen Specter; noted; that Metzenbaum did not press Justice David Souter during confirmation hearings about his position on abortion)
+0.86 Context(Sen. Arlen Specter noted,List([0, 32))):(Metzenbaum; did not press; Justice David Souter; T:during confirmation hearings about his position on abortion)
+0.39 (David Souter; [is] Justice [of]; press)
+
+"I do not think it is appropriate to ask a nominee the ultimate question as to how he is going to decide a specific case," Specter said.;    "I will not support yet another Reagan-Bush Supreme Court nominee who remains silent on a woman's right to choose, and then ascends to the court to weaken that right," said Metzenbaum, the only member of the Judiciary Committee who voted against Thomas' nomination to the Circuit Court of Appeals to the District of Columbia.;
+0.97 (the only member of the Judiciary Committee; voted; against Thomas' nomination to the Circuit Court of Appeals to the District of Columbia)
+0.95 (another Reagan-Bush Supreme Court nominee; remains; silent on a woman's right)
+1.00 (I do not think it is appropriate to ask a nominee the ultimate question as to how he is going to decide a specific case," Specter said.;    "I will not support yet another Reagan-Bush Supreme Court nominee who remains silent on a woman's right to choose, and then ascends to the court to weaken that right; said; Metzenbaum)
+0.43 Context(I do not think it is appropriate to ask a nominee the ultimate question as to how he is going to decide a specific case , " Specter said . ; " I will not support yet another Reagan - Bush Supreme Court nominee who remains silent on a woman 's right to choose , and then ascends to the court to weaken that right said,List([1, 313))):(I; will not support; T:yet; another Reagan-Bush Supreme Court nominee)
+0.96 Context(I do not think it is appropriate to ask a nominee the ultimate question as to how he is going to decide a specific case , " Specter said . ; " I will not support yet another Reagan - Bush Supreme Court nominee who remains silent on a woman 's right to choose , and then ascends to the court to weaken that right said,List([1, 313))):(I do not think it is appropriate to ask a nominee the ultimate question as to how he is going to decide a specific case; said; Specter)
+0.36 Context(I do not think it is appropriate to ask a nominee the ultimate question as to how he is going to decide a specific case , " Specter said . ; " I will not support yet another Reagan - Bush Supreme Court nominee who remains silent on a woman 's right to choose , and then ascends to the court to weaken that right said,List([1, 313))):(I; do not think; it is appropriate to ask a nominee the ultimate question as to how he is going to decide a specific case)
+0.41 (he; to decide; a specific case)
+0.38 (Metzenbaum; [is] the only member of; the Judiciary Committee)
+
+Sen. Orrin Hatch, R-Utah, said on NBC's "Today" show that "literally nobody nominated for the Supreme Court should give his or her views with regard to cases that might come up in the future.";
+0.92 (literally nobody; nominated; for the Supreme Court)
+0.88 (cases; might come up; T:in the future)
+0.78 (Sen. Orrin Hatch; said; T:on NBC's "Today; show that "literally nobody nominated for the Supreme Court should give his or her views with regard to cases)
+
+But Sen. Patrick Leahy, D-Vt., said "in the past few months alone the Supreme Court is throwing out past decisions, and I think it is legitimate to ask Judge Thomas, what do you think of settled law, like Roe vs. Wade (legitimatizing abortion), what do you think of a woman's right to privacy, free speech issues, issues of freedom of religion.";
+0.89 (Sen. Patrick Leahy; said; T:in the past few months alone; the Supreme Court is throwing out past decisions, and I think it is legitimate to ask Judge Thomas, what do you think of settled law, like Roe vs. Wade (legitimatizing abortion), what do you think of a woman's right to privacy, free speech issues, issues of freedom of religion)
+0.91 Context(Sen. Patrick Leahy said,List([4, 35))):(the Supreme Court; is throwing out; past decisions)
+0.48 (I; think; it is legitimate to ask Judge Thomas, what do you think of settled law, like Roe vs. Wade (legitimatizing abortion)
+0.48 Context(I think,List([120, 127))):(it; is; legitimate to ask Judge Thomas, what do you think of settled law, like Roe vs. Wade (legitimatizing abortion)
+
+Civil rights groups have opposed Thomas on grounds he was insensitive to the concerns of minorities and the elderly as chairman of the federal Equal Employment Opportunities Commission in the 1980s.;
+0.91 (Civil rights groups; have opposed; Thomas; L:on grounds he was insensitive to the concerns of minorities and the elderly as chairman of the federal Equal Employment Opportunities Commission in the 1980s)
+0.68 (he; was; insensitive to the concerns of minorities and the elderly as chairman of the federal Equal Employment Opportunities Commission in the 1980s)
+
+"The fact that he is an African-American should not be a basis for avoiding very careful scrutiny of his civil rights record," said Julius L. Chambers, director of the NAACP Legal Defense and Education Fund.;
+0.57 (he; is; an African-American)
+0.94 (The fact that he is an African-American should not be a basis for avoiding very careful scrutiny of his civil rights record; said; Julius L. Chambers)
+0.77 Context(The fact that he is an African - American should not be a basis for avoiding very careful scrutiny of his civil rights record said,List([1, 131))):(The fact that he is an African-American; should not be; a basis for avoiding very careful scrutiny of his civil rights record)
+0.38 (Julius L. Chambers; [is] director of; the NAACP Legal Defense and Education Fund)
+
+While some Democrats immediately blasted the nomination, the party's biggest guns held their fire.;
+0.95 (some Democrats; blasted; the nomination; T:immediately)
+0.95 (the party's biggest guns; held; their fire; T:While some Democrats immediately blasted the nomination)
+
+Judiciary Committee Chairman Joseph Biden, D-Del.; Senate Majority Leader George Mitchell, D-Maine; and Sen. Edward M. Kennedy, D-Mass., all promised a thorough review of the nomination.;
+0.95 (Senate Majority Leader George Mitchell, D-Maine; and Sen. Edward M. Kennedy; promised; a thorough review of the nomination)
+
+Confirmation hearings are expected to begin after Congress' August recess.;
+0.73 (Confirmation hearings; are expected; )
+0.90 (Confirmation hearings; to begin; T:after Congress' August recess)
+
+Thomas, 43, would strengthen the 6-3 conservative majority on the nine member court.
+0.91 (Thomas; would strengthen; the 6-3 conservative majority on the nine member court)
+
+An unabashed conservative, he would succeed the court's leading liberal -- and first and only black justice.;    Bush rejected suggestions that he chose Thomas because he wanted to keep a black in that seat.;    "I kept my word to the American people and to the Senate by picking the best man for the job on the merits.
+0.35 (I; kept; my word; to the American people and to the Senate)
+0.52 Context(I kept,List([213, 219))):(Bush; rejected; suggestions that he chose Thomas)
+0.50 Context(Bush rejected I kept,List([113, 219))):(he; would succeed; the court's leading liberal -- and first and only black justice)
+0.29 Context(I kept,List([213, 219))):(I; kept my word by picking; the best man for the job on the merits)
+0.24 (he; chose; Thomas; because he wanted to keep a black in that seat)
+0.19 (he; wanted; to keep a black in that seat)
+0.19 Context(he wanted,List([168, 177))):(he; wanted to keep; a black; in that seat)
+
+And the fact he's minority, so much the better," Bush said at a news conference outside his vacation home in Kennebunkport, Maine.;    Potential opponents of the nominee promised in their statements to ignore Thomas' race when they examine his record.;    "The background of Judge Clarence Thomas is less important than his views and what they mean to protecting our constitutional rights," said Sen. Paul Simon, D-Ill.;
+1.00 (the fact he's minority, so much the better," Bush said at a news conference outside his vacation home in Kennebunkport, Maine.;    Potential opponents of the nominee promised in their statements to ignore Thomas' race when they examine his record.;    "The background of Judge Clarence Thomas is less important than his views and what they mean to protecting our constitutional rights; said; Sen. Paul Simon)
+0.92 Context(the fact he 's minority , so much the better , " Bush said at a news conference outside his vacation home in Kennebunkport , Maine . ; Potential opponents of the nominee promised in their statements to ignore Thomas ' race when they examine his record . ; " The background of Judge Clarence Thomas is less important than his views and what they mean to protecting our constitutional rights said,List([4, 395))):(Potential opponents of the nominee; promised; L:in their statements; to ignore Thomas' race; T:so much)
+0.91 Context(the fact he 's minority , so much the better , " Bush said at a news conference outside his vacation home in Kennebunkport , Maine . ; Potential opponents of the nominee promised in their statements to ignore Thomas ' race when they examine his record . ; " The background of Judge Clarence Thomas is less important than his views and what they mean to protecting our constitutional rights said,List([4, 395))):(The background of Judge Clarence Thomas; is; less important than his views)
+0.40 Context(the fact he 's minority , so much the better , " Bush said at a news conference outside his vacation home in Kennebunkport , Maine . ; Potential opponents of the nominee promised in their statements to ignore Thomas ' race when they examine his record . ; " The background of Judge Clarence Thomas is less important than his views and what they mean to protecting our constitutional rights said,List([4, 395))):(they; mean; to protecting our constitutional rights)
+0.80 Context(the fact he 's minority , so much the better , " Bush said at a news conference outside his vacation home in Kennebunkport , Maine . ; Potential opponents of the nominee promised in their statements to ignore Thomas ' race when they examine his record . ; " The background of Judge Clarence Thomas is less important than his views and what they mean to protecting our constitutional rights said,List([4, 395))):(Potential opponents of the nominee; promised to ignore; Thomas' race; T:when they examine his record)
+0.46 (they; examine; his record)
+
+When head of the EEOC during the Reagan administration, Thomas "seemed to go out of his way to find ways to weaken some of the basic civil rights protections," said Simon, a member of the Senate Judiciary Committee.;
+0.84 (Thomas; to go; out of his way)
+0.38 (Simon; [is] a member of; the Senate Judiciary Committee)
+
+On a number of occasions Thomas has expressed objections to racial quotas.
+0.95 (Thomas; has expressed; objections to racial quotas; L:On a number of occasions)
+
+In a 1985 statement, Thomas said, "Federal enforcement agencies . . .
+0.94 (Thomas; said; Federal enforcement agencies; L:In a 1985 statement)
+
+turned the statutes on their heads by requiring discrimination in the form of hiring and promotion quotas, so-called goals and timetables.";
+
+In a 1987 article for the Yale Law &amp; Policy Review he referred to affirmative action as "social engineering.";
+0.74 (he; referred; to affirmative action as "social engineering; L:In a 1987 article for the Yale Law &amp)
+
+"I don't want my vote to contribute to an increasingly large and conservative anti-choice majority on the Supreme Court," said Sen. Alan Cranston, D-Calif.;    Thomas said he looked forward to the confirmation process "and to be an example to those who are where I was, and to show them that, indeed, there is hope.";
+0.12 (those; are; where I was)
+0.24 (I; was; )
+0.74 (Thomas; said; he looked forward to the confirmation process "and to be an example to those who are where I was, and to show them that, indeed, there is hope)
+0.91 Context(Thomas said,List([160, 171))):(I don't want my vote to contribute to an increasingly large and conservative anti-choice majority on the Supreme Court; said; Sen. Alan Cranston)
+0.40 Context(I do n't want my vote to contribute to an increasingly large and conservative anti-choice majority on the Supreme Court said Thomas said,List([1, 171))):(I; do n't want; my vote to contribute to an increasingly large and conservative anti-choice majority on the Supreme Court)
+0.72 Context(I do n't want my vote to contribute to an increasingly large and conservative anti-choice majority on the Supreme Court said Thomas said,List([1, 171))):(my vote; to contribute; to an increasingly large and conservative anti-choice majority on the Supreme Court)
+0.39 Context(Thomas said,List([160, 171))):(he; looked; forward; to the confirmation process)
+
+Thomas declined to answer questions about his legal views until his hearings.;
+0.89 (Thomas; declined; to answer questions about his legal views until his hearings)
+0.83 Context(Thomas declined,List([0, 15))):(Thomas; declined to answer; questions about his legal views)
+
+WHAT'S NEXT?; Now that President Bush has nominated Clarence Thomas to the Supreme Court, the next step is up to the Senate.;
+0.94 (President Bush; has nominated; Clarence Thomas; to the Supreme Court)
+0.93 (the next step; is; up to the Senate; T:Now that President Bush has nominated Clarence Thomas to the Supreme Court)
+
+(box)The Senate Judiciary Committee is expected to begin confirmation hearings in September, after the August recess.;
+0.82 (The Senate Judiciary Committee; is expected; )
+0.94 (The Senate Judiciary Committee; to begin; confirmation hearings; T:in September)
+
+(box)After the committee makes a recommendation, the nomination will be voted on by the full Senate.;
+0.90 (the committee; makes; a recommendation)
+0.95 (the nomination; will be voted on; by the full Senate; T:After the committee makes a recommendation)
+
+(box)If confirmed promptly, Thomas could be on the Supreme Court by the time it begins hearing cases in October.;
+0.93 (Thomas; could be; on the Supreme Court; T:by the time)
+0.58 (it; begins; hearing cases in October; T:the time)
+0.43 Context(it begins,List([77, 86))):(it; begins hearing; cases; T:in October)
+
+Source: Mercury News Wire Services; CLARENCE THOMAS; Born: June 23, 1948, in Pinpoint, Ga.; Education: B.A. from Holy Cross College, 1971; J.D. from Yale Law School, 1974.; Career:; (box) 1974-'77: assistant attorney general, state of Missouri; (box) 1977-'79: attorney, Monsanto Co.; (box) 1979-'81: legislative assistant to Sen. John Danforth, R-Mo.; (box) 1981-'82: assistant secretary for civil rights, Education Department; (box) 1982-'90: chairman of the Equal Employment Opportunity Commission; (box) 1990-: U.S. Circuit Court of Appeals for
+

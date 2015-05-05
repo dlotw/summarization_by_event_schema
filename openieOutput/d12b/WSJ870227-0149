@@ -1,0 +1,131 @@
+While there is agreement in virtually every quarter that something needs to be done about welfare, disagreement remains over exactly what to do.
+0.89 (something; needs; to be done about welfare)
+0.88 (something; to be done; about welfare)
+0.75 (disagreement; remains; over exactly what to do)
+0.50 (there; is agreement in; virtually every quarter)
+
+The White House has a formula for welfare reform, as do Sens.
+0.95 (The White House; has; a formula for welfare reform)
+
+Moynihan and Kennedy.
+
+Now the nation's governors are asking Washington to adopt their plan.
+0.93 (the nation's governors; are asking; Washington; to adopt their plan; T:Now)
+0.86 (Washington; to adopt; their plan)
+
+Meeting this week in Washington, the governors said they want to transform the current welfare system -- largely an income-maintenance system -- into more of a job-support system.
+0.86 (the governors; said; they want to transform the current welfare system -- largely an income-maintenance system -- into more of a job-support system)
+0.72 Context(the governors said,List([33, 51))):(they; want; to transform the current welfare system -- largely an income-maintenance system -- into more of a job-support system)
+0.55 Context(the governors said they want,List([33, 61))):(they; want to transform; the current welfare system; into more of a job-support system)
+
+They would require all able-bodied welfare recipients (except mothers with children under 3 years of age) to work in exchange for their benefits.
+0.58 (They; would require; all able-bodied welfare recipients (except mothers with children under 3 years of age; to work in exchange for their benefits)
+0.94 (all able-bodied welfare recipients (except mothers with children under 3 years of age; to work; L:in exchange for their benefits)
+
+Those who do would be eligible for help with education and training, day care and transportation.
+0.28 (Those; do; )
+0.70 (Those who do; would be; eligible for help with education and training, day care and transportation)
+
+Many states already have launched work-for-welfare experiments.
+0.93 (Many states; have launched; work-for-welfare experiments; T:already)
+
+The results in Massachusetts, California, Illinois, Pennsylvania and Utah have been promising.
+0.83 (The results in Massachusetts, California, Illinois, Pennsylvania and Utah; have been promising; )
+
+Substantial numbers of welfare recipients have moved into jobs and off the public rolls.
+0.93 (Substantial numbers of welfare recipients; have moved; into jobs and off the public rolls)
+
+These successes have encouraged the governors of New York, New Jersey, Washington and Missouri to undertake their own reform programs.
+0.91 (These successes; have encouraged; the governors of New York, New Jersey, Washington and Missouri; to undertake their own reform programs)
+0.90 (the governors of New York, New Jersey, Washington and Missouri; to undertake; their own reform programs)
+
+The leaders of the National Governors Association came away from a White House meeting this past Tuesday pleasantly surprised that they were able to reach an accord with the president on many points.
+0.89 (The leaders of the National Governors Association; came; away from a White House meeting; T:this past Tuesday; T:pleasantly surprised that they were able to reach an accord with the president on many points)
+0.58 (they; to reach; an accord with the president on many points)
+
+The conference's chairman, Democratic Gov. Bill Clinton of Arkansas, even backed off earlier criticism of the administration's welfare plan, saying after the White House meeting, "I feel better about the prospects of welfare reform than I did yesterday."
+0.52 (I; did; T:yesterday)
+0.89 (The conference's chairman; even backed off; earlier criticism of the administration's welfare plan; saying after the White House meeting, "I feel better about the prospects of welfare reform)
+0.85 Context(The conference 's chairman even backed off,List([0, 84))):(The conference's chairman; even backed off earlier criticism of the administration's welfare plan saying; T:after the White House meeting)
+0.39 Context(The conference 's chairman even backed off saying,List([0, 147))):(I; feel; better about the prospects of welfare reform)
+0.39 (Democratic Gov. Bill Clinton; [is] chairman [of]; conference)
+
+That is not to say the president agreed with the governors on every count.
+0.50 (That; is not; to say the president agreed with the governors on every count)
+
+One item on the governors' agenda that Mr. Reagan didn't go for was a national minimum level for an individual recipients's welfare benefits.
+0.82 (Mr. Reagan; did n't go; for)
+0.99 (One item on the governors' agenda that Mr. Reagan didn't go for; was; a national minimum level for an individual recipients's welfare benefits)
+
+By endorsing a federal welfare standard, the administration would undercut its own proposal to give the states wider latitude to set their own welfare criteria and standards, tailored to their populations.
+0.83 (the administration; would undercut; its own proposal to give the states wider latitude)
+0.81 (the states; to set; their own welfare criteria and standards)
+
+The most unattractive feature of the governors' welfare plan is its price tag -- up to $2 billion a year on top of the $100 billion-plus already devoted to assorted anti-poverty programs.
+0.94 (The most unattractive feature of the governors' welfare plan; is; its price tag)
+0.73 (the $100 billion-; devoted; to assorted anti-poverty programs; T:already)
+
+However committed the administration and Congress may be to reform, they're unlikely to endorse a plan that increases the deficit.
+0.89 (a plan; increases; the deficit)
+0.80 (Congress; may be; to reform)
+0.74 (Congress; to reform; )
+0.68 (they; 're; unlikely to endorse a plan)
+0.33 (they; to endorse; a plan that increases the deficit)
+
+The governors argue that by spending the extra $2 billion a year, the federal government would be making an investment.
+0.81 (The governors; argue; that by spending the extra $2 billion a year, the federal government would be making an investment)
+0.89 Context(The governors argue,List([0, 19))):(the federal government; would be making; an investment)
+
+By setting aside more money for job training, day care and other support, they say, taxpayers would ultimately realize savings as welfare recipients are weaned from the public rolls.
+0.68 (they; say; taxpayers would ultimately realize savings as welfare recipients are weaned from the public rolls)
+0.89 (taxpayers; would ultimately realize; savings; T:as welfare recipients are weaned from the public rolls)
+0.90 (welfare recipients; are weaned; from the public rolls)
+
+But taxpayers can be forgiven if they view this part of the governors' argument with skepticism.
+0.71 (taxpayers; can be forgiven; )
+0.62 (they; view; this part of the governors' argument with skepticism)
+
+After all, Americans have spent more than $1 trillion over the past two decades to alleviate poverty and curb dependency without seeing evidence of an appreciable return on their substantial investment.
+0.88 (Americans; have spent; more than $1 trillion; T:over the past two decades; to alleviate poverty and curb dependency without seeing evidence of an appreciable return on their substantial investment)
+0.85 Context(Americans have spent,List([11, 31))):(Americans; have spent to alleviate; poverty)
+0.85 Context(Americans have spent,List([11, 31))):(Americans; have spent to curb; dependency)
+
+An extra $2 billion a year added to the present anti-poverty programs (which, as we have mentioned before, if simply handed out in cash would be enough to lift every poor household in America above poverty) is unlikely to accomplish all that the governors promise.
+0.94 (An extra $2 billion a year; added; to the present anti-poverty programs)
+0.98 (An extra $2 billion a year added to the present anti-poverty programs (which, as we have mentioned before, if simply handed out in cash would be enough to lift every poor household in America above poverty); is; unlikely to accomplish all)
+0.23 (we; have mentioned; T:before)
+0.97 (An extra $2 billion a year added to the present anti-poverty programs (which, as we have mentioned before, if simply handed out in cash would be enough to lift every poor household in America above poverty); to accomplish; all that the governors promise)
+0.48 (all; promise; the governors)
+0.95 (the present anti-poverty programs; would be; enough to lift every poor household in America above poverty)
+
+Oversold political programs and promises are largely what got us into this mess.
+0.84 (Oversold political programs and promises; are largely; what got us into this mess)
+
+Nonetheless there is merit in the governors' plan, as there is in the administration's reform proposals, and in the reform bills under consideration in the Senate.
+0.50 (there; is merit in; the governors)
+
+Most important, the governors would require that welfare recipients do something productive in exchange for their benefits, be it completing school, receiving vocational training or holding a job.
+0.41 (it; receiving; vocational training)
+0.70 (the governors; would require; that welfare recipients do something productive in exchange for their benefits, be it completing school, receiving vocational training or holding a job)
+0.84 Context(the governors would require,List([16, 43))):(welfare recipients; do; something productive; L:in exchange for their benefits)
+
+Only by requiring individual initiative and productivity can welfare recipients ever achieve self-sufficiency.
+0.94 (can welfare recipients; achieve; self-sufficiency; T:ever)
+
+The degree of consensus forming around welfare reform is unusual.
+0.89 (consensus; forming; L:around welfare reform)
+0.82 (The degree of consensus; is; unusual)
+
+All the important players -- the president, the governors and congressional leaders -- agree that the goal of such reform is to transform the welfare system into one that enables poor families to achieve, in the president's words, "real and lasting emancipation" from welfare dependency.
+0.82 (All the important players; agree; that the goal of such reform is to transform the welfare system into one)
+0.93 Context(All the important players agree,List([0, 92))):(the goal of such reform; is; to transform the welfare system into one)
+0.92 (one; enables; poor families; to achieve, in the president's words, "real and lasting emancipation" from welfare dependency)
+0.93 (poor families; to achieve; in the president's words, "real and lasting emancipation" from welfare dependency)
+
+On this point, at least, there doesn't seem to be much conflict.
+
+Since all of the principals agree on the ultimate goal of welfare reform, it seems reasonable to expect that they can achieve a plan of action.
+0.92 (all of the principals; agree; on the ultimate goal of welfare reform)
+0.10 (it; to expect; that they can achieve a plan of action)
+0.56 Context(it to expect,List([74, 103))):(they; can achieve; a plan of action)
+

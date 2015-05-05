@@ -1,0 +1,119 @@
+In his State of the Union address last January, President Reagan announced that welfare reform would be a priority of his administration in its final three years.
+0.87 (President Reagan; announced; that welfare reform would be a priority of his administration in its final three years; L:In his State of the Union address last January)
+0.86 Context(President Reagan announced,List([48, 74))):(welfare reform; would be; a priority of his administration in its final three years)
+
+He instructed his charges to draw up plans for "immediate action" that would enable poor families to achieve "real and lasting emancipation" from welfare dependency.
+0.31 (He; instructed; his charges; to draw up plans for "immediate action)
+0.64 (his charges; to draw up; plans for "immediate action)
+0.93 (immediate action; would enable; poor families; to achieve "real and lasting emancipation" from welfare dependency)
+0.89 (poor families; to achieve; real and lasting emancipation; from welfare dependency)
+
+"The success of welfare," he said, "should be judged by how many of its recipients become independent of welfare."
+0.37 (he; said; should be judged by how many of its recipients become independent of welfare)
+0.89 (The success of welfare; should be judged; by how many of its recipients become independent of welfare)
+0.70 (how many of its recipients; become; independent of welfare)
+
+The president's convincing message raised hopes that something would finally be done to break the cycle of poverty and dependency that afflicts several million welfare families.
+0.82 (The president's convincing message; raised; hopes that something would finally be done)
+0.91 (something; would be done; to break the cycle of poverty and dependency; T:finally)
+0.92 (the cycle of poverty and dependency; afflicts; several million welfare families)
+
+Americans have become increasingly exasperated by the enormous amount of money the federal government devotes each year to anti-poverty programs, with little apparent abatement in poverty.
+0.92 (Americans; have become; increasingly exasperated by the enormous amount of money)
+0.91 (Americans; increasingly exasperated; by the enormous amount of money)
+0.91 (the enormous amount of money; devotes; T:each year; to anti-poverty programs)
+
+The president correctly sensed that the public wants reform.
+0.72 (The president; correctly sensed; that the public wants reform)
+0.90 Context(The president correctly sensed,List([0, 30))):(the public; wants; reform)
+
+If the president lets up on welfare reform, he will disappoint those whose hopes he raised last January, a group that surely includes many of the poor who understand better than any politician how deficient the current system is.
+0.16 (he; will disappoint; those whose hopes he raised last January)
+0.24 (those; raised; T:last January)
+0.74 (a group; surely includes; many of the poor)
+0.25 (the poor; understand better; )
+0.80 (the current system; is; )
+
+To build on the momentum he created a year ago, the president must make plain his commitment in the State of the Union message next Tuesday.
+0.89 (the momentum; created; T:a year ago)
+0.88 (the president; must make; plain his commitment in the State of the Union message next Tuesday)
+
+To pull away now would be to undercut the welfare-reform movement just as it has hit its stride.
+0.66 (To pull away; would be; to undercut the welfare-reform movement just as it has hit its stride; T:now)
+
+The president ought to challenge Congress to respond to his initiatives.
+0.80 (The president; to challenge; Congress to respond to his initiatives)
+0.83 Context(The president to challenge,List([0, 32))):(Congress; to respond; to his initiatives)
+
+His Domestic Policy Council has drafted a blueprint.
+0.74 (His Domestic Policy Council; has drafted; a blueprint)
+
+It would give the states wider latitude to experiment with welfare programs.
+0.45 (It; would give; the states; wider latitude to experiment with welfare programs)
+0.89 (the states; to experiment; with welfare programs)
+
+Many of the governors seem to like the plan, as they have already unveiled their own proposals for welfare reform.
+0.77 (Many of the governors; seem; )
+0.91 (Many of the governors; to like; the plan)
+0.50 (they; have unveiled; their own proposals for welfare reform; T:already)
+
+The president and the governors should be natural allies on this issue, and the chances of success would be enhanced if they could jointly commit themselves to a plan of action.
+0.93 (The president and the governors; should be; natural allies on this issue)
+0.77 (the chances of success; would be enhanced; )
+0.46 (they; could jointly commit; themselves; to a plan of action)
+
+The president will need all the help he can get if he is to convince Democrats in Congress to go along.
+0.83 (The president; will need; all the help he can get)
+0.89 (all the help; can get; he)
+0.57 (he; is; to convince Democrats in Congress to go along)
+0.46 (he; to convince; Democrats; to go along)
+0.77 (Democrats; to go; along)
+
+Most have paid lip service to the idea of welfare reform but nary a bill has been put on the docket.
+0.38 (Most; have paid; lip service; to the idea of welfare reform)
+0.29 (Most; nary; a bill has been put on the docket)
+0.88 Context(Most nary,List([0, 65))):(a bill; has been put; on the docket)
+
+This suggests that the Democrats aren't as serious about welfare reform as the governors and the American public are.
+0.80 (the governors and the American public; are; )
+0.26 (This; suggests; that the Democrats aren't as serious about welfare reform)
+0.94 Context(This suggests,List([0, 13))):(the Democrats; are n't; as serious about welfare reform as the governors and the American public are)
+
+There is a reason for this.
+0.89 (There; is a reason for; this)
+
+The Democrats have long been beholden to the welfare lobby, whose interests now have less to do with alleviating poverty than with enlarging the welfare bureaucracy.
+0.94 (The Democrats; have been beholden; to the welfare lobby; T:long)
+0.96 (the welfare lobby; have; less to do with alleviating poverty than with enlarging the welfare bureaucracy; T:now)
+
+This past December, a coalition of some 80 organizations, most with headquarters in Washington, issued a "statement of principles" calling for increased spending for poverty and jobs programs.
+0.98 (most with headquarters in Washington; issued; a "statement of principles" calling for increased spending for poverty and jobs programs; T:This past December; T:a coalition of some 80 organizations)
+0.91 (a "statement of principles; calling; for increased spending for poverty and jobs programs)
+
+It also insisted that the federal government has "primary responsibility" for operating welfare.
+0.24 (It; insisted; that the federal government has "primary responsibility" for operating welfare)
+0.90 Context(It insisted,List([0, 16))):(the federal government; has; primary responsibility" for operating welfare)
+
+Congressional Democrats seem to be in agreement with the welfare lobby.
+0.79 (Congressional Democrats; seem; )
+0.91 (Congressional Democrats; to be; in agreement with the welfare lobby)
+
+However, the public wants the system changed.
+0.90 (the public; wants; the system changed)
+0.68 Context(the public wants,List([9, 25))):(the system; changed; )
+
+It will be difficult for Congress to sell restored or additional spending on current poverty programs when the American people are already spending more than $100 billion a year on these programs.
+0.23 (It; will be; difficult)
+0.95 (Congress; to sell; restored or additional spending on current poverty programs when the American people are already spending more than $100 billion a year on these programs)
+0.92 (the American people; are spending; more than $100 billion a year; on these programs; T:already)
+
+The president should take up his case for reform directly with the American people.
+0.83 (The president; should take up directly; his case for reform)
+
+With the alliance of reform-minded governors and the support of the public, the president can press Congress to move off the deadening status quo.
+0.92 (the president; can press; Congress; to move off the deadening status quo)
+0.92 (Congress; to move; off; the deadening status quo)
+
+With the ball in its court, Congress can decide either to work with the president and the governors, or it can continue to place the interests of the welfare lobby ahead of the interests of the poor.
+0.88 (Congress; can decide; either to work with the president and the governors, or it can continue to place the interests of the welfare lobby ahead of the interests of the poor)
+

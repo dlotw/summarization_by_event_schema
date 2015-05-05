@@ -1,0 +1,346 @@
+The welfare state, the glue that binds the social fabric of the world's advanced capitalist economies, is coming unstuck.
+0.94 (the glue; binds; the social fabric of the world's advanced capitalist economies)
+0.75 (The welfare state; is coming; unstuck)
+
+The immediate cause is its increasing cost at a time when budget deficits burden most of the 24 member states of the Organisation for Economic Co-operation and Development.
+0.88 (The immediate cause; is; its increasing cost; T:at a time)
+0.97 (budget deficits; burden; most of the 24 member states of the Organisation for Economic Co-operation and Development; T:a time)
+0.89 (The immediate cause; is its increasing cost at; a time)
+
+Rising welfare spending has been a significant factor in the average increase in net state borrowing of 3 percentage points of GDP across the OECD between 1989 and 1992.
+0.95 (Rising welfare spending; has been; a significant factor in the average increase in net state borrowing of 3 percentage points of GDP across the OECD between 1989 and 1992)
+
+In the longer term, there are fears that the cost of the welfare state could become insupportable as populations age over the next 50 years.
+0.93 (the cost of the welfare state; could become; insupportable; T:as populations age over the next 50 years)
+0.89 (populations; age; T:over the next 50 years)
+0.39 (there; are fears that; the cost)
+
+While short-term measures may ease the immediate budgetary pressures, more fundamental reforms will be needed if the welfare state is not to undermine the economic performance that has underpinned its enormous expansion since the second world war.
+0.92 (short-term measures; may ease; the immediate budgetary pressures)
+0.75 (more fundamental reforms; will be needed; )
+0.91 (the welfare state; is not; to undermine the economic performance)
+0.82 (the economic performance; has underpinned; its enormous expansion since the second world war)
+
+Reform of national welfare systems to bring costs under control is now on the political agenda throughout the OECD, as countries struggle to rein in government spending.
+0.94 (Reform of national welfare systems; is; T:now; on the political agenda throughout the OECD)
+0.87 (countries; struggle; to rein in government spending)
+0.87 Context(countries struggle,List([119, 137))):(countries; struggle to rein in; government spending)
+
+Total government spending in the OECD countries has risen from 28.1 per cent of GDP in 1960 to 43.8 per cent in 1990.
+0.96 (Total government spending in the OECD countries; has risen; from 28.1 per cent of GDP; T:in 1960; to 43.8 per cent; T:in 1990)
+
+The biggest element in this growth has been the cost of pensions, healthcare, unemployment benefits and family support.
+0.96 (The biggest element in this growth; has been; the cost of pensions, healthcare, unemployment benefits and family support)
+
+Social security payments more than doubled during this period, from 7 per cent of GDP to 15.4 per cent.
+0.94 (Social security payments; more than doubled; T:during this period; T:from 7 per cent of GDP to 15.4 per cent)
+
+Health expenditure also doubled, from 3.9 per cent to 7.8 per cent.
+0.70 (Health expenditure; doubled; )
+
+The largest single budget item in most welfare states is the cost of publicly provided pensions.
+0.96 (The largest single budget item in most welfare states; is; the cost of publicly provided pensions)
+0.39 (most welfare states; is the cost of; publicly provided pensions)
+
+Expenditure has risen rapidly in recent decades, more than doubling its average share of GDP in OECD countries since 1960.
+0.89 (Expenditure; has risen rapidly; T:in recent decades)
+
+Pensions typically account for about a quarter of the increase in public expenditure over this period.
+0.95 (Pensions; account; for about a quarter of the increase in public expenditure over this period; T:typically)
+
+The growth is largely attributable to three factors: The increase in coverage as pension schemes introduced after the second world war mature.
+0.93 (The growth; is; largely attributable to three factors)
+0.90 (pension schemes; introduced; T:after the second world war mature)
+
+The rise in the number of elderly people.
+
+Improvements in pension benefits, such as automatic increases to match rising earnings.
+
+The maturing of the welfare state is also a significant factor in the doubling of health expenditure since 1960.
+0.96 (The maturing of the welfare state; is also; a significant factor in the doubling of health expenditure since 1960)
+
+Countries such as Spain, Ireland and the Netherlands have been extending their public healthcare systems to provide universal coverage.
+0.91 (Countries such as Spain, Ireland and the Netherlands; have been extending; their public healthcare systems; to provide universal coverage)
+0.95 Context(Countries such as Spain , Ireland and the Netherlands have been extending,List([0, 72))):(Countries such as Spain, Ireland and the Netherlands; have been extending their public healthcare systems to provide; universal coverage)
+
+As with pensions, health systems have become more generous in the wake of economic growth - for example, including grafts and transplants that were previously regarded as experimental.
+0.90 (health systems; have become; more generous; T:in the wake of economic growth)
+0.78 (grafts and transplants; were regarded; as experimental; T:previously)
+
+The ageing of the population has also contributed to rising costs, though not as much as for pensions.
+0.93 (The ageing of the population; has contributed; to rising costs, though not as much as for pensions)
+
+Rising unemployment has added to the cost of the welfare state in both unemployment benefits and general family support for low-income families.
+0.94 (Rising unemployment; has added; to the cost of the welfare state in both unemployment benefits and general family support for low-income families)
+
+But it has also helped to push up the budget for sickness and invalidity benefits, which often offer an escape route into early retirement for older workers.
+0.93 (invalidity benefits; offer; an escape route; T:often)
+0.40 (it; has helped; to push up the budget for sickness and invalidity benefits)
+0.29 Context(it has helped,List([4, 22))):(it; has helped to push; up; the budget for sickness and invalidity benefits)
+
+Most OECD countries have recognised the need to curb growth in these main areas of welfare spending during the 1980s, and have introduced policies to tackle the underlying causes.
+0.96 (Most OECD countries; have recognised; the need to curb growth in these main areas of welfare spending during the 1980s)
+0.92 (Most OECD countries; have introduced; policies to tackle the underlying causes)
+0.89 (policies; to tackle; the underlying causes)
+
+For example, governments have become much less willing to offer improvements in pensions.
+0.89 (governments; have become; much less willing to offer improvements in pensions)
+0.88 (governments; to offer; improvements in pensions)
+
+Moves are afoot in countries such as Germany and Italy to raise the pension age.
+0.91 (Moves; are; afoot; L:in countries such as Germany and Italy)
+
+Automatic indexation of pensions to earnings has been weakened in Germany and ended altogether in the UK for the basic flat-rate pension.
+0.94 (Automatic indexation of pensions to earnings; has been weakened; L:in Germany)
+0.93 (Automatic indexation of pensions to earnings; ended altogether; L:in the UK)
+
+Healthcare systems have been reformed to make them more efficient and to bear down on the cost of pharmaceuticals.
+0.92 (Healthcare systems; have been reformed; to make them more efficient and to bear down on the cost of pharmaceuticals)
+0.85 (Healthcare systems; to make; them more efficient)
+
+Although there are considerable differences between national health systems, healthcare reforms in countries such as the UK and the Netherlands are increasingly converging on models that use competition and price incentives to control costs.
+0.97 (healthcare reforms in countries such as the UK and the Netherlands; are increasingly converging; on models)
+0.88 (models; use; competition and price incentives; to control costs)
+0.50 (there; are considerable differences between; national health systems)
+
+Many countries have also begun to tighten up on unemployment benefits, with reductions in benefit levels and more rigorous conditions to qualify.
+0.92 (Many countries; have also begun; to tighten up on unemployment benefits, with reductions in benefit levels and more rigorous conditions)
+0.88 Context(Many countries have also begun,List([0, 30))):(Many countries; have also begun to tighten up; on unemployment benefits)
+
+Active labour market policies have been introduced to promote a return to employment.
+0.92 (Active labour market policies; have been introduced; to promote a return to employment)
+0.91 (Active labour market policies; to promote; a return to employment)
+
+Some countries have succeeded in stabilising their welfare costs by measures such as these.
+0.87 (Some countries; have succeeded; in stabilising their welfare costs by measures such as these)
+0.80 Context(Some countries have succeeded,List([0, 29))):(Some countries; have succeeded in stabilising; their welfare costs)
+
+But what most concerns those responsible for public finances is the strength of underlying pressures on welfare spending that will push costs upwards in the future.
+0.18 (most; concerns; those responsible for public finances)
+0.96 (what most concerns those responsible for public finances; is; the strength of underlying pressures on welfare spending)
+0.89 (welfare spending; will push; costs; upwards; T:in the future)
+0.39 (public finances; is the strength of; underlying pressures)
+
+The most important of these is demography.
+0.45 (The most important of these; is; demography)
+
+Increases in life expectancy have already increased the number of elderly people collecting pensions.
+0.93 (Increases in life expectancy; have increased; the number of elderly people; T:already)
+0.90 (elderly people; collecting; pensions)
+
+The number of over-65s in the 24 OECD member states rose from 61m in 1960 to more than 100m in 1990.
+0.93 (over-65; s; L:in the 24 OECD member states)
+0.91 (The number of over-65; rose; from 61m in 1960; to more than 100m in 1990)
+
+The growth is accelerating, with the number projected to rise to more than 115m in 2000, 131m in 2010 and 156m by 2020.
+0.73 (The growth; is accelerating; )
+0.73 (the number; projected; )
+0.89 (the number; to rise; to more than 115m; T:in 2000)
+
+Only halfway through the 21st century will the number of over-65s peak, at about 190m.
+
+The strain that this will put on the welfare state can best be seen by relating it to expected trends in the number of people of working age.
+0.89 (The strain; will put; on the welfare state)
+0.95 (The strain that this will put on the welfare state; can best be seen; by relating it to expected trends in the number of people of working age)
+0.94 (The strain that this will put on the welfare state; by relating; it; to expected trends in the number of people of working age)
+
+The standard measure for this is the age dependency ratio, the population over 65 as a percentage of the population aged 15-64.
+0.94 (The standard measure for this; is; the age dependency ratio)
+
+For the OECD as a whole, the age dependency ratio is predicted to rise from about 19 per cent in 1990 to 28 per cent by 2020 and 37 per cent by 2040.
+0.95 (the age dependency ratio; is predicted; T:For the OECD as a whole)
+0.91 (the age dependency ratio; to rise; from about 19 per cent; T:in 1990; to 28 per cent)
+
+Some countries face much greater pressures from the ageing of their populations than others.
+0.89 (Some countries; face; much greater pressures from the ageing of their populations than others)
+
+Germany and Japan, for example, will both have age dependency ratios of 34 per cent by 2020 - one person over the age of 65 for every three people between 15 and 64.
+0.92 (Germany and Japan; will have; age dependency ratios of 34 per cent by 2020 - one person over the age of 65 for every three people between 15 and 64)
+
+By 2040, almost half of Germany's population could be over 65, though the proportion will fall thereafter.
+0.92 (almost half of Germany's population; could be; over 65; T:By 2040)
+0.77 (the proportion; will fall; thereafter)
+
+Age dependency ratios will climb more slowly in the UK and US, to about 25 per cent in 2020 - four people of working age to support every elderly person.
+0.93 (Age dependency ratios; will climb more slowly; T:in the UK and US; to about 25 per cent)
+
+In both countries, ratios will peak at about 33 per cent in 2040.
+0.94 (ratios; will peak; at about 33 per cent; T:in 2040; L:In both countries)
+
+The most immediate impact of these demographic changes will be on pensions, where costs will in any case rise as pension schemes continue to mature.
+0.94 (The most immediate impact of these demographic changes; will be; on pensions)
+0.84 (costs; will rise; T:as pension schemes continue to mature; L:in any case)
+0.73 (pension schemes; continue; )
+0.70 (pension schemes; to mature; )
+
+Overall, the OECD estimates that the pension burden could double over the next 50 years.
+
+Real economic growth rates of up to 1.5 per cent a year would be needed to pay for pensions alone - and that on the assumption that the pensions do not increase in real terms.
+0.96 (Real economic growth rates of up to 1.5 per cent a year; would be needed; to pay for pensions alone)
+0.73 (the pensions; do not increase; )
+
+In practice, increasing pensions in line with prices might be difficult to sustain if earnings rose faster.
+0.83 (increasing pensions in line with prices; might be; difficult to sustain)
+0.71 (earnings; rose faster; )
+
+The growing gap between pensioners and those still at work that would result could be politically unacceptable.
+0.52 (work; would result; )
+0.86 (The growing gap between pensioners and those still at work; could be; politically unacceptable)
+
+However, raising pensions by more than prices would either require much higher growth rates or higher taxes for those in work to pay the bill.
+0.76 (prices; would require; much higher growth rates or higher taxes for those in work)
+
+The impact of an ageing population on healthcare costs is less clear-cut.
+0.90 (The impact of an ageing population on healthcare costs; is; less clear-cut)
+
+Experts differ on whether increased longevity inevitably means more medical care: while more might be required for the very elderly, less might be needed for younger people as chronic diseases become less common.
+0.77 (chronic diseases; become; less common)
+0.90 (increased longevity; inevitably means; more medical care)
+0.30 (more; might be required; for the very elderly)
+
+Additional costs of new drugs and advances in medical technology could be at least as important as demography in pushing up healthcare bills.
+0.97 (Additional costs of new drugs and advances in medical technology; could be; at least as important as demography in pushing up healthcare bills)
+
+However, there will be an increase in demand for geriatric care and social services for the elderly.
+
+This will be encouraged by social changes, such as the decline of the extended family in which older people were cared for by younger relatives.
+0.50 (This; will be encouraged; by social changes, such as the decline of the extended family)
+
+Other changes in social structure are also pushing up the demands on the welfare state.
+0.89 (Other changes in social structure; are pushing; up; the demands on the welfare state)
+
+Throughout the OECD, for example, the number of lone-parent families has been rising since the 1960s.
+0.97 (the number of lone-parent families; has been rising; T:since the 1960s; T:Throughout the OECD)
+
+In some countries, the increase has been relatively moderate - 20 per cent or less in countries such as France, Japan and Switzerland.
+0.94 (the increase; has been; relatively moderate - 20 per cent or less; L:In some countries)
+
+At the other extreme, the increase has exceeded 50 per cent in the UK and Australia.
+0.95 (the increase; has exceeded; 50 per cent; L:in the UK and Australia; L:At the other extreme)
+
+In the US the number has more than doubled.
+0.94 (the number; has more than doubled; L:In the US)
+
+Lone-parent families now typically constitute 10-15 per cent of of all families with children in OECD countries.
+0.97 (Lone-parent families; constitute; 10-15 per cent of of all families with children in OECD countries; T:now; T:typically)
+
+In the US it is one in four families.
+0.70 (it; is; one in four families; L:In the US)
+0.39 (it; is one in; four families)
+
+The reasons for the growth include the greater ease of separation and divorce.
+0.93 (The reasons for the growth; include; the greater ease of separation and divorce)
+
+But inevitably lone-parent families rely on welfare provision to a far greater extent than two-parent families.
+
+Added to concerns over demography and social change are fears over the increase in unemployment levels across the OECD.
+0.39 (demography and social change; are fears over; the increase)
+
+Over the past two decades, jobless levels have risen during recessions but not fallen back to the same extent in the following recovery period.
+0.94 (jobless levels; have risen; T:during recessions; T:Over the past two decades)
+0.93 (jobless levels; not fallen; back to the same extent; T:in the following recovery period; T:Over the past two decades)
+
+This ratchet effect has worried the Group of Seven leading industrial countries sufficiently for an employment summit to be hosted by President Clinton in the coming months.
+0.93 (This ratchet effect; has worried; the Group of Seven leading industrial countries; sufficiently for an employment summit)
+0.93 (an employment summit; to be hosted; by President Clinton; T:in the coming months)
+
+Continuing rises in the base level of unemployment would further undermine countries' ability to pay for their welfare states.
+0.85 (Continuing rises in the base level of unemployment; would undermine; countries' ability to pay for their welfare states)
+
+Responses to these cost pressures vary from country to country.
+0.93 (Responses to these cost pressures; vary; from country to country)
+
+Germany, the UK, France, Italy and the US are among countries that have already raised tax and social security contribution levels.
+0.94 (Germany, the UK, France, Italy and the US; are; among countries)
+0.89 (countries; have raised; tax and social security contribution levels; T:already)
+
+However, the scope for such increases is limited by voters' reluctance to pay higher taxes.
+0.93 (the scope for such increases; is limited; by voters' reluctance)
+
+Where the cost of welfare is jointly funded by employers - as in Germany - higher contributions are also increasingly resisted by business, which fears the consequences for international competitiveness of higher costs.
+0.96 (the cost of welfare; is jointly funded; by employers; as in Germany - higher contributions are also increasingly resisted by business)
+0.88 (business; fears; the consequences for international competitiveness of higher costs)
+
+In a global economy, no country can long afford to burden business with higher welfare costs than its neighbours.
+0.88 (no country; can afford; to burden business with higher welfare costs than its neighbours; L:In a global economy; T:long)
+0.72 Context(no country can afford,List([21, 47))):(no country; can afford to burden; business with higher welfare costs than its neighbours)
+
+An alternative response to cost pressures would be further increases in borrowing to fund the welfare state.
+0.91 (An alternative response; to cost; pressures)
+0.93 (An alternative response to cost pressures; would be; further increases in borrowing to fund the welfare state)
+0.92 (further increases in borrowing; to fund; the welfare state)
+
+But that would also have deleterious effects, according to the OECD.
+0.09 (that; would have; deleterious effects)
+
+Average government debt in OECD countries has risen from 23 per cent of GDP in 1979 to 44 per cent in 1992.
+0.96 (Average government debt in OECD countries; has risen; from 23 per cent of GDP; T:in 1979; to 44 per cent; T:in 1992)
+
+Without either tax rises or cuts in welfare budgets, current welfare spending plans could increase debt ratios on average by 90 percentage points over the next 40 years, according to one OECD study.
+0.92 (current welfare spending plans; could increase; debt ratios; by 90 percentage points; T:over the next 40 years)
+
+It says this is 'a situation which most would think unsustainable'.
+0.74 (a situation; would think; unsustainable)
+0.40 (It; says; this is 'a situation)
+0.35 Context(It says,List([0, 7))):(this; is; a situation which most would think unsustainable)
+
+This is why the OECD's half-yearly Economic Outlook repeatedly stresses the importance of controlling welfare spending in improving economic performance.
+0.61 (This; is; why the OECD's half-yearly Economic Outlook repeatedly stresses the importance of controlling welfare spending in improving economic performance)
+0.95 (the OECD's half-yearly Economic Outlook; repeatedly stresses; the importance of controlling welfare spending in improving economic performance)
+
+The OECD's immediate priorities for reform include charges for the use of some welfare services and greater competition to increase the efficiency of those services.
+0.97 (The OECD's immediate priorities for reform; include; charges for the use of some welfare services and greater competition)
+
+But the OECD has also drawn attention to the need for action to anticipate the funding implications of the rise in the number of elderly people.
+0.89 (the OECD; has drawn; attention; to the need for action)
+
+Tackling these longer-term pressures will require more than tinkering with charges and efficiency drives in welfare services.
+0.96 (Tackling these longer-term pressures; will require; more than tinkering with charges and efficiency drives in welfare services)
+
+Significant cuts in benefit levels, for example, may be needed - including greater targeting of benefits on the most needy.
+0.76 (Significant cuts in benefit levels; may be needed; )
+
+User charges could become increasingly widespread, especially for the better-off.
+0.90 (User charges; could become; increasingly widespread; T:especially for the better-off)
+
+They could rise to cover a much larger part of the costs of welfare services.
+0.72 (They; could rise; to cover a much larger part of the costs of welfare services)
+0.68 (They; to cover; a much larger part of the costs of welfare services)
+
+And the demands put on the welfare state might be eased by encouraging more private provision of pensions and healthcare.
+0.93 (the demands; put; on the welfare state)
+0.82 (the demands put on the welfare state; might be eased; )
+0.93 (the demands put on the welfare state; by encouraging; more private provision of pensions and healthcare)
+
+Measures such as these would fundamentally change the nature of the welfare state, however.
+0.92 (Measures such as these; would fundamentally change; the nature of the welfare state; however)
+
+From providing support 'from the cradle to the grave', it would become a safety net for those who could not afford to provide for themselves.
+0.23 (it; would become; a safety net for those)
+0.10 (those; could not afford; to provide for themselves)
+0.10 Context(those could not afford,List([88, 114))):(those; could not afford to provide; for themselves)
+
+As countries become wealthier, moving the boundary between the state's responsibilities and those of the individual in this way may be a natural step.
+0.75 (countries; become; wealthier)
+0.97 (moving the boundary between the state's responsibilities and those of the individual in this way; may be; a natural step)
+
+But it would be politically controversial.
+0.23 (it; would be; politically controversial)
+
+Yet it is increasingly clear that there is no alternative to fundamental reforms if advanced economies are to protect their most vulnerable citizens without imposing unacceptable burdens on economic performance.
+0.89 (advanced economies; are; to protect their most vulnerable citizens without imposing unacceptable burdens on economic performance)
+0.81 (advanced economies; to protect; their most vulnerable citizens)
+
+The welfare state may have effectively bound societies together through the ups and downs of the economic cycle for the past 40 years.
+0.85 (The welfare state; may have effectively bound together; T:for the past 40 years)
+
+But a new glue will be needed over the next 50 years if advanced economies are to pass beyond the welfare state.
+0.91 (a new glue; will be needed; T:over the next 50 years)
+0.90 (advanced economies; are; to pass beyond the welfare state)
+0.89 (advanced economies; to pass; beyond the welfare state)
+
+This is the first in a series of articles analysing the pressures on the welfare state across the world, and examining policy options for relieving the strain
+0.57 (This; is; the first in a series of articles analysing the pressures on the welfare state across the world, and examining policy options for relieving the strain)
+0.89 (articles; analysing; the pressures on the welfare state across the world)
+0.89 (This; is the first in; a series)
+

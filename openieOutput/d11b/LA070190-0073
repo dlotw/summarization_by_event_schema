@@ -1,0 +1,179 @@
+Tetsuya Theodore Fujita saw his only natural tornado near Denver in 1982.
+0.92 (Tetsuya Theodore Fujita; saw; his only natural tornado near Denver; T:in 1982)
+
+"It  was like meeting my lover," he says.
+0.63 (It  was like meeting my lover; says; he)
+0.32 Context(It was like meeting my lover says,List([1, 40))):(It; was; like meeting my lover)
+
+"Since then, my passion really went up," said Fujita, a professor of  geophysical science who has been studying tornadoes for 42 years and is  considered one of the world's foremost authorities on the violent storms.
+0.91 (a professor of  geophysical science; has been studying; tornadoes; T:for 42 years)
+0.72 (Since then, my passion really went up; said; Fujita)
+0.47 Context(Since then , my passion really went up said,List([1, 45))):(my passion; really went; up; T:Since then)
+0.39 (Fujita; [is] a professor of; geophysical science)
+
+Fujita, 69, spends much of his time in his lab at the University of Chicago  creating tornadoes for research.
+0.87 (Fujita; spends; much of his time in his lab; L:at the University of Chicago; creating tornadoes for research)
+0.83 Context(Fujita spends,List([0, 18))):(Fujita; spends much of his time in his lab creating; tornadoes for research)
+
+He creates tornadoes over a large fan, which makes a swirling motion; another  fan above simulates a low-pressure system by adding an updraft to the mix.
+0.90 (a large fan; makes; a swirling motion)
+0.89 (another  fan above; simulates; a low-pressure system)
+0.39 Context(another fan above simulates,List([70, 98))):(He; creates; tornadoes over a large fan)
+
+With  a bit of steam added to make the phenomenon visible, he creates twisters six to  eight feet tall.
+0.77 (a bit of steam; added; )
+0.45 (he; creates; twisters)
+
+The miniature versions are as impossible to redirect or squelch as their  full-size cousins, he says.
+0.72 (The miniature versions; to redirect; )
+0.82 (The miniature versions are as impossible to redirect or squelch as their  full-size cousins; says; he)
+0.74 Context(The miniature versions are as impossible to redirect or squelch as their full - size cousins says,List([0, 100))):(The miniature versions; are; as impossible)
+
+He has tried by crawling right up next to them and  using rulers or books to change their direction.
+0.16 (He; has tried; )
+0.26 Context(He has tried,List([0, 12))):(He; has tried by crawling; T:right up; next to them)
+0.19 Context(He has tried,List([0, 12))):(He; has tried using; rulers or books; to change their direction)
+
+Fujita came to the United States from Japan in 1953, partly because there are  so many tornadoes in this country.
+0.93 (Fujita; came; to the United States; from Japan; T:in 1953)
+0.39 (there; are so many tornadoes in; this country)
+
+"Tornadoes are very rare in Japan," Fujita said.
+0.96 (Tornadoes are very rare in Japan; said; Fujita)
+0.89 Context(Tornadoes are very rare in Japan said,List([1, 47))):(Tornadoes; are; very rare; L:in Japan)
+
+"They have about 10 to 15 a  year.
+0.62 (They; have; about 10 to 15 a  year)
+
+But one occurred within about 15 miles of my hometown.
+0.39 (one; occurred; L:within about 15 miles of my hometown)
+
+I was quite  impressed with the localized severity of the wind."
+0.52 (I; was; quite  impressed with the localized severity of the wind)
+
+When he saw his first tornado, he and a team of scientists were studying wind  shear and its effect on aircraft.
+0.37 (he; saw; his first tornado)
+0.72 (he and a team of scientists; were studying; wind  shear and its effect on aircraft; T:When he saw his first tornado)
+
+"It's a beautiful thing," Fujita said.
+0.77 (It's a beautiful thing; said; Fujita)
+0.47 Context(It 's a beautiful thing said,List([1, 37))):(It; 's; a beautiful thing)
+
+"Of course, I was 20 miles away from  that one.
+0.29 (I; was; 20 miles away from  that one)
+
+"If you're in it," he added, "it's a terrible thing."
+0.54 (you; 're; in it)
+0.22 (he; added; it's a terrible thing)
+0.46 Context(he added,List([19, 27))):(it; 's; a terrible thing)
+
+Forecasters still have trouble predicting tornadoes.
+0.93 (Forecasters; have; trouble predicting tornadoes; T:still)
+
+But Fujita has helped define the conditions most likely to spawn them.
+0.83 (Fujita; has helped; define the conditions most likely to spawn them)
+0.83 Context(Fujita has helped,List([4, 21))):(Fujita; has helped define; the conditions most likely to spawn them)
+
+Groups  of thunderstorms are not as likely to spawn tornadoes as single, large storms  because multiple storms in the same area compete.
+0.94 (Groups  of thunderstorms; are not; as likely to spawn tornadoes as single, large storms)
+0.90 (Groups  of thunderstorms; to spawn; tornadoes as single, large storms)
+0.80 (multiple storms in the same area; compete; )
+
+"Each one tries to rotate, but they all can't.
+0.35 (they; can't; )
+0.72 (Each one; tries; to rotate)
+0.69 Context(Each one tries,List([1, 15))):(Each one; tries to rotate to rotate; )
+
+They're just like human beings:  The rich may become richer and the poor may get poorer."
+0.26 (The rich; may become; richer and the poor)
+0.62 Context(The rich may become,List([33, 52))):(They; 're; just like human beings)
+
+Fujita also discovered that most strong tornadoes are actually six or seven  small twisters he calls suction vortices, rotating around the center of a  larger tornado.
+0.81 (Fujita; discovered; that most strong tornadoes are actually six or seven  small twisters)
+0.87 Context(Fujita discovered,List([0, 22))):(most strong tornadoes; are actually; six or seven  small twisters he calls suction vortices,)
+0.47 (he; calls; suction vortices)
+0.30 Context(he calls,List([92, 100))):(he; calls suction vortices rotating; around the center of a  larger tornado)
+
+"A suction vortex can pick up a car or a small house or something, but when  you're standing right next to it you can be completely safe."
+0.91 (A suction vortex; can pick up; a car or a small house or something)
+0.46 (you; 're standing; right next to it)
+0.36 (you; can be; completely safe)
+
+He has studied tornadoes that have dropped houses into lakes, made off with one  car and left another right next to it untouched, and moved whole flocks of cows  and sheep -- which lived through the experience.
+0.23 (He; has studied; tornadoes that have dropped houses into lakes)
+0.77 (whole flocks of cows  and sheep; lived; )
+0.88 (tornadoes; have dropped; houses; into lakes)
+0.17 (He; made off; )
+
+He also developed the Fujita scale for measuring the strength of tornadoes.
+0.46 (He; developed; the Fujita scale for measuring the strength of tornadoes)
+
+It  runs from zero -- a tornado that might break twigs on trees -- to five -- a  twister that can rip houses from their foundations.
+0.39 (It; runs; from zero -- a tornado that might break twigs on trees -- to five)
+0.89 (a tornado; might break; twigs)
+0.81 (a  twister; can rip; houses; from their foundations)
+
+But Fujita considers his work on other air movements called downbursts and  microbursts among his most significant achievements.
+0.86 (Fujita; considers; his work on other air movements)
+0.91 (other air movements; called; downbursts and  microbursts)
+
+Downbursts are powerful drafts of air moving down from a thunderstorm cloud.
+0.93 (Downbursts; are; powerful drafts of air moving down from a thunderstorm cloud)
+0.92 (powerful drafts of air; moving; down; from a thunderstorm cloud)
+0.89 (Downbursts; are powerful drafts of; air)
+
+Scientists long thought the drafts dissipated before reaching the ground.
+0.89 (the drafts; before reaching; the ground)
+0.91 (Scientists; thought; the drafts dissipated before reaching the ground; T:long)
+0.88 Context(Scientists thought,List([0, 23))):(the drafts; dissipated; T:before reaching the ground)
+
+Microbursts are smaller versions of downbursts, but are more dangerous because  they give pilots less time to react, Fujita said.
+0.80 (Microbursts; are; more dangerous; because  they give pilots less time)
+0.62 (they; give; pilots; less time to react)
+0.93 (pilots; to react; T:less time)
+0.97 (Microbursts are smaller versions of downbursts, but are more dangerous; said; Fujita)
+0.87 Context(Microbursts are smaller versions of downbursts , but are more dangerous said,List([0, 128))):(Microbursts; are; smaller versions of downbursts)
+0.89 (Microbursts; are smaller versions of; downbursts)
+
+The National Transportation Safety Board has cited microbursts, a term coined  by Fujita, as the cause of 17 aircraft accidents in the last 15 years, causing  577 fatalities.
+0.95 (The National Transportation Safety Board; has cited; microbursts; as the cause of 17 aircraft accidents in the last 15 years)
+0.89 Context(The National Transportation Safety Board has cited,List([0, 50))):(The National Transportation Safety Board; has cited microbursts causing; 577 fatalities)
+
+Among them was the 1985 crash of a Delta L-1011 in Dallas that killed 137  people.
+0.82 (Among them; was; the 1985 crash of a Delta L-1011 in Dallas)
+0.96 (the 1985 crash of a Delta L-1011 in Dallas; killed; 137  people)
+0.50 (them; was the 1985 crash of; a Delta L-1011)
+
+A downburst also was implicated in the collapse of a wall at a school  in Newburgh, N.Y., that killed nine children.
+0.94 (A downburst; was implicated; in the collapse of a wall at a school  in Newburgh)
+0.91 (Newburgh; killed; nine children)
+
+Fujita's work helped persuade the Federal Aviation Administation to begin  installing a new radar system at 47 major airports beginning in the early  1990s.
+0.91 (47 major airports; beginning; T:in the early  1990s)
+0.96 (Fujita's work; helped; persuade the Federal Aviation Administation to begin  installing a new radar system at 47 major airports)
+0.96 Context(Fujita 's work helped,List([0, 20))):(Fujita's work; helped persuade; the Federal Aviation Administation; to begin  installing a new radar system at 47 major airports)
+0.92 (the Federal Aviation Administation; to begin; installing a new radar system at 47 major airports)
+0.92 Context(the Federal Aviation Administation to begin,List([30, 73))):(the Federal Aviation Administation; to begin installing; a new radar system; at 47 major airports)
+
+The Doppler radar system was credited with helping three jetliners at Denver's  airport avoid potentially catastrophic microbursts last year.
+0.97 (The Doppler radar system; was credited; with helping three jetliners at Denver's  airport avoid potentially catastrophic microbursts last year)
+0.93 (The Doppler radar system; with helping; three jetliners)
+0.89 (three jetliners; avoid; potentially catastrophic microbursts; T:last year)
+
+Fujita retires from teaching this year, but will continue his research at the  university.
+0.84 (Fujita; will continue; his research; L:at the  university)
+0.90 (Fujita; retires; from teaching this year)
+0.90 Context(Fujita retires,List([0, 14))):(Fujita; retires from teaching; this year)
+
+"In Texas one time, five people were killed when they drove right into a  tornado.
+0.92 (five people; were killed; T:when they drove right into a  tornado; L:In Texas; T:one time)
+0.62 (they; drove; right into a  tornado)
+
+They just didn't know any better," Fujita said.
+0.81 (They just didn't know any better; said; Fujita)
+0.27 Context(They just did n't know any better said,List([0, 46))):(They; just did n't know any better; )
+
+"I want to make people  safer."
+0.47 (I; want; to make people  safer)
+0.40 Context(I want,List([1, 7))):(I; want to make; people  safer)
+

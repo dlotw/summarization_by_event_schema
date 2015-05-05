@@ -1,0 +1,69 @@
+The director of the county Social Services Agency wants all Orange County  residents, including illegal aliens, to be counted in the 1990 Census, and he  will ask the Board of Supervisors to support his position.
+0.35 (he; will ask; the Board of Supervisors; to support his position)
+0.89 (the Board of Supervisors; to support; his position)
+0.98 (The director of the county Social Services Agency; wants; all Orange County  residents, including illegal aliens, to be counted in the 1990 Census)
+0.95 Context(The director of the county Social Services Agency wants,List([0, 55))):(all Orange County  residents, including illegal aliens; to be counted; L:in the 1990 Census)
+
+A resolution doing just that will be introduced at the supervisors' meeting  Tuesday.
+0.55 (A resolution; doing; just that)
+0.94 (A resolution doing just that; will be introduced; L:at the supervisors' meeting  Tuesday)
+
+Agency officials said that if illegal aliens were to be excluded from  the count, it would mean that, on paper, the county had 200,000 fewer residents  than the county's actual population.
+0.90 (illegal aliens; were; to be excluded from  the count)
+0.89 (illegal aliens; to be excluded; from  the count)
+0.70 (Agency officials; said; that if illegal aliens were to be excluded from  the count, it would mean that, on paper, the county had 200,000 fewer residents  than the county's actual population)
+0.27 Context(Agency officials said,List([0, 21))):(it; would mean; that, on paper, the county had 200,000 fewer residents  than the county's actual population)
+0.94 Context(Agency officials said it would mean,List([0, 95))):(the county; had; 200,000 fewer residents  than the county's actual population; T:on paper)
+
+That lower figure would result in the loss  of an estimated $56 million a year in federal revenue, they said.
+0.97 (That lower figure would result in the loss  of an estimated $56 million a year in federal revenue; said; they)
+0.93 Context(That lower figure would result in the loss of an estimated $ 56 million a year in federal revenue said,List([0, 108))):(That lower figure; would result; in the loss  of an estimated $56 million a year in federal revenue)
+
+In a letter to the supervisors, Larry Leaman, director of the agency, urged the  board to adopt the resolution supporting a complete count of all county  residents and opposing "all attempts to systematically exclude any groups from  the census."
+0.95 (Larry Leaman; urged; the  board; to adopt the resolution; L:In a letter to the supervisors)
+0.94 (the  board; to adopt; the resolution supporting a complete count of all county  residents and opposing "all attempts)
+0.90 (the resolution; supporting; a complete count of all county  residents)
+0.91 (the resolution; opposing; all attempts to systematically exclude any groups from  the census)
+0.39 (Larry Leaman; [is] director of; the agency)
+
+Such exclusions, the letter said, could result in the county losing  representatives in Congress because districts are determined by population.
+0.94 (the letter; said; could result in the county losing  representatives in Congress because districts are determined by population)
+0.89 (Such exclusions; could result; in the county; because districts are determined by population)
+0.92 (the county; losing; representatives in Congress)
+0.89 (districts; are determined; by population)
+
+Just Thursday, efforts to include illegal aliens in the Census received a major  boost when negotiators from the U.S. Senate and House agreed on the issue.
+0.99 (efforts to include illegal aliens in the Census; received; a major  boost when negotiators from the U.S. Senate and House agreed on the issue; T:Just Thursday)
+0.95 (negotiators from the U.S. Senate and House; agreed; on the issue)
+
+Before Thursday's action, the Senate had voted to bar the Census Bureau from  counting illegal aliens, although the House had twice rejected efforts to  exclude aliens.
+0.93 (the Census Bureau; from counting; illegal aliens)
+0.94 (the House; had rejected; efforts to  exclude aliens; T:twice)
+0.95 (the Senate; had voted; to bar the Census Bureau from  counting illegal aliens; T:Before Thursday's action)
+0.92 Context(the Senate had voted,List([26, 46))):(the Senate; had voted to bar; the Census Bureau; from  counting illegal aliens)
+
+The agreement worked out Thursday at the House-Senate  conference will go back to each body before it is sent to President Bush, but  it is considered likely to be approved.
+0.92 (The agreement; worked out; T:Thursday; L:at the House-Senate  conference)
+0.50 (it; is sent; to President Bush)
+
+Orange County officials contend that much is at stake in whether aliens are  included in the count.
+0.89 (aliens; are included; in the count)
+0.87 (Orange County officials; contend; that much is at stake in whether aliens are  included in the count)
+0.51 Context(Orange County officials contend,List([0, 31))):(much; is; at stake in whether aliens are  included in the count)
+
+In 1985, before the Federal Immigration Reform Act, the  number of illegal aliens in the county was estimated at 300,000.
+0.97 (the  number of illegal aliens in the county; was estimated; at 300,000; T:In 1985; L:before the Federal Immigration Reform Act)
+
+In Santa Ana, home to 44.5% of the county's Latinos, city officials worried  about the ramifications of undercounting its residents.
+0.95 (city officials; worried; about the ramifications of undercounting its residents; L:In Santa Ana, home to 44.5% of the county's Latinos)
+
+They figured that in  the 1980 Census, the city was shortchanged by at least 50,000 people.
+0.47 (They; figured; that in  the 1980 Census, the city was shortchanged by at least 50,000 people)
+0.94 Context(They figured,List([0, 12))):(the city; was shortchanged; by at least 50,000 people; L:in  the 1980 Census)
+
+If those  residents had been included, it could have meant another $2.2 million in state  and federal revenue, according to city officials.
+0.73 (those  residents; had been included; )
+0.45 (it; could have meant; another $2.2 million in state  and federal revenue)
+
+GEORGE FRANK 
+

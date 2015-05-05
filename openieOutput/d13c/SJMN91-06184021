@@ -1,0 +1,185 @@
+Thomas and his brother made it in the white world.
+0.71 (Thomas and his brother; made; L:in the white world)
+
+Their sister, reared by an aunt, had four children and went on welfare.;    Thomas, 43, credits everything he has achieved to his grandparents.
+0.76 (Their sister, reared by an aunt; had; four children)
+0.76 (Their sister, reared by an aunt; went; on welfare)
+0.80 (everything; has achieved; to his grandparents)
+
+He choked up twice on national television Monday when he mentioned them.
+0.35 (He; choked up; T:twice; L:on national television; T:Monday; T:when he mentioned them)
+0.31 (he; mentioned; them)
+
+In a hostile world, they taught him to rely on himself.
+0.61 (they; taught; him; to rely on himself; L:In a hostile world)
+0.31 (him; to rely; on himself)
+
+They shaped his views on individualism, race and society, views that guide him today.;
+0.58 (They; shaped; his views on individualism, race and society, views)
+0.80 (views; guide; him; T:today)
+
+"I was raised to survive under the totalitarianism of segregation," Thomas wrote in a paper for the Heritage Foundation, a conservative public policy institute in Washington.
+0.41 (I; to survive; L:under the totalitarianism of segregation)
+0.75 (I was raised to survive under the totalitarianism of segregation; wrote; L:in a paper; for the Heritage Foundation)
+0.39 Context(I was raised to survive under the totalitarianism of segregation wrote,List([1, 80))):(I; was raised; to survive under the totalitarianism of segregation)
+
+"We were raised to survive in spite of the dark, oppressive cloud of governmentally sanctioned bigotry.;
+0.57 (We; were raised; to survive in spite of the dark, oppressive cloud of governmentally sanctioned bigotry)
+0.17 (We; to survive; )
+
+Self-sufficiency, security;  "Self-sufficiency and spiritual and emotional security were our tools to carve out and secure freedom," he added.
+0.84 (Self-sufficiency, security;  "Self-sufficiency and spiritual and emotional security were our tools; added; he)
+0.93 Context(Self - sufficiency , security ; " Self - sufficiency and spiritual and emotional security were our tools added,List([0, 141))):(Self-sufficiency, security;  "Self-sufficiency and spiritual and emotional security; were; our tools to carve out and secure freedom)
+
+"Those who attempt to capture the daily counseling, oversight, common sense and vision of my grandparents in a governmental program are engaging in sheer folly.";
+0.90 (Those who attempt to capture the daily counseling, oversight, common sense and vision of my grandparents in a governmental program; are engaging; in sheer folly)
+0.40 Context(Those who attempt to capture the daily counseling , oversight , common sense and vision of my grandparents in a governmental program are engaging,List([1, 144))):(Those; attempt; to capture the daily counseling, oversight, common sense and vision of my grandparents in a governmental program)
+0.40 Context(Those who attempt to capture the daily counseling , oversight , common sense and vision of my grandparents in a governmental program are engaging,List([1, 144))):(Those; attempt to capture; the daily counseling, oversight, common sense and vision of my grandparents in a governmental program)
+
+The very beliefs that have brought Thomas to the steps of the U.S. Supreme Court make him suspect to black political activists, veterans of the struggle to make government accountable for the wrongs done to blacks.;
+0.90 (the wrongs; done; to blacks)
+0.94 (The very beliefs that have brought Thomas to the steps of the U.S. Supreme Court; make; him suspect to black political activists, veterans of the struggle)
+0.89 Context(The very beliefs that have brought Thomas to the steps of the U.S. Supreme Court make,List([0, 85))):(The very beliefs; have brought; Thomas; to the steps of the U.S. Supreme Court)
+0.40 Context(The very beliefs that have brought Thomas to the steps of the U.S. Supreme Court make,List([0, 85))):(him; suspect; to black political activists, veterans of the struggle)
+
+Yet as Washington Post journalist Juan Williams has pointed out, Thomas is firmly grounded in the black intellectual tradition of Booker T. Washington, who advocated education, self-reliance and mutual support as the principal means of advancement.;
+0.83 (Washington Post journalist Juan Williams; has pointed out; )
+0.93 (Thomas; is firmly grounded; L:in the black intellectual tradition of Booker T. Washington)
+0.95 (Booker T. Washington; advocated; education, self-reliance and mutual support as the principal means of advancement)
+0.50 (Juan Williams; [is] journalist [of]; Washington Post)
+
+Clarence Thomas was born June 23, 1948, in Pinpoint, Ga., a town in the marshes near Savannah.
+0.79 (Clarence Thomas; was born; )
+
+His mother, Leola, 18 at the time, lived in a house that had no plumbing.;
+0.60 (His mother; lived; L:in a house)
+0.91 (a house; had; no plumbing)
+
+Before Thomas' second birthday, his father moved to the North and left the family behind.
+0.79 (his father; moved; to the North; T:Before Thomas' second birthday)
+0.81 (his father; left; the family; behind; T:Before Thomas' second birthday)
+
+His mother remarried, and her second husband did not want the children of her first marriage.;
+0.34 (His mother; remarried; )
+0.51 (her second husband; did not want; the children of her first marriage)
+
+Taken in by grandparents;  At age 7, Thomas was sent to live with his grandparents.
+0.92 (Thomas; was sent; to live with his grandparents; T:At age 7)
+0.74 (Thomas; to live; )
+
+His grandfather, Myers Anderson, had little formal schooling.
+0.66 (His grandfather; had; little formal schooling)
+
+But life had taught him a lot.;    "He could barely read and write -- read enough to read the Bible," Thomas said in a 1983 interview with the Washington Post.
+0.17 (He; write; )
+0.87 (life had taught him a lot.;    "He could barely read and write -- read enough; said; L:in a 1983 interview with the Washington Post)
+0.16 Context(life had taught him a lot . ; " He could barely read and write -- read enough said,List([4, 113))):(He; could barely read; )
+0.78 Context(life had taught him a lot . ; " He could barely read and write -- read enough said,List([4, 113))):(life; had taught; him; a lot)
+0.33 Context(life had taught him a lot . ; " He could barely read and write -- read enough said,List([4, 113))):(He; could barely read read; enough to read the Bible)
+
+"But he was a tough old man.";
+0.52 (he; was; a tough old man)
+
+He elaborated in the Heritage Foundation paper: "Of course, I thought my grandparents were too rigid and their expectations were too high.
+0.50 (He; elaborated; L:in the Heritage Foundation paper)
+0.38 (their expectations; were; too high)
+0.36 (I; thought; my grandparents were too rigid and their expectations were too high)
+0.32 Context(I thought,List([60, 69))):(my grandparents; were; too rigid)
+
+I also thought they were mean at times. . . .
+0.26 (I; also thought; they were mean at times)
+0.55 Context(I also thought,List([0, 14))):(they; were mean; T:at times)
+
+The most compassionate thing they did for us was teach us how to fend for ourselves in a hostile environment.";
+0.57 (The most compassionate thing; did; for us)
+0.78 (The most compassionate thing they did for us; was; teach us how to fend for ourselves in a hostile environment)
+
+But the world that lay beyond the confines of poverty and segregation was not totally closed to Thomas.
+0.89 (the world; lay; beyond the confines of poverty and segregation)
+0.95 (the world that lay beyond the confines of poverty and segregation; was not closed; to Thomas)
+
+His grandfather, a Catholic, enrolled him in an all-black school run by the church.
+0.45 (His grandfather; enrolled; him; L:in an all-black school)
+0.94 (an all-black school; run; by the church)
+
+On Monday, Thomas also made sure to thank "the nuns.";
+0.94 (Thomas; made; sure to thank "the nuns; T:On Monday)
+0.80 Context(Thomas made,List([11, 27))):(Thomas; made to thank; the nuns)
+
+As a young man, he wanted to become a priest.
+0.45 (he; wanted; to become a priest)
+0.41 (he; to become; a priest)
+
+In 1967, he was accepted at the all-white Immaculate Conception Seminary in Conception Junction, Mo.
+0.74 (he; was accepted; L:at the all-white Immaculate Conception Seminary in Conception Junction; T:In 1967)
+
+He was in for a shock.
+0.28 (He; was; in)
+
+Other seminarians referred to him as the "black spot on a white horse."
+0.83 (Other seminarians; referred; to him; as the "black spot on a white horse)
+
+Disgusted, he left at the end of his first year.;
+0.37 (he; left; T:at the end of his first year)
+
+Flirts with 'black power';  Thomas went on to attend Holy Cross College in Worcester, Mass.
+0.91 (Thomas; went on; to attend Holy Cross College in Worcester)
+0.91 Context(Thomas went on,List([28, 42))):(Thomas; went on to attend; Holy Cross College in Worcester)
+
+In the 1960s, he flirted with the politics of "black power" and considered himself a follower of Malcolm X.
+0.60 (he; flirted; with the politics of "black power; L:In the 1960s)
+0.31 (he; considered; himself a follower of Malcolm X.)
+
+But his true interest was in the law.
+0.72 (his true interest; was; in the law)
+
+He received his law degree from Yale University in 1974.;
+0.35 (He; received; his law degree; from Yale University; T:in 1974)
+
+As a young lawyer, Thomas worked in the office of Missouri Attorney General John C. Danforth.
+0.96 (Thomas; worked; L:in the office of Missouri Attorney General John C. Danforth)
+
+He later joined Monsanto Co.;    Thomas' introduction to Washington came in 1979.
+0.83 (Thomas' introduction to Washington; came; T:in 1979)
+0.55 Context(Thomas ' introduction to Washington came,List([33, 72))):(He; joined; Monsanto Co.; T:later)
+
+By then, Danforth was a Republican senator.
+0.96 (Danforth; was; a Republican senator; T:By then)
+
+Thomas, a former Democrat, joined his staff as a legislative assistant.;
+0.84 (Thomas; joined; his staff; as a legislative assistant)
+
+In 1982, after a year as assistant education secretary for civil rights, Thomas was named by President Reagan to lead the Equal Employment Opportunity Commission.;    His tenure at the commission, which investigates discrimination complaints, was controversial.
+0.92 (Thomas; to lead; the Equal Employment Opportunity Commission)
+0.89 (the commission; investigates; discrimination complaints)
+0.43 (His tenure at the commission; was; controversial)
+0.97 Context(His tenure at the commission was,List([167, 246))):(Thomas; was named; by President Reagan; to lead the Equal Employment Opportunity Commission; T:In 1982; T:after a year as assistant education secretary for civil rights)
+
+Critics said the agency went soft under Thomas.
+0.89 (Critics; said; the agency went soft under Thomas)
+0.92 Context(Critics said,List([0, 12))):(the agency; went; soft; L:under Thomas)
+
+Abandoning support for hiring goals and timetables, Thomas focused on resolving thousands of individual discrimination complaints.
+0.90 (Thomas; focused; on resolving thousands of individual discrimination complaints)
+0.90 Context(Thomas focused,List([52, 66))):(Thomas; focused on resolving; thousands of individual discrimination complaints)
+
+He took credit for improving efficiency.;
+0.39 (He; took; credit; for improving efficiency)
+0.39 Context(He took,List([0, 7))):(He; took credit for improving; efficiency)
+
+When President Bush nominated Thomas to the U.S. Court of Appeals for the District of Columbia, a steppingstone to the Supreme Court, a contentious confirmation process was forecast.
+0.94 (President Bush; nominated; Thomas; to the U.S. Court of Appeals)
+0.97 (a contentious confirmation process; was forecast; T:When President Bush nominated Thomas to the U.S. Court of Appeals for the District of Columbia)
+
+But the hearings went smoothly, perhaps because Thomas was never among the Reagan administration's most outspoken critics of civil rights.
+0.94 (the hearings; went smoothly; perhaps because Thomas was never among the Reagan administration's most outspoken critics of civil rights)
+
+He took his seat on the appeals court in March 1990.;
+0.35 (He; took; his seat on the appeals court; T:in March 1990)
+
+Thomas, who lives in suburban Virginia, is married and has a son.;    "In my view," he said of his
+0.92 (Thomas; lives; L:in suburban Virginia)
+0.93 (Thomas; has; a son)
+0.26 (he; said; of his)
+0.78 Context(he said,List([84, 91))):(Thomas; is; married)
+

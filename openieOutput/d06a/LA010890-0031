@@ -1,0 +1,530 @@
+A controversial videotape being shown among activists nationwide shows Los  Angeles police officers intentionally hurting the nonviolent demonstrators they  are arresting.
+0.91 (A controversial videotape; being shown; L:among activists)
+0.94 (Los  Angeles police officers; intentionally hurting; the nonviolent demonstrators)
+0.93 (A controversial videotape being shown among activists; nationwide shows; Los  Angeles police officers)
+0.27 Context(A controversial videotape being shown among activists nationwide shows,List([0, 70))):(they; are arresting; )
+
+They press fingers under their noses.
+0.54 (They; press; fingers; under their noses)
+
+They dig their knuckles into protesters'  necks, and torque martial arts weapons around their wrists.
+0.54 (They; dig; their knuckles; into protesters'  necks)
+
+At one point, two  officers twist a woman's arm till she rises from the ground, her face wrenched  in agony.
+0.92 (two  officers; twist; a woman's arm; T:till she rises from the ground; T:At one point)
+0.45 (she; rises; from the ground)
+0.64 (her face; wrenched; L:in agony)
+
+In another scene, a young man winces as officers lead him along.
+0.82 (officers; lead; him; along)
+
+His  arm, contorted behind his back, finally snaps.
+0.62 (His  arm, contorted behind his back; snaps; T:finally)
+0.39 Context(His arm , contorted behind his back snaps,List([0, 50))):(His  arm; contorted; L:behind his back)
+
+The law enforcement name for these techniques is "pain-compliance."
+0.85 (The law enforcement name for these techniques; is; pain-compliance)
+
+Police  departments nationwide say it's a tried and true way to make uncooperative  protesters cooperate.
+0.80 (Police  departments; nationwide say; it's a tried and true way)
+0.57 Context(Police departments nationwide say,List([0, 34))):(it; 's; a tried and true way to make uncooperative  protesters cooperate)
+
+But opponents call the term a euphemism for torture.
+0.92 (opponents; call; the term; a euphemism for torture)
+
+Demonstrators have alleged police brutality at least since Freedom Riders  launched their sit-down strikes in Alabama almost 30 years ago.
+0.90 (Demonstrators; have alleged; police brutality; T:at least since Freedom Riders  launched their sit-down strikes in Alabama almost 30 years ago)
+
+This time,  however, the outcry -- including the videotapes of police in action -- comes  from anti-abortion protesters with Operation Rescue, whose members tend to see  themselves as law-and-order conservatives.
+0.97 (the outcry -- including the videotapes of police in action; comes; from anti-abortion protesters; T:This time)
+0.92 (Operation Rescue; tend; to see  themselves as law-and-order conservatives)
+
+As a result, traditional political alliances have been turned topsy-turvy.
+0.78 (traditional political alliances; have been turned; topsy-turvy)
+
+Suddenly, some pro-choice liberals are as supportive of the police as  conservative hawks were during 1960s demonstrations, while some anti-abortion  Republicans are voicing the sort of "police state" rhetoric once associated  with anti-war radicals.
+0.97 (some pro-choice liberals; are; as supportive of the police as  conservative hawks were during 1960s demonstrations; T:Suddenly)
+0.90 (conservative hawks; were; during 1960s demonstrations)
+0.93 (some anti-abortion  Republicans; are voicing; the sort of "police state" rhetoric)
+0.94 (police state" rhetoric; associated; with anti-war radicals; T:once)
+
+In introducing a measure to limit the police use of force in arresting  nonviolent protesters, William Armstrong, Colorado's conservative Republican  senator, decried pain-compliance as "something we expect to hear about in  Nicaragua or Nazi Germany -- but not in the United States of America."
+0.90 (a measure; to limit; the police use of force in arresting  nonviolent protesters)
+0.91 (William Armstrong; decried; pain-compliance; as "something)
+0.44 (we; expect; to hear about in  Nicaragua or Nazi Germany)
+0.82 Context(we expect,List([197, 206))):(something; to hear; we)
+0.38 (William Armstrong; [is] conservative Republican senator [of]; Colorado)
+
+Other conservative lawmakers have echoed his concerns, and on Nov. 15, with  little media attention, President Bush signed legislation withholding certain  federal grants from cities whose police use excessive force.
+0.85 (Other conservative lawmakers; have echoed; his concerns)
+0.96 (President Bush; signed; legislation withholding certain  federal grants from cities; T:on Nov)
+0.89 (legislation; withholding; certain  federal grants; from cities)
+0.88 (cities; use; excessive force)
+
+Meanwhile, police officers, many of whom are sympathetic to the anti-abortion  cause, claim that religious zeal -- and perhaps the use of muscle relaxants --  has given Operation Rescue anti-abortion protesters an unusually high tolerance  to pain -- or even a martyr's appetite for it.
+0.89 (police officers; are; sympathetic to the anti-abortion  cause)
+
+Caught off guard by an ambush from their conservative allies, police are  howling that the new law -- which could deprive Los Angeles alone of more than  $50 million a year in federal aid -- will handcuff them.
+0.76 (police; are howling; that the new law -- which could deprive Los Angeles alone of more than  $50 million a year in federal aid -- will handcuff them)
+0.97 (the new law -- which could deprive Los Angeles alone of more than  $50 million a year in federal aid; will handcuff; them)
+0.87 Context(the new law -- which could deprive Los Angeles alone of more than $ 50 million a year in federal aid will handcuff,List([87, 204))):(the new law; could deprive alone; of more than  $50 million a year in federal aid)
+
+"I think it's utter stupidity," Los Angeles Police Chief Daryl F. Gates said.
+0.48 (I; think; it's utter stupidity," Los Angeles Police Chief Daryl F. Gates said)
+0.47 Context(I think,List([1, 8))):(it; 's; utter stupidity)
+0.71 Context(I think it 's,List([1, 13))):(Los Angeles Police Chief Daryl F. Gates; said; )
+
+"Utter, complete stupidity."
+
+In reaction to the uproar, the LAPD is quickly phasing out the term  pain-compliance, but not the techniques, which have been used "in civil rights  demonstrations, student demonstrations, Vietnam demonstrations . . .
+0.96 (the LAPD; is quickly phasing out; the term  pain-compliance; L:In reaction to the uproar)
+0.72 (not the techniques; have been used; )
+
+all  through the '60s, all through the '70s," Gates said.
+0.77 (Gates; said; )
+
+He smiled.
+0.19 (He; smiled; )
+
+"You didn't  hear any Republicans complain then, did you?"
+
+While Gates acknowledged that this issue stirs up memories of the controversy  about "chokeholds" -- a restraint the LAPD now uses only in life-threatening  situations as a result of fierce public pressure -- he argues that "come-along"  techniques, properly used, are the safest, most effective way to arrest  nonviolent demonstrators.
+0.84 (Gates; acknowledged; that this issue stirs up memories of the controversy  about "chokeholds)
+0.88 Context(Gates acknowledged,List([6, 24))):(this issue; stirs up; memories of the controversy  about "chokeholds)
+0.93 (a restraint; uses; L:only in life-threatening  situations; as a result of fierce public pressure; T:now)
+0.27 (he; argues; that "come-along"  techniques, properly used, are the safest, most effective way)
+0.95 Context(he argues,List([209, 218))):(come-along"  techniques, properly used; are; the safest, most effective way to arrest  nonviolent demonstrators)
+0.76 (come-along"  techniques; properly used; )
+
+His officers, he added, are as well-trained in the use of these holds as any in  the country.
+0.52 (he; added; are as well-trained in the use of these holds as any in  the country)
+0.60 (His officers; are; as well-trained in the use of these; holds as any in  the country)
+
+On a recent morning, for example, the Los Angeles Police Academy gym echoed  with the unmistakable sounds of force being exerted, as pairs of recruits,  dressed in dark blue sweats, kicked, jabbed, swung their night sticks, or  grappled one another into chokeholds or pain-compliance holds.
+0.97 (the Los Angeles Police Academy gym; echoed; T:On a recent morning)
+0.92 (pairs of recruits,  dressed in dark blue sweats; swung; their night sticks)
+0.79 (the unmistakable sounds of force; being exerted; )
+0.94 (pairs of recruits,  dressed in dark blue sweats; grappled; one another; into chokeholds or pain-compliance holds)
+0.90 (pairs of recruits; dressed; in dark blue sweats)
+0.77 (pain-compliance; holds; )
+0.82 (pairs of recruits,  dressed in dark blue sweats; kicked; )
+0.82 (pairs of recruits,  dressed in dark blue sweats; jabbed; )
+
+Reacting to one phase of the exam, a woman cadet knocked back an assailant's  hand, backed up quickly and leveled her weapon at the man's chest, shouting:  "Put your hands up, lock your elbows, spread your fingers."
+0.89 (a woman cadet; knocked; back; an assailant's  hand)
+0.72 (a woman cadet; backed up quickly; )
+0.78 (a woman cadet; leveled; her weapon; at the man's chest)
+0.76 Context(a woman cadet leveled,List([35, 113))):(a woman cadet; leveled her weapon shouting; Put your hands up, lock your elbows, spread your fingers)
+
+Had this been a real incident, she would have had to decide in a flash of  synapses whether "reasonable force" included opening fire with her handgun.
+0.28 (she; to decide; whether "reasonable force" included opening fire with her handgun)
+0.77 Context(she to decide,List([31, 59))):(reasonable force; included; opening fire with her handgun)
+
+Deadly force is one extreme among the techniques officers must choose from in  confronting suspected lawbreakers, explained Sgt.
+0.97 (Deadly force is one extreme among the techniques officers must choose from in  confronting suspected lawbreakers; explained; Sgt.)
+0.94 Context(Deadly force is one extreme among the techniques officers must choose from in confronting suspected lawbreakers explained,List([0, 123))):(Deadly force; is; one extreme among the techniques officers must choose from in  confronting suspected lawbreakers)
+0.92 Context(Deadly force is one extreme among the techniques officers must choose from in confronting suspected lawbreakers explained,List([0, 123))):(one extreme among the techniques officers; must choose; from in  confronting suspected lawbreakers)
+0.89 (Deadly force; is one extreme among; the techniques officers)
+
+Fred Nichols, the academy's  expert on the use of force.
+0.89 (Fred Nichols; [is] expert [of]; the academy)
+
+The least forceful tactic is a simple request --  "Would you do this?"
+0.89 (The least forceful tactic; is; a simple request --  "Would you do this)
+
+Pain-compliance techniques fit into the scale above talk  but below the use of a Taser gun, tear gas, and the police baton.
+0.96 (Pain-compliance techniques; fit; L:into the scale; L:above talk  but below the use of a Taser gun, tear gas, and the police baton)
+
+Among the most simple "come-along" compliance techniques are twist- and  wrist-locks, in which a subject's arm or wrists are manipulated so that soft  tissue and nerves press against bone, Nichols said.
+0.80 (a subject's arm or wrists; are manipulated; )
+0.99 (Among the most simple "come-along" compliance techniques are twist- and  wrist-locks, in which a subject's arm or wrists are manipulated; said; Nichols)
+0.95 Context(Among the most simple " come - along " compliance techniques are twist - and wrist - locks , in which a subject 's arm or wrists are manipulated said,List([0, 201))):(Among the most simple "come-along" compliance techniques; are; twist- and  wrist-locks)
+
+Another trick of the trade:  the "mastoid lift," in which officers press the nerves along each side of the  neck.
+0.95 (officers; press; the nerves; L:along each side of the  neck; L:Another trick of the trade)
+
+Demonstrated on recruits who had seated themselves like protesters on the  Academy's playing field, each of these techniques worked promptly.
+0.82 (recruits; had seated; themselves; on the  Academy's playing field)
+0.77 (each of these techniques; worked promptly; )
+
+But while some Operation Rescue demonstrators use a standard civil-disobedience  technique and "go limp" when asked to move, others link arms.
+0.94 (some Operation Rescue demonstrators; use; a standard civil-disobedience  technique)
+0.86 (some Operation Rescue demonstrators; go; limp; T:when asked to move)
+0.92 (others; link; arms)
+
+They become  "human worm-balls" and make themselves tense, rendering standard compliance  techniques ineffective, officers say.
+0.42 (They; make; themselves tense)
+0.58 (They; rendering; standard compliance  techniques; ineffective)
+0.91 (They become  "human worm-balls" and make themselves tense, rendering standard compliance  techniques ineffective; say; officers)
+0.52 Context(They become " human worm - balls " and make themselves tense , rendering standard compliance techniques ineffective say,List([0, 126))):(They; become; human worm-balls)
+
+Trying to carry away protesters in these  cases becomes even more dangerous to them and arresting officers, police say.
+0.90 (Trying to carry away protesters in these  cases becomes even more dangerous to them and arresting officers; say; police)
+0.88 Context(Trying to carry away protesters in these cases becomes even more dangerous to them and arresting officers say,List([0, 118))):(Trying to carry away protesters in these  cases; becomes; even more dangerous to them and arresting officers)
+
+So LAPD and other police forces around the country, including several in Orange  County and the San Diego Police Department, began using a modified martial arts  tool called a nunchaku -- now termed a "police control device" -- consisting of  two 12-inch lengths of plastic connected by a length of nylon.
+0.96 (LAPD and other police forces around the country, including several in Orange  County and the San Diego Police Department; began; using a modified martial arts  tool)
+0.97 Context(LAPD and other police forces around the country , including several in Orange County and the San Diego Police Department began,List([3, 130))):(LAPD and other police forces around the country, including several in Orange  County and the San Diego Police Department; began using; a modified martial arts  tool called a nunchaku -- now termed a "police control device" --)
+0.91 (a "police control device; consisting; of  two 12-inch lengths of plastic)
+0.94 (two 12-inch lengths of plastic; connected; by a length of nylon)
+
+To demonstrate, instructors jabbed the device between an arm and the chest of a  cadet, and twisted it around in what is known as a "trap-and-wrap" maneuver.
+0.89 (instructors; jabbed; the device)
+0.79 (instructors; twisted around; it)
+
+The gentlest twist triggered enough pain to make the recruit comply promptly.
+0.89 (The gentlest twist; triggered; enough pain; to make the recruit comply promptly)
+0.89 Context(The gentlest twist triggered,List([0, 28))):(The gentlest twist; triggered enough pain to make; the recruit comply promptly)
+0.68 Context(The gentlest twist triggered to make,List([0, 48))):(the recruit; comply promptly; )
+
+Nichols is puzzled by those who call pain-compliance excessive force, or  compare it to the cattle prods police use in South Africa.
+0.60 (Nichols; is puzzled; by those)
+0.26 (those; call; pain-compliance excessive force)
+0.12 (those; compare; it; to the cattle prods)
+0.91 (the cattle prods; use; L:in South Africa)
+
+Protesters are given  every chance to move on their own.
+0.82 (Protesters; are given; every chance to move on their own)
+
+Police actually plead with Operation Rescue  demonstrators in some cases, he said.
+0.95 (Police actually plead with Operation Rescue  demonstrators in some cases; said; he)
+0.89 Context(Police actually plead with Operation Rescue demonstrators in some cases said,List([0, 81))):(Police; actually plead; with Operation Rescue  demonstrators; L:in some cases)
+
+Then "they're told they'll be subjected to excruciating pain.
+0.58 (they; to excruciating; pain)
+0.54 (they; 're told; they'll be subjected to excruciating pain; T:Then)
+0.55 Context(they 're told,List([6, 18))):(they; 'll be subjected; to excruciating pain)
+
+It's a pain  control technique," he said.
+0.63 (It's a pain  control technique; said; he)
+0.47 Context(It 's a pain control technique said,List([0, 40))):(It; 's; a pain  control technique)
+
+"It's going to hurt.
+0.17 (It; to hurt; )
+
+That's what pain-compliance  means."
+0.40 (That; 's; what pain-compliance  means)
+0.67 Context(That 's,List([0, 6))):(pain-compliance; means; )
+
+But protesters in Los Angeles and elsewhere assert that the nunchakus and more  conventional come-along holds produced not only agony while being applied, but  lingering pain, broken bones, torn ligaments, and, in some cases, long-lasting  nerve damage.
+0.86 (that the nunchakus and more  conventional come-along holds; produced; )
+
+As a result, they have filed lawsuits against police in Los  Angeles, Sacramento, Atlanta and other cities.
+0.76 (they; have filed; lawsuits; against police in Los  Angeles, Sacramento, Atlanta and other cities)
+
+Nichols and other officers are suspicious of Operation Rescue's charges.
+0.95 (Nichols and other officers; are; suspicious of Operation Rescue's charges)
+
+"The first time pressure is applied, most people fall to the ground," Nichols  said.
+0.98 (The first time pressure is applied, most people fall to the ground; said; Nichols)
+0.91 Context(The first time pressure is applied , most people fall to the ground said,List([1, 83))):(most people; fall; to the ground)
+0.73 Context(The first time pressure is applied , most people fall to the ground said,List([1, 83))):(The first time pressure; is applied; )
+
+"With Right-to-Lifers, you feel something's rotten in Denmark.
+0.60 (you; feel; something's rotten in Denmark)
+0.91 Context(you feel,List([23, 31))):(something; 's; rotten; L:in Denmark)
+
+It's kind  of like watching a movie where someone gets shot 10 times and keeps walking.
+0.52 (It; 's; kind  of like watching a movie)
+0.95 (someone; gets; shot 10 times and keeps walking; L:a movie)
+0.94 (someone; gets shot; T:10 times; L:a movie)
+0.91 (someone; keeps; walking; L:a movie)
+0.62 Context(someone keeps,List([42, 78))):(someone; keeps walking walking; )
+
+You say, something's wrong here."
+0.52 (You; say; something's wrong here)
+0.76 Context(You say,List([0, 7))):(something; 's; wrong; L:here)
+
+In the 25 years that he has been a policeman, Capt.
+0.60 (he; has been; a policeman; T:In the 25 years)
+
+Patrick E. McKinley of  LAPD's Metro Division has worked at demonstrations by the Revolutionary  Communist Party and the Jewish Defense League, and at protests for or against  everything from apartheid to animal rights.
+0.96 (Patrick E. McKinley of  LAPD's Metro Division; has worked; L:at demonstrations by the Revolutionary  Communist Party and the Jewish Defense League)
+
+Operation Rescue protesters stand  out, he said.
+0.89 (Operation Rescue protesters stand  out; said; he)
+0.71 Context(Operation Rescue protesters stand out said,List([0, 47))):(Operation Rescue protesters; stand out; )
+
+"Pain for many of the demonstrators is a catharsis for past failure to take  action against abortion," he said in a sworn statement last August, given as  part of a court challenge against pain-compliance devices.
+0.96 (Pain for many of the demonstrators is a catharsis for past failure; said; L:in a sworn statement; T:last August)
+0.95 Context(Pain for many of the demonstrators is a catharsis for past failure said,List([1, 110))):(Pain for many of the demonstrators; is; a catharsis for past failure)
+0.39 (the demonstrators; is a catharsis for; past failure)
+
+Nichols and others have alleged that some demonstrators simply take muscle  relaxants to increase their tolerance -- a charge an Operation Rescue  spokeswoman called "100% incorrect."
+0.87 (a charge; called; 100% incorrect)
+0.77 (Nichols and others; have alleged; that some demonstrators simply take muscle  relaxants to increase their tolerance -- a charge)
+0.80 Context(Nichols and others have alleged,List([0, 31))):(some demonstrators; simply take; muscle  relaxants; to increase their tolerance)
+0.80 Context(Nichols and others have alleged some demonstrators simply take,List([0, 67))):(some demonstrators; simply take muscle  relaxants to increase; their tolerance)
+
+In either case, the results are dangerous, said McKinley.
+0.93 (In either case, the results are dangerous; said; McKinley)
+0.93 Context(In either case , the results are dangerous said,List([0, 47))):(the results; are; dangerous; L:In either case)
+
+"I'm no doctor.
+0.52 (I; 'm; no doctor)
+
+But  pain has a purpose.
+0.92 (pain; has; a purpose)
+
+It's telling you to stop doing what you're doing.
+0.31 (It; 's telling; you; to stop doing what you're doing)
+0.41 (you; to stop; doing what you're doing)
+0.41 Context(you to stop,List([13, 24))):(you; to stop doing; what you're doing)
+0.27 Context(you to stop doing,List([13, 30))):(you; 're doing; )
+
+If you  don't respond to pain, and it is applied with more force, injuries are  possible."
+0.62 (you; do n't respond; to pain)
+0.45 (it; is applied; with more force)
+0.75 (injuries; are; possible)
+
+In fact, injuries have been mounting ever since police and Operation Rescue  protesters squared off at the 1988 Democratic  convention in Atlanta.
+0.94 (injuries; have been mounting ever; T:since police and Operation Rescue  protesters squared off at the 1988 Democratic  convention in Atlanta)
+0.94 (police and Operation Rescue  protesters; squared off; L:at the 1988 Democratic  convention in Atlanta)
+
+As Operation Rescue built momentum, engaging in civil  disobedience at clinics around the country, the allegations of police brutality  increased:  * In San Diego, an officer reportedly moved through the demonstrators singing:  "Don't try to understand 'em, just round 'em up and brand 'em."  * In Pittsburgh, women claimed they were sexually molested by officers.
+0.93 (Operation Rescue; built; momentum)
+0.88 (women; claimed; they were sexually molested by officers; L:In Pittsburgh)
+0.74 Context(women claimed,List([310, 323))):(the allegations of police brutality; increased; )
+0.55 Context(women claimed,List([310, 323))):(they; were sexually molested; by officers)
+0.91 (the allegations of police brutality; reportedly moved; through the demonstrators)
+
+* In West Hartford, Conn., officers removed their badges and name tags --  purportedly to avoid cutting demonstrators -- and then allegedly hauled  protesters away with come-along holds, by lifting them with sharp-edged plastic  handcuffs, or with "crotch carries" in which a night stick is stuck between the  protester's legs.
+0.88 (officers; removed purportedly; L:In West Hartford)
+0.81 Context(officers removed purportedly,List([27, 86))):(officers; removed purportedly to avoid; cutting demonstrators)
+0.95 (a night stick; is stuck; between the  protester's legs; L:crotch carries)
+0.75 (officers; allegedly hauled away; T:then)
+
+A priest testified that the police seemed to enjoy inflicting  pain: "The demonic element entered in here."
+0.86 (the police; to enjoy; inflicting  pain)
+0.86 Context(the police to enjoy,List([24, 50))):(the police; to enjoy inflicting; pain)
+0.73 (The demonic element; entered here; in)
+0.72 Context(The demonic element entered here,List([70, 105))):(A priest; testified; that the police seemed to enjoy inflicting  pain)
+0.68 Context(A priest testified The demonic element entered here,List([0, 105))):(the police; seemed; )
+
+A woman arrested this year in Los Angeles said: "By the time they got my arms  all the way back the pain was so intense I was just screaming . . .
+0.92 (A woman; arrested; T:this year; L:in Los Angeles)
+0.61 (they; got back; T:the time)
+0.19 (I; was just screaming; )
+0.93 (A woman arrested this year in Los Angeles; said; By the time they got my arms  all the way back the pain was so intense I was just screaming)
+0.91 Context(A woman arrested this year in Los Angeles said,List([0, 46))):(the pain; was; so intense I was just screaming; T:By the time)
+
+'Jesus!
+
+Jesus!' "  In demonstrations in those cities and others, including Boston, Atlanta and  Denver, protesters alleged that officers continued to apply come-along holds  after demonstrators had complied with their commands, administering pain as a  form of "curbside justice."
+0.88 (officers; to apply; come-along holds)
+0.82 (demonstrators; had complied; with their commands)
+0.88 (officers; administering; pain)
+0.82 (protesters; alleged; that officers continued to apply come-along holds  after demonstrators had complied with their commands, administering pain as a  form of "curbside justice; L:In demonstrations in those cities and others, including Boston, Atlanta and  Denver)
+0.75 Context(protesters alleged,List([96, 114))):(officers; continued; T:after demonstrators had complied with their commands)
+
+Implicit in the protesters' complaints is a sense that they have been betrayed  by kindred spirits.
+0.85 (Implicit in the protesters' complaints; is; a sense that they have been betrayed  by kindred spirits)
+0.62 (they; have been betrayed; by kindred spirits)
+0.39 (' complaints; is a sense that; they)
+
+"It wasn't at all like the old anti-war demonstrations where people were  calling the police pigs, being belligerent," said Dan Bruno, an accountant for  the city of Orange, whose right wrist was broken at a March 25 Los Angeles  demonstration.
+0.89 (people; were calling; the police pigs)
+0.76 (It wasn't at all like the old anti-war demonstrations; said; Dan Bruno)
+0.47 Context(It was n't at all like the old anti-war demonstrations said,List([1, 123))):(It; was n't; at all like the old anti-war demonstrations)
+0.39 (Dan Bruno; [is] an accountant for; the city)
+
+"Frankly, I lead a very middle-class life.
+
+I've never been  roughed up like that before.
+0.19 (I; 've never been roughed up; T:before)
+
+Maybe I just got a little insight into what it was  like to be a black demonstrating for civil rights."
+0.48 (it; was; to be a black demonstrating for civil rights)
+
+Operation Rescue has not gone limp after its encounters with police.
+0.83 (Operation Rescue; has not gone; limp; T:after its encounters with police)
+
+Rather,  leaders began an aggressive letter-writing campaign, encouraging those who felt  they had been abused and people who saw videotapes of the abuse to file  complaints against the officers, and write to their senators, congressmen, the  Department of Justice, and the U.S. Commission on Civil Rights.
+0.91 (people who saw videotapes of the abuse; to write; to their senators, congressmen, the  Department of Justice, and the U.S. Commission on Civil Rights)
+0.87 (leaders; began; an aggressive letter-writing campaign)
+0.62 Context(leaders began,List([9, 22))):(leaders; began an aggressive letter-writing campaign encouraging; those who felt  they had been abused and people who saw videotapes of the abuse to file  complaints against the officers, and write to their senators, congressmen, the  Department of Justice, and the U.S. Commission on Civil Rights)
+0.92 (people who saw videotapes of the abuse; to file; complaints against the officers)
+0.88 Context(people who saw videotapes of the abuse to file,List([115, 161))):(people; saw; videotapes of the abuse)
+0.22 (those; felt; they had been abused and people who saw videotapes of the abuse to file  complaints against the officers, and write to their senators, congressmen, the  Department of Justice, and the U.S. Commission on Civil Rights)
+0.27 Context(those felt,List([74, 88))):(they; had been abused; )
+
+A group called  Pro-Life Police was formed, and a member testified that he had witnessed "real  atrocities" by the LAPD.
+0.90 (A group; called; Pro-Life Police)
+0.79 (A group called  Pro-Life Police; was formed; )
+0.74 (a member; testified; that he had witnessed "real  atrocities" by the LAPD)
+0.40 Context(a member testified,List([48, 66))):(he; had witnessed; real  atrocities; L:by the LAPD)
+
+But others said the LAPD had behaved with restraint.
+0.89 (others; said; the LAPD had behaved with restraint)
+0.91 Context(others said,List([4, 15))):(the LAPD; had behaved; with restraint)
+
+For example, feminist  lawyer Gloria Allred, never hesitant to criticize official abuses, said she  believes police acted with professionalism last March, issuing fair warnings  and acting only after demonstrators failed to comply.
+0.93 (feminist  lawyer Gloria Allred, never hesitant to criticize official abuses; said; she  believes police acted with professionalism last March)
+0.43 Context(feminist lawyer Gloria Allred , never hesitant to criticize official abuses said,List([13, 94))):(she; believes; police acted with professionalism last March)
+0.87 Context(feminist lawyer Gloria Allred , never hesitant to criticize official abuses said she believes,List([13, 108))):(police; acted; T:last March)
+0.81 Context(feminist lawyer Gloria Allred , never hesitant to criticize official abuses said she believes police acted,List([13, 121))):(police; acted issuing; fair warnings)
+0.81 Context(feminist lawyer Gloria Allred , never hesitant to criticize official abuses said she believes police acted,List([13, 121))):(police; acted acting; only after demonstrators failed to comply)
+0.68 (demonstrators; to comply; )
+
+"I can't have much sympathy for them," she said of the anti-abortion  "rescuers," as she stood among a vociferous group of pro-choice "clinic  defenders" at a Dec. 9 demonstration and counterdemonstration in Fullerton.
+0.50 (she; stood; among a vociferous group of pro-choice "clinic  defenders; L:at a Dec)
+0.64 (I can't have much sympathy for them; said; T:as she stood among a vociferous group of pro-choice "clinic  defenders" at a Dec. 9 demonstration and counterdemonstration in Fullerton)
+0.26 Context(I ca n't have much sympathy for them said,List([1, 47))):(I; ca n't have; much sympathy for them)
+
+"The pain inflicted on women's lives by Operation Rescue people is enormous.
+0.92 (The pain; inflicted; on women's lives; by Operation Rescue people)
+0.93 (The pain inflicted on women's lives by Operation Rescue people; is; enormous)
+
+What they are suffering in pain-compliance is a drop in the ocean compared to  what we've endured in exercising our constitutional rights."
+0.66 (they; are suffering; L:in pain-compliance)
+0.82 (What they are suffering in pain-compliance; is; a drop in the ocean)
+0.31 (we; 've endured; in exercising our constitutional rights)
+0.27 (we; in exercising; our constitutional rights)
+0.39 (pain-compliance; is a drop in; the ocean)
+
+At demonstrations, throngs of pro-choice demonstrators, some of whom might well  have been on the wrong end of night sticks in another era, watched the police  twist protesters' arms and chanted: "L.A. blue, we're with you."
+0.93 (throngs of pro-choice demonstrators; watched; the police  twist protesters' arms; L:At demonstrations)
+0.64 Context(throngs of pro-choice demonstrators watched,List([19, 147))):(some of whom; might well have been; on the wrong end of night sticks in another era)
+0.88 (throngs of pro-choice demonstrators; chanted; L.A. blue, we're with you; T:At demonstrations)
+0.31 Context(throngs of pro-choice demonstrators chanted,List([19, 194))):(we; 're; with you)
+
+Chief Gates, an outspoken conservative, does not bask in this new-found  support.
+0.91 (Chief Gates; does not bask; in this new-found  support)
+
+"I felt like the people in the stands were cheering as we threw the  Christians to the lions," he said.
+0.89 (the people in the stands; were cheering; T:as we threw the  Christians to the lions)
+0.57 (we; threw; the  Christians; to the lions)
+0.71 (I felt like the people in the stands were cheering; said; he)
+0.48 Context(I felt like the people in the stands were cheering said,List([1, 102))):(I; felt; like the people in the stands were cheering as we threw the  Christians to the lions)
+
+In fact, the emotional volatility of the abortion issue has shaken the way many  think in the debate over police uses of force.
+0.96 (the emotional volatility of the abortion issue; has shaken; the way many  think in the debate over police uses of force)
+0.55 (many; think; L:in the debate over police; uses of force)
+
+Village Voice columnist Nat Hentoff has skewered liberal civil libertarians for  letting their ideology stop them from supporting anti-abortion protesters'  fight to restrain what he calls "the torture police."
+0.94 (Village Voice columnist Nat Hentoff; has skewered; liberal civil libertarians; for  letting their ideology stop them from supporting anti-abortion protesters'  fight)
+0.88 (Nat Hentoff; [is] columnist [of]; Village Voice)
+
+He also has charged that  his media colleagues have turned their backs on the uncomfortably complex  issue.
+0.15 (He; has charged; that  his media colleagues have turned their backs on the uncomfortably complex  issue)
+0.45 Context(He has charged,List([0, 19))):(his media colleagues; have turned; their backs; on the uncomfortably complex  issue)
+
+William B. Allen, a controversial Ronald Reagan appointee to the U.S.  Commission on Civil Rights, has similar views: "We like to value tolerance.
+0.93 (William B. Allen; has; similar views)
+0.40 Context(William B. Allen has,List([0, 102))):(We; like; to value tolerance)
+0.40 Context(William B. Allen has We like,List([0, 126))):(We; like to value; tolerance)
+
+But  you never know how tolerant you are until you're challenged on something you  care about.
+0.62 (you; 're challenged; L:on something)
+0.36 (you; care; about)
+0.52 (you; never know; how tolerant you are until you're challenged on something)
+0.40 Context(you never know,List([5, 19))):(you; are; T:until you're challenged on something)
+
+This issue has touched some very raw nerves, and we find we're not  as tolerant as we pretend to be."
+0.90 (This issue; has touched; some very raw nerves)
+0.23 (we; pretend; to be)
+0.17 (we; to be; )
+0.32 (we; find; we're not  as tolerant)
+0.26 Context(we find,List([49, 56))):(we; 're not; as tolerant as we pretend to be)
+
+At a commission briefing on police brutality charges, organized by Allen in  September, Robert McCue, chief of the West Hartford police, defended his  officers.
+0.91 (police brutality charges; organized; by Allen; T:in  September)
+0.38 (Robert McCue; [is] chief of; the West Hartford police)
+
+"I have never heard of training that consists of using stretchers for one class  of prisoner and come-along holds for others based on the motivation of a  crime," he said.
+0.92 (training; consists; of using stretchers for one class  of prisoner and come-along holds for others)
+0.93 (come-along holds for others; based; on the motivation of a  crime)
+0.63 (I have never heard of training; said; he)
+0.40 Context(I have never heard of training said,List([1, 170))):(I; have never heard; of training)
+
+"All I want my officers to think of at the time that they're  taking somebody into custody is the resistance to the arrest.
+0.62 (they; 're taking; somebody; into custody)
+0.83 (All I want my officers to think of at the time; is; the resistance to the arrest)
+0.32 (I; want; my officers to think of at the time)
+0.59 Context(I want,List([5, 11))):(my officers; to think; of; T:at the time)
+
+I don't want them  concerned with abortions, nuclear freezes, saving the whales or whatever."
+0.26 (I; do n't want; them  concerned with abortions, nuclear freezes)
+0.29 Context(I do n't want,List([0, 12))):(I; do n't want them  concerned with abortions, nuclear freezes saving; the whales or whatever)
+
+Even before the commission met, conservative lawmakers were joining Sen.  Armstrong in lashing out against police pain-compliance tactics and pushing  legislation to restrain them.
+0.93 (conservative lawmakers; were joining; Sen.  Armstrong; L:in lashing out against police pain-compliance tactics and pushing  legislation)
+0.88 Context(conservative lawmakers were joining,List([32, 67))):(conservative lawmakers; were joining Sen.  Armstrong in lashing out; against police pain-compliance tactics)
+0.72 Context(conservative lawmakers were joining,List([32, 67))):(conservative lawmakers; were joining Sen.  Armstrong pushing; legislation; to restrain them)
+
+Rep. Robert Dornan (R-Garden Grove) read into the Congressional Record a column  by William F. Buckley Jr. comparing the West Hartford demonstrations to civil  rights demonstrations in Alabama three decades ago: "It is hard to believe that  Bull Connor, directing white redneck policemen, caused more brutality in the  treatment of blacks than was caused by the police of West Hartford in their  treatment of members of Operation Rescue."
+
+An amendment introduced by conservative lawmakers in the House and Senate, and  tagged onto a HUD bill later signed by the President, states that no Community  Planning and Development grants may be paid "to any municipality that fails to  adopt and enforce a policy prohibiting the use of excessive force by law  enforcement agencies within the jurisdiction of said municipality against any  individuals engaged in nonviolent civil rights demonstrations."
+0.92 (An amendment; introduced; by conservative lawmakers in the House and Senate)
+0.93 (any municipality; fails; to  adopt and enforce a policy prohibiting the use of excessive force by law  enforcement agencies within the jurisdiction of said municipality against any  individuals)
+0.90 (any  individuals; engaged; in nonviolent civil rights demonstrations)
+0.70 (any municipality; to adopt; )
+0.96 (a HUD bill; signed; by the President; T:later)
+0.89 (any municipality; to enforce; a policy prohibiting the use of excessive force by law  enforcement agencies within the jurisdiction of said municipality against any  individuals)
+0.93 (An amendment introduced by conservative lawmakers in the House and Senate; states; that no Community  Planning and Development grants may be paid "to any municipality)
+0.93 Context(An amendment introduced by conservative lawmakers in the House and Senate states,List([0, 140))):(no Community  Planning and Development grants; may be paid; to any municipality)
+0.94 (a policy; prohibiting; the use of excessive force by law  enforcement agencies within the jurisdiction)
+
+Los Angeles received almost $56 million in such grants in fiscal year 1989.
+0.95 (Los Angeles; received; almost $56 million in such grants in fiscal year 1989)
+
+"This is what the Democrats used to do all the time, blackmailing cities into  doing what the federal government wants it to do," said Gates.
+0.89 (the Democrats; to do; T:all the time)
+0.84 Context(the Democrats to do,List([14, 38))):(the Democrats; to do blackmailing; cities)
+0.96 (This is what the Democrats used to do all the time; said; Gates)
+0.44 Context(This is what the Democrats used to do all the time said,List([1, 134))):(This; is; what the Democrats used to do all the time)
+
+"Now we've got  Republicans doing it."
+0.43 (we; 've got; Republicans doing it; T:Now)
+0.83 Context(we 've got,List([5, 14))):(Republicans; doing; it)
+
+The Justice Department already investigates charges of police abuse, Gates  pointed out.
+0.97 (The Justice Department already investigates charges of police abuse; pointed out; Gates)
+0.94 Context(The Justice Department already investigates charges of police abuse pointed out,List([0, 87))):(The Justice Department; investigates; charges of police abuse; T:already)
+
+But if this "horrendous" new measure has its intended effect,  eliminating the use of painful control techniques in nonviolent demonstrations,  his department may have no choice but to watch as demonstrators of any stripe  take over any facility they choose, he said.
+0.89 (this "horrendous" new measure; has; its intended effect)
+0.88 Context(this " horrendous " new measure has,List([7, 40))):(this "horrendous" new measure; has its intended effect eliminating; the use of painful control techniques in nonviolent demonstrations)
+0.86 (demonstrators of any stripe; take over; any facility they choose)
+0.88 (any facility; choose; they)
+0.95 (if this "horrendous" new measure has its intended effect,  eliminating the use of painful control techniques in nonviolent demonstrations,  his department may have no choice but to watch; said; he)
+0.58 Context(if this " horrendous " new measure has its intended effect , eliminating the use of painful control techniques in nonviolent demonstrations , his department may have no choice but to watch said,List([4, 266))):(his department; may have; no choice but to watch)
+0.58 Context(if this " horrendous " new measure has its intended effect , eliminating the use of painful control techniques in nonviolent demonstrations , his department may have no choice but to watch said,List([4, 266))):(his department; may have no choice but to watch but to watch; T:as demonstrators of any stripe  take over any facility)
+
+Carol Sobel, staff attorney for the Los Angeles Chapter of the ACLU, shares  Gates' assessment that the government acted in this case because conservative  lawmakers were sympathetic to the anti-abortion cause.
+0.88 (Carol Sobel; shares; Gates' assessment that the government acted in this case)
+0.90 (the government; acted; L:in this case; because conservative  lawmakers were sympathetic to the anti-abortion cause)
+0.90 (conservative  lawmakers; were; sympathetic to the anti-abortion cause)
+0.88 (Carol Sobel; [is] staff attorney for; the Los Angeles Chapter)
+
+But, unlike Gates, she believes that using pain-compliance against any  nonviolent demonstrator is often "barbaric," and she supports restraints on the  police.
+0.45 (she; supports; restraints on the  police)
+0.17 (she; believes; that using pain-compliance against any  nonviolent demonstrator is often "barbaric," and she supports restraints on the  police)
+0.83 Context(she believes,List([19, 31))):(using pain-compliance against any  nonviolent demonstrator; is; T:often; barbaric)
+
+Sobel was "amused" at how quickly lawmakers addressed complaints of police  brutality that, she said, have been raised for years by protesters against U.S.  policy in El Salvador by members of the Revolutionary Communist Party and other  groups generally viewed less sympathetically by conservatives.
+0.93 (Sobel; was; amused; L:at how quickly lawmakers addressed complaints of police  brutality)
+0.74 (Sobel; amused; )
+0.89 (lawmakers; addressed; complaints of police  brutality)
+0.57 (she; said; have been raised for years by protesters against U.S.  policy in El Salvador by members of the Revolutionary Communist Party and other  groups)
+0.90 (police  brutality; have been raised; T:for years; by protesters against U.S.  policy in El Salvador)
+
+Still, she believes the new measure will help assure "that the cost of  demonstrating in this town doesn't escalate.
+0.27 (she; believes; the new measure will help assure "that the cost of  demonstrating in this town doesn't escalate)
+0.74 Context(she believes,List([7, 19))):(the new measure; will help; assure)
+0.70 Context(she believes the new measure will help,List([7, 45))):(the new measure; will help assure assure; )
+0.77 Context(she believes the new measure will help,List([7, 45))):(the cost of  demonstrating in this town; does n't escalate; )
+
+I just hope conservatives remember  that it includes everyone."
+0.11 (I; just hope; conservatives remember  that it includes everyone)
+0.56 Context(I just hope,List([0, 11))):(conservatives; remember; that it includes everyone)
+0.39 Context(I just hope conservatives remember,List([0, 34))):(it; includes; everyone)
+
+Jim Cady in the Times Editorial Library assisted in the research for this  article.
+0.95 (Jim Cady in the Times Editorial Library; assisted; in the research)
+
+* NEW USE FOR OLD TOOL  An ancient Asian farm tool has become a cutting edge weapon for many police  officers in Southern California.
+0.93 (NEW USE FOR OLD TOOL; has become; a cutting edge weapon for many police  officers in Southern California)
+
+E1.
+

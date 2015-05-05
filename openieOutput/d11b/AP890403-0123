@@ -1,0 +1,34 @@
+Here are some tornado facts from the National Weather Service, Insurance Information Institute and news accounts:    _Tornadoes can occur in any month, but are more frequent from April through June and between 3 and 6 p.m.    _Most tornadoes track southwest to northeast, but their paths can spiral erratically.
+0.90 (_Tornadoes; are; more frequent from April)
+0.80 (6 p.m.; tornadoes; track southwest; to northeast)
+0.34 (their paths; can spiral erratically; )
+0.87 (_Tornadoes; can occur; T:in any month)
+0.64 Context(_Tornadoes can occur,List([117, 137))):(Here; are; some tornado facts from the National Weather Service, Insurance Information Institute and news accounts)
+
+_The portion of a thunderstorm adjacent to large hail is where tornadoes are most likely to occur.
+0.96 (_The portion of a thunderstorm adjacent to large hail; is; where tornadoes are most likely to occur)
+0.75 (tornadoes; are; most likely to occur)
+0.68 (tornadoes; to occur; )
+
+_There were 32 tornado-related deaths reported in 1988, down from 59 in 1987 and well below the average of 99 a year.
+0.81 (32 tornado-related deaths; reported; T:in 1988)
+
+_Less than 2 percent of all tornadoes are classified as violent, with wind speeds of more than 200 mph and a path averaging 26 miles.
+0.84 (_Less than 2 percent of all tornadoes; are classified; as violent)
+0.90 (a path; averaging; 26 miles)
+
+The longest tornado on record went 219 miles across Missouri, Illinois and Indiana in March 1925.
+0.95 (The longest tornado on record; went; 219 miles; L:across Missouri, Illinois and Indiana; T:in March 1925)
+
+_Tornadoes travel at an average 30 mph, but can stand still or go 70 mph.
+0.89 (_Tornadoes; travel; at an average 30 mph)
+0.68 (_Tornadoes; can stand still; )
+0.90 (_Tornadoes; go; 70 mph)
+
+_The largest single outbreak of twisters on record was in April 1974, when 148 storms killed 300 people in 13 states over two days.
+0.96 (_The largest single outbreak of twisters on record; was; in April 1974)
+0.90 (148 storms; killed; 300 people; L:in 13 states; T:over two days)
+
+_When a tornado threatens, seek shelter in the basement or central parts of the house, office or school building, away from windows.
+0.88 (a tornado; seek away; L:in the basement)
+

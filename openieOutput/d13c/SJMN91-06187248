@@ -1,0 +1,310 @@
+There, in the segregated black Georgia of four decades past, began the toughening of Clarence Thomas, nominee to the United States Supreme Court.;    Abandoned by his father, driven by his hard-eyed grandfather and a band of nuns sent south to teach black children, young Clarence learned sharecropping and scholarship, hard labor and the Latin mass, and how to survive the walk home through black Savannah in his Catholic school uniform.;
+0.63 (Abandoned by his father; driven; by his hard-eyed grandfather and a band of nuns)
+0.85 (nuns; sent; south; to teach black children)
+0.95 (young Clarence; learned; sharecropping and scholarship, hard labor and the Latin mass)
+0.74 Context(young Clarence learned,List([266, 288))):(young Clarence; learned sharecropping and scholarship, hard labor and the Latin mass sharecropping; )
+
+From these roots, he might have become one of any number of bright, activist black men to rise out of Southern poverty and press a politically aggressive liberal agenda of civil rights and affirmative action -- as did men like Thurgood Marshall, the retiring justice whose Supreme Court seat Thomas might take.;
+0.70 (he; might have become; one of any number of bright, activist black men to rise out of Southern poverty and press a politically aggressive liberal agenda of civil rights and affirmative action --; T:From these roots)
+0.95 (the retiring justice; might take; Thomas)
+
+Instead, Thomas, now 43, became something else -- a hybrid product of harsh Southern history and baby-boom ambition, a proponent of personal strength over dependence, of individualism over government activism.;
+0.91 (Thomas; became; something else)
+
+By the time he arrived in Washington with the Reagan administration, he had developed into a rare breed -- a black conservative so impressive to Republican presidents that he was set on the road to the highest court in the land.
+0.64 (he; arrived; in Washington; T:the time)
+0.60 (he; had developed; into a rare breed; T:By the time)
+0.57 (he; was set; on the road to the highest court in the land)
+
+But he was so disturbing to traditional liberals that they are eager to deprive him of Senate confirmation in September.;
+0.29 (he; was; so disturbing to traditional liberals that they are eager to deprive him of Senate confirmation in September)
+0.51 (they; are; eager to deprive him of Senate confirmation in September)
+0.47 (they; to deprive; him; of Senate confirmation; T:in September)
+
+Historically, trying to predict Supreme Court nominees has been extremely risky.
+0.87 (trying to predict Supreme Court nominees; has been; extremely risky)
+
+Still, many liberals are convinced that Thomas' past clearly shows his future.
+0.63 (many liberals; are convinced; that Thomas' past clearly shows his future)
+0.85 Context(many liberals are convinced,List([7, 34))):(Thomas' past; clearly shows; his future)
+
+He would, they say, oppose abortion rights, school busing plans and affirmative action programs.
+0.68 (they; say; oppose abortion rights, school busing plans and affirmative action programs)
+0.46 (He; would oppose; abortion rights, school busing plans and affirmative action programs)
+
+He would also weaken the wall separating government and religion and further restrict the rights of criminal suspects and defendants.;
+0.35 (He; would weaken; the wall separating government and religion)
+0.41 (He; restrict; the rights of criminal suspects and defendants)
+
+Not surprisingly, Thomas' many friends and supporters draw different conclusions.
+
+They see him as an independent spirit, a probable centrist on a court that has been steering rightward for several years.;
+0.58 (They; see; him; as an independent spirit, a probable centrist on a court)
+0.89 (a court; has been steering rightward; T:for several years)
+
+The Georgia beginning;  But any attempt to understand the potential successor to the revered Thurgood Marshall must begin in Georgia.;    There, just the other day, Leola Williams, Thomas' mother, talked about how the force of family worked on her son:;    "Clarence was surrounded by all our older parents.
+0.86 (Clarence; was surrounded; by all our older parents)
+0.98 (any attempt to understand the potential successor to the revered Thurgood Marshall; must begin; L:in Georgia)
+0.90 (Leola Williams; talked; about how the force of family worked on her son)
+0.86 (the force of family; worked; on her son)
+0.38 (Leola Williams; [is] mother [of]; Thomas)
+
+He saw how our family and other people struggled to make a living.;
+0.42 (He; saw; how our family and other people struggled to make a living)
+0.64 Context(He saw,List([0, 6))):(our family and other people; struggled; to make a living)
+0.64 Context(He saw our family and other people struggled,List([0, 48))):(our family and other people; struggled to make; a living)
+
+"I guess Clarence wanted to prove to himself he could be what he wanted to be -- and prove to his grandfather he could be the kind of person (his grandfather) wanted him to be.";
+0.17 (he; to be; )
+0.40 (I; guess; Clarence wanted to prove to himself he could be what he wanted to be -- and prove to his grandfather he could be the kind of person)
+0.88 Context(I guess,List([1, 8))):(Clarence; wanted; to prove to himself he could be what he wanted to be -- and prove to his grandfather he could be the kind of person)
+0.88 Context(I guess Clarence wanted,List([1, 24))):(Clarence; wanted to prove; to himself; he could be what he wanted to be -- and prove to his grandfather he could be the kind of person)
+0.36 Context(I guess Clarence wanted to prove,List([1, 33))):(he; could be; what he wanted to be -- and prove to his grandfather he could be the kind of person)
+0.36 Context(I guess Clarence wanted to prove he could be,List([1, 56))):(he; wanted; to be -- and prove to his grandfather he could be the kind of person)
+0.18 Context(I guess Clarence wanted to prove he could be he wanted,List([1, 71))):(he; wanted to prove; to his grandfather; he could be the kind of person)
+0.36 Context(I guess Clarence wanted to prove he could be he wanted to prove,List([1, 90))):(he; could be; the kind of person (his grandfather) wanted him to be)
+
+The grandfather, the late Myers Anderson, began training Thomas in earnest when the boy was 9 and Leola Williams' life suddenly began coming apart.
+0.87 (The grandfather; began; T:when the boy was 9)
+0.90 (The grandfather; training; Thomas)
+0.81 (the boy; was; 9)
+0.82 (Leola Williams' life; suddenly began; )
+0.82 (Leola Williams' life; coming; apart)
+
+Her house off Pin Point Avenue had gone up in smoke, and some months later, her husband went north to Philadelphia, leaving her with two young children and a third on the way.;    Williams took her daughter, Emma Mae, and moved in with an aunt while she awaited the birth of her second son, Myers.
+0.31 (she; awaited; the birth of her second son)
+0.84 (Williams; moved; in; with an aunt; T:while she awaited the birth of her second son)
+0.79 (her husband; went; north to Philadelphia; T:some months later)
+0.44 Context(her husband went,List([76, 92))):(her husband; went leaving; her; with two young children and a third on the way)
+0.83 (Williams; took; her daughter)
+0.74 Context(Williams took,List([180, 193))):(Her house off Pin Point Avenue; had gone; up; L:in smoke)
+
+Clarence went to live with his grandparents in Savannah, to help with Anderson's year-round oil and ice delivery business.;
+0.89 (Clarence; went; to live with his grandparents in Savannah)
+0.94 Context(Clarence went,List([0, 13))):(Clarence; went to live; L:in Savannah; to help with Anderson's year-round oil and ice delivery business)
+
+His grandfather proved to be a profound force in Thomas' life -- a mentor, a role model, an unrelenting taskmaster and the embodiment of a personal philosophy that Thomas once recalled this way:;    "He used to tell me that there was no problem that elbow grease couldn't solve.
+0.64 (His grandfather; to be; a profound force in Thomas' life)
+0.73 (elbow grease; could n't solve; )
+0.95 (Thomas; recalled; this way; T:a personal philosophy; T:once)
+0.15 (He; to tell; me; that there was no problem that elbow grease couldn't solve)
+0.39 (there; was no problem that; elbow grease)
+
+Then he'd say, 'Old Man Can't is dead.
+0.53 (he; 'd say; Old Man Can't is dead; T:Then)
+0.77 Context(he 'd say,List([5, 13))):(Old Man; Ca n't is; dead)
+
+I helped bury him.'
+0.26 (I; helped; bury him)
+0.26 Context(I helped,List([0, 8))):(I; helped bury; him)
+
+";    When Anderson wasn't coaching Thomas, in his farm fields or on his delivery truck, he made sure the lessons continued, in the hands of the Franciscan nuns of all-black St. Benedict the Moor School.;    Thomas, who had experienced racial mistreatment by white seminarians in Georgia, ultimately rejected seminary life.
+0.93 (Anderson; was n't coaching; Thomas)
+0.73 (the lessons; continued; )
+0.93 (Thomas; rejected; seminary life; T:ultimately)
+0.54 Context(Thomas rejected,List([208, 308))):(he; made; sure the lessons continued, in the hands of the Franciscan nuns of all-black St. Benedict the Moor School; T:When Anderson wasn't coaching Thomas, in his farm fields or on his delivery truck)
+0.88 Context(Thomas rejected,List([208, 308))):(Thomas; rejected seminary life had experienced; racial mistreatment)
+
+He has identified an episode at Immaculate Conception Seminary in Conception, Mo., in 1968 as the final humiliation.
+0.50 (He; has identified; an episode at Immaculate Conception Seminary in Conception)
+
+He said he heard a seminarian there react to the shooting of Dr. Martin Luther King Jr. by saying, "Good, I hope the son of a bitch dies.";
+0.40 (He; said; he heard a seminarian there react to the shooting of Dr. Martin Luther King Jr. by saying, "Good, I hope the son of a bitch dies)
+0.40 Context(He said,List([0, 7))):(he; heard; a seminarian there react to the shooting of Dr. Martin Luther King Jr. by saying, "Good, I hope the son of a bitch dies)
+0.88 Context(He said he heard,List([0, 16))):(a seminarian; there react; to the shooting of Dr. Martin Luther King Jr. by saying, "Good, I hope the son of a bitch dies)
+0.77 Context(He said he heard a seminarian there react,List([0, 41))):(a seminarian; there react by saying; Good, I hope the son of a bitch dies)
+0.39 Context(He said he heard a seminarian there react by saying,List([0, 97))):(I; hope; the son of a bitch dies)
+0.74 Context(He said he heard a seminarian there react by saying I hope,List([0, 112))):(the son of a bitch; dies; )
+
+Thomas left the seminary and went north to enroll at Holy Cross College in the gritty New England factory city of Worcester, Mass.;
+0.94 (Thomas; left; the seminary)
+0.95 (Thomas; went; north; to enroll at Holy Cross College in the gritty New England factory city of Worcester)
+0.90 Context(Thomas went,List([0, 33))):(Thomas; went to enroll; at Holy Cross College in the gritty New England factory city of Worcester)
+
+A Southerner in New England;  The Southern farm boy was forced to endure not only the harsh winters of New England, but also the chilly atmosphere of a white college just beginning to widen opportunities for blacks.;
+0.97 (The Southern farm boy; was forced; to endure not only the harsh winters of New England)
+0.82 (the chilly atmosphere of a white college; just beginning; )
+0.93 (the chilly atmosphere of a white college; to widen; opportunities for blacks)
+
+Within days of King's assassination, the school created a scholarship fund named after the civil-rights leader and stepped up the recruiting of blacks.
+0.97 (the school; created; a scholarship fund named after the civil-rights leader; T:Within days of King's assassination)
+0.91 (a scholarship fund; named; after the civil-rights leader)
+0.94 (the school; stepped up; the recruiting of blacks; T:Within days of King's assassination)
+
+And so Thomas, who was driven from the Missouri seminary by racism, became one of the beneficiaries of an effort to combat it.;
+0.92 (Thomas; was driven; from the Missouri seminary; by racism)
+0.91 (Thomas; became; one of the beneficiaries of an effort)
+
+Thomas, who paid for his college education with loans, jobs and the newly raised scholarship funds, soon was drawn into the turbulence of Vietnam War and "black power" politics.;
+0.89 (Thomas; paid; for his college education with loans, jobs and the newly raised scholarship funds)
+0.97 (Thomas; was drawn; into the turbulence of Vietnam War and "black power" politics; T:soon)
+
+He helped found a Black Student Union, writing and typing its constitution.
+0.44 (He; helped found; a Black Student Union)
+0.54 Context(He helped found,List([0, 15))):(He; helped found helped; found a Black Student Union)
+0.11 Context(He helped found,List([0, 15))):(He; helped found writing; )
+0.19 Context(He helped found,List([0, 15))):(He; helped found typing; its constitution)
+
+In December 1969, he and other black students resigned to protest the suspensions of black students who had blocked a General Electric recruiter on campus.
+0.90 (black students; had blocked; a General Electric recruiter; L:on campus)
+0.80 (he and other black students; resigned; to protest the suspensions of black students; T:In December 1969)
+0.64 Context(he and other black students resigned,List([18, 54))):(he and other black students; resigned to protest; the suspensions of black students)
+
+Stung, school officials granted a blanket amnesty and the students returned.;
+0.90 (school officials; granted; a blanket amnesty)
+0.73 (the students; returned; )
+
+Thomas went on to run track and write for the campus newspaper.
+0.73 (Thomas; went on; )
+0.90 Context(Thomas went on,List([0, 14))):(Thomas; went on to run; track)
+0.86 Context(Thomas went on,List([0, 14))):(Thomas; went on to write; for the campus newspaper)
+
+He graduated from Holy Cross with honors and left for Yale University Law School in New Haven, Conn.;    Freewheeling liberalism;  "He came into law school espousing liberal views from his freewheeling, unattached undergraduate days," said Harry Singleton, a black classmate, close friend and a former civil rights official in the Reagan Education Department.;    "But he became more conservative as he went through the process of legal education.";
+0.53 (He; left; for Yale University Law School in New Haven)
+0.26 (he; became; more conservative; T:as he went through the process of legal education)
+0.94 Context(he became,List([369, 378))):(He graduated from Holy Cross with honors and left for Yale University Law School in New Haven, Conn.;    Freewheeling liberalism;  "He came into law school; said; Harry Singleton)
+0.39 Context(He graduated from Holy Cross with honors and left for Yale University Law School in New Haven , Conn . ; Freewheeling liberalism ; " He came into law school said he became,List([0, 378))):(He; came; into law school)
+0.43 Context(He graduated from Holy Cross with honors and left for Yale University Law School in New Haven , Conn . ; Freewheeling liberalism ; " He came into law school said he became,List([0, 378))):(He; graduated; from Holy Cross)
+0.52 (he; went; through the process of legal education)
+0.27 (He; espousing; liberal views from his freewheeling)
+
+Yale law students, Singleton explained, were exposed to conservative law professors with powerful minds.;    "I used to discuss conservative ideas with Clarence and he was interested in them," Singleton said.
+0.77 (Singleton; explained; )
+0.46 (I; to discuss; conservative ideas with Clarence)
+0.37 (he; was; interested in them)
+0.99 (Yale law students, Singleton explained, were exposed to conservative law professors with powerful minds.;    "I used to discuss conservative ideas with Clarence and he was interested in them; said; Singleton)
+
+"They were about the dangers of big government trying to solve all the ills of society and how every time you do that you take away from the liberties of the people.";
+0.62 (They; were; about the dangers of big government)
+0.76 (you; do; T:every time)
+0.91 (all the ills of society; take; away from the liberties of the people)
+
+But it was Thomas Sowell, the conservative black economist now at Stanford University's Hoover Institution, whose work came to grip Thomas' mind.;
+0.57 (it; was; Thomas Sowell)
+0.94 (Stanford University's Hoover Institution; came; to grip Thomas' mind)
+0.94 (Stanford University's Hoover Institution; to grip; Thomas' mind)
+
+Shortly after his arrival at Yale, Thomas remembered when someone gave him one of Sowell's books and "I threw it in the trash" because "it really went against all the things we'd been indoctrinated to believe about the radical movement and the peace movement.";
+0.41 (we; to believe; about the radical movement and the peace movement)
+0.85 (someone; gave; him; one of Sowell's books)
+0.37 (I; threw; it; in the trash; because "it really went against all the things)
+0.45 (it; really went; against all the things)
+0.72 (all the things; 'd been indoctrinated; to believe about the radical movement and the peace movement)
+
+But after law school, Thomas rediscovered one of Sowell's books.
+0.96 (Thomas; rediscovered; one of Sowell's books; T:after law school)
+
+Sowell's provocative 1983 work, "The Economics and Politics of Race," was "manna from heaven," Thomas said.;
+0.98 (The Economics and Politics of Race," was "manna from heaven; said; Thomas)
+0.94 Context(The Economics and Politics of Race , " was " manna from heaven said,List([33, 106))):(The Economics and Politics of Race; was; manna from heaven)
+
+In that book, Sowell, arguing from a laissez-faire perspective, endorsed the notion that blacks would benefit more from pursuing economic achievement than political agitation.;
+0.89 (Sowell; endorsed; the notion that blacks would benefit more from pursuing economic achievement than political agitation; L:In that book)
+0.88 Context(Sowell endorsed,List([14, 72))):(Sowell; endorsed the notion that blacks would benefit more from pursuing economic achievement than political agitation arguing; from a laissez-faire perspective)
+
+From Yale to Washington;  Thomas, always a top student, was recruited out of Yale in 1974 by John Danforth, R-Mo., then Missouri attorney general, a Yale trustee and a frequent campus visitor.
+0.77 (Thomas; was recruited then; T:in 1974)
+0.38 (Missouri attorney general; [is] a trustee [of]; Yale)
+
+Danforth brought Thomas to Jefferson City, Mo., to work in the attorney general's office.;
+0.91 (Danforth; brought; Thomas; to Jefferson City; to work in the attorney general's office)
+0.85 Context(Danforth brought,List([0, 16))):(Danforth; brought Thomas to work; L:in the attorney general's office)
+
+When Danforth became a U.S. senator in 1977, Thomas stayed in St. Louis to work as an assistant counsel for the Monsanto Corp., then in 1979 joined Danforth in Washington as a legislative aide.;    Reagan administration officials were so impressed by Thomas and his new conservative leanings that they appointed him assistant secretary for civil rights in the Department of Education.
+0.93 (Danforth; became; a U.S. senator in 1977)
+0.51 (they; appointed; him; assistant secretary for civil rights; L:in the Department of Education)
+0.92 (Thomas; to work; as an assistant counsel for the Monsanto Corp)
+0.95 (Thomas; joined; Danforth; L:in Washington; as a legislative aide; T:then; T:in 1979)
+0.81 (Reagan administration officials; were; so impressed by Thomas and his new conservative leanings that they appointed him assistant secretary for civil rights in the Department of Education)
+0.97 Context(Reagan administration officials were,List([198, 234))):(Thomas; stayed; in St. Louis; to work as an assistant counsel for the Monsanto Corp; T:When Danforth became a U.S. senator in 1977)
+
+In 1982, they promoted him to the more visible post of chairman of the Equal Employment Opportunity Commission.
+0.75 (they; promoted; him; to the more visible post of chairman of the Equal Employment Opportunity Commission; T:In 1982)
+
+There controversy dogged him for the next eight years.;
+0.49 (There controversy; dogged; him; T:for the next eight years)
+
+Congress learned in 1989 that the EEOC under Thomas' direction had permitted more than 13,000 age discrimination claims to lapse.;    Civil-rights groups accused Thomas of failing to enforce other anti-discrimination laws as well, and of retaliating against employees who disagreed with his policies.;
+0.91 (Thomas; of retaliating; against employees)
+0.80 (employees; disagreed; with his policies)
+0.91 (Civil-rights groups; accused; Thomas; of failing to enforce other anti-discrimination laws as well)
+0.86 Context(Civil - rights groups accused,List([134, 161))):(Congress; learned; T:in 1989; that the EEOC under Thomas' direction had permitted more than 13,000 age discrimination claims to lapse)
+0.93 Context(Congress learned Civil - rights groups accused,List([0, 161))):(the EEOC under Thomas' direction; had permitted; more than 13,000 age discrimination claims)
+0.92 (Thomas; of failing; to enforce other anti-discrimination laws as well)
+0.90 (Thomas; to enforce as well; other anti-discrimination laws)
+
+Thomas concentrated on winning relief for victims of actual discrimination.
+0.90 (Thomas; concentrated; on winning relief for victims of actual discrimination)
+0.90 Context(Thomas concentrated,List([0, 19))):(Thomas; concentrated on winning; relief)
+
+He steered away from lawsuits based on statistical evidence and remedies that included timetables for future hiring.;
+0.19 (He; steered away; )
+0.89 (lawsuits; based; on statistical evidence and remedies)
+0.88 (remedies; included; timetables for future hiring)
+
+But he was unwilling to go along with more strident voices in the Reagan administration who opposed most legal remedies for discrimination, so he often felt isolated from both the administration and the civil rights establishment.;
+0.68 (he; was; unwilling to go along with more strident voices in the Reagan administration)
+0.20 (he; to go; along)
+0.95 (more strident voices in the Reagan administration; opposed; most legal remedies for discrimination)
+0.73 (he; felt; isolated from both the administration and the civil rights establishment; T:often)
+0.55 (he; isolated; from both the administration and the civil rights establishment; T:often)
+
+Several years ago, a top Reagan domestic adviser who wanted his coffee cup refilled at a black-tie dinner looked up and spotted a black man in a tuxedo hovering near the table.
+0.66 (his coffee cup; refilled; L:at a black-tie dinner)
+0.96 (a top Reagan domestic adviser; spotted; a black man; L:in a tuxedo; T:Several years ago)
+0.90 (a tuxedo; hovering; near the table)
+0.95 (a top Reagan domestic adviser; looked; up; T:Several years ago)
+0.90 Context(a top Reagan domestic adviser looked,List([19, 112))):(a top Reagan domestic adviser; looked wanted; his coffee cup refilled at a black-tie dinner)
+
+Holding the cup aloft, the official asked for more coffee.
+0.88 (the official; asked; for more coffee)
+
+The black man reached past the cup to shake hands and said evenly: "Perhaps we haven't met.
+0.91 (The black man; reached; past the cup)
+0.75 (The black man; said evenly; Perhaps we haven't met)
+
+I'm Clarence Thomas.";
+0.57 (I; 'm; Clarence Thomas)
+
+SUNDAY IN PERSPECTIVE: A reporter who saw Clarence Thomas at his most candid writes about the nominee's opinions, fears and frustrations.;
+0.92 (A reporter; saw; Clarence Thomas; L:at his most candid writes about the nominee's opinions, fears and frustrations)
+
+Nomination Of Clarence Thomas; President Bush has chosen Judge Clarence Thomas of the U.S. Court of Appeals to replace Justice Thurgood Marshall, who is retiring from the Supreme Court.; Nominee's background; Age: 43; Birthplace: Savannah, Ga.; Family: Married to Virginia Lamp Thomas; he has one son, Jamal; Education: Bachelor's degree, 1971, Holy Cross College; law degree, Yale Law School, 1974; Professional experience: Missouri assistant attorney general, 1974-'77; chairman of Equal Employment Opportunity Commission, 1982-'89; judge on U.S. Court of Appeals for District of Columbia since.
+0.94 (President Bush; has chosen; Judge Clarence Thomas of the U.S. Court of Appeals; to replace Justice Thurgood Marshall)
+0.94 (Judge Clarence Thomas of the U.S. Court of Appeals; to replace; Justice Thurgood Marshall)
+0.93 (Justice Thurgood Marshall; is retiring; from the Supreme Court)
+
+1990; . .
+
+.; On quotas:;    "Federal enforcement agencies . . .
+
+turned the statutes on their heads by requiring discrimination in the form of hiring and promotion quotas, so-called goals and timetables."; . .
+
+.; On affirmative action:;    He referred to it as "social engineering . . . .
+0.31 (He; referred; to it; as "social engineering)
+
+We're standing the principle of non-discrimination on its head.";    . .
+
+.; How justice is chosen; President: The president nominates Supreme Court justices.;
+0.71 (justice; is chosen; )
+0.92 (The president; nominates; Supreme Court justices)
+
+Senate: Senate holds hearings into qualifications of a nominee prior to confirming, rejecting or failing to act upon the nomination.;
+0.96 (Senate; holds; hearings; into qualifications of a nominee; T:prior to confirming, rejecting or failing to act upon the nomination)
+
+Qualifications: The Constitution sets no qualifications for justices.
+0.94 (The Constitution; sets; no qualifications for justices)
+
+Traditionally, justices have had some legal training and most have been judges, lawyers or law teachers.; . .
+0.38 (most; have been; judges, lawyers or law teachers)
+
+.; Past Nominees; David Souter: Confirmed by Senate, 1990, despite concerns of some Democrats about his views on the right to privacy; Anthony M. Kennedy: Confirmed unanimously, 1988; Robert H. Bork: Rejected, 1987, because of his strict interpretation of the Constitution, which critics said would have set back progress on individual rights; Douglas H. Ginsburg: Ginsburg asked that his nomination be withdrawn, 1987, after he admitted having smoked marijuana as recently as 1979; . .
+0.45 (he; admitted having smoked; marijuana; T:as recently; T:as 1979)
+0.89 (critics; said; would have set back progress on individual rights)
+0.89 (Robert H. Bork: Rejected, 1987, because of his strict interpretation of the Constitution; would have set back; progress on individual rights)
+0.74 (Ginsburg; asked; that his nomination be withdrawn, 1987, after he admitted having smoked marijuana as recently as 1979)
+0.50 Context(Ginsburg asked,List([365, 379))):(his nomination; be withdrawn; T:after he admitted having smoked marijuana as recently as 1979)
+
+.; Sources: Chicago Tribune, World Book Encyclopedia, Compton's Encyclopedia, Who's Who Among Black Americans, news reports;
+0.83 (Chicago Tribune; 's; Who)
+

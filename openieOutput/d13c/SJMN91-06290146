@@ -1,0 +1,55 @@
+And, a reporter asked, what would she say to Anita Hill if she had the chance?;   "I'd tell her to pray," she replied.
+0.52 (she; had; the chance)
+0.19 (her; to pray; )
+0.16 (she; replied; )
+0.80 Context(she replied,List([106, 117))):(a reporter; asked; what would she say to Anita Hill)
+0.31 Context(a reporter asked she replied,List([5, 117))):(I; 'd tell; her; to pray)
+
+"She needs God bad.
+0.50 (She; needs; God bad)
+
+I won't say nothing bad about her because she's a mother-child, too.
+0.30 (I; wo n't say too; nothing bad about her)
+0.52 (she; 's; a mother-child)
+
+But, whoever put her up to it, I just pray she'll get her life straightened out.";
+0.26 (I; just pray; she'll get her life straightened out)
+0.31 Context(I just pray,List([31, 42))):(she; 'll get; her life straightened out)
+0.29 Context(I just pray she 'll get,List([31, 53))):(her life; straightened out; )
+
+In Thomas' birthplace, the hometown crowd has made no attempt to disguise where its heart lies.
+0.92 (the hometown crowd; has made; no attempt to disguise where its heart lies; L:In Thomas' birthplace)
+
+A handwritten sign on the main thoroughfare announces: "Pinpoint Georgia, the home of Judge Clarence Thomas.";
+
+Not surprisingly, no one here seemed to believe Hill's allegation that Thomas had sexually harassed her between 1981 and 1983 while she worked for him.;
+0.84 (no one here; seemed; T:Not surprisingly)
+0.77 (no one here; to believe; Hill's allegation that Thomas had sexually harassed her between 1981 and 1983)
+0.86 (Thomas; had sexually harassed; her; T:between 1981 and 1983; T:while she worked for him)
+0.31 (she; worked; for him)
+
+From a roof, a sign announced: "We believe Clarence.";
+0.87 (a sign; announced; We believe Clarence; T:From a roof)
+0.43 Context(a sign announced,List([13, 29))):(We; believe; Clarence)
+
+Much of the community gathered before the only big-screen television available, at the home of Abraham Famble, deacon of the Sweet Fields of Eden Baptist Church, as the time for the Senate vote neared.;
+0.93 (Much of the community; gathered; L:before the only big-screen television available; L:at the home of Abraham Famble)
+0.85 (the time for the Senate vote; neared; )
+0.38 (Abraham Famble; [is] deacon of; the Sweet Fields)
+
+Williams prayed silently in the kitchen, asking God to watch over her son as she rubbed her hands nervously.
+0.73 (God; to watch; T:as she rubbed her hands nervously)
+0.31 (she; rubbed; her hands; nervously)
+0.90 (Williams; prayed silently; L:in the kitchen)
+0.86 Context(Williams prayed silently,List([0, 24))):(Williams; prayed silently asking; God; to watch over her son as she rubbed her hands nervously)
+
+The crowd joined her in the 23rd Psalm : "Though I walk through the valley of the shadow of death . .
+0.86 (The crowd; joined; her; L:in the 23rd Psalm)
+0.52 (I; walk; through the valley of the shadow of death)
+
+.";
+
+As the tally reached a majority for Thomas, a cry of joy and applause rang out.;
+0.92 (the tally; reached; a majority for Thomas)
+0.80 (a cry of joy and applause; rang out; )
+

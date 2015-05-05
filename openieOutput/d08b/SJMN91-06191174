@@ -1,0 +1,143 @@
+"It's maybe the greatest natural occurrence one can witness," said Larry Toy, a Chabot College astronomy professor.
+0.90 (the greatest natural occurrence; can witness; one)
+0.70 (It's maybe the greatest natural occurrence; said; Larry Toy)
+0.26 Context(It 's maybe the greatest natural occurrence said,List([1, 66))):(It; 's maybe; the greatest natural occurrence one can witness)
+0.38 (Larry Toy; [is] a astronomy professor [of]; Chabot College)
+
+"The phenomenon is just awe-inspiring.";
+0.93 (The phenomenon; is; just awe-inspiring)
+
+Solar eclipses occur twice a year, when the sun, moon and earth line up.
+0.90 (Solar eclipses; occur; T:twice a year)
+
+(This line-up would occur at every new moon, except that the moon's orbit is tilted so it only crosses the sun's path every six months.);
+0.92 (This line-up; would occur; L:at every new moon)
+0.91 (the moon's orbit; is tilted; so it only crosses the sun's path every six months)
+0.45 (it; only crosses; the sun's path; T:every six months)
+
+Because of variations in the moon's orbit, fewer than a third of the solar eclipses are total eclipses.
+0.94 (fewer than a third of the solar eclipses; are; total eclipses)
+
+In these cases the moon's shadow, up to 200 miles wide on the earth's surface, races west to east along the ground at 1,000 to 5,000 miles per hour for a few thousand miles.;
+0.96 (races; west; to east along the ground at 1,000 to 5,000 miles per hour for a few thousand miles; L:In these cases)
+0.87 Context(races west,List([79, 89))):(races; west to east; L:along the ground)
+
+Most total eclipses get little public attention.
+0.93 (Most total eclipses; get; little public attention)
+
+They occur over water, over the poles or in difficult-to-reach terrain.
+0.72 (They; occur; L:over water; L:over the poles or in difficult-to-reach terrain)
+
+On average, any point on Earth is eclipsed just once every 360 years.;
+0.94 (any point on Earth; is eclipsed; T:just once every 360 years)
+
+But when the shadow's narrow path does cross inhabited areas, people flock there to experience "totality" -- to watch the light snap off and the stars snap on, and to gaze at the sun's shaggy corona hanging in the dark sky for a few minutes before daylight abruptly returns.;
+0.93 (the shadow's narrow path; does cross; inhabited areas)
+0.73 (the stars; snap on; )
+0.71 (daylight; abruptly returns; )
+0.96 (people; flock; L:there; to experience "totality; to watch the light snap off; T:when the shadow's narrow path does cross inhabited areas)
+0.78 Context(people flock,List([62, 74))):(people; flock to experience; totality)
+0.81 Context(people flock,List([62, 74))):(people; flock to watch; the light snap off)
+0.68 Context(people flock to watch,List([62, 117))):(the light; snap off; )
+0.93 (the sun's shaggy corona; hanging; L:in the dark sky; T:for a few minutes; T:before daylight abruptly returns)
+
+In the United States, the opportunity has come twice in the past couple of decades -- along the East Coast in 1970 and across the Northwest and Northern Plains in 1979.;
+0.95 (the opportunity; has come; T:twice; T:in the past couple of decades; T:in 1979; L:In the United States)
+
+This Thursday the moon's shadow will be back for another performance, one of the century's best.;
+0.96 (the moon's shadow; will be; back; for another performance; T:This Thursday)
+
+It's unusual for several reasons.
+0.52 (It; 's; unusual; for several reasons)
+
+At its peak, observers will see one of the longest-lasting eclipses this century -- six minutes, 53 seconds.
+0.89 (observers; will see; one of the longest-lasting eclipses; L:At its peak)
+
+Also, its 150-mile-wide path across Hawaii, Baja California, Mexico City and four Central American capital cities "puts more people in the moon's shadow than any other eclipse in history," says Alan Dyer, an editor of Astronomy magazine.;
+0.97 (Also, its 150-mile-wide path across Hawaii, Baja California, Mexico City and four Central American capital cities "puts more people in the moon's shadow than any other eclipse in history; says; Alan Dyer)
+0.92 Context(Also , its 150 - mile - wide path across Hawaii , Baja California , Mexico City and four Central American capital cities " puts more people in the moon 's shadow than any other eclipse in history says,List([0, 193))):(its 150-mile-wide path across Hawaii, Baja California, Mexico City and four Central American capital cities; puts; more people in the moon's shadow than any other eclipse in history)
+0.38 (Alan Dyer; [is] an editor of; Astronomy magazine)
+
+Finally, since the center of the shadow will pass right across the world's largest cluster of astronomical observatories, the audience will include several dozen solar scientists intent on getting the best view they've ever had.;    "It's going to be great from up there on the mountain," said Harold Zirin, a California Institute of Technology astronomer who will be at one of the observatories atop Mauna Kea, a dormant volcano that makes up a large piece of the island of Hawaii.;    Historic events;  For science, two eclipses have proved especially historic: In 1868, spectroscopic study of the sun's halo turned up evidence of a new element, which was named helium, from Helios, the Greek sun god.
+0.20 (It; to be; great)
+0.95 (spectroscopic study of the sun's halo; turned up; evidence of a new element; T:In 1868)
+0.94 (the audience; will include; several dozen solar scientists intent on getting the best view)
+1.00 (Finally, since the center of the shadow will pass right across the world's largest cluster of astronomical observatories, the audience will include several dozen solar scientists intent on getting the best view they've ever had.;    "It's going to be great from up there on the mountain; said; Harold Zirin)
+0.84 (several dozen solar scientists; on getting; the best view they've ever had)
+0.95 (a California Institute of Technology astronomer; will be; at one of the observatories atop Mauna Kea)
+0.75 (the best view; 've had; T:ever)
+0.90 (a new element; was named; helium)
+0.91 (a dormant volcano; makes up; a large piece of the island of Hawaii)
+0.38 (Helios; [is] the sun god [of]; Greek)
+
+And in 1919, astronomers spotted a star, which should have been behind the sun, instead peeking around the edge of the sun.
+0.89 (a star; should have been; behind the sun)
+0.95 (astronomers; spotted; a star, which should have been behind the sun; T:in 1919)
+0.81 Context(astronomers spotted,List([13, 32))):(astronomers; spotted a star, which should have been behind the sun instead peeking; around the edge of the sun)
+
+That was the first confirmation of Albert Einstein's prediction that a star's gravity will bend the path of light.;
+0.37 (That; was; the first confirmation of Albert Einstein's prediction that a star's gravity will bend the path of light)
+0.92 (a star's gravity; will bend; the path of light)
+0.88 (That; was the first confirmation of; Albert Einstein)
+
+But in recent years solar eclipses have declined in significance for researchers.;
+0.94 (solar eclipses; have declined; L:in significance for researchers; T:in recent years)
+
+For one thing, chasing eclipses by trekking to remote regions with delicate astronomical instruments to capture a few minutes of data has lost much of its glamour, especially in times of tight budgets.;
+0.60 (one thing; chasing; eclipses)
+
+For another, some of the information now can be gathered any day of the year by using instruments that simulate a solar eclipse.;
+0.88 (instruments; simulate; a solar eclipse)
+
+But this time, the eclipse is coming to them, and they can't resist a look.
+0.90 (the eclipse; is coming; to them; T:this time)
+0.62 (they; ca n't resist; a look)
+
+At 13,800 feet, Mauna Kea is the world's tallest island mountain.
+0.97 (Mauna Kea; is; the world's tallest island mountain; L:At 13,800 feet)
+
+The air above it is still, dry and clean, making it one of the world's choicest spots for viewing the cosmos.;
+0.71 (The air above it; is; T:still; dry and clean; making it one of the world's choicest spots for viewing the cosmos)
+
+It's so high that oxygen deprivation is a serious concern.
+0.29 (It; 's; so high that oxygen deprivation is a serious concern)
+0.93 (oxygen deprivation; is; a serious concern)
+
+And, unlike most people headed for Hawaii, astronomers will be packing long underwear and down jackets in case, as sometimes happens even in July, the temperature at the summit drops below freezing.;
+0.92 (most people; headed; for Hawaii)
+0.94 (astronomers; will be packing; long underwear; L:unlike most people)
+0.94 (the temperature at the summit; drops; below freezing)
+
+7 observatories in use;  Seven of the nine observatories atop Mauna Kea will be used Thursday morning.
+0.96 (Seven of the nine observatories atop Mauna Kea; will be used; T:Thursday morning)
+
+(The Keck Observatory, being built by the University of California and the California Institute of Technology, is behind its original construction schedule and will not be completed in time for the eclipse.);
+0.89 (The Keck Observatory; is; behind its original construction schedule)
+0.92 (The Keck Observatory; will not be completed; T:in time for the eclipse)
+
+What they want to know is more about the temperature and composition of the sun's upper atmosphere -- layers called the chromosphere and the corona -- which normally is difficult to examine against the glare of the sun.;
+0.37 (they; want; to know)
+0.27 Context(they want,List([5, 14))):(they; want to know to know; )
+0.83 (What they want to know; is; more about the temperature and composition of the sun's upper atmosphere)
+0.89 (layers; called; the chromosphere and the corona)
+0.89 (the corona; normally is; difficult; to examine against the glare of the sun)
+
+They hope the information will provide clues to what causes the sun's 11-year cycle of sunspots and flares (now near its peak), what propels the solar wind and why the sun's outer atmosphere is, paradoxically, so much hotter than its lower atmosphere.;
+0.88 (the sun's outer atmosphere; is; paradoxically; so much hotter than its lower atmosphere)
+0.53 (They; hope; the information will provide clues to what causes the sun's 11-year cycle of sunspots and flares (now near its peak), what propels the solar wind and why the sun's outer atmosphere is, paradoxically, so much hotter than its lower atmosphere)
+0.87 Context(They hope,List([0, 9))):(the information; will provide; clues; to what causes the sun's 11-year cycle of sunspots and flares (now near its peak), what propels the solar wind and why the sun's outer atmosphere is, paradoxically, so much hotter than its lower atmosphere)
+
+Solar wind studies;  At some observatories, astronomers will take repeated photographs of the corona during the eclipse to study it close up and to watch for material accelerating outward to become solar wind.;
+0.91 (astronomers; will take; repeated photographs of the corona; T:during the eclipse; to study it close up and to watch for material; L:At some observatories)
+0.70 Context(astronomers will take,List([44, 65))):(astronomers; will take repeated photographs of the corona to study; it)
+0.71 (material; accelerating outward; )
+
+Others will use telescopes to study the sun's emissions at microwave frequencies to learn more details about how its temperature varies with altitude.;
+0.34 (its temperature; varies; )
+0.85 (Others; will use; telescopes; to study the sun's emissions at microwave frequencies to learn more details about how its temperature varies with altitude)
+0.85 Context(Others will use,List([0, 15))):(Others; will use telescopes to study; the sun's emissions; L:at microwave frequencies; to learn more details about how its temperature varies with altitude)
+0.70 Context(Others will use to study,List([0, 35))):(Others; will use telescopes to study the sun's emissions to learn; more details about how its temperature varies with altitude)
+
+But, frankly, the astronomers also want to watch the lights go out.;    They'll be fighting the temptation to abandon their instruments and go outside to watch.;    "The
+0.40 (They; 'll be fighting; the temptation to abandon their instruments and go outside)
+

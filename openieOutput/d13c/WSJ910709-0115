@@ -1,0 +1,186 @@
+But the lesson that should not be lost is the transcendent one: Clarence Thomas made it in America because he was loved.
+0.70 (the lesson; should not be lost; )
+0.19 (he; was loved; )
+0.84 (Clarence Thomas; made; L:in America; because he was loved)
+0.94 Context(Clarence Thomas made,List([64, 84))):(the lesson that should not be lost; is; the transcendent one)
+
+His mother loved him.
+0.49 (His mother; loved; him)
+
+And when she could no longer care for him she gave him to her parents to bring up, and they loved him too.
+0.34 (she; could care; for him; T:no longer)
+0.44 (she; gave; him; to her parents; to bring up; T:when she could no longer care for him)
+0.46 (they; loved too; him)
+
+And they cared enough to scrape together the money every year to put him in a Catholic school where they hoped the nuns would teach and guide him and they did.
+0.62 (they; cared; enough to scrape together the money every year)
+0.81 (the nuns; guide; him)
+0.38 (they; did; )
+0.54 (they; hoped; the nuns would teach and guide him; L:a Catholic school)
+0.68 Context(they hoped,List([100, 110))):(the nuns; would teach; )
+
+He got love and love gave him pride and pride gave him confidence that he had a place at the table.
+0.52 (he; had; a place at the table)
+0.47 (He; got; love and love)
+0.26 Context(He got,List([0, 6))):(He; got love and love gave; him; pride and pride)
+0.08 Context(He got,List([0, 6))):(He; got love and love gave; him; confidence that he had a place at the table)
+
+This is something we in the age of the-family-that-is-not-a-family forget: the raw power of love and how it is the one essential element in the creation of functioning and successful people, and how its absence twists the psyche and the heart.
+0.21 (This; is; something we in the age of the-family-that-is-not-a-family forget: the raw power of love and how it is the one essential element in the creation of functioning and successful people, and how its absence twists the psyche and the heart)
+0.78 (something we in the age of the-family-; is; not-a-family forget)
+0.64 (it; is; the one essential element in the creation of functioning and successful people)
+0.70 (its absence; twists; the psyche and the heart)
+0.39 (it; is the one essential element in; the creation)
+
+(The children of the mother on crack are not consigned to lives of uselessness and pain because AFDC payments are low; they are so consigned because crack has broken the maternal bond that brings with it caring and succor.)
+0.19 (it; caring; )
+0.82 (AFDC payments; are; low)
+0.55 (they; are; so consigned; because crack has broken the maternal bond)
+0.93 Context(they are,List([119, 127))):(The children of the mother on crack; are not consigned; to lives of uselessness and pain; because AFDC payments are low; because crack has broken the maternal bond)
+0.62 (crack; has broken; the maternal bond that brings with it caring and succor)
+0.77 (the maternal bond; brings; )
+
+Lives like Judge Thomas's remind us of this simple truth.
+
+---    It was once thought that to choose a conservative black for a high appointment put liberals in an uncomfortable position, but we will learn in the Thomas hearings that this is no longer so.
+0.22 (we; will learn; L:in the Thomas hearings; that this is no longer so)
+0.14 Context(we will learn,List([133, 146))):(this; is so; no longer)
+
+Not that the hearings will be color blind, it's just that senators are going to use Mr. Thomas's race to prove things about themselves with it.
+0.29 (it; 's; just that senators are going to use Mr. Thomas's race to prove things about themselves with it)
+0.78 (senators; to use; Mr. Thomas's race; to prove things about themselves with it)
+0.75 Context(senators to use,List([58, 83))):(senators; to use Mr. Thomas's race to prove; things about themselves; with it)
+
+Senators of the left will use him to prove they are not minority-whipped.
+0.83 (Senators of the left; will use; him; to prove they are not minority-whipped)
+0.83 Context(Senators of the left will use,List([0, 29))):(Senators of the left; will use him to prove; they are not minority-whipped)
+0.55 Context(Senators of the left will use to prove,List([0, 42))):(they; are not; minority-whipped)
+
+They will demonstrate through measured abuse that they are able to treat a black man as their equal.
+0.42 (they; to treat; a black man; as their equal)
+0.25 (They; will demonstrate; that they are able to treat a black man as their equal)
+0.40 Context(They will demonstrate,List([0, 21))):(they; are; able to treat a black man as their equal)
+
+Their ferocity, they will think, is proof of their sophistication, a compliment: "Our party doesn't patronize minorities."
+0.32 (they; will think; )
+0.52 (Their ferocity; is; proof of their sophistication)
+0.64 (Our party; does n't patronize; minorities)
+
+This will be cloud cover for their real intention, which is to serve the interests of the interest groups -- the pro-abortion lobby, the civil rights lobby, labor -- that control their careers.
+0.25 (This; will be; cloud cover for their real intention)
+0.78 (their real intention; is; to serve the interests of the interest groups -- the pro-abortion lobby, the civil rights lobby, labor)
+0.72 (their real intention; to serve; the interests of the interest groups -- the pro-abortion lobby, the civil rights lobby, labor)
+0.84 (the civil rights lobby; control; their careers)
+
+Some on the right will use Mr. Thomas's race to demonstrate again that ours is the party of true racial progress, that not a trace of racism clogs the conservative heart.
+0.94 (not a trace of racism; clogs; the conservative heart)
+0.77 (Some on the right; will use; Mr. Thomas's race; to demonstrate again that ours is the party of true racial progress, that not a trace of racism clogs the conservative heart)
+0.73 Context(Some on the right will use,List([0, 26))):(Some on the right; will use Mr. Thomas's race to demonstrate; T:again; that ours is the party of true racial progress, that not a trace of racism clogs the conservative heart)
+0.49 Context(Some on the right will use to demonstrate,List([0, 59))):(ours; is; the party of true racial progress, that not a trace of racism clogs the conservative heart)
+0.39 (ours; is the party of; true racial progress)
+
+Expect an especially spirited defense from Jesse Helms.
+
+The left will be tough not only because Mr. Thomas represents ideological insult.
+0.92 (The left; will be; tough; not only because Mr. Thomas represents ideological insult)
+0.93 (Mr. Thomas; represents; ideological insult)
+
+Those on the left are unmoved by Mr. Thomas's climb from nothing to something because he didn't do it the right way -- through them and with their programs.
+0.92 (Those on the left; are; unmoved by Mr. Thomas's climb from nothing to something; because he didn't do it the right way -- through them and with their programs)
+0.31 (he; did n't do; it)
+
+His triumph refutes their assumptions; his life declares that a good man of whatever color can rise in this country without the active assistance of the state.
+0.45 (his life; declares; that a good man of whatever color can rise in this country without the active assistance of the state)
+0.43 Context(his life declares,List([39, 56))):(His triumph; refutes; their assumptions)
+0.92 Context(his life declares,List([39, 56))):(a good man of whatever color; can rise; L:in this country)
+
+This is a dangerous thing to assert in a highly politicized age.
+0.57 (This; is; a dangerous thing to assert in a highly politicized age)
+0.66 (a dangerous thing; to assert; T:in a highly politicized age)
+
+And to make it worse, Judge Thomas didn't "make it on his own."
+0.65 (Judge Thomas; did n't make; )
+
+He has been helped all his life by affirmative action, but the kind liberals do not see and cannot accept: the uncoerced, unforced affirmative action that Americans tend to take when someone at a disadvantage -- race, physical disability -- needs help.
+0.31 (He; has been helped; T:all his life; by affirmative action)
+0.91 (someone at a disadvantage; needs; help)
+0.75 (the kind liberals; do not see; )
+0.29 (He; can not accept; the uncoerced, unforced affirmative action that Americans tend to take)
+0.96 (the uncoerced, unforced affirmative action; tend; to take when someone at a disadvantage -- race, physical disability -- needs help)
+0.95 (the uncoerced, unforced affirmative action; to take; T:when someone at a disadvantage -- race, physical disability -- needs help)
+
+When Mr. Thomas made his moving statement at Kennebunkport last week he thanked the people who had helped him along the way, including the nuns who taught him.
+0.89 (Mr. Thomas; made; his moving statement; L:at Kennebunkport; T:last week)
+0.61 (he; thanked; the people who had helped him along the way, including the nuns; T:When Mr. Thomas made his moving statement at Kennebunkport last week)
+0.81 (the people; had helped; him)
+0.81 (the nuns; taught; him)
+
+(What a touching and old-fashioned thing to do.
+0.48 (What a touching and old-fashioned thing; to do; )
+
+If Sandra Day O'Connor had thanked the nuns it would have been a skit on "Saturday Night Live" and an issue in her confirmation.)
+0.93 (Sandra Day O'Connor; had thanked; the nuns)
+0.46 (it; would have been; a skit on "Saturday Night Live" and an issue in her confirmation)
+
+The nuns' affirmative action for Clarence Thomas was the only effective, meaningful kind: the kind we perform for individuals, not because it is state-mandated but because it is right, not because we love a race but because we care for people and love our country.
+0.97 (The nuns' affirmative action for Clarence Thomas; was; the only effective, meaningful kind)
+0.45 (we; care; for people)
+0.89 (the kind; perform; for individuals)
+0.27 (we; love; our country)
+0.28 (it; is; right)
+
+One strategy to be expected from Mr. Thomas's opponents: deference and respect.
+0.73 (One strategy; to be expected; )
+
+Expect phrases of rolling sympathy as senators of the left bring up for him his humble origins and congratulate him on his grit and determination.
+0.86 (senators of the left; bring up; for him)
+0.47 (his humble origins; congratulate; him; on his grit and determination)
+
+Already I can see Joe Biden's telegenic tick of a smile, the one he uses to show how civil he is in spite of his growing moral exasperation.
+0.64 (I; can see; Joe Biden's telegenic tick of a smile; T:Already)
+0.84 (the one; uses; to show how civil he is in spite of his growing moral exasperation)
+0.32 Context(the one uses,List([57, 72))):(he; to show; how civil he is in spite of his growing moral exasperation)
+0.20 Context(the one he uses to show,List([57, 80))):(he; is; )
+
+He will celebrate Mr. Thomas's gifts and use them against him.
+0.50 (He; will celebrate; Mr. Thomas's gifts)
+0.27 (He; use; them; against him)
+
+"But what, Judge Thomas, about those who were not born with your advantages, and by that I mean not wealth and comfort but brilliance and determination and a family.
+0.07 (those; were not born; )
+0.57 (I; mean not; wealth and comfort but brilliance and determination and a family)
+
+What about those poor blacks not greatly gifted or guided -- what about them?"    ---    For Judge Thomas's proponents, two great hopes: One is that the administration will hit America where it lives and go over the heads of the talking suits and straight to the people, presenting as witnesses on television the affirmative action crew that lifted a young boy with nothing to great heights -- the mother who was a maid, the grandmother who saved up the tuition and the nuns who helped open his eyes.
+0.77 (those poor blacks not greatly gifted; guided; )
+0.91 (the affirmative action crew; lifted; a young boy)
+0.81 (the nuns; helped; open his eyes)
+0.91 (the mother; was; a maid)
+0.60 (it; lives; L:America)
+0.89 (the grandmother; saved up; the tuition and the nuns)
+0.91 (the administration; go; over the heads of the talking suits)
+
+The force of their presence will remind us that real change in a democracy comes from the people up, not from the government down.
+0.37 (The force of their presence; will remind; us; that real change in a democracy comes from the people up, not from the government down)
+0.74 Context(The force of their presence will remind,List([0, 39))):(real change in a democracy; comes; down)
+
+The second hope: that the administration will demonstrate moral confidence in its choice and not go into a defensive crouch.
+0.83 (the administration; will demonstrate; moral confidence in its choice)
+0.89 (the administration; not go; into a defensive crouch)
+
+In 1980, '84 and '88, the American people voted overwhelmingly for presidents who promised to appoint conservative jurists.
+0.95 (the American people; voted overwhelmingly; for presidents; T:In 1980, '84 and '88)
+0.85 (presidents; promised; to appoint conservative jurists)
+0.85 Context(presidents promised,List([67, 90))):(presidents; promised to appoint; conservative jurists)
+
+The left calls the Thomas appointment a hijacking, a right-wing coup for the court, but this is the opposite of the truth.
+0.94 (The left; calls; the Thomas appointment; a hijacking)
+0.45 (this; is; the opposite of the truth)
+0.39 (this; is the opposite of; the truth)
+
+Mr. Thomas's appointment is not a traducing of the people's will but a fulfillment of their directive.
+0.93 (Mr. Thomas's appointment; is not; a traducing of the people's will but a fulfillment of their directive)
+
+---    Miss Noonan is a writer in New York.
+0.95 (Miss Noonan; is; a writer in New York)
+0.88 (--- Miss Noonan; is a writer in; New York)
+

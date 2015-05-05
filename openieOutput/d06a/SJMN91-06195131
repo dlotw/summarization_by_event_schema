@@ -1,0 +1,146 @@
+In mid-June, a lawsuit against the Los Angeles Police Department was settled when police agreed to stop using a martial-arts weapon, nunchakus, while arresting anti-abortion advocates.;
+0.99 (a lawsuit against the Los Angeles Police Department; was settled; T:when police agreed to stop using a martial-arts weapon, nunchakus; L:In mid-June)
+0.91 (police; agreed; to stop using a martial-arts weapon, nunchakus)
+0.87 Context(police agreed,List([82, 95))):(police; agreed to stop; using a martial-arts weapon, nunchakus)
+0.87 Context(police agreed to stop,List([82, 103))):(police; agreed to stop using; a martial-arts weapon, nunchakus)
+
+Hundreds have charged that police in more than 50 cities have used excessive force in removing demonstrators intent on closing down abortion facilities.
+0.79 (Hundreds; have charged; that police in more than 50 cities have used excessive force in removing demonstrators intent on closing down abortion facilities)
+0.91 Context(Hundreds have charged,List([0, 21))):(police in more than 50 cities; have used; excessive force)
+0.91 Context(Hundreds have charged police in more than 50 cities have used,List([0, 66))):(police in more than 50 cities; have used excessive force in removing intent; demonstrators)
+
+The demonstrators, most associated with Operation Rescue, have charged and testified that police tactics used during the past 2 1/2 years in cities such as Denver, Atlanta, Pittsburgh and Los Angeles have resulted in serious injury and led to sexual abuse against women who have been arrested.;
+0.90 (The demonstrators; most associated; with Operation Rescue)
+0.99 (police tactics used during the past 2 1/2 years in cities such as Denver, Atlanta, Pittsburgh and Los Angeles; led; to sexual abuse against women)
+0.85 (The demonstrators, most associated with Operation Rescue; have charged; )
+0.68 (women; have been arrested; )
+0.91 (The demonstrators, most associated with Operation Rescue; testified; that police tactics used during the past 2 1/2 years in cities such as Denver, Atlanta, Pittsburgh and Los Angeles have resulted in serious injury and led to sexual abuse against women)
+0.98 Context(The demonstrators , most associated with Operation Rescue testified,List([0, 84))):(police tactics used during the past 2 1/2 years in cities such as Denver, Atlanta, Pittsburgh and Los Angeles; have resulted; in serious injury)
+0.90 (police tactics; used; T:during the past 2 1/2 years)
+
+Operation Rescue, which draws participants largely from conservative Catholic and Protestant circles, is a national movement that organizes demonstrations at abortion facilities.
+0.91 (Operation Rescue; draws; participants largely from conservative Catholic and Protestant circles)
+0.92 (Operation Rescue, which draws participants largely from conservative Catholic and Protestant circles; is; a national movement that organizes demonstrations at abortion facilities)
+0.90 (a national movement; organizes; demonstrations at abortion facilities)
+
+It is the practice of the protesters to go limp when ordered to move but to otherwise offer no resistance to police.;
+0.52 (It; is; the practice of the protesters to go limp)
+0.95 (the practice of the protesters; to go; limp; T:when ordered to move but to otherwise offer no resistance to police)
+0.89 (It; is the practice of; the protesters)
+
+The persistent complaints and numerous suits against police by Operation Rescue have taken on a new significance in recent months in the wake of the Los Angeles police beating of motorist Rodney King.;
+0.97 (The persistent complaints and numerous suits against police by Operation Rescue; have taken on; a new significance; T:in recent months; T:in the wake of the Los Angeles police)
+0.95 (the Los Angeles police; beating; of motorist Rodney King)
+
+The images of Los Angeles police swinging nightsticks at King as he lay on the ground, played repeatedly on national news programs, were burned into the national conscience and led to widespread calls for investigation of police brutality.;
+0.45 (he; lay; on the ground)
+
+But government agencies, the press and civil libertarians have reacted quite differently to Operation Rescue videos showing apparent police brutality and to reports of police abuse of hundreds of the activists across the country.;
+0.97 (government agencies, the press and civil libertarians; have reacted quite differently; to Operation Rescue videos showing apparent police brutality and to reports of police abuse of hundreds of the activists across the country)
+0.93 (Operation Rescue videos; showing; apparent police brutality)
+
+A videotape of an Operation Rescue demonstration shows a man's arm apparently snapping under the pressure of being lifted in a manner similar to that used on Lynch.
+0.16 (that; used; L:on Lynch)
+0.93 (A videotape of an Operation Rescue demonstration; shows; a man's arm apparently snapping under the pressure of being lifted in a manner similar to that)
+0.73 Context(A videotape of an Operation Rescue demonstration shows,List([0, 54))):(a man's arm; apparently snapping; )
+
+Other scenes show police apparently placing fingers into the nostrils of one demonstrator and grabbing the breast of a female protester to force compliance.;
+0.94 (Other scenes; show; police apparently placing fingers into the nostrils of one demonstrator and grabbing the breast of a female protester)
+0.87 Context(Other scenes show,List([0, 17))):(police; apparently placing; fingers; into the nostrils of one demonstrator)
+0.85 (police; grabbing; the breast of a female protester; to force compliance)
+0.85 Context(police grabbing,List([18, 102))):(police; grabbing the breast of a female protester to force; compliance)
+
+The settlement over police use of nunchakus in Los Angeles, like the videos and photographs showing police using pain compliance techniques on Rescue participants, received little attention from the public, civil rights groups or the press.
+0.92 (the videos and photographs; showing; police)
+
+Some critics say the lack of attention is a sign of a double standard.;
+0.92 (Some critics; say; the lack of attention is a sign of a double standard)
+0.92 Context(Some critics say,List([0, 16))):(the lack of attention; is; a sign of a double standard)
+0.39 (attention; is a sign of; a double standard)
+
+Police, including Assistant Chief Craig Carrucci of West Hartford, deny the claims of brutality.
+0.92 (Police, including Assistant Chief Craig Carrucci of West Hartford; deny; the claims of brutality)
+
+The FBI investigated complaints of misconduct by members of his department, he said, and "every single case was closed.";
+0.87 (The FBI; investigated; complaints of misconduct; by members of his department)
+0.19 (he; said; )
+0.83 (every single case; was; closed)
+
+He called pain compliance "a valid tool" used "in direct proportion to the amount of resistance."
+0.57 (He; called; pain compliance; a valid tool" used "in direct proportion to the amount of resistance)
+
+Even Gandhi and Martin Luther King Jr., when arrested, cooperated with police and the courts, he said.;
+0.95 (Even Gandhi and Martin Luther King Jr., when arrested, cooperated with police and the courts; said; he)
+0.93 Context(Even Gandhi and Martin Luther King Jr . , when arrested , cooperated with police and the courts said,List([0, 101))):(Even Gandhi and Martin Luther King Jr; cooperated; with police and the courts; T:when arrested)
+
+Shortly after Rodney King's beating, a news program on ABC illustrating police brutality showed a still photo of police using a martial-arts weapon against a person being arrested, but there was no mention that the episode involved Operation Rescue.;
+0.86 (ABC; illustrating; police brutality)
+0.92 (the episode; involved; Operation Rescue)
+0.73 (a person; being arrested; )
+0.39 (there; was no mention that; the episode)
+
+Similarly, the CBS Evening News reported March 27 "on various aspects of police brutality" but did not include examples involving anti-abortion activists, a producer said.;    "It (police abuse) has not attracted much attention because a lot of people are not sympathetic to Operation Rescue," said Dr. James Fyfe, a professor of justice at American University in Washington, D.C.;    Police may also have a predisposition to use excessive force against the anti-abortion activists, said Fyfe, a former New York City policeman.
+0.93 (a lot of people; are not; sympathetic to Operation Rescue)
+1.00 (Similarly, the CBS Evening News reported March 27 "on various aspects of police brutality" but did not include examples involving anti-abortion activists, a producer said.;    "It (police abuse) has not attracted much attention because a lot of people are not sympathetic to Operation Rescue," said Dr. James Fyfe, a professor of justice at American University in Washington, D.C.;    Police may also have a predisposition; said; Fyfe)
+0.93 Context(Similarly , the CBS Evening News reported March 27 " on various aspects of police brutality " but did not include examples involving anti-abortion activists , a producer said . ; " It ( police abuse ) has not attracted much attention because a lot of people are not sympathetic to Operation Rescue , " said Dr. James Fyfe , a professor of justice at American University in Washington , D.C. ; Police may also have a predisposition said,List([0, 487))):(Police; may also have; a predisposition to use excessive force against the anti-abortion activists)
+0.89 (examples; involving; anti-abortion activists)
+0.39 (Dr. James Fyfe; [is] a professor of; justice)
+0.38 (Fyfe; [is] a former policeman [of]; New York City)
+
+Their tactics -- going limp and in some cases chaining themselves to buildings -- are "a little more than police are used to dealing with.";
+0.83 (some cases; chaining; themselves; to buildings)
+0.78 (Their tactics; are; a little more than police are used to dealing with; L:in some cases)
+0.75 (police; are used; to dealing with)
+0.72 (police; to dealing; with)
+
+Dr. Philip Wogaman, professor of Christian social ethics at Wesley Theological Seminary in Washington, D.C.believes the comparison with other kinds of protests breaks down at several points.
+0.94 (Dr. Philip Wogaman; believes; the comparison with other kinds of protests breaks down at several points)
+0.92 Context(Dr. Philip Wogaman believes,List([0, 115))):(the comparison with other kinds of protests; breaks down; T:at several points)
+0.88 (Dr. Philip Wogaman; [is] professor of; Christian social ethics)
+
+For instance, he said, civil rights demonstrators normally were picketing to assert their right to eat at a lunch counter or ride on a bus, not closing facilities to deny the rights of others.;
+0.37 (he; said; civil rights demonstrators normally were picketing to assert their right)
+0.81 (civil rights demonstrators; normally were picketing; to assert their right)
+0.87 Context(civil rights demonstrators normally were picketing,List([23, 73))):(civil rights demonstrators; normally were picketing to assert; their right to eat at a lunch counter or ride on a bus, not closing facilities)
+0.89 (facilities; to deny; the rights of others)
+
+As early as 1989, soon after Operation Rescue began widespread sit-ins to disrupt abortion facilities, William B. Allen, then chairman of the U.S. Civil Rights Commission, sounded an alarm.
+0.93 (widespread sit-ins; to disrupt; abortion facilities, William B. Allen, then)
+
+"I am concerned that anti-abortion protesters are receiving selective prosecution and selectively harsh treatment, unlike that received by other demonstrators for other causes," said Allen, who generally opposes abortion.;
+0.90 (anti-abortion protesters; are receiving; selective prosecution and selectively harsh treatment)
+0.14 (that; received; by other demonstrators; for other causes)
+0.82 (I am concerned that anti-abortion protesters are receiving selective prosecution and selectively harsh treatment; said; Allen)
+0.34 Context(I am concerned that anti-abortion protesters are receiving selective prosecution and selectively harsh treatment said,List([1, 182))):(I; am; concerned that anti-abortion protesters are receiving selective prosecution and selectively harsh treatment)
+0.89 Context(I am concerned that anti-abortion protesters are receiving selective prosecution and selectively harsh treatment said,List([1, 182))):(Allen; generally opposes; abortion)
+
+Colleen O'Connor, the American Civil Liberties Union's national public education director, and Carol Sobel, the ACLU's senior staff counsel in Los Angeles, said they agree that police have abused Operation Rescue participants.
+0.82 (Colleen O'Connor, the American Civil Liberties Union's national public education director, and Carol Sobel; said; they agree that police have abused Operation Rescue participants)
+0.36 Context(Colleen O'Connor , the American Civil Liberties Union 's national public education director , and Carol Sobel said,List([0, 160))):(they; agree; that police have abused Operation Rescue participants)
+0.89 Context(Colleen O'Connor , the American Civil Liberties Union 's national public education director , and Carol Sobel said they agree,List([0, 171))):(police; have abused; Operation Rescue participants)
+
+The ACLU is supporting Operation Rescue in some of those situations, they said.;
+0.91 (The ACLU is supporting Operation Rescue in some of those situations; said; they)
+0.82 Context(The ACLU is supporting Operation Rescue in some of those situations said,List([0, 78))):(The ACLU; is supporting; Operation Rescue; L:in some of those situations)
+
+But the civil liberties group is clearly caught between conflicting rights.
+0.92 (the civil liberties group; is clearly caught; between conflicting rights)
+
+The ACLU may support some of Operation Rescue's claims of police brutality, but Sobel said it also has won a $110,000 judgment in a case in which the ACLU had obtained an injunction against the anti-abortion group.;
+0.94 (The ACLU; may support; some of Operation Rescue's claims of police brutality)
+0.96 (the ACLU; had obtained; an injunction against the anti-abortion group; L:a case)
+0.89 (Sobel; said; it also has won a $110,000 judgment in a case)
+0.36 Context(Sobel said,List([80, 90))):(it; has won; a $110,000 judgment; L:in a case)
+
+The Civil Rights Commission in 1989, under pressure from some members of Congress, decided against an investigation of alleged police brutality against anti-abortion activists and decided not to ask the Justice Department to investigate.;
+0.98 (The Civil Rights Commission in 1989; decided; against an investigation of alleged police brutality against anti-abortion activists; L:under pressure from some members of Congress)
+0.80 (the Justice Department; to investigate; )
+0.94 (The Civil Rights Commission in 1989; decided; not to ask the Justice Department to investigate)
+0.94 Context(The Civil Rights Commission in 1989 decided,List([0, 187))):(The Civil Rights Commission in 1989; decided not to ask; the Justice Department; to investigate)
+
+A commission spokeswoman said its legal mandate prohibits dealing with abortion issues.
+0.82 (A commission spokeswoman; said; its legal mandate prohibits dealing with abortion issues)
+0.61 Context(A commission spokeswoman said,List([0, 29))):(its legal mandate; prohibits; dealing with abortion issues)
+
+Critics of the commission's decision not to
+

@@ -1,0 +1,170 @@
+A B-52 bomber crashed and burst into flames early today on a runway while practicing ``touch-and-go'' landings at K.I.
+0.83 (A B-52 bomber; crashed; )
+0.97 (A B-52 bomber; burst; into flames; T:early today; T:while practicing ``touch-and-go'' landings at K.I.)
+
+Sawyer Air Force Base, officials said.
+0.71 (officials; said; )
+
+All eight crew members survived.
+0.77 (All eight crew members; survived; )
+
+The plane, normally equipped to carry nuclear bombs, crashed about 1:15 a.m., said Lt. Naomi Siegal, a spokeswoman at the Strategic Air Command installation.
+0.89 (The plane; normally equipped; to carry nuclear bombs)
+0.96 (The plane, normally equipped to carry nuclear bombs, crashed about 1:15 a.m.; said; Lt. Naomi Siegal)
+0.78 Context(The plane , normally equipped to carry nuclear bombs , crashed about 1:15 a.m. said,List([0, 82))):(The plane, normally equipped to carry nuclear bombs; crashed; )
+0.38 (Lt . Naomi Siegal; [is] a spokeswoman at; the Strategic Air Command installation)
+
+No weapons were aboard, said Lt. Col. George Peck, a spokesman for SAC headquarters in Omaha, Neb.
+0.90 (No weapons were aboard; said; Lt. Col. George Peck)
+0.72 Context(No weapons were aboard said,List([0, 28))):(No weapons; were; aboard)
+0.38 (Lt . Col . George Peck; [is] a spokesman for; SAC headquarters)
+
+The crew was practicing landings after a seven-hour training flight when it crashed during one of its touch-and-go approaches, Peck said.
+0.42 (it; crashed; T:during one of its touch-and-go approaches)
+0.97 (The crew was practicing landings after a seven-hour training flight; said; Peck)
+0.88 Context(The crew was practicing landings after a seven - hour training flight said,List([0, 136))):(The crew; was practicing; landings; T:after a seven-hour training flight)
+
+During such maneuvers, landing gears touch the ground but the plane doesn't land.
+0.94 (landing gears; touch; the ground; T:During such maneuvers)
+0.73 (the plane; does n't land; )
+
+All three sections of the plane burned on impact, said Senior Airman Tim Sanders, a base spokesman.
+0.94 (All three sections of the plane burned on impact; said; Senior Airman Tim Sanders)
+0.92 Context(All three sections of the plane burned on impact said,List([0, 54))):(All three sections of the plane; burned; L:on impact)
+
+The crew members crawled or were helped out of the front section of the aircraft, he said.
+0.96 (The crew members crawled or were helped out of the front section of the aircraft; said; he)
+0.71 Context(The crew members crawled or were helped out of the front section of the aircraft said,List([0, 89))):(The crew members; crawled; )
+
+They were taken to Marquette General and base hospitals.
+0.66 (They; were taken; to Marquette General and base hospitals)
+
+Members of the crew suffered broken bones, but no one was burned, said Capt.
+0.73 (no one; was burned; )
+0.96 (Members of the crew suffered broken bones, but no one was burned; said; Capt.)
+0.90 Context(Members of the crew suffered broken bones , but no one was burned said,List([0, 70))):(Members of the crew; suffered; broken bones)
+
+Paul Bicking, another Sawyer spokesman.
+
+Senior Airman Tim Sanders, another base spokesman, said those aboard were Capt.
+0.82 (Senior Airman Tim Sanders; said; those aboard were Capt.)
+0.56 Context(Senior Airman Tim Sanders said,List([0, 55))):(those aboard; were; Capt.)
+
+Mark Hartney, 29, an aircraft commander from Mulberry, Fla.; 1st Lt. Michael S. Debruzzi, 26, a pilot from New Brighton, Minn.; Capt.
+
+Anthony D. Phillips, 28, a radar navigator from Folkston, Ga.; 1st Lt. James W. Herrmann, 30, a navigator from Sharpsville, Pa.; 1st Lt. Daniel McCarrick, 25, an electronic warfare officer from Succasunna, N.J.; Airman 1st Class, Joseph A. Vallie, 20, a gunner from Stephenson, Mich.; Maj.
+
+William R. Kroeger, 52, an instructor pilot from Fountain Hills, Ariz.; and 1st Lt. Gregory C. Smith, 26, an upgrade pilot from Henning, Minn.
+
+All were based at Sawyer.
+0.43 (All; were based; L:at Sawyer)
+
+Ann Parent, a spokeswoman for Marquette General Hospital, said Hartney and Debruzzi were in fair condition, Phillips and Vallie were in stable condition, McCarrick was in satisfactory condition and Kroeger was in serious condition.
+0.94 (Kroeger; was; in serious condition)
+0.94 (Ann Parent; said; Hartney and Debruzzi were in fair condition, Phillips and Vallie)
+0.93 Context(Ann Parent said,List([0, 62))):(Hartney and Debruzzi; were; in fair condition, Phillips and Vallie)
+0.92 Context(Ann Parent said,List([0, 62))):(McCarrick; was; in satisfactory condition)
+0.88 (Ann Parent; [is] a spokeswoman for; Marquette General Hospital)
+
+Herrmann and Smith were listed in stable condition at the base hospital, said Technical Sgt.
+0.96 (Herrmann and Smith were listed in stable condition at the base hospital; said; Technical Sgt.)
+0.90 Context(Herrmann and Smith were listed in stable condition at the base hospital said,List([0, 77))):(Herrmann and Smith; were listed; L:at the base hospital)
+
+Anita Bailey.
+
+Hartney was the aircraft commander, but Debruzzi also was qualified to fly the plane, Bailey said.
+0.92 (Debruzzi; also was; qualified to fly the plane)
+0.91 (Debruzzi; to fly; the plane)
+0.98 (Hartney was the aircraft commander, but Debruzzi also was qualified to fly the plane; said; Bailey)
+0.92 Context(Hartney was the aircraft commander , but Debruzzi also was qualified to fly the plane said,List([0, 97))):(Hartney; was; the aircraft commander)
+
+She did not know who was at the controls at the time of the crash.
+0.50 (She; did not know; who was at the controls at the time of the crash)
+
+``We are counting our blessings,'' Bailey said.
+0.77 (We are counting our blessings; said; Bailey)
+0.26 Context(We are counting our blessings said,List([2, 46))):(We; are counting; our blessings)
+
+``You can put parts of a plane back together, but you cannot put people back together.''
+0.62 (You; can put; parts of a plane; back together)
+0.62 (you; can not put; people; back; together)
+
+The accident was classified as the most serious kind, and all aircraft exercises at Sawyer were canceled even though runways other than the one where the crash occurred remained open, Bailey said.
+0.83 (all aircraft exercises at Sawyer; were canceled; )
+0.93 (the crash; occurred; L:the one)
+0.99 (The accident was classified as the most serious kind, and all aircraft exercises at Sawyer were canceled; said; Bailey)
+0.88 Context(The accident was classified as the most serious kind , and all aircraft exercises at Sawyer were canceled said,List([0, 195))):(The accident; was classified; as the most serious kind)
+
+Peck said a board of officers will investigate the accident, adding weather did not appear to be a factor in the crash.
+0.88 (weather; to be; a factor in the crash)
+0.88 (Peck; said; a board of officers will investigate the accident, adding weather did not appear to be a factor in the crash)
+0.90 Context(Peck said,List([0, 9))):(a board of officers; will investigate; the accident)
+0.85 Context(Peck said a board of officers will investigate,List([0, 46))):(a board of officers; will investigate the accident adding; weather)
+
+Peck said it was not unusual for B-52 training missions to be out at that hour.
+0.82 (B-52 training missions; to be; out; T:at that hour)
+0.60 (Peck; said; it was not unusual for B-52 training missions to be out at that hour)
+0.19 Context(Peck said,List([0, 9))):(it; was not; unusual)
+
+``Crews have to be trained to fly at any time of the day or night in any weather,'' he said.
+0.86 (Crews; to fly; T:at any time of the day or night in any weather)
+0.97 (Crews have to be trained to fly at any time of the day or night in any weather; said; he)
+
+The eight-engine B-52, which was deployed in the early 1950s, is the military's biggest bomber, with a wingspan of 185 feet and a maximum takeoff weight of 488,000 pounds.
+0.95 (The eight-engine B-52; was deployed; L:in the early 1950s)
+0.96 (The eight-engine B-52; is; the military's biggest bomber)
+
+The last B-52 was commissioned in 1962.
+0.86 (The last B-52; was commissioned; T:in 1962)
+
+In other accidents involving B-52s, a bomber was damaged when a pilot aborted a takeoff and overshot a runway at Castle Air Force Base in central California on Feb. 11.
+0.92 (other accidents; involving; B-52s)
+0.97 (a bomber; was damaged; T:when a pilot aborted a takeoff and overshot a runway at Castle Air Force Base in central California on Feb; L:In other accidents)
+0.90 (a pilot; aborted; a takeoff)
+0.94 (a pilot; overshot; a runway at Castle Air Force Base in central California)
+
+No one was injured.
+0.73 (No one; was injured; )
+
+A B-52 bomber with radar problems crashed in Arizona'a Monument Valley in October 1984, killing two crew members, after its wings clipped a mesa.
+0.94 (A B-52 bomber with radar problems; crashed; L:in Arizona'a Monument Valley; T:in October 1984; T:after its wings clipped a mesa)
+0.91 (A B-52 bomber with radar problems; killing; two crew members; T:after its wings clipped a mesa)
+0.64 (its wings; clipped; a mesa)
+
+The Air Force has had more trouble recently with the B-52's successor, the B-1B bomber.
+0.93 (The Air Force; has had; more trouble; T:recently)
+0.38 (the B-1B bomber; [is] successor [of]; B-52)
+
+Although smaller than the B-52, the B-1B can fly at supersonic speeds and carry more bombs.
+0.82 (the B-1B; can fly; )
+0.93 (the B-1B; carry; more bombs)
+
+Four B-1Bs have crashed in the four years the plane has been flying, including two nine days apart in November.
+0.96 (Four B-1Bs; have crashed; T:in the four years; the plane has been flying, including two nine days apart in November)
+0.68 Context(Four B - 1Bs have crashed,List([0, 23))):(the plane; has been flying; )
+
+One of the $280 million B-1Bs was destroyed after smashing onto a runway at Ellsworth Air Force Base, S.D., during a training flight on Nov. 17.
+0.98 (the $280 million B-1Bs; was destroyed; T:after smashing onto a runway at Ellsworth Air Force Base, S.D., during a training flight on Nov)
+0.97 (the $280 million B-1Bs; after smashing; onto a runway at Ellsworth Air Force Base, S.D.)
+
+On Nov. 8, a B-1B crashed and burned in a field near Dyess Air Force Base, Texas.
+0.82 (a B-1B; crashed; )
+0.94 (a B-1B; burned; L:in a field near Dyess Air Force Base)
+
+No one was killed in either crash and investigators have not disclosed what caused the accidents.
+0.90 (No one; was killed; L:in either crash)
+0.87 (investigators; have not disclosed; what caused the accidents)
+
+Six crewmen died and 10 were injured Oct. 11 when an Air Force tanker en route from K.I.
+0.73 (Six crewmen; died; )
+0.55 (10; were injured; T:when an Air Force tanker en route from K.I.)
+
+Sawyer crashed at Wurtsmith Air Force Base near Oscoda.
+0.93 (Sawyer; crashed; L:at Wurtsmith Air Force Base near Oscoda)
+
+The Air Force's investigation of the crash is incomplete.
+0.91 (The Air Force's investigation of the crash; is; incomplete)
+
+Wurtsmith and Sawyer are Michigan's two SAC bases.
+0.94 (Wurtsmith and Sawyer; are; Michigan's two SAC bases)
+

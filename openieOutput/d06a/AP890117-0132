@@ -1,0 +1,189 @@
+The City Council today asked county prosecutors to investigate the conduct of a white policeman who was secretly filmed while he pushed an off-duty black policeman through a plate-glass window.
+0.95 (The City Council; asked; county prosecutors; to investigate the conduct of a white policeman; T:today)
+0.94 (county prosecutors; to investigate; the conduct of a white policeman who was secretly filmed)
+0.45 (he; pushed; an off-duty black policeman; through a plate-glass window)
+
+``We're certainly not happy to have an incident like this occurring, but we need all the information,'' said Councilman Thomas J. Clark of the council's request for an investigation.
+0.41 (We; to have; an incident like this occurring)
+0.45 (we; need; all the information)
+0.92 (We're certainly not happy to have an incident like this occurring, but we need all the information; said; Councilman Thomas J. Clark of the council's request for an investigation)
+0.40 Context(We 're certainly not happy to have an incident like this occurring , but we need all the information said,List([2, 108))):(We; 're certainly not; happy to have an incident like this occurring)
+
+Curt Livesay, an assisant Los Angeles County district attorney and head of the office's Special Investigations Division, will lead the probe, said district attorney spokesman Andy Reynolds.
+0.98 (Curt Livesay, an assisant Los Angeles County district attorney and head of the office's Special Investigations Division, will lead the probe; said; district attorney spokesman Andy Reynolds)
+0.90 Context(Curt Livesay , an assisant Los Angeles County district attorney and head of the office 's Special Investigations Division , will lead the probe said,List([0, 146))):(Curt Livesay; will lead; the probe)
+0.39 (Andy Reynolds; [is] said spokesman [of]; district attorney)
+0.88 (Curt Livesay; [is] an district attorney [of]; assisant Los Angeles County)
+
+The black Hawthorne policeman, Sgt.
+
+Don Jackson, said he set up the self-styled ``sting'' in Long Beach to expose alleged police racism in the Los Angeles area.
+0.82 (Don Jackson; said; he set up)
+0.16 Context(Don Jackson said,List([0, 17))):(he; set up; )
+
+An NBC-TV news camera crew arranged to follow Jackson during the sting Saturday night.
+0.91 (An NBC-TV news camera crew; arranged; to follow Jackson during the sting Saturday night)
+0.91 Context(An NBC - TV news camera crew arranged,List([0, 35))):(An NBC-TV news camera crew; arranged to follow; Jackson; T:during the sting Saturday night)
+
+The incident was broadcast on NBC's national news Monday night.
+0.92 (The incident; was broadcast; L:on NBC's national news Monday night)
+
+``We've never been able to come forth before with enough evidence (of alleged police racism).
+0.57 (We; 've never been; able to come forth before with enough evidence (of alleged police racism)
+
+Now, it is brought to your living room in living color,'' said Frank Berry, president of the Long Beach chapter of the National Association for the Advancement of Colored People.
+0.79 (Now, it is brought to your living room in living color; said; Frank Berry)
+0.39 Context(Now , it is brought to your living room in living color said,List([0, 62))):(it; is brought; to your living room in living color; T:Now)
+0.38 (Frank Berry; [is] president of; the Long Beach chapter)
+
+The police chief in Long Beach declined to comment pending an investigation.
+0.94 (The police chief in Long Beach; declined; to comment pending an investigation)
+0.94 Context(The police chief in Long Beach declined,List([0, 39))):(The police chief in Long Beach; declined to comment; pending an investigation)
+
+City officials promised a thorough inquiry.
+0.90 (City officials; promised; a thorough inquiry)
+
+``We will pursue it aggressively,'' said Long Beach City Manager James Hanklad.
+0.66 (We will pursue it aggressively; said; Long Beach City Manager James Hanklad)
+0.26 Context(We will pursue it aggressively said,List([2, 40))):(We; will pursue aggressively; it)
+
+``If there is evidence of brutality, we will act accordingly.''
+0.19 (we; will act accordingly; )
+0.50 (there; is evidence of; brutality)
+
+Long Beach Mayor Ernie Kell said on NBC's ``Today'' show this morning that he was disturbed by the videotape.
+0.87 (Long Beach Mayor Ernie Kell; said; L:on NBC's ``Today; show this morning that he was disturbed by the videotape)
+
+``I ... do not support racism or police brutality, nor do the vast majority of the citizens of Long Beach, and we're a caring, thinking community and it disturbed us very much to see the tape,'' he said.
+0.98 (I ... do not support racism or police brutality, nor do the vast majority of the citizens of Long Beach, and we're a caring, thinking community and it disturbed us very much; said; he)
+0.36 Context(I ... do not support racism or police brutality , nor do the vast majority of the citizens of Long Beach , and we 're a caring , thinking community and it disturbed us very much said,List([2, 202))):(I; do not support; racism or police brutality)
+0.89 (a caring; thinking; community)
+0.31 (it; disturbed; us; very much; to see the tape)
+
+Long Beach, about 20 miles south of downtown Los Angeles, has about 450,000 people, including a sizeable black population.
+0.97 (Long Beach, about 20 miles south of downtown Los Angeles; has; about 450,000 people, including a sizeable black population)
+
+Jackson and a companion were driving through a high-crime area of the city when their car was pulled over and Jackson got out.
+0.94 (Jackson and a companion; were driving; through a high-crime area of the city; T:when their car was pulled over and Jackson got out)
+0.84 (Jackson; got; out)
+
+The NBC-TV videotape shows a white officer attempting to search Jackson.
+0.93 (The NBC-TV videotape; shows; a white officer attempting to search Jackson)
+0.91 (a white officer; attempting; to search Jackson)
+0.91 Context(a white officer attempting,List([27, 53))):(a white officer; attempting to search; Jackson)
+
+The officer unleashed a stream of profanity and roughed up Jackson after he demanded to know why he was being searched.
+0.90 (The officer; unleashed; a stream of profanity)
+0.89 (The officer; roughed up; Jackson; T:after he demanded to know why he was being searched)
+0.26 (he; demanded; to know why he was being searched)
+0.26 Context(he demanded,List([73, 84))):(he; demanded to know; why he was being searched)
+0.16 Context(he demanded to know,List([73, 92))):(he; was being searched; )
+
+The incident renewed calls for a citizen board to review the Police Department.
+0.93 (a citizen board; to review; the Police Department)
+
+The idea first was debated last year amid allegations of police brutality.
+0.93 (The idea; was debated; T:last year; L:amid allegations of police brutality; T:first)
+
+But Jackson's boss said the black officer was looking for trouble.
+0.91 (Jackson's boss; said; the black officer was looking for trouble)
+0.89 Context(Jackson 's boss said,List([4, 23))):(the black officer; was looking; for trouble)
+
+``I submit that if Mr. Jackson had stayed in the vehicle, as did the driver, this incident would not have occurred,'' Hawthorne Police Chief Kenneth R. Stonebraker said at a news conference Monday.
+0.93 (Mr. Jackson; had stayed; in the vehicle)
+0.93 (I submit that if Mr. Jackson had stayed in the vehicle, as did the driver, this incident would not have occurred; said; L:at a news conference; T:Monday)
+0.31 Context(I submit that if Mr. Jackson had stayed in the vehicle , as did the driver , this incident would not have occurred said,List([2, 168))):(I; submit; that if Mr. Jackson had stayed in the vehicle, as did the driver, this incident would not have occurred)
+0.68 Context(I submit that if Mr. Jackson had stayed in the vehicle , as did the driver , this incident would not have occurred said,List([2, 168))):(this incident; would not have occurred; )
+
+Since the incident apparently was timed by Jackson to coincide with the birthday of Dr. Martin Luther King Jr. the confrontation should be considered ``nothing short of timed sensationalism at the risk of serious injury to all of the parties involved,'' Stonebraker said.
+1.00 (Since the incident apparently was timed by Jackson to coincide with the birthday of Dr. Martin Luther King Jr. the confrontation should be considered ``nothing short of timed sensationalism at the risk of serious injury to all of the parties; said; Stonebraker)
+0.94 Context(Since the incident apparently was timed by Jackson to coincide with the birthday of Dr. Martin Luther King Jr . the confrontation should be considered `` nothing short of timed sensationalism at the risk of serious injury to all of the parties said,List([0, 270))):(the incident; apparently was timed; by Jackson; to coincide with the birthday of Dr. Martin Luther King Jr)
+0.70 (the incident; to coincide; )
+0.73 (the parties; involved; )
+
+``As a police chief,'' he added, ``I do not for one minute condone the unlawful use of force or police brutality.''
+0.37 (he; added; I do not for one minute condone the unlawful use of force or police brutality)
+0.57 (I; do not; for one minute condone the unlawful use of force or police brutality)
+
+The 30-year-old Jackson, who has been on a stress-related disability leave from his Hawthorne job for 22 months, contends the incident is typical of a pattern of racism by white officers in the Los Angeles area.
+0.95 (The 30-year-old Jackson; has been; on a stress-related disability leave from his Hawthorne job; T:for 22 months)
+0.96 (The 30-year-old Jackson; contends; the incident is typical of a pattern of racism by white officers in the Los Angeles area)
+0.95 Context(The 30 - year - old Jackson contends,List([0, 121))):(the incident; is; typical of a pattern of racism by white officers in the Los Angeles area)
+
+Jackson alleges racist slurs and actions forced him from the Hawthorne department.
+0.90 (Jackson; alleges; racist slurs and actions)
+
+He has a disability lawsuit pending, has filed racism complaints against the department and conducted a similar personal sting operation against Los Angeles police.
+0.52 (He; has; a disability lawsuit pending)
+0.41 (He; has filed; racism complaints against the department)
+0.46 (He; conducted; a similar personal sting operation against Los Angeles police)
+
+Jackson was riding as a passenger with Jeffrey Hill, a 30-year-old off-duty state corrections officer, when they were pulled over allegedly for straddling lanes, which they denied.
+0.93 (Jackson; was riding; as a passenger with Jeffrey Hill)
+0.62 (they; were pulled allegedly; for straddling lanes; T:a 30-year-old off-duty state corrections officer, when they were pulled over allegedly for straddling lanes, which they denied)
+0.91 (a 30-year-old off-duty state corrections officer, when they were pulled over allegedly for straddling lanes; denied; they)
+
+Jackson got out after the car stopped and police approached.
+0.92 (Jackson; got out; T:after the car stopped and police approached)
+0.73 (the car; stopped; )
+0.71 (police; approached; )
+
+During an argument, Long Beach Officer Mark Dickey ordered Jackson to face a building and put his hands behind his head.
+0.97 (Long Beach Officer Mark Dickey; ordered; Jackson; to face a building and put his hands behind his head; T:During an argument)
+0.92 (Jackson; to face; a building)
+0.80 (Jackson; to put; his hands; behind his head)
+
+Jackson complied, and moments later was pushed through a plate-glass store window.
+0.77 (Jackson; complied; )
+0.93 (moments; was pushed; through a plate-glass store window; T:later)
+
+``I'm all right.
+0.28 (I; 'm; all right)
+
+OK, no problem,'' said Jackson on the videotape.
+
+Police booked Jackson for investigation of interfering with police and challenging a police officer.
+0.94 (Police; booked; Jackson; for investigation of interfering with police and challenging a police officer)
+
+Hill was issued a traffic citation.
+0.86 (Hill; was issued; a traffic citation)
+
+``The officer simply used violence,'' Jackson said Monday.
+0.91 (The officer simply used violence; said; T:Monday)
+0.88 Context(The officer simply used violence said,List([2, 50))):(The officer; simply used; violence)
+
+``I already cooperated and told him he could search me,'' Jackson said.
+0.41 (I; told; him; he could search me; T:already)
+0.26 Context(I told,List([2, 31))):(he; could search; me)
+0.85 (I already cooperated and told him he could search me; said; Jackson)
+0.26 Context(I already cooperated and told him he could search me said,List([2, 70))):(I; cooperated; T:already)
+
+``I had already had my hands up and was turned to the window and he slammed my face in it.''
+0.22 (I; had had up; T:already)
+0.41 (I; was turned; to the window)
+0.31 (he; slammed; my face; L:in it)
+
+Jackson received support at a Monday night ceremony in Los Angeles commemorating King's birthday.
+0.93 (Jackson; received; support; L:at a Monday night ceremony in Los Angeles)
+
+``I'm deeply concerned since it strikes me as a period when police violence and excessive force is rampant,'' said Mark Ridley-Thomas, executive director of the Southern Christian Leadership Conference's Los Angeles chapter.
+0.97 (police violence and excessive force; is; rampant; T:a period)
+0.64 (I'm deeply concerned; said; Mark Ridley-Thomas)
+0.32 Context(I 'm deeply concerned said,List([2, 114))):(I; 'm; deeply concerned since it strikes me as a period)
+0.38 (Mark Ridley-Thomas; [is] executive director of; the Southern Christian Leadership Conference)
+
+``I'm more so offended since the Hawthorne Police Department, which has no jurisdiction, is making judgment.''
+0.46 (I; offended; T:since the Hawthorne Police Department)
+0.94 (the Hawthorne Police Department; has; no jurisdiction)
+
+Jackson said he chose Long Beach police because of complaints to the Police Misconduct Lawyer's Referral Service of Los Angeles.
+0.91 (Jackson; said; he chose Long Beach police because of complaints to the Police Misconduct Lawyer's Referral Service of Los Angeles)
+0.56 Context(Jackson said,List([0, 12))):(he; chose; Long Beach police; because of complaints to the Police Misconduct Lawyer's Referral Service of Los Angeles)
+
+David Lynn of the referral service said 50 misconduct complaints were filed with his group against the Long Beach police.
+0.94 (David Lynn of the referral service; said; 50 misconduct complaints were filed with his group against the Long Beach police)
+0.84 Context(David Lynn of the referral service said,List([0, 39))):(50 misconduct complaints; were filed; with his group against the Long Beach police)
+
+Of those, 27 were filed by minorities, and 24 of those involved confrontations with white officers.
+0.54 (27; were filed; by minorities)
+

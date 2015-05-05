@@ -1,0 +1,210 @@
+A police chief plays an essential role in setting the climate in which his department operates.
+0.91 (A police chief; plays; an essential role in setting the climate)
+0.72 (his department; operates; L:the climate)
+
+Through the years Mr. Gates has made public statements clearly at odds with the new concept of community policing, in which officers work with citizens to improve neighborhoods and prevent crime.
+0.94 (Mr. Gates; has made clearly; at odds with the new concept of community policing; T:Through the years)
+0.94 (officers; work; with citizens; to improve neighborhoods and prevent crime; L:community policing)
+0.81 Context(officers work,List([124, 137))):(officers; work to improve; neighborhoods)
+0.81 Context(officers work,List([124, 137))):(officers; work to prevent; crime)
+
+A few years ago Chief Gates referred to gang members as "dirty little cowards," and warned them that "there is resounding applause to every fall of the hammer."
+0.96 (Chief Gates; referred; to gang members; as "dirty little cowards; T:A few years ago)
+0.82 (Chief Gates; warned; them; that "there is resounding applause to every fall of the hammer; T:A few years ago)
+
+The exchange sounded more like one gang challenging another than a police chief seeking to reduce conflict in the community.
+0.94 (The exchange; sounded; more like one gang challenging another than a police chief)
+0.80 (more like one gang; challenging; another)
+0.89 (a police chief; seeking; to reduce conflict in the community)
+0.89 Context(a police chief seeking,List([65, 87))):(a police chief; seeking to reduce; conflict in the community)
+
+Indeed the Rambo-like challenge did not lower violence, and may have increased it.
+0.96 (the Rambo-like challenge; did; not lower violence)
+0.89 (the Rambo-like challenge; may have increased; it)
+
+Hundreds of gang homicides occur every year in Los Angeles despite sweeps by the city's police.
+0.93 (Hundreds of gang homicides; occur; T:every year; L:in Los Angeles)
+
+Mr. Gates would have been better advised to seek community programs for jobs, education, elimination of prejudice and improvement of neighborhoods.
+0.94 (Mr. Gates; to seek; community programs for jobs, education, elimination of prejudice and improvement of neighborhoods)
+
+But this kind of reasoning is foreign to a man who publicly claimed that his SWAT team could free the Iranian hostages.
+0.94 (this kind of reasoning; is; foreign to a man)
+0.59 (a man; publicly claimed; that his SWAT team could free the Iranian hostages)
+0.67 Context(a man publicly claimed,List([41, 67))):(his SWAT team; could free; the Iranian hostages)
+
+Similarly, Mr. Gates vehemently opposed the Police Corps Program backed by other police chiefs.
+0.94 (Mr. Gates; vehemently opposed; the Police Corps Program)
+0.94 (the Police Corps Program; backed; by other police chiefs)
+
+The Police Corps would send idealistic young people, including minorities, to serve a three -- or four -- year tour of duty after college graduation in return for federal funding of their educations.
+0.93 (The Police Corps; would send; idealistic young people, including minorities)
+0.95 (The Police Corps; to serve; a three -- or four -- year tour of duty)
+
+Mr. Gates opposed the Police Corps because its members would not be professionals.
+0.89 (Mr. Gates; opposed; the Police Corps; because its members would not be professionals)
+0.64 (its members; would not be; professionals)
+
+Yet the presence of such "non-professionals" would discourage the racism and brutality exposed by the Rodney King beating.
+0.93 (the presence of such "non-professionals; would discourage; the racism and brutality exposed by the Rodney King)
+0.93 (the racism and brutality; exposed; by the Rodney King)
+0.80 (the Rodney King; beating; )
+
+Such attitudes survive only in a closed police culture.
+0.90 (Such attitudes; survive only; L:in a closed police culture)
+
+The presence of even one police corps officer witness would have deterred the criminal cops.
+0.95 (The presence of even one police corps officer witness; would have deterred; the criminal cops)
+
+Many chiefs openly disagreed with Mr. Gates when he opposed the Police Corps Bill in Congress.
+0.86 (Many chiefs; openly disagreed; with Mr. Gates; T:when he opposed the Police Corps Bill in Congress)
+0.50 (he; opposed; the Police Corps Bill in Congress)
+
+We should be as openly critical of his other statements.
+0.31 (We; should be; as openly critical of his other statements)
+
+For example, Mr. Gates once said that blacks were more susceptible than "normal people" to chokeholds.
+0.90 (Mr. Gates; said; that blacks were more susceptible than "normal people" to chokeholds; T:once)
+0.77 Context(Mr. Gates said,List([13, 32))):(blacks; were; more susceptible than "normal people" to chokeholds)
+
+More recently, he described the killer of a policewoman as an "El Salvadoran, who shouldn't have been here."
+0.74 (he; described; the killer of a policewoman as an "El Salvadoran; T:More recently)
+0.82 (an "El Salvadoran; should n't have been; here)
+
+The nationality of the murderer was irrelevant.
+0.85 (The nationality of the murderer; was; irrelevant)
+
+Mr. Gates's statement did nothing to lessen the tragedy of the fallen officer, but like his statement about blacks, it gave comfort to bigots within and outside the department.
+0.95 (Mr. Gates's statement; did; nothing to lessen the tragedy of the fallen officer)
+0.45 (it; gave; comfort; to bigots within and outside the department)
+
+And it hardly reduced conflict in a city where the majority of the population is made up of minorities who need and deserve police protection, whether or not they are citizens.
+0.45 (it; hardly reduced; conflict; L:in a city)
+0.79 (the majority of the population; is made up; )
+0.68 (minorities; need; )
+0.80 (minorities; deserve; police protection; whether or not they are citizens)
+
+Two years ago, on a national television documentary, Mr. Gates defended a special unit that had shot many criminals during stakeouts.
+0.93 (Mr. Gates; defended; a special unit that had shot many criminals during stakeouts; T:Two years ago; L:on a national television documentary)
+0.90 (a special unit; had shot; many criminals; T:during stakeouts)
+
+The unit had advance knowledge that crimes were about to occur, but often stayed outside and let robberies occur, even though innocent retailers and customers were put at risk.
+0.82 (The unit; had; advance knowledge that crimes were about to occur)
+0.75 (crimes; were; about to occur)
+0.68 (crimes; to occur; )
+0.89 (The unit; let; robberies occur)
+0.67 Context(The unit let,List([0, 96))):(robberies; occur; )
+
+The chief said that arresting the criminals before the robberies wasn't a good idea because the courts were so lenient.
+0.93 (the robberies; was n't; a good idea)
+0.77 (the courts; were; so lenient)
+0.91 (The chief; said; arresting the criminals before the robberies wasn't a good idea)
+0.83 Context(The chief said,List([0, 14))):(The chief; said arresting; the criminals)
+
+The unit has been allowed to continue to operate despite its high shooting rate -- or, worse still, because of the shootings.
+0.84 (The unit; has been allowed worse still; because of the shootings)
+0.70 (The unit; to operate; )
+
+Last year Los Angeles paid $3 million to 52 residents of an apartment complex ransacked by police.
+0.97 (Los Angeles; paid; $3 million to 52 residents of an apartment complex; T:Last year)
+0.91 (an apartment complex; ransacked; by police)
+
+Mr. Gates reluctantly admitted that the officers who did the ransacking were wrong, but said he could understand their frustration in trying to fight drugs.
+0.78 (Mr. Gates; reluctantly admitted; that the officers who did the ransacking were wrong)
+0.79 Context(Mr. Gates reluctantly admitted,List([0, 30))):(the officers who did the ransacking; were; wrong)
+0.91 (the officers; did; the ransacking)
+0.88 (Mr. Gates; said; he could understand their frustration in trying to fight drugs)
+0.26 Context(Mr. Gates said,List([0, 92))):(he; could understand; their frustration)
+
+Even more recently, Mr. Gates told the Senate that "casual drug users should be taken out and shot."
+0.77 (casual drug users; shot; )
+0.94 (Mr. Gates; told; the Senate; that "casual drug users should be taken out and shot; T:Even more recently)
+0.70 Context(Mr. Gates told,List([20, 34))):(casual drug users; should be taken out; )
+
+He assured the senators that he was not being facetious.
+0.11 (He; assured; the senators; that he was not being facetious)
+0.18 Context(He assured,List([0, 10))):(he; was not being; facetious)
+
+And his initial reaction on television to the Rodney King brutality tapes was defensive.
+0.73 (his initial reaction on television to the Rodney King brutality tapes; was; defensive)
+
+Mayor Tom Bradley told the media that such conduct wouldn't be tolerated, and that the wrongdoers would be sought out for punishment.
+0.90 (the wrongdoers; would be sought out; for punishment)
+0.89 (Mayor Tom Bradley; told; the media; that such conduct wouldn't be tolerated, and that the wrongdoers would be sought out for punishment)
+0.68 Context(Mayor Tom Bradley told,List([0, 22))):(such conduct; would n't be tolerated; )
+
+Mr. Gates said that while he was shocked, he wasn't drawing conclusions and would look into the "background," of the incident.
+0.28 (he; was; shocked)
+0.17 (he; shocked; )
+0.41 (he; would look; into the "background)
+0.76 (Mr. Gates; said; that while he was shocked, he wasn't drawing conclusions and would look into the "background," of the incident)
+0.40 Context(Mr. Gates said,List([0, 14))):(he; was n't drawing; conclusions)
+
+Presumably, the chief has now received wiser council.
+0.92 (the chief; has received; wiser council; T:now)
+
+He has called for prosecution of three of the officers, and has produced a videotape for his troops condemning the beating.
+0.45 (He; has called; for prosecution of three of the officers)
+0.27 (He; has produced; a videotape for his troops)
+0.64 (his troops; condemning; the beating)
+
+But condemnation of misconduct and excessive force should have been a constant message from the command staff before the brutality, and not an afterthought.
+0.96 (condemnation of misconduct and excessive force; should have been; a constant message from the command staff before the brutality)
+
+Yet, it's hard to imagine commanders preaching restraint in light of the chief's constant belligerent pronouncements.
+0.89 (commanders; preaching; restraint; L:in light of the chief's constant belligerent pronouncements)
+
+Even Mr. Gates's apology to Mr. King sent the wrong message.
+0.97 (Even Mr. Gates's apology to Mr. King; sent; the wrong message)
+
+He said that he hoped the incident might help Mr. King to straighten out his life.
+0.20 (He; said; that he hoped the incident might help Mr. King to straighten out his life)
+0.40 Context(He said,List([0, 7))):(he; hoped; the incident might help Mr. King to straighten out his life)
+0.82 Context(He said he hoped,List([0, 21))):(the incident; might help; Mr. King to straighten out his life)
+0.73 Context(He said he hoped the incident might help,List([0, 45))):(Mr. King; to straighten out; his life)
+
+It is hard to imagine someone unlawfully beaten by uniformed officers as others looked on being inspired to respect law and order.
+0.93 (someone; unlawfully beaten; by uniformed officers; T:as others looked on being inspired to respect law and order)
+0.89 (others; looked; on being inspired to respect law and order)
+
+Or was the chief suggesting that the beating was a warning against further run-ins with the police?
+0.93 (the beating; was; a warning against further run-ins with the police)
+0.39 (the beating; was a warning against; further run-ins)
+
+Clearly, Daryl Gates's words and actions create doubt about his claim that the Rodney King incident was an aberration.
+0.95 (the Rodney King incident; was; an aberration)
+
+Public opinion polls in Los Angeles show the majority of people believe police brutality is common, and they disapprove of the way Mr. Gates has done his job.
+0.62 (they; disapprove; of the way)
+0.87 (Mr. Gates; has done; his job)
+0.95 (Public opinion polls in Los Angeles; show; the majority of people believe police brutality is common, and they disapprove of the way)
+0.90 Context(Public opinion polls in Los Angeles show,List([0, 40))):(the majority of people; believe; police brutality is common)
+0.78 Context(Public opinion polls in Los Angeles show the majority of people believe,List([0, 71))):(police brutality; is; common)
+
+When he characterizes such opposition as cop-haters, he embitters his department and to some extent all police.
+0.45 (he; characterizes; such opposition as cop-haters)
+0.44 (he; embitters; his department; T:When he characterizes such opposition as cop-haters)
+
+Mr. Gates's military style of policing is at odds with that in the rest of the country, and it's about time police leaders publicly repudiated it.
+0.94 (Mr. Gates's military style of policing; is; at odds with that in the rest of the country)
+0.24 (it; 's; about)
+0.82 Context(it 's,List([92, 96))):(time police leaders; publicly repudiated; it)
+
+It is hard to see how the Los Angeles Police Department can regain credibility unless Daryl Gates's leave becomes permanent.
+0.84 (Daryl Gates's leave; becomes; permanent)
+
+But the videotape of the LAPD brutality affects the credibility of all police officers.
+0.95 (the videotape of the LAPD brutality; affects; the credibility of all police officers)
+
+It has cast a cloud over policing that won't be lifted until police chiefs drop their own code of silence and speak out against one of their own's peculiar philosophy of policing.
+0.23 (It; has cast; a cloud; over policing that won't be lifted)
+0.87 (police chiefs; drop; their own code of silence)
+
+---    Mr. McNamara is the police chief in San Jose.
+0.95 (Mr. McNamara; is; the police chief in San Jose)
+0.88 (--- Mr. McNamara; is the police chief in; San Jose)
+
+He comes from a family of policemen and has been one for 35 years.
+0.45 (He; comes; from a family of policemen)
+0.41 (He; has been; one for 35 years)
+

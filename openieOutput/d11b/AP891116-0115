@@ -1,0 +1,275 @@
+Rescuers crawled through collapsed homes and shops today looking for more victims of a tornado that carved a 3-mile stretch of destruction, killing 17 people, injuring 463 and leaving 1,000 homeless.
+0.87 (Rescuers; crawled; through collapsed homes and shops)
+0.81 Context(Rescuers crawled,List([0, 16))):(Rescuers; crawled through collapsed homes and shops looking; for more victims of a tornado)
+0.81 Context(Rescuers crawled looking,List([0, 64))):(Rescuers; crawled through collapsed homes and shops looking for more victims of a tornado killing; 17 people)
+0.89 (a tornado; carved; a 3-mile stretch of destruction)
+
+``It's like taking six to 10 city blocks and putting them in a blender and putting it on liquefy,'' said rescue worker Bob Caraway, whose specialty is cave rescues.
+0.94 (rescue worker Bob Caraway; is; cave rescues)
+0.89 (It's like taking six to 10 city blocks and putting them in a blender and putting it on liquefy; said; rescue worker Bob Caraway)
+0.43 Context(It 's like taking six to 10 city blocks and putting them in a blender and putting it on liquefy said,List([2, 104))):(It; 's; like taking six to 10 city blocks and putting them in a blender and putting it on liquefy)
+0.39 (Bob Caraway; [is] said worker [of]; rescue)
+
+He was among those called out to help dig through rubble for survivors or the bodies of the dead.
+0.12 (He; was; among those)
+0.33 (those; called; out; to help dig through rubble for survivors or the bodies of the dead)
+0.70 (those called out; to help; dig through rubble for survivors or the bodies of the dead)
+
+The tornado was one of a series that touched down Wednesday in an arc spanning at least seven states from the Deep South to the Midwest.
+0.93 (The tornado; was; one of a series)
+0.90 (a series; touched down; T:Wednesday; L:in an arc)
+0.95 (an arc; spanning; at least seven states from the Deep South to the Midwest)
+0.89 (The tornado; was one of; a series)
+
+The other tornadoes caused at least 19 injuries and far-flung property damage.
+0.94 (The other tornadoes; caused; at least 19 injuries and far-flung property damage)
+
+In Huntsville, teams with cranes and floodlights searched for the injured or dead, hampered by wind-whipped rain and temperatures that plummeted overnight from 73 degrees into the 30s.
+0.88 (temperatures; plummeted; T:overnight; from 73 degrees; T:into the 30s)
+
+Gov. Guy Hunt sent 50 National Guardsmen to help and said he would view damage Friday.
+0.96 (Gov. Guy Hunt; sent; 50 National Guardsmen; to help)
+0.80 (50 National Guardsmen; to help; )
+0.86 (Gov. Guy Hunt; said; he would view damage Friday)
+0.40 Context(Gov. Guy Hunt said,List([0, 57))):(he; would view; damage)
+
+His spokesman, Terry Abbott, said aerial surveys indicate the twister hopped along a 25-mile path, much of it straight through Huntsville.
+0.56 (His spokesman; said; aerial surveys indicate the twister hopped along a 25-mile path, much of it straight through Huntsville)
+0.89 Context(His spokesman said,List([0, 33))):(aerial surveys; indicate; the twister hopped along a 25-mile path, much of it straight through Huntsville)
+0.89 Context(His spokesman said aerial surveys indicate,List([0, 57))):(the twister; hopped; along a 25-mile path, much of it straight through Huntsville)
+
+By this afternoon, severe thunderstorms were crossing the Northeast.
+0.95 (severe thunderstorms; were crossing; the Northeast; T:By this afternoon)
+
+The National Weather Service put out a tornado watch for parts of Maryland, Delaware, Pennsylvania, New Jersey, New York, all of Connecticut and Rhode Island, and parts of Massachusetts, Vermont and New Hampshire.
+0.94 (The National Weather Service; put out; a tornado watch)
+
+In Pennsylvania, the weather service said it received unconfirmed reports of a tornado that turned over a car and knocked down trees and power lines near Gettysburg.
+0.89 (a tornado; turned over; a car)
+0.90 (a tornado; knocked down; trees and power lines near Gettysburg)
+0.90 (the weather service; said; it received unconfirmed reports of a tornado; L:In Pennsylvania)
+0.39 Context(the weather service said,List([17, 41))):(it; received; unconfirmed reports of a tornado)
+
+Elsewhere:    _In Georgia, 19 people were injured, four critically, and at least 200 people were evacuated after a tornado strus.C., and a tornado toppled trees, downed power lines and damaged 20 houses near Greenwood, S.C.
+0.83 (19 people; were injured; L:Elsewhere)
+0.93 (at least 200 people; were evacuated; T:after a tornado strus.C)
+0.90 (a tornado; toppled; trees)
+0.91 (a tornado toppled trees; downed; power lines)
+0.92 (a tornado toppled trees; damaged; 20 houses near Greenwood)
+
+No injuries were reported in either state.
+0.90 (No injuries; were reported; L:in either state)
+
+_Tornadoes caused minor property damage in Mississippi, Kentucky and Indiana.
+0.91 (_Tornadoes; caused; minor property damage in Mississippi, Kentucky and Indiana)
+
+_In West Virginia, high winds believed to be tornadoes swept Jefferson County early today, overturning trailers, blowing roofs off homes and downing power lines, authorities said.
+0.92 (_In West Virginia; believed; to be tornadoes)
+0.93 (_In West Virginia; to be; tornadoes swept Jefferson County early today)
+0.98 (_In West Virginia, high winds believed to be tornadoes swept Jefferson County early today,; said; authorities)
+0.93 (tornadoes; swept; Jefferson County; T:early today)
+
+Four people were injured, two seriously.
+0.73 (Four people; were injured; )
+
+_Heavy thunderstorms destroyed at least a dozen homes in Alorton, Ill., killing one person and injuring 20 others, five seriously, authorities said.
+0.97 (_Heavy thunderstorms destroyed at least a dozen homes in Alorton; said; authorities)
+0.92 Context(_Heavy thunderstorms destroyed at least a dozen homes in Alorton said,List([0, 147))):(_Heavy thunderstorms; destroyed; at least a dozen homes in Alorton)
+0.86 Context(_Heavy thunderstorms destroyed at least a dozen homes in Alorton said,List([0, 147))):(_Heavy thunderstorms; destroyed at least a dozen homes in Alorton killing; one person)
+0.86 Context(_Heavy thunderstorms destroyed at least a dozen homes in Alorton said,List([0, 147))):(_Heavy thunderstorms; destroyed at least a dozen homes in Alorton injuring; 20 others)
+
+The tornado struck Huntsville with virtually no warning Wednesday afternoon as the city's streets grew busy with the approach of rush hour.
+0.96 (The tornado; struck; Huntsville; with virtually no warning; T:Wednesday afternoon; T:as the city's streets grew busy with the approach of rush hour)
+0.94 (the city's streets; grew; busy with the approach of rush hour)
+
+In a matter of seconds, cars were hurled through the air and crushed, and apartments and stores looked as if they had been bombed.
+0.87 (cars; were hurled; L:In a matter of seconds)
+0.70 (the air; crushed; )
+0.85 (apartments and stores; looked; as if they had been bombed)
+0.32 (they; had been bombed; )
+
+``It was fast,'' said Lucy Lee Rusk, whose apartment was battered by debris.
+0.61 (It was fast; said; Lucy Lee Rusk)
+0.24 Context(It was fast said,List([2, 21))):(It; was; fast)
+
+``It was like one big pop and that's when everything went.''
+0.52 (It; was; like one big pop)
+0.17 (that; 's; when everything went)
+0.77 (everything; went; )
+
+The National Weather Service had issued a tornado watch earlier in the day, but did not issue a more urgent tornado warning until 4:39 p.m. CST, when the tornado was spotted at the municipal golf course.
+0.94 (The National Weather Service; had issued; a tornado watch earlier in the day)
+0.94 (The National Weather Service; did not issue; a more urgent tornado warning; T:until 4:39 p.m. CST)
+0.90 (the tornado; was spotted; L:at the municipal golf course)
+
+By then, it was already tearing up the city.
+0.49 (it; was tearing up; the city; T:By then; T:already)
+
+A watch means a tornado is considered possible, while a warning means a tornado is believed to exist.
+0.70 (a tornado; to exist; )
+0.88 (A watch; means; a tornado is considered possible)
+0.88 (a warning; means; a tornado is believed to exist)
+0.69 Context(a warning means,List([54, 69))):(a tornado; is believed; )
+
+Huntsville Police Maj.
+
+Robert Moder said this morning that 463 people were injured by the twister, which plowed through a school and rural areas as well as a shopping mall and adjacent apartments.
+0.70 (the twister; plowed; )
+0.78 (Robert Moder; said; T:this morning; that 463 people were injured by the twister)
+0.88 Context(Robert Moder said,List([0, 17))):(463 people; were injured; by the twister)
+
+Police Chief Richard Ottman initially put the number of dead at 19, but his clerk, Kitty Whitworth, later said the death toll was lowered to 17 after police confirmed the count of bodies.
+0.97 (Police Chief Richard Ottman; put; the number of dead; at 19; T:initially)
+0.89 (police; confirmed; the count of bodies)
+0.77 (his clerk; said; the death toll was lowered to 17 after police confirmed the count of bodies; T:later)
+0.89 Context(his clerk said,List([72, 110))):(the death toll; was lowered; to 17; T:after police confirmed the count of bodies)
+
+She said police had no firm reports of people missing.
+0.71 (people; missing; )
+0.40 (She; said; police had no firm reports of people)
+0.90 Context(She said,List([0, 8))):(police; had; no firm reports of people)
+
+No children in the school were killed, but about 30 youngsters were in a kindergarten class at the building, and five were reported injured.
+0.79 (No children in the school; were killed; )
+0.91 (about 30 youngsters; were; in a kindergarten class; L:at the building)
+0.23 (five; injured; )
+
+Most of the dead were in apartments, stores or cars.
+0.61 (Most of the dead; were; in apartments, stores or cars)
+
+Mayor Steve Hettinger estimated the number of homeless at 1,000 and said officials were preparing a request for federal disaster assistance.
+0.93 (Mayor Steve Hettinger; estimated; the number of homeless; at 1,000)
+0.90 (Mayor Steve Hettinger; said; officials were preparing a request for federal disaster assistance)
+0.87 Context(Mayor Steve Hettinger said,List([0, 72))):(officials; were preparing; a request for federal disaster assistance)
+
+A worker at a building owned by the Madison County Jaycees said 42 people were staying there early today, and described the mood of the survivors as ``shock, mostly, and disbelief.''
+0.92 (a building; owned; by the Madison County Jaycees)
+0.91 (A worker at a building; described; the mood of the survivors; as ``shock, mostly, and disbelief)
+0.89 (A worker at a building; said; 42 people were staying there early today)
+0.88 Context(A worker at a building said,List([0, 63))):(42 people; were staying; there; T:early; T:today)
+
+``They're thankful to be alive and they're thankful their families are alive,'' he said, adding that the shelter had received calls from around the country from worried relatives.
+0.32 (They; to be; alive)
+0.54 (they; 're; thankful their families are alive)
+0.38 (their families; are; alive)
+0.78 (They're thankful to be alive and they're thankful their families are alive; said; he)
+0.37 Context(They 're thankful to be alive and they 're thankful their families are alive said,List([2, 87))):(They; 're; thankful to be alive)
+0.24 Context(They 're thankful to be alive and they 're thankful their families are alive said,List([2, 87))):(he; adding; that the shelter had received calls from around the country from worried relatives)
+0.88 Context(They 're thankful to be alive and they 're thankful their families are alive he said adding,List([2, 95))):(the shelter; had received; calls from around the country from worried relatives)
+
+The tornado was Alabama's deadliest since a 1975 twister killed 22 people in Birmingham, said Danny Cooper, state emergency management director in Montgomery.
+0.93 (a 1975 twister; killed; 22 people in Birmingham)
+0.94 (The tornado was Alabama's deadliest; said; Danny Cooper)
+0.92 Context(The tornado was Alabama 's deadliest said,List([0, 93))):(The tornado; was; Alabama's deadliest; T:since a 1975 twister killed 22 people in Birmingham)
+0.38 (Danny Cooper; [is] state emergency management director in; Montgomery)
+
+Along a highway near a destroyed apartment complex, cars were flipped and smashed into telephone poles and crushed by trees.
+0.87 (cars; were flipped; L:Along a highway near a destroyed apartment complex)
+0.87 (cars; smashed; into telephone poles; L:Along a highway near a destroyed apartment complex)
+0.79 (cars; crushed; by trees)
+
+The roadway was strewn with used bandages and medical gloves left by emergency workers treating the injured.
+0.90 (The roadway; was strewn; with used bandages and medical gloves)
+0.93 (medical gloves; left; by emergency workers)
+0.77 (emergency workers; treating; the injured)
+
+Humana Hospital administrator David Miller said doctors had difficulty reaching the hospital because of blocked roads.
+0.95 (Humana Hospital administrator David Miller; said; doctors had difficulty reaching the hospital because of blocked roads)
+0.90 Context(Humana Hospital administrator David Miller said,List([0, 47))):(doctors; had; difficulty reaching the hospital; because of blocked roads)
+0.81 Context(Humana Hospital administrator David Miller said doctors had,List([0, 59))):(doctors; had reaching; the hospital)
+0.88 (David Miller; [is] administrator [of]; Humana Hospital)
+
+Those in the tornado's path spoke with awe of its fury.
+0.88 (Those in the tornado's path; spoke; with awe of its fury)
+
+``It came in with a huge roar, an enormous amount of water, and it just started shaking and tearing at everything it could get hold of,'' said real estate broker Ike Carroll, who was in his car.
+0.92 (It came in with a huge roar, an enormous amount of water, and it just started shaking and tearing at everything; said; real estate broker Ike Carroll)
+0.19 Context(It came in with a huge roar , an enormous amount of water , and it just started shaking and tearing at everything said,List([2, 142))):(It; came; in)
+0.19 (it; just started; )
+0.91 (real estate broker Ike Carroll; was; in his car)
+0.17 (it; shaking; )
+0.41 (it; tearing; at everything)
+0.45 (it; could get; hold of)
+0.39 (Ike Carroll; [is] said real broker [of]; estate)
+
+Heavy overhead power lines ``started snapping just like a circus performer would snap his whip,'' Carroll said.
+0.70 (power lines; snapping; )
+0.93 (Heavy overhead power lines ``started snapping just like a circus performer would snap his whip; said; Carroll)
+0.73 Context(Heavy overhead power lines `` started snapping just like a circus performer would snap his whip said,List([0, 110))):(Heavy; overhead; )
+0.65 Context(Heavy overhead power lines `` started snapping just like a circus performer would snap his whip said,List([0, 110))):(power lines; started; )
+
+``All of these heavy arcing, flashing lines that were just popping and snapping over the top of us.
+0.81 (All of these heavy arcing, flashing lines; were just popping; )
+0.88 (All of these heavy arcing, flashing lines; snapping; over the top of us)
+
+... It was as if you were looking into an arc-welder, they were so bright.''
+0.62 (you; were looking; into an arc-welder)
+0.43 (It; was; as if you were looking into an arc-welder, they were so bright)
+0.67 Context(It was,List([4, 10))):(they; were; so bright; T:as if you were looking into an arc-welder)
+
+Kenneth Lenhard had undergone an operation at the Crestwood Hospital on Wednesday and returned to his room about an hour before a window in the next room blew out as the tornado passed.
+0.94 (Kenneth Lenhard; had undergone; an operation; L:at the Crestwood Hospital on Wednesday)
+0.90 (Kenneth Lenhard; returned; to his room; T:before a window in the next room blew out as the tornado passed)
+0.93 (a window in the next room; blew out; T:as the tornado passed)
+0.73 (the tornado; passed; )
+
+``There wasn't anything I could do, so I covered my head,'' Lenhard said.
+0.87 (anything; could do; I)
+0.31 (I; covered; my head)
+0.88 (There wasn't anything I could do, so I covered my head; said; Lenhard)
+
+``I thought, `What the heck, I'm already half dead.' ''    The downtown Jones Valley Elementary School, the Waterford Square and adjacent Queensbury apartment complexes were reduced to rubble.
+0.37 (I; thought; What the heck, I'm already half dead.' ''    The downtown Jones Valley Elementary School, the Waterford Square and adjacent Queensbury apartment complexes were reduced to rubble)
+0.24 Context(I thought,List([2, 11))):(I; 'm; T:already; half dead)
+
+Kindergarteners were the only pupils left at the school by the time the twister hit.
+0.93 (Kindergarteners; were; the only pupils left at the school by the time)
+0.93 (the only pupils; left; L:at the school; by the time)
+0.95 (the twister; hit; T:the time)
+
+The city is home to NASA's Marshall Space Flight Center and the Army's Redstone Arsenal, but no serious damage was reported from the space agency or weapons testing center.
+0.96 (The city; is; home to NASA's Marshall Space Flight Center and the Army's Redstone Arsenal)
+0.91 (no serious damage; was reported; from the space agency or weapons testing center)
+
+At least two other tornadoes were reported in Alabama, injuring at least three people in addition to the Huntsville total.
+0.96 (At least two other tornadoes; were reported; L:in Alabama; injuring at least three people in addition to the Huntsville total)
+
+Near Palmetto, Ga., resident Jeff Bryant said his home at the Sweetbriar Mobile Home Park near Interstate 85 began to vibrate when the twister approached.
+0.83 (his home at the Sweetbriar Mobile Home Park near Interstate 85; to vibrate; T:when the twister approached)
+0.73 (the twister; approached; )
+0.92 (resident Jeff Bryant; said; his home at the Sweetbriar Mobile Home Park near Interstate 85 began to vibrate)
+0.57 Context(resident Jeff Bryant said,List([20, 45))):(his home at the Sweetbriar Mobile Home Park near Interstate 85; began; )
+
+``Then we heard a large, loud, swirling and humming noise,'' he recalled.
+0.56 (Then we heard; recalled; he)
+0.26 Context(Then we heard recalled,List([2, 72))):(we; heard; T:Then)
+
+``It didn't sound like a train like everybody says it does.
+0.45 (It; did n't sound; like a train like everybody)
+
+I lived near a train track.
+0.45 (I; lived; L:near a train track)
+
+It did not sound like a train.
+0.45 (It; did not sound; like a train)
+
+It sounded more like a jet aircraft at very close range.''
+0.45 (It; sounded; more like a jet aircraft; L:at very close range)
+
+Thomas Farr was driving on Interstate 85 when the tornado hit.
+0.94 (Thomas Farr; was driving; L:on Interstate 85; T:when the tornado hit)
+0.78 (the tornado; hit; )
+
+``It was picking up cars and tossing them like toys off the interstate,'' he said.
+0.27 (It; tossing; them)
+0.77 (It was picking up cars and tossing them like toys off the interstate; said; he)
+0.40 Context(It was picking up cars and tossing them like toys off the interstate said,List([2, 81))):(It; was picking up; cars)
+
+``I saw one 18-wheeler flip over.
+0.44 (I; saw over; one 18-wheeler flip)
+
+The car in front of us was flipped about 100 yards, and the guy was thrown out of his passenger window and landed 50 feet from his car.
+0.72 (The car in front of us; was flipped; about 100 yards)
+0.83 (the guy; was thrown; out of his passenger window)
+0.81 (the guy; landed; 50 feet; from his car)
+

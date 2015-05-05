@@ -1,0 +1,41 @@
+Riga, Feb.4.
+
+There has been an increase in  tuberculosis morbidity and mortality during the past year.
+
+In  comparison with 1992, tuberculosis morbidity has increased by  14.8%, and mortality -- by 44%.
+0.90 (tuberculosis morbidity; has increased; by  14.8%)
+
+The total number of  tuberculosis cases in 1993 was 868, while in the 1992 -- it was  771.
+0.89 (The total number of  tuberculosis cases in 1993; was; 868)
+0.41 (it; was; 771; T:in the 1992)
+
+Inta Pavlovska, director of the data processing and registry  division of the State Tuberculosis and Lung Disease Center  informed DIENA that the increase in tuberculosis morbidity could  be related to the poor socioeconomic conditions in the nation,  as well as shortcomings in the legislative process.
+0.85 (Inta Pavlovska; informed; DIENA; that the increase in tuberculosis morbidity could  be related to the poor socioeconomic conditions in the nation,  as well as shortcomings in the legislative process)
+0.94 Context(Inta Pavlovska informed,List([0, 130))):(the increase in tuberculosis morbidity; could be related; to the poor socioeconomic conditions in the nation,  as well as shortcomings in the legislative process)
+0.89 (Inta Pavlovska; [is] director of; the data processing and registry division)
+
+At the  present time, there are no laws in Latvia that would require  infectious cases of tuberculosis to undergo mandatory treatment.
+0.93 (no laws in Latvia; would require; infectious cases of tuberculosis; to undergo mandatory treatment)
+0.92 (infectious cases of tuberculosis; to undergo; mandatory treatment)
+0.38 (there; are no laws in; Latvia)
+
+In November of the past year, the Department of Health of  the  Ministry of Welfare submitted a medical legislative proposal to  the Cabinet of Ministers, which would require infectious cases  of tuberculosis to undergo mandatory treatment, explained I.  Pavlovska.
+0.91 (a medical legislative proposal; would require; infectious cases  of tuberculosis; to undergo mandatory treatment)
+0.92 (infectious cases  of tuberculosis; to undergo; mandatory treatment)
+0.98 (In November of the past year, the Department of Health of  the  Ministry of Welfare submitted a medical legislative proposal to  the Cabinet of Ministers; explained; I.  Pavlovska)
+0.99 Context(In November of the past year , the Department of Health of the Ministry of Welfare submitted a medical legislative proposal to the Cabinet of Ministers explained,List([0, 250))):(the Department of Health of  the  Ministry of Welfare; submitted; a medical legislative proposal to  the Cabinet of Ministers, which would require infectious cases  of tuberculosis to undergo mandatory treatment; to  the Cabinet of Ministers; T:In November of the past year)
+
+To this day, the proposal to the Cabinet of Ministers  has still not been reviewed.
+0.95 (the proposal to the Cabinet of Ministers; has not been reviewed; T:To this day; T:still)
+
+At present, Latvia has 11 state tuberculosis hospitals,  providing treatment for tuberculosis cases free of charge.
+0.95 (Latvia; has; 11 state tuberculosis hospitals; T:At present)
+0.85 Context(Latvia has,List([12, 22))):(Latvia; has 11 state tuberculosis hospitals providing; treatment; for tuberculosis cases free of charge)
+
+The  newest of these -- Ceplisi (in Ogre rayon), only started  operations in January of this year.
+0.62 (The  newest of these; only started; operations; T:in January of this year)
+
+Most of the patients  there, however, are chronic alcoholics who suffer from  tuberculosis.
+0.91 (Most of the patients  there; are; chronic alcoholics who suffer from  tuberculosis)
+0.89 (chronic alcoholics; suffer; from  tuberculosis)
+

@@ -1,0 +1,108 @@
+The Senate today confirmed conservative civil rights official Clarence Thomas as a federal appeals judge, brushing aside complaints about his record from some liberal and senior citizens groups.
+0.94 (The Senate; confirmed; conservative civil rights official Clarence Thomas; brushing aside complaints about his record from some liberal and senior citizens groups; T:today)
+0.82 Context(The Senate confirmed,List([0, 26))):(The Senate; confirmed conservative civil rights official Clarence Thomas brushing; aside; complaints about his record from some liberal and senior citizens groups)
+0.39 (Clarence Thomas; [is] confirmed conservative civil official [of]; rights)
+
+The Senate had planned to take a roll call on the nomination but changed course at the last minute and confirmed Thomas on a voice vote.
+0.91 (The Senate; changed; course; T:at the last minute)
+0.93 (The Senate; confirmed; Thomas; L:on a voice vote)
+0.91 (The Senate; had planned; to take a roll call on the nomination)
+0.91 Context(The Senate had planned,List([0, 22))):(The Senate; had planned to take; a roll call on the nomination)
+
+Thomas, 41, will be a judge on the U.S. Circuit Court of Appeals in the District of Columbia.
+0.95 (Thomas; will be; a judge on the U.S. Circuit Court of Appeals in the District of Columbia)
+
+As chairman of the Equal Employment Opportunity Commission over the last eight years, he has been one of the most visible black officials in the Reagan and Bush administrations.
+0.61 (he; has been; one of the most visible black officials in the Reagan and Bush administrations)
+
+Thomas, a critic of quotas and affirmative action to fight hiring discrimination, has been highly praised by conservatives.
+0.91 (Thomas; has been highly praised; by conservatives)
+0.89 (Thomas; [is] a critic of; quotas)
+
+But liberals have criticized his record.
+0.82 (liberals; have criticized; his record)
+
+It became clear Monday night that Thomas' critics had failed to muster enough support to defeat his nomination.
+0.50 (It; became; clear; T:Monday night)
+0.93 (Thomas' critics; had failed; to muster enough support)
+0.86 (Thomas' critics; to muster; enough support to defeat his nomination)
+
+``I am prepared to concede that Mr. Thomas is going to be confirmed,'' said Sen. Howard M. Metzenbaum, D-Ohio, a leading critic.
+0.85 (I am prepared to concede that Mr. Thomas is going to be confirmed; said; Sen. Howard M. Metzenbaum)
+0.38 Context(I am prepared to concede that Mr. Thomas is going to be confirmed said,List([2, 75))):(I; am; prepared to concede that Mr. Thomas is going to be confirmed)
+0.33 (I; prepared; to concede that Mr. Thomas is going to be confirmed)
+0.20 (I; to concede; that Mr. Thomas is going to be confirmed)
+0.76 (Mr. Thomas; to be confirmed; )
+
+The only other opponent to materialize in the debate was Sen. David Pryor, D-Ark., chairman of the Senate Special Committee on Aging, who complained that the statute of limitations on 15,000 age-discrimination cases before the EEOC ran out without any action being taken while Thomas was in charge.
+0.92 (The only other opponent; to materialize; L:in the debate)
+0.94 (Thomas; was; in charge)
+0.96 (The only other opponent to materialize in the debate; was; Sen. David Pryor)
+0.93 (the EEOC; ran out; T:while Thomas was in charge)
+0.73 (any action; being taken; )
+
+``Those cases might as well have been sent to Beijing,'' Pryor said.
+0.98 (Those cases might as well have been sent to Beijing; said; Pryor)
+0.91 Context(Those cases might as well have been sent to Beijing said,List([2, 67))):(Those cases; might well have been sent; to Beijing; T:as)
+
+``They might as well have been sent to Bulgaria.
+0.66 (They; might as well have been sent; to Bulgaria)
+
+They might as well have been sent to Romania.
+0.66 (They; might as well have been sent; to Romania)
+
+... It's too much to overlook.''
+0.28 (It; 's; too much to overlook)
+0.28 (too much; to overlook; )
+
+Pryor said, however, that Thomas was virtually guaranteed to win confirmation and added that he wished the nominee well in his new post.
+0.91 (Thomas; to win; confirmation)
+0.74 (Pryor; said; however; that Thomas was virtually guaranteed to win confirmation and added that he wished the nominee well in his new post)
+0.90 Context(Pryor said,List([0, 10))):(Thomas; was virtually guaranteed; to win confirmation)
+0.71 (Thomas; added; that he wished the nominee well in his new post)
+0.26 Context(Thomas added,List([26, 87))):(he; wished; the nominee well in his new post)
+
+Danforth, Thomas' chief Senate supporter and former employer, said he could vouch for the nominee's abilities as a lawyer.
+0.87 (Danforth; said; he could vouch for the nominee's abilities as a lawyer)
+0.40 Context(Danforth said,List([0, 66))):(he; could vouch; for the nominee's abilities as a lawyer)
+
+``I hired him twice,'' Danforth said.
+0.76 (I hired him twice; said; Danforth)
+0.26 Context(I hired him twice said,List([2, 36))):(I; hired; him; T:twice)
+
+``People say, 'Don't you ever make a mistake?' Well, yeah, but not twice.''
+0.75 (People; say; Don't you ever make a mistake)
+
+Sen. Alan Simpson, R-Wyo., dismissed complaints that Thomas had failed to cooperate with the Aging Committee several years ago when former Sen. John Melcher, D-Mont., was chairman.
+0.89 (Sen. Alan Simpson; dismissed; complaints that Thomas had failed to cooperate with the Aging Committee several years ago)
+0.93 (Thomas; had failed; to cooperate with the Aging Committee several years ago)
+0.92 (Thomas; to cooperate; with the Aging Committee; T:several years ago)
+0.94 (former Sen. John Melcher; was; chairman)
+
+Simpson said the panel's investigation of the employment commission was flawed to begin with.
+0.83 (the panel's investigation of the employment commission; to begin; with)
+0.94 (Simpson; said; the panel's investigation of the employment commission was flawed to begin with)
+0.86 Context(Simpson said,List([0, 12))):(the panel's investigation of the employment commission; was; flawed to begin with)
+
+``They wasted a lot of time trying to nail Clarence Thomas,'' he said.
+0.78 (They wasted a lot of time trying to nail Clarence Thomas; said; he)
+0.55 Context(They wasted a lot of time trying to nail Clarence Thomas said,List([2, 69))):(They; wasted; a lot of time)
+0.60 Context(They wasted a lot of time trying to nail Clarence Thomas said,List([2, 69))):(They; wasted a lot of time trying; to nail Clarence Thomas)
+0.60 Context(They wasted a lot of time trying to nail Clarence Thomas said,List([2, 69))):(They; wasted a lot of time trying to nail; Clarence Thomas)
+
+Thomas was born in poverty in rural Georgia, worked his way through college and is a graduate of Yale Law School.
+0.77 (Thomas; was born; )
+0.84 (Thomas; worked; his way; T:through college)
+0.94 (Thomas; is; a graduate of Yale Law School)
+
+Before becoming chairman of the commission, he worked under Danforth in the Missouri attorney general's office and in the Senate as well for the Monsanto Corp.    Civil rights forces have been divided over the nomination.
+0.74 (he; worked; L:under Danforth; L:in the Missouri attorney general's office and in the Senate; T:Before becoming chairman of the commission)
+0.96 (Civil rights forces; have been divided; over the nomination; T:as well for the Monsanto Corp)
+
+The Alliance for Justice, a liberal court-watcher group based in Washington, and several senior citizens groups have been critical.
+0.94 (a liberal court-watcher group; based; L:in Washington)
+0.96 (The Alliance for Justice, a liberal court-watcher group based in Washington, and several senior citizens groups; have been; critical)
+
+But the National Association for the Advancement of Colored People did not take a stand on the issue.
+0.96 (the National Association for the Advancement of Colored People; did not take; a stand on the issue)
+

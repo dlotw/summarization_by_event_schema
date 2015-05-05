@@ -1,0 +1,105 @@
+Sure, he'll be able to see Thursday's solar eclipse.
+0.57 (he; 'll be; able to see Thursday's solar eclipse)
+0.46 (he; to see; Thursday's solar eclipse)
+
+But, oh, if only he and the hundreds of other customers could see themselves in the mirror, looking like an audience for a 3-D horror flick.;
+
+It appears from the way people in the Golden State have been acting these days that they have been in the sun too long.
+0.19 (It; appears; )
+0.84 (people in the Golden State; have been acting; these days that they have been in the sun too long)
+0.62 (they; have been; in the sun; T:too long)
+
+Actually, they can't wait to get into the shadow.
+0.58 (they; to get; into the shadow)
+
+Millions of Californians will pause Thursday morning to join in an international ritual: watching the longest-lasting solar eclipse until 2132.;    "What other natural phenomenon can you be involved in and not get killed?" said Bert Beecher, spokesman for the Minolta Planetarium at De Anza College.
+0.28 (you; not get killed; )
+0.73 (can you be involved in and not get killed; said; Bert Beecher)
+0.93 Context(can you be involved in and not get killed said,List([179, 227))):(Millions of Californians; will pause; T:Thursday morning; to join in an international ritual)
+0.87 Context(Millions of Californians will pause can you be involved in and not get killed said,List([0, 227))):(Millions of Californians; will pause to join; in an international ritual)
+0.39 (you; get; killed)
+0.38 (Bert Beecher; [is] spokesman for; the Minolta Planetarium)
+
+"It's a lot safer than being in a volcano.";
+0.52 (It; 's; a lot safer than being in a volcano)
+
+Eyeshades a hot item;  Bay Area people Tuesday were desperately seeking eyeshades.
+0.92 (Bay Area people Tuesday; were desperately seeking; eyeshades)
+
+It took 24 hours for Orion Telescope in Cupertino to sell its stock of 900 Eclipse Viewers, which are made with Mylar plastic lenses and supposedly safe for eclipse viewing.
+0.31 (It; to sell; its stock of 900 Eclipse Viewers)
+
+Welding supply stores were inundated with calls for welder's glasses made with the same plastic.;
+0.91 (Welding supply stores; were inundated; with calls for welder's glasses)
+
+Local planetariums and observatories were deluged with requests from people wanting to attend solar viewing sessions, even though the Bay Area will be privy only to a partial eclipse -- 63 percent coverage of the sun by the moon from 10:10 a.m. to 12:34 p.m.;    Some Bay Area "umbraphiles" -- lovers of the shadow -- were leaving few details to chance.;
+0.87 (people; wanting; to attend solar viewing sessions)
+0.87 Context(people wanting,List([69, 83))):(people; wanting to attend; solar viewing sessions)
+0.92 (Some Bay Area "umbraphiles; were leaving; few details; to chance)
+0.90 Context(Some Bay Area " umbraphiles were leaving,List([263, 330))):(Local planetariums and observatories; were deluged; with requests from people)
+
+Flights heavily booked;  Flights from here to Mexico and Hawaii -- where the eclipse can be seen in total -- were heavily booked by sunstruck people spending thousands of dollars to stand in 6 minutes, 53 seconds of darkness.;
+0.95 (the eclipse; can be seen; L:in total; L:Flights from here to Mexico and Hawaii)
+0.94 (sunstruck people; spending; thousands of dollars; to stand in 6 minutes, 53 seconds of darkness)
+0.91 (thousands of dollars; to stand; in 6 minutes, 53 seconds of darkness)
+0.93 (Flights from here to Mexico and Hawaii; were heavily booked; by sunstruck people)
+0.50 Context(Flights from here to Mexico and Hawaii were heavily booked,List([25, 128))):(Flights; heavily booked; )
+
+Scott Wiener, a computer company executive from Saratoga, is flying with two buddies to Baja, where thousands will toast the corona with Coronas.;    "I figure we'll get there in time to see the eclipse from a cab," said Wiener, who stood in line at the telescope store Tuesday for the Eclipse Viewers.
+0.97 (Scott Wiener, a computer company executive from Saratoga, is flying with two buddies to Baja, where thousands will toast the corona with Coronas.;    "I figure we'll get there in time; said; Wiener)
+0.36 Context(Scott Wiener , a computer company executive from Saratoga , is flying with two buddies to Baja , where thousands will toast the corona with Coronas . ; " I figure we 'll get there in time said,List([0, 220))):(I; figure; we'll get there in time to see the eclipse from a cab)
+0.72 Context(Scott Wiener , a computer company executive from Saratoga , is flying with two buddies to Baja , where thousands will toast the corona with Coronas . ; " I figure we 'll get there in time said,List([0, 220))):(Scott Wiener; is flying; )
+0.47 Context(Scott Wiener , a computer company executive from Saratoga , is flying with two buddies to Baja , where thousands will toast the corona with Coronas . ; " I figure we 'll get there in time said,List([0, 220))):(we; 'll get; there; T:in time; to see the eclipse from a cab)
+0.95 (thousands; will toast; the corona with Coronas; L:Baja)
+0.92 (Wiener; stood; in line; L:at the telescope store; T:Tuesday; T:for the Eclipse Viewers)
+0.41 (we; to see; the eclipse; from a cab)
+0.88 (Scott Wiener; [is] a computer company executive from; Saratoga)
+
+"We'll put on the glasses and stick our heads out the window.;
+0.52 (We; 'll put; on the glasses)
+0.33 (We; stick; our heads; out the window)
+
+"I figure it's worth it.
+0.26 (I; figure; it's worth it)
+0.32 Context(I figure,List([1, 9))):(it; 's; worth it)
+
+I don't know if I'll be around for the next one in 150 years.";
+0.36 (I; do n't know; if I'll be around for the next one in 150 years)
+0.46 Context(I do n't know,List([0, 12))):(I; 'll be; around; T:for the next one in 150 years)
+
+WHERE TO WATCH; Here are places to view Thursday's solar eclipse:; (box)The San Jose Astronomical Association will set up special telescopes at Branham Lane Park, near the intersection of Branham and Camden Avenue, from 9 a.m. to 2 p.m.
+0.54 (Here; are; places to view Thursday's solar eclipse)
+0.94 Context(Here are,List([16, 24))):(The San Jose Astronomical Association; will set up; special telescopes; L:at Branham Lane Park)
+
+For information, call the association's recorded message at (408) 997-3347.;
+
+(box)In Berkeley, the Lawrence Hall of Science will offer safe viewing.
+0.93 (box)In Berkeley; will offer; safe viewing)
+
+For information, call (415) 642-5133.;
+
+(box)At Foothill College, the Foothill Observatory will be open for public viewing.
+0.93 (the Foothill Observatory; will be; open for public viewing)
+
+For information call (415) 949-7334.;
+
+(box)In Cupertino, viewing will be offered from 10 a.m. to 1 p.m. at the Orion Telescope Center store at 10555 S. De Anza Blvd.
+0.95 (viewing; will be offered; from 10 a.m.; L:at the Orion Telescope Center store; L:In Cupertino)
+
+Call (408) 255-8770 for information.;
+
+(box)California State University, Hayward is hosting a "Safe Solar Eclipse" viewing from 10 a.m. to noon in front of the Student Union.
+0.93 (Hayward; is hosting; a "Safe Solar Eclipse)
+0.96 (a "Safe Solar Eclipse; viewing; from 10 a.m. to noon in front of the Student Union)
+
+The Society of Physics Students will set up several 6-inch telescopes, and a video camera will record the eclipse for viewing on television.
+0.94 (The Society of Physics Students; will set up; several 6-inch telescopes)
+0.91 (a video camera; will record; the eclipse for viewing on television)
+
+For information, call Kenton White or Charlie Harper at the physics department, (415) 881-3401.;
+
+(box)In Santa Cruz, a telescope will be set up in front of the Orion Telescope Center at 2450 17th Ave., and at the Seabright Brewery, 519 Seabright Ave.
+0.95 (a telescope; will be set up; L:in front of the Orion Telescope Center; L:In Santa Cruz)
+
+For information, call (408) 464-0465.;
+

@@ -1,0 +1,113 @@
+Drugs are now available that can put AIDS patients into remission, and recent advances have made clear that a vaccine to protect against AIDS infection is possible, a panel of AIDS experts said Saturday.
+0.98 (Drugs are now available that can put AIDS patients into remission, and recent advances have made clear that a vaccine to protect against AIDS infection is possible; said; T:Saturday)
+0.60 Context(Drugs are now available that can put AIDS patients into remission , and recent advances have made clear that a vaccine to protect against AIDS infection is possible said,List([0, 193))):(Drugs; are; T:now; available that can put AIDS patients into remission)
+0.87 (recent advances; have made; clear that a vaccine to protect against AIDS infection is possible)
+0.91 (a vaccine to protect against AIDS infection; is; possible)
+
+At the same time, however, the AIDS epidemic is being followed by a suddenly resurgent epidemic of tuberculosis, the scientists said.
+0.99 (At the same time, however, the AIDS epidemic is being followed by a suddenly resurgent epidemic of tuberculosis; said; the scientists)
+0.94 Context(At the same time , however , the AIDS epidemic is being followed by a suddenly resurgent epidemic of tuberculosis said,List([0, 132))):(the AIDS epidemic; is being followed; T:At the same time)
+
+``We have now made demonstrable first steps in inducing remission,'' said William Haseltine of the Dana-Farber Cancer Institute in Boston.
+0.83 (We have now made demonstrable first steps in inducing remission; said; William Haseltine of the Dana-Farber Cancer Institute in Boston)
+0.43 Context(We have now made demonstrable first steps in inducing remission said,List([2, 73))):(We; have made; demonstrable first steps in inducing remission; T:now)
+
+``I think there is evidence that a substantial number of people who would have died are now alive,'' Haseltine said at the annual meeting of the American Association for the Advancement of Science.
+0.68 (people; would have died; )
+0.79 (a substantial number of people; are; T:now; alive)
+0.91 (I think there is evidence that a substantial number of people who would have died are now alive; said; L:at the annual meeting of the American Association for the Advancement of Science)
+0.21 Context(I think there is evidence that a substantial number of people who would have died are now alive said,List([2, 115))):(I; think; there is evidence that a substantial number of people who would have died are now alive)
+0.39 (there; is evidence that; a substantial number)
+
+He cautioned against a premature conclusion that the AIDS epidemic may be coming to an end.
+0.37 (He; cautioned; against a premature conclusion that the AIDS epidemic may be coming to an end)
+0.93 (the AIDS epidemic; may be coming; to an end)
+
+A number of treatments for AIDS and AIDS-related infections are available, he said, but many of them are not available to the poor or to developing countries.
+0.85 (A number of treatments for AIDS and AIDS-related infections; are; available)
+0.19 (he; said; )
+0.66 (many of them; are not; available to the poor or to developing countries)
+
+``It looks like most of these will be expensive, hard to deliver and require monitoring,'' Haseltine said.
+0.33 (most of these; will be hard; expensive)
+0.44 (most of these; to require; monitoring)
+0.91 (It looks like most of these will be expensive, hard to deliver and require monitoring; said; Haseltine)
+0.51 Context(It looks like most of these will be expensive , hard to deliver and require monitoring said,List([2, 105))):(It; looks; like most of these will be expensive, hard to deliver and require monitoring)
+
+``Unless we develop a vaccine, the future of this epidemic worldwide will be extremely grim,'' he said.
+0.82 (Unless we develop a vaccine, the future of this epidemic worldwide will be extremely grim; said; he)
+0.79 Context(Unless we develop a vaccine , the future of this epidemic worldwide will be extremely grim said,List([2, 102))):(the future of this epidemic worldwide; will be; extremely grim)
+
+A year ago, the prospects for an AIDS vaccine looked doubtful, said James Mullins of Stanford University.
+0.96 (A year ago, the prospects for an AIDS vaccine looked doubtful; said; James Mullins of Stanford University)
+0.96 Context(A year ago , the prospects for an AIDS vaccine looked doubtful said,List([0, 67))):(the prospects for an AIDS vaccine; looked; doubtful; T:A year ago)
+
+But that has changed.
+0.04 (that; has changed; )
+
+``There has been a transition in the effort to find a vaccine,'' Mullins said.
+0.82 (There has been a transition in the effort; said; Mullins)
+
+Vaccines to protect animals against AIDS-related viruses have shown some success, he said, encouraging researchers to believe that similar vaccines can be found for humans.
+0.19 (he; said; )
+0.92 (Vaccines to protect animals against AIDS-related viruses; have shown; some success; encouraging researchers to believe that similar vaccines can be found for humans)
+0.88 Context(Vaccines to protect animals against AIDS - related viruses have shown,List([0, 67))):(Vaccines to protect animals against AIDS-related viruses; have shown some success encouraging; researchers; to believe that similar vaccines can be found for humans)
+0.71 (researchers; to believe; that similar vaccines can be found for humans)
+0.69 Context(researchers to believe,List([103, 125))):(similar vaccines; can be found; )
+
+``There's new hope and interest that a vaccine is possible,'' said John McGowan of the National Institute of Allergy and Infectious Diseases in Bethesda, Md.
+0.81 (a vaccine; is; possible)
+0.85 (There's new hope and interest that a vaccine is possible; said; John McGowan of the National Institute of Allergy and Infectious Diseases in Bethesda)
+
+Sten Vermund, also of the Allergy Institute, noted that an epidemic of tuberculosis is emerging in AIDS patients in the inner cities.
+0.91 (Sten Vermund, also of the Allergy Institute; noted; that an epidemic of tuberculosis is emerging in AIDS patients in the inner cities)
+0.92 Context(Sten Vermund , also of the Allergy Institute noted,List([0, 50))):(an epidemic of tuberculosis; is emerging; L:in AIDS patients; L:in the inner cities)
+
+In New York City, for example, tuberculosis declined between 1960 and 1977, but is now increasing and has reached the 1960 level again.
+0.95 (tuberculosis; declined; T:between 1960 and 1977; L:In New York City)
+0.71 (tuberculosis; is increasing; T:now)
+
+``We anticipate in our major cities losing two decades of progress in our tuberculosis control efforts,'' said Vermund.
+0.51 (our major cities; losing; two decades of progress in our tuberculosis control efforts)
+0.68 (We anticipate in our major cities; said; Vermund)
+0.26 Context(We anticipate in our major cities said,List([2, 110))):(We; anticipate; L:in our major cities)
+
+And unlike the AIDS virus, which cannot be transmitted through casual contact, tuberculosis is easily transmitted through the air.
+0.78 (the AIDS virus; can not be transmitted; )
+0.71 (tuberculosis; is easily transmitted; )
+
+``I think we should worry about tuberculosis and the risk to the general population,'' Vermund said.
+0.89 (I think we should worry about tuberculosis and the risk to the general population; said; Vermund)
+0.43 Context(I think we should worry about tuberculosis and the risk to the general population said,List([2, 99))):(I; think; we should worry about tuberculosis and the risk to the general population)
+0.40 Context(I think we should worry about tuberculosis and the risk to the general population said,List([2, 99))):(we; should worry; about tuberculosis and the risk to the general population)
+
+Many of the cases of tuberculosis are occurring when individuals who were exposed to tuberculosis early in life contract AIDS.
+0.80 (Many of the cases of tuberculosis; are occurring; )
+0.90 (individuals; were exposed; to tuberculosis; T:early in life contract AIDS)
+
+They lose the ability to continue suppressing the tuberculosis bacteria, which normally would have remained dormant, and tuberculosis appears.
+0.62 (They; lose; the ability to continue suppressing the tuberculosis bacteria,)
+0.75 (the tuberculosis bacteria; normally would have remained; dormant)
+0.71 (tuberculosis; appears; )
+
+``It's likely to be yet another health problem imposed on the inner cities, where the health problems are already legion,'' Vermund said.
+0.41 (It; to be; T:yet; another health problem imposed on the inner cities,)
+0.91 (another health problem; imposed; on the inner cities)
+0.95 (the health problems; are; T:already; legion; L:the inner cities)
+0.83 (It's likely to be yet another health problem; said; Vermund)
+0.47 Context(It 's likely to be yet another health problem said,List([2, 136))):(It; 's; likely to be yet another health problem)
+
+There is no strong evidence yet that tuberculosis is spreading to a significant number of poeple who do not have AIDS, but that is likely, Vermund said.
+0.89 (tuberculosis; is spreading; to a significant number of poeple)
+0.90 (poeple; do not have; AIDS)
+0.07 (that; is; likely)
+0.97 (There is no strong evidence yet that tuberculosis is spreading to a significant number of poeple who do not have AIDS, but that is likely; said; Vermund)
+
+He said the rise in tuberculosis began before the AIDS epidemic, probably because of the rise in the homeless population during the 1970s.
+0.56 (He; said; the rise in tuberculosis began before the AIDS epidemic, probably because of the rise in the homeless population during the 1970s)
+0.92 Context(He said,List([0, 7))):(the rise in tuberculosis; began; T:before the AIDS epidemic; probably because of the rise in the homeless population; T:during the 1970s)
+
+Homeless people are at elevated risk of tuberculosis, Vermund said.
+0.96 (Homeless people are at elevated risk of tuberculosis; said; Vermund)
+0.88 Context(Homeless people are at elevated risk of tuberculosis said,List([0, 66))):(Homeless people; are; at elevated risk of tuberculosis)
+

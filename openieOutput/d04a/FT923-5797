@@ -1,0 +1,61 @@
+SQUADS of workers fanned out across storm-battered Louisiana yesterday to begin a massive rebuilding effort after Hurricane Andrew had flattened whole districts, killing two people and injuring dozens more, agencies report from Florida and New Orleans.
+0.92 (SQUADS of workers fanned out across storm-battered Louisiana yesterday; report; from Florida and New Orleans)
+0.89 Context(SQUADS of workers fanned out across storm - battered Louisiana yesterday report,List([0, 222))):(SQUADS of workers; fanned out; L:across storm-battered Louisiana; T:yesterday; to begin a massive rebuilding effort after Hurricane Andrew had flattened whole districts,)
+0.76 Context(SQUADS of workers fanned out across storm - battered Louisiana yesterday report,List([0, 222))):(SQUADS of workers; fanned out to begin; a massive rebuilding effort; T:after Hurricane Andrew had flattened whole districts)
+0.91 (Hurricane Andrew; had flattened; whole districts)
+0.86 Context(Hurricane Andrew had flattened,List([114, 144))):(Hurricane Andrew; had flattened whole districts killing; two people)
+0.86 Context(Hurricane Andrew had flattened,List([114, 144))):(Hurricane Andrew; had flattened whole districts injuring; dozens; more)
+
+However, local officials in Florida, hit earlier in the week by the hurricane, were critical of what they called a delay in supplying food, drinking water and other supplies for thousands of people in need.
+0.94 (local officials in Florida; hit; T:earlier in the week; by the hurricane)
+0.72 (they; called; a delay in supplying food, drinking water and other supplies for thousands of people in need)
+
+Federal emergency officials acknowledged distribution problems, Transportation Secretary Andrew Card yesterday promised 'dramatic' improvements within 24 hours and President George Bush last night ordered troops to Florida, without specifying a number.
+0.91 (Federal emergency officials; acknowledged; distribution problems)
+0.88 (troops; without specifying; a number)
+0.95 (Transportation Secretary Andrew Card; promised; dramatic' improvements within 24 hours; T:yesterday)
+
+The government estimated it would cost Dollars 20bn-Dollars 30bn to tidy and rebuild in Florida, and to care for residents displaced by the storm.
+0.80 (The government; estimated; it would cost Dollars 20bn-Dollars)
+0.40 Context(The government estimated,List([0, 24))):(it; would cost; Dollars; 20bn)
+0.89 (residents; displaced; by the storm)
+
+Louisiana state officials said they had no overall count of storm-related injuries but initial estimates reckoned fewer than 100.
+0.77 (initial estimates; reckoned; fewer than 100)
+0.91 (Louisiana state officials; said; they had no overall count of storm-related injuries but initial estimates reckoned fewer than 100)
+0.63 Context(Louisiana state officials said,List([0, 30))):(they; had; no overall count of storm-related injuries)
+
+The Federal Emergency Management Agency said it was setting aside Dollars 77m to help Louisiana recover.
+0.93 (The Federal Emergency Management Agency; said; it was setting aside Dollars 77m to help Louisiana recover)
+0.43 Context(The Federal Emergency Management Agency said,List([0, 44))):(it; was setting; aside; Dollars; T:77m; to help Louisiana recover)
+0.33 Context(The Federal Emergency Management Agency said it was setting,List([0, 59))):(it; was setting aside to help; Louisiana recover)
+0.72 Context(The Federal Emergency Management Agency said it was setting to help,List([0, 85))):(Louisiana; recover; )
+
+Most of the storm's fury was spent against sparsely populated farming communities and swampland in the state, sparing it the widespread destruction caused in Florida, where 15 people died.
+0.93 (Most of the storm's fury; was spent; against sparsely populated farming communities and swampland in the state; sparing it the widespread destruction caused in Florida)
+0.94 (15 people; died; L:Florida)
+
+Official estimates in Miami reported that the hurricane had wiped out the homes of one Dade County resident in eight - a quarter of a million people.
+0.90 (Official estimates in Miami; reported; that the hurricane had wiped out the homes of one Dade County resident in eight)
+0.90 Context(Official estimates in Miami reported,List([0, 36))):(the hurricane; had wiped out; the homes of one Dade County resident; T:in eight)
+
+Andrew had become little more than a strong rainstorm early yesterday, moving across Mississippi state and heading for the north-eastern US.
+0.92 (Andrew; had become; little more than a strong rainstorm; T:early yesterday)
+0.92 (Andrew; moving; across Mississippi state)
+
+Several of Louisiana's main industries were affected, including those of oysters and alligators.
+0.85 (Several of Louisiana's main industries; were affected; )
+
+Wildlife and fisheries secretary Joe Herring estimated a 50 per cent decline in the alligator industry.
+0.95 (Wildlife and fisheries secretary Joe Herring; estimated; a 50 per cent decline in the alligator industry)
+0.39 (Joe Herring; [is] secretary [of]; fisheries)
+
+The cotton and sugar-cane crops were threatened, the state agriculture department said.
+0.96 (The cotton and sugar-cane crops were threatened; said; the state agriculture department)
+0.78 Context(The cotton and sugar - cane crops were threatened said,List([0, 86))):(The cotton and sugar-cane crops; were threatened; )
+
+Most Louisiana oil refineries, however, were barely affected and deliveries of crude oil were expected to resume yesterday.
+0.79 (Most Louisiana oil refineries; were barely affected; )
+0.77 (deliveries of crude oil; were expected; )
+0.91 (deliveries of crude oil; to resume; T:yesterday)
+

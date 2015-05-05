@@ -1,0 +1,117 @@
+In a blow to California and other states with large immigrant populations, the  Senate voted Friday to bar the Census Bureau from counting illegal aliens in  the 1990 population count.
+0.93 (the Census Bureau; from counting; illegal aliens; L:in  the 1990 population count)
+0.97 (the  Senate; voted; T:Friday; to bar the Census Bureau from counting illegal aliens in  the 1990 population count; L:In a blow to California and other states with large immigrant populations)
+0.88 Context(the Senate voted,List([75, 92))):(the  Senate; voted to bar; the Census Bureau; from counting illegal aliens in  the 1990 population count)
+
+The action came on a voice vote, despite arguments from the Bush Administration  and other opponents that it is both unconstitutional and unworkable.
+0.90 (The action; came; T:on a voice vote)
+0.28 (it; is; both unconstitutional and unworkable)
+
+Just  before the voice vote, the senators voted, 50 to 41, against killing the  proposal to bar aliens from the count.
+0.93 (the senators; voted; 50 to 41; T:Just  before the voice vote)
+
+A Senate-House conference committee will decide whether the prohibition against  including illegal immigrants in the census totals will be retained or dropped  from a $17.4-billion appropriations bill for the State, Justice and Commerce  departments.
+0.97 (the prohibition against  including illegal immigrants in the census totals; dropped; from a $17.4-billion appropriations bill for the State, Justice and Commerce  departments)
+0.97 (A Senate-House conference committee; will decide; whether the prohibition against  including illegal immigrants in the census totals will be retained or dropped  from a $17.4-billion appropriations bill for the State, Justice and Commerce  departments)
+0.82 Context(A Senate - House conference committee will decide,List([0, 47))):(the prohibition against  including illegal immigrants in the census totals; will be retained; )
+
+Even if the prohibition survives, Secretary of Commerce Robert A. Mosbacher has  said that he would ask President Bush to veto any bill that comes to his desk  with such a provision.
+0.80 (President Bush; to veto; any bill that comes to his desk  with such a provision)
+0.81 (any bill; comes; to his desk)
+0.85 (Secretary of Commerce Robert A. Mosbacher; has said; that he would ask President Bush to veto any bill)
+0.43 Context(Secretary of Commerce Robert A. Mosbacher has said,List([34, 85))):(he; would ask; President Bush; to veto any bill)
+
+At stake are the number of seats in Congress for California, Florida, New York,  Illinois, Pennsylvania and other states that will be reapportioned on the basis  of next year's census.
+0.95 (At stake; are; the number of seats in Congress for California, Florida, New York,  Illinois, Pennsylvania and other states)
+0.70 (other states; will be reapportioned; )
+0.50 (stake; are the number of; seats)
+
+Federal aid to states also is frequently based on population counts, so  millions of dollars in grants and other funds made available on a per capita  basis would be affected.
+0.93 (Federal aid to states; also is based; on population counts; T:frequently)
+0.81 (millions of dollars in grants and other funds; would be affected; )
+
+The issue cuts across partisan lines in the Senate, with Minority Leader Bob  Dole (R-Kan.)
+0.94 (The issue; cuts; across partisan lines in the Senate)
+
+arguing against the White House position on grounds that  including illegal aliens in the census is unfair to American citizens.
+0.95 (including illegal aliens in the census; is; unfair to American citizens)
+
+Loss of Seats Cited  "Some states will lose congressional seats because of illegal aliens," Dole  argued.
+0.73 (Dole; argued; )
+0.92 Context(Dole argued,List([92, 104))):(Loss of Seats; Cited; Some states will lose congressional seats because of illegal aliens)
+0.88 Context(Loss of Seats Cited Dole argued,List([0, 104))):(Some states; will lose; congressional seats; because of illegal aliens)
+
+Sen. Thad Cochran (R-Miss.) said that Georgia and Indiana both lost  House seats after the 1980 Census, and California and New York -- centers of  illegal immigration -- each gained seats.  "The bottom line is illegal aliens ought to be deported, not counted," Cochran  said.
+0.70 (illegal aliens; to be deported; )
+1.00 (Sen. Thad Cochran (R-Miss.) said that Georgia and Indiana both lost  House seats after the 1980 Census, and California and New York -- centers of  illegal immigration -- each gained seats.  "The bottom line is illegal aliens ought to be deported, not counted; said; Cochran)
+0.87 Context(Sen. Thad Cochran ( R - Miss . ) said that Georgia and Indiana both lost House seats after the 1980 Census , and California and New York -- centers of illegal immigration -- each gained seats . " The bottom line is illegal aliens ought to be deported , not counted said,List([0, 274))):(Sen. Thad Cochran; said; that Georgia and Indiana both lost  House seats after the 1980 Census)
+0.92 Context(Sen. Thad Cochran ( R - Miss . ) said that Georgia and Indiana both lost House seats after the 1980 Census , and California and New York -- centers of illegal immigration -- each gained seats . " The bottom line is illegal aliens ought to be deported , not counted said,List([0, 274))):(The bottom line; is; illegal aliens ought to be deported, not counted)
+
+Sen. Pete Wilson (R-Calif.)
+
+countered that excluding illegal residents from the  decennial census is unfair to the states that have suffered from a huge influx  of immigration beyond the legal limits.
+0.93 (the states; have suffered; from a huge influx  of immigration beyond the legal limits)
+
+"There are enormous additional costs for states who have had a surge of  population," Wilson said, adding that those states should receive additional  federal aid to cope with the added problems.
+0.88 (states; have had; a surge of  population)
+0.80 (There are enormous additional costs for states; said; Wilson)
+0.81 Context(There are enormous additional costs for states said,List([1, 97))):(Wilson; adding; that those states should receive additional  federal aid to cope with the added problems)
+0.88 Context(There are enormous additional costs for states Wilson said adding,List([1, 105))):(those states; should receive; additional  federal aid)
+0.88 Context(There are enormous additional costs for states Wilson said adding those states should receive,List([1, 138))):(those states; should receive additional  federal aid to cope; with the added problems)
+0.50 (There; are enormous additional costs for; states)
+
+Opponents of a ban on counting illegal aliens said that a ban is impractical  because the Census Bureau already has printed questionnaires that do not  contain any question about legality of residence.
+0.92 (the Census Bureau; has printed; questionnaires that do not  contain any question about legality of residence; T:already)
+0.88 (questionnaires; do not contain; any question about legality of residence)
+0.90 (Opponents of a ban on counting illegal aliens; said; that a ban is impractical  because the Census Bureau already has printed questionnaires)
+0.92 Context(Opponents of a ban on counting illegal aliens said,List([0, 50))):(a ban; is; impractical; because the Census Bureau already has printed questionnaires)
+
+For 190 years, said Sen. Daniel Patrick Moynihan (D-N.Y.), the federal  government has counted all inhabitants without regard to citizenship in  accordance with the Constitution's provisions.
+0.91 (the federal  government; has counted; all inhabitants)
+
+"Fiddling with the numbers" now  will destroy confidence in the census results, he added.
+0.95 (Fiddling with the numbers" now  will destroy confidence in the census results; added; he)
+0.93 Context(Fiddling with the numbers " now will destroy confidence in the census results added,List([1, 88))):(Fiddling with the numbers; will destroy; confidence in the census results; T:now)
+
+The Senate's action was sharply criticized by Undersecretary of Commerce  Michael Darby, but he voiced hope that it would be reversed by a Senate-House  conference.
+0.95 (The Senate's action; was sharply criticized; by Undersecretary of Commerce  Michael Darby)
+0.24 (he; voiced; hope that it would be reversed by a Senate-House  conference)
+0.50 (it; would be reversed; by a Senate-House  conference)
+
+"There really is a widespread realization that this would not only be  unconstitutional but literally impossible," Darby said.
+0.12 (this; would be; unconstitutional but literally impossible)
+0.91 (There really is a widespread realization that this would not only be  unconstitutional but literally impossible; said; Darby)
+
+But he added that he is "optimistic, cautiously optimistic," that House  conferees would resist the Senate-approved ban and not force Bush to veto the  legislation.
+0.93 (House  conferees; not force; Bush; to veto the  legislation)
+0.86 (Bush; to veto; the  legislation)
+0.20 (he; added; that he is "optimistic, cautiously optimistic," that House  conferees would resist the Senate-approved ban and not force Bush to veto the  legislation)
+0.18 Context(he added,List([4, 12))):(he; is cautiously optimistic; optimistic)
+0.92 Context(he added he is cautiously optimistic,List([4, 58))):(House  conferees; would resist; the Senate-approved ban)
+
+Mario Moreno, head of the Mexican American Legal Defense Fund, said he was  shocked by the Senate's decision.
+0.85 (Mario Moreno; said; he was  shocked by the Senate's decision)
+0.44 Context(Mario Moreno said,List([0, 67))):(he; was shocked; by the Senate's decision)
+0.88 (Mario Moreno; [is] head of; the Mexican American Legal Defense Fund)
+
+"It is going to have a dramatic and  disastrous impact in the Hispanic community," Moreno said.
+0.41 (It; to have; a dramatic and  disastrous impact in the Hispanic community)
+0.89 (It is going to have a dramatic and  disastrous impact in the Hispanic community; said; Moreno)
+
+"People are going to  be discouraged from participating."
+0.72 (People; to be discouraged; from participating)
+
+A Census Bureau spokesman took a more dispassionate view, however.
+0.94 (A Census Bureau spokesman; took; a more dispassionate view; however)
+
+"Our position is that we count everybody at their place of residence," said  bureau spokesman James Gorman.
+0.79 (Our position is that we count everybody at their place of residence; said; bureau spokesman James Gorman)
+0.27 Context(Our position is that we count everybody at their place of residence said,List([1, 75))):(Our position; is; that we count everybody at their place of residence)
+0.39 (James Gorman; [is] said spokesman [of]; bureau)
+
+"If Congress passes a law that says we will or  will not count people, we will do what it says."
+0.78 (Congress; passes; a law that says we will or  will not count people)
+0.81 (a law; says; we will or  will not count people)
+0.26 (we; will do; what it says)
+0.16 Context(we will do,List([71, 81))):(it; says; )
+

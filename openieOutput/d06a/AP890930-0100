@@ -1,0 +1,106 @@
+Two days of racially charged hearings on police brutality and a report detailing widespread segregation in the nation's third-largest city show the new mayor must still heal some old wounds.
+0.94 (a report; detailing; widespread segregation in the nation's third-largest city)
+0.96 (Two days of racially charged hearings on police brutality and a report; show; the new mayor must still heal some old wounds)
+0.91 Context(Two days of racially charged hearings on police brutality and a report show,List([0, 143))):(the new mayor; must heal; some old wounds; T:still)
+
+Richard M. Daley was elected mayor April 4 amid fears by black activists that he would bring back the machine politics of his late father, Richard J. Daley, who was mayor for more than 20 years before his death in 1976.
+0.84 (Richard M. Daley; was elected; mayor; T:April 4; L:amid fears by black activists that he would bring back the machine politics of his late father)
+0.31 (he; would bring; back; the machine politics of his late father)
+0.69 (his late father; was; mayor; T:for more than 20 years)
+0.27 (who; was mayor for; more than 20 years)
+
+The younger Daley emphasized empowerment of minorities in his spring campaign, and after defeating black challengers in the primary and general election, he named minorities to 11 of his 21 Cabinet positions.
+0.88 (The younger Daley; emphasized; empowerment of minorities; L:in his spring campaign)
+0.61 (he; named; minorities; to 11 of his 21 Cabinet positions; T:after defeating black challengers in the primary and general election)
+
+But now Daley finds himself on the defensive.
+0.94 (Daley; finds; himself; L:on the defensive; T:now)
+
+Some black politicians say the mayor is indirectly sanctioning racism by not doing enough to stop it.
+0.93 (Some black politicians; say; the mayor is indirectly sanctioning racism by not doing enough)
+0.88 Context(Some black politicians say,List([0, 26))):(the mayor; is indirectly sanctioning; racism)
+
+The racial issue resurfaced last week in two days of special hearings called by a City Council committee to look into allegations of police brutality against blacks.
+0.91 (The racial issue; resurfaced; T:last week; T:in two days of special hearings)
+0.92 (special hearings; called; by a City Council committee; to look into allegations of police brutality against blacks)
+
+``There's been no demonstrable change on the part of white leadership in this city to end racism,'' said Bob Starks, associate professor of inner city studies at Northeastern Illinois University.
+0.83 (There's been no demonstrable change on the part of white leadership in this city; said; Bob Starks)
+0.39 (Bob Starks; [is] associate professor of; inner city studies)
+
+``It's the same stuff, and it's seemingly getting worse.''
+0.52 (It; 's; the same stuff)
+0.23 (it; 's seemingly getting; worse)
+
+But Daley maintains that what's getting worse is ``irresponsible political rhetoric'' from black politicians who are looking ahead to the 1991 mayoral election.
+0.89 (black politicians; are looking ahead; to the 1991 mayoral election)
+0.84 (Daley; maintains; that what's getting worse is ``irresponsible political rhetoric'' from black politicians)
+0.58 Context(Daley maintains,List([4, 19))):(what's getting worse; is; irresponsible political rhetoric'' from black politicians)
+
+Daley is filling the remaining two years of the term of the late Harold Washington, the city's first black mayor who was just a few months into his second term when he died in November 1987.
+0.96 (Daley; is filling; the remaining two years of the term of the late Harold Washington)
+0.91 (the city's first black mayor; was; just a few months; T:when he died in November 1987)
+0.50 (he; died; T:in November 1987)
+0.39 (the late Harold Washington; [is] first black mayor [of]; the city)
+0.27 (who; was just a few months into; his second term)
+
+Daley has denounced the alleged police brutality.
+0.92 (Daley; has denounced; the alleged police brutality)
+
+``I will not ever tolerate police brutality, bias or bigotry in the city of Chicago,'' Daley said.
+0.93 (I will not ever tolerate police brutality, bias or bigotry in the city of Chicago; said; Daley)
+0.60 Context(I will not ever tolerate police brutality , bias or bigotry in the city of Chicago said,List([2, 97))):(I; will not tolerate; police brutality, bias or bigotry in the city of Chicago; T:ever)
+
+``Everyone should join together ... to help alleviate this problem.''
+0.84 (Everyone; should join together; to help alleviate this problem)
+0.81 Context(Everyone should join together,List([2, 31))):(Everyone; should join together to help; alleviate this problem)
+0.81 Context(Everyone should join together to help,List([2, 43))):(Everyone; should join together to help alleviate; this problem)
+
+Also last week, a human relations task force made up of business and civic leaders released a report saying racism in Chicago was fueled by ``a shocking lack of contact'' between the city's ethnic groups.
+0.91 (leaders; released; a report saying racism in Chicago)
+0.92 (a report; saying; racism in Chicago)
+0.99 (a human relations task force made up of business and civic leaders released a report; was fueled; by ``a shocking lack of contact'' between the city's ethnic groups; T:last week)
+
+The report, based on a 15-month investigation of the city's race relations, concluded that racial divisions ``threaten to make Chicago an increasingly unpleasant place to live and are antithetical to the city's economic growth and prosperity.''
+0.84 (racial divisions; to are; antithetical to the city's economic growth and prosperity)
+0.95 (The report, based on a 15-month investigation of the city's race relations; concluded; that racial divisions ``threaten to make Chicago an increasingly unpleasant place to live and are antithetical to the city's economic growth and prosperity)
+0.92 Context(The report , based on a 15 - month investigation of the city 's race relations concluded,List([0, 85))):(racial divisions; threaten; to make Chicago an increasingly unpleasant place to live and are antithetical to the city's economic growth and prosperity)
+0.88 Context(The report , based on a 15 - month investigation of the city 's race relations concluded racial divisions threaten,List([0, 118))):(racial divisions; threaten to make; Chicago an increasingly unpleasant place)
+
+At the City Council hearings Thursday and Friday, blacks who alleged they were the victims of police brutality accused officers _ most of them white _ of unprovoked beatings, false arrests, intimidation and insulting them with racial slurs.
+0.70 (most of them white _ of unprovoked beatings, false arrests, intimidation; insulting; them)
+0.86 (blacks who alleged they were the victims of police brutality; accused; officers; L:At the City Council hearings; T:Thursday and Friday)
+0.61 Context(blacks who alleged they were the victims of police brutality accused,List([50, 118))):(blacks; alleged; they were the victims of police brutality)
+0.55 Context(blacks who alleged they were the victims of police brutality accused,List([50, 118))):(they; were; the victims of police brutality)
+0.39 (they; were the victims of; police brutality)
+
+Among them was a 55-year-old grandmother, Callie Bryant, who testified that she and her daughter were beaten up in 1987 by seven white police officers who gave her ``the sign of the Ku Klux Klan.''
+0.70 (Among them; was; a 55-year-old grandmother)
+0.86 (seven white police officers; gave; her; the sign of the Ku Klux Klan)
+0.72 (Callie Bryant; testified; that she and her daughter were beaten up in 1987 by seven white police officers)
+0.62 Context(Callie Bryant testified,List([42, 70))):(she and her daughter; were beaten up; T:in 1987; by seven white police officers)
+
+Two teen-age boys testified that in August they were picked up by white officers, roughed up, and then dropped off in a white neighborhood where they were attacked by white youths.
+0.28 (they; roughed up; )
+0.74 (they; were attacked; by white youths; L:a white neighborhood)
+0.79 (Two teen-age boys; testified; that in August they were picked up by white officers, roughed up, and then dropped off in a white neighborhood)
+0.73 Context(Two teen - age boys testified,List([0, 27))):(they; were picked up; by white officers; T:in August)
+
+The poice department's record was defended by Police Superintendent LeRoy Martin, a black appointee of Washington.
+0.94 (The poice department's record; was defended; by Police Superintendent LeRoy Martin)
+
+``I'm the head of this police department, and if this police department is bad, it's because I'm bad as superintendent,'' Martin said.
+0.83 (this police department; is; bad)
+0.37 (it; 's; because I'm bad as superintendent)
+0.52 (I; 'm; bad as superintendent)
+0.93 (I'm the head of this police department, and if this police department is bad, it's; said; Martin)
+0.47 Context(I 'm the head of this police department , and if this police department is bad , it 's said,List([2, 133))):(I; 'm; the head of this police department)
+
+``When this police department is attacked, I must defend it.
+0.75 (this police department; is attacked; )
+0.44 (I; must defend; it; T:When this police department is attacked)
+
+When it's wrong, I must correct it.''
+0.28 (it; 's; wrong)
+0.44 (I; must correct; it; T:When it's wrong)
+

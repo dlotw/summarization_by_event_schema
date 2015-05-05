@@ -1,0 +1,55 @@
+The UK will get strong backing from Brussels today when Germany seeks a ban on British beef exports because of fear of 'mad cow disease', or bovine spongiform encephalopathy (BSE).
+0.96 (The UK; will get; strong backing from Brussels; T:today; T:when Germany seeks a ban on British beef exports because of fear of 'mad cow disease', or bovine spongiform encephalopathy)
+0.95 (Germany; seeks; a ban on British beef exports because of fear of 'mad cow disease', or bovine spongiform encephalopathy)
+
+The European Commission planned to tell Germany that it would take legal action if Bonn attempted to introduce a unilateral ban, commission officials said yesterday.
+0.83 (Bonn; attempted; to introduce a unilateral ban)
+0.83 Context(Bonn attempted,List([83, 97))):(Bonn; attempted to introduce; a unilateral ban)
+0.82 (The European Commission planned to tell Germany that it would take legal action; said; T:yesterday)
+0.72 Context(The European Commission planned to tell Germany that it would take legal action said,List([0, 154))):(The European Commission; planned; to tell Germany that it would take legal action)
+0.80 Context(The European Commission planned to tell Germany that it would take legal action said,List([0, 154))):(The European Commission; planned to tell; Germany; that it would take legal action if Bonn attempted to introduce a unilateral ban)
+0.39 Context(The European Commission planned to tell Germany that it would take legal action said,List([0, 154))):(it; would take; legal action)
+
+Health ministers of the 12 will also discuss the BSE row tomorrow afternoon.
+0.94 (Health ministers of the 12; will also discuss; the BSE row; T:tomorrow afternoon)
+
+Mr Horst Seehofer, the German health minister, has been the prime mover for action against the UK.
+0.93 (Mr Horst Seehofer; has been; the prime mover for action against the UK)
+
+Bonn is calling for a ban on all live cattle and beef exports from the UK after the discovery in Germany of BSE imported from the UK.
+0.92 (Bonn; is calling; for a ban on all live cattle and beef exports from the UK after the discovery in Germany of BSE)
+0.96 (the discovery in Germany of BSE; imported; from the UK)
+
+The commission has reminded Germany that it is the EU that sets veterinary rules, and that there is no scientific evidence proving a link between BSE and Creutzfeld-Jakob disease, which affects humans.
+0.63 (The commission; has reminded; Germany; that it is the EU)
+0.50 Context(The commission has reminded,List([0, 27))):(it; is; the EU)
+0.93 (Creutzfeld-Jakob disease; affects; humans)
+0.93 (the EU; sets; veterinary rules)
+0.93 (no scientific evidence; proving; a link between BSE and Creutzfeld-Jakob disease)
+
+A series of restrictions have been imposed in the UK beef sector, which Britain and the commission say are working.
+0.96 (A series of restrictions; have been imposed; in the UK beef sector, which Britain and the commission)
+0.32 (say; are working; )
+
+In 1990, certain bovine offals, like brain and spleen, were banned for human consumption.
+0.96 (certain bovine offals, like brain and spleen; were banned; for human consumption; T:In 1990)
+
+Since June 1990 there has been a ban on the export of live cattle over six months from the UK, and on the progeny of BSE-affected cows.
+
+In addition, all British exports of bone-in beef must be certified as coming from herds that have been free of 'mad cow disease' for two years.
+0.94 (all British exports of bone-in beef; must be certified; as coming from herds)
+0.93 (all British exports of bone-in beef; as coming; from herds)
+0.79 (herds; have been; free of 'mad cow disease; T:for two years)
+
+British officials say that the EU single market will be disrupted unless all member states stick to the scientific evidence, and that Germany's threat of unilateral action risks a collapse in beef consumption similar to the fall that followed the 1990 BSE scare.
+0.93 (all member states; stick; to the scientific evidence)
+0.96 (Germany's threat of unilateral action; risks; a collapse in beef consumption similar to the fall)
+0.90 (the fall; followed; the 1990 BSE scare)
+0.76 (British officials; say; that the EU single market will be disrupted)
+0.78 Context(British officials say,List([0, 21))):(the EU single market; will be disrupted; )
+
+'We feel we have a sound case and other member states and the Commission agree with us,' a senior British agriculture official said.
+0.92 (We feel we have a sound case and other member states and the Commission agree with us; said; a senior British agriculture official)
+0.41 Context(We feel we have a sound case and other member states and the Commission agree with us said,List([1, 131))):(We; feel; we have a sound case and other member states and the Commission)
+0.56 Context(We feel we have a sound case and other member states and the Commission agree with us said,List([1, 131))):(we; have; a sound case and other member states and the Commission)
+

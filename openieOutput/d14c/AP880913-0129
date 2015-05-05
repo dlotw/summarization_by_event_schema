@@ -1,0 +1,106 @@
+Coast Guard and Navy aircraft and vessels today searched for a crewman missing from an F-14 jet fighter that plunged into the Atlantic Ocean off North Carolina while practicing combat maneuvers, killing his crewmate, officials said.
+0.99 (Coast Guard and Navy aircraft and vessels today searched for a crewman missing from an F-14 jet fighter; said; officials)
+0.98 Context(Coast Guard and Navy aircraft and vessels today searched for a crewman missing from an F - 14 jet fighter said,List([0, 231))):(Coast Guard and Navy aircraft and vessels; searched; for a crewman missing from an F-14 jet fighter; T:today)
+0.73 (a crewman; missing; )
+0.91 (an F-14 jet fighter; plunged; into the Atlantic Ocean; L:off North Carolina; T:while practicing combat maneuvers, killing his crewmate)
+
+Six people were injured in another F-14 crash Monday after two Navy aviators bailed out of their jet over an airfield in the San Diego suburb of El Cajon, sending it smashing into a hangar.
+0.91 (Six people; were injured; L:in another F-14 crash; T:Monday; T:after two Navy aviators bailed out of their jet over an airfield in the San Diego suburb of El Cajon)
+0.80 (two Navy aviators; bailed; )
+
+And a pilot in Utah escaped injury today in a third military training flight in two days.
+0.94 (a pilot in Utah; escaped; injury; T:today; L:in a third military training flight in two days)
+
+The crash off Hatteras, N.C., occurred Monday afternoon 22 miles east of Oregon Inlet, the Navy said.
+0.97 (The crash off Hatteras, N.C., occurred Monday afternoon 22 miles east of Oregon Inlet; said; the Navy)
+0.93 Context(The crash off Hatteras , N.C. , occurred Monday afternoon 22 miles east of Oregon Inlet said,List([0, 100))):(The crash off Hatteras; occurred; T:Monday afternoon 22 miles east of Oregon Inlet)
+
+A fishing boat picked up a crewman, who was pronounced dead.
+0.91 (A fishing boat; picked up; a crewman, who was pronounced dead)
+0.74 (a crewman; was pronounced; dead)
+
+The identity of the dead aviator and his missing crewmate were not released pending notification of relatives.
+0.53 (The identity of the dead aviator and his missing crewmate; were not released; )
+
+Five people, including the two Navy fliers, remained hospitalized today following the crash Monday morning in El Cajon 15 miles east of San Diego.
+0.97 (Five people, including the two Navy fliers; remained; hospitalized; T:today; T:following the crash Monday morning in El Cajon 15 miles east of San Diego)
+0.97 (Five people, including the two Navy fliers; hospitalized; T:today; T:following the crash Monday morning in El Cajon 15 miles east of San Diego)
+
+The $35 million jet crashed upside down into hangars at Gillespie Field and exploded.
+0.94 (The $35 million jet; crashed upside down; into hangars at Gillespie Field)
+0.76 (The $35 million jet; exploded; )
+
+The blaze ignited by the crash destroyed a hangar and an attached extension, but spared a nearby restaurant.
+0.90 (The blaze; ignited; by the crash)
+0.93 (The blaze ignited by the crash; destroyed; a hangar and an attached extension)
+0.92 (The blaze ignited by the crash; spared; a nearby restaurant)
+
+Authorities said the two crewman tried to guide the jet to the runway at Gillespie Field before bailing out.
+0.93 (Authorities; said; the two crewman tried to guide the jet to the runway at Gillespie Field before bailing out)
+0.94 Context(Authorities said,List([0, 16))):(the two crewman; tried; to guide the jet to the runway at Gillespie Field before bailing out)
+0.91 Context(Authorities said the two crewman tried,List([0, 38))):(the two crewman; tried to guide; the jet; to the runway at Gillespie Field; T:before bailing out)
+
+Capt.
+
+Gary Hughes, commanding officer of Naval Air Station Miramar, said he was grateful there weren't more injuries, ``particularly when you're this close to El Cajon.
+0.90 (Gary Hughes; said; he was grateful there weren't more injuries, ``particularly when you're this close to El Cajon)
+0.24 Context(Gary Hughes said,List([0, 66))):(he; was; grateful)
+
+It's a very populated area.''
+0.52 (It; 's; a very populated area)
+
+The jet passed within a mile of an elementary school.
+0.90 (The jet; passed; within a mile of an elementary school)
+
+``I thought they were just doing tricks.
+0.26 (I; thought; they were just doing tricks)
+0.56 Context(I thought,List([2, 11))):(they; were just doing; tricks)
+
+And then we saw the parachutes,'' said Washington Moscuso, a sixth-grader at Ballantyne Elementary School.
+0.66 (then we saw the parachutes; said; Washington Moscuso)
+0.61 Context(then we saw the parachutes said,List([4, 38))):(we; saw; the parachutes; T:then)
+
+In the Atlantic accident, Lt. Cmdr.
+
+Mike John, a spokesman for the Navy's Atlantic Fleet air force in Norfolk, Va., said the plane was engaged in mock dogfights with another F-14 and an A-4 jet in restricted military airspace off the North Carolina coast.
+0.94 (Mike John; said; the plane was engaged in mock dogfights with another F-14 and an A-4 jet in restricted military airspace off the North Carolina coast)
+0.94 Context(Mike John said,List([0, 84))):(the plane; was engaged; in mock dogfights with another F-14 and an A-4 jet in restricted military airspace off the North Carolina coast)
+0.88 (Mike John; [is] a spokesman for; the Navy)
+
+``It was flying a routine training mission,'' John said.
+0.81 (It was flying a routine training mission; said; John)
+0.40 Context(It was flying a routine training mission said,List([2, 55))):(It; was flying; a routine training mission)
+
+The cause of the crash was not determined, officials said.
+0.95 (The cause of the crash was not determined; said; officials)
+0.75 Context(The cause of the crash was not determined said,List([0, 57))):(The cause of the crash; was not determined; )
+
+The aircraft sank soon after impact, John said.
+0.95 (The aircraft sank soon after impact; said; John)
+0.91 Context(The aircraft sank soon after impact said,List([0, 46))):(The aircraft; sank; T:soon; T:after impact)
+
+The twin-engine supersonic fighter was attached to Fighter Squadron 143 at Oceana Naval Air Station in Virginia Beach, Va.
+0.92 (The twin-engine supersonic fighter; was attached; L:at Oceana Naval Air Station in Virginia Beach)
+
+In northern Utah today, an F-16A jet fighter crashed west of Hill Air Force Base after the pilot bailed out, a base spokeswoman said.
+0.73 (the pilot; bailed out; )
+0.97 (In northern Utah today, an F-16A jet fighter crashed west of Hill Air Force Base; said; a base spokeswoman)
+
+The aircraft, assigned to Hill's 388th Tactical Fighter Wing, was on a routine training mission.
+0.90 (The aircraft; assigned; to Hill's 388th Tactical Fighter Wing)
+0.97 (The aircraft, assigned to Hill's 388th Tactical Fighter Wing; was; on a routine training mission)
+
+Spokeswoman Silvia Le Mons-Liddle said the plane went down about 25 miles west of the base about 9:05 a.m.
+0.96 (Spokeswoman Silvia Le Mons-Liddle; said; the plane went down about 25 miles west of the base)
+0.91 Context(Spokeswoman Silvia Le Mons - Liddle said,List([0, 38))):(the plane; went; down; about 25 miles west of the base)
+
+MDT.
+
+She said the crash site was in or near the Promontory Mountains, which are on a peninsula jutting into the Great Salt Lake, but she declined to be more specific.
+0.56 (She; said; the crash site was in or near the Promontory Mountains)
+0.93 Context(She said,List([0, 8))):(the crash site; was; in or near the Promontory Mountains)
+0.20 (she; to be; more specific)
+0.92 (the Promontory Mountains; are; on a peninsula)
+0.92 (a peninsula; jutting; into the Great Salt Lake)
+0.23 (she; declined; to be more specific)
+

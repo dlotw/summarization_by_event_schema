@@ -1,0 +1,49 @@
+A coalition of members of Congress announced Wednesday that they plan to sue the Census Bureau in an effort to force the agency to delete illegal aliens from its count in 1990.
+0.83 (the agency; to delete; illegal aliens; from its count in 1990)
+0.85 (A coalition of members of Congress; announced; T:Wednesday; that they plan to sue the Census Bureau in an effort)
+0.66 Context(A coalition of members of Congress announced,List([0, 44))):(they; plan; to sue the Census Bureau in an effort)
+0.60 Context(A coalition of members of Congress announced they plan,List([0, 69))):(they; plan to sue; the Census Bureau; in an effort)
+
+Some 40 members of the House joined the Federation for American Immigration Reform in announcing that the suit would be filed Thursday in U.S. District Court in Pittsburgh, spokesmen said at a news conference here.
+0.98 (Some 40 members of the House joined the Federation for American Immigration Reform in announcing that the suit would be filed Thursday in U.S. District Court in Pittsburgh; said; L:at a news conference here)
+0.95 Context(Some 40 members of the House joined the Federation for American Immigration Reform in announcing that the suit would be filed Thursday in U.S. District Court in Pittsburgh said,List([0, 187))):(Some 40 members of the House; joined; the Federation; for American Immigration Reform)
+0.87 Context(Some 40 members of the House joined the Federation for American Immigration Reform in announcing that the suit would be filed Thursday in U.S. District Court in Pittsburgh said,List([0, 187))):(Some 40 members of the House; joined the Federation in announcing; that the suit would be filed Thursday in U.S. District Court in Pittsburgh)
+0.90 Context(Some 40 members of the House joined the Federation for American Immigration Reform in announcing that the suit would be filed Thursday in U.S. District Court in Pittsburgh said,List([0, 187))):(the suit; would be filed; T:Thursday; in U.S. District Court in Pittsburgh)
+
+The group contends that including the estimated 2 million or more illegal aliens in the national head count, which is used to distribute seats in the House of Representatives, will cause unfair shifts of seats from one state to another.
+0.84 (The group; contends; that including the estimated 2 million or more illegal aliens in the national head count, which is used to distribute seats in the House of Representatives, will cause unfair shifts of seats from one state to another)
+0.95 Context(The group contends,List([0, 18))):(including the estimated 2 million or more illegal aliens in the national head count; will cause; unfair shifts of seats from one state to another)
+0.92 (the national head count; is used; to distribute seats in the House of Representatives)
+
+Census officials say they are required to count everyone by the U.S. Constitution, which does not mention citizenship but only instructs that the House apportionment be based on the ``whole number of persons'' residing in the various states.
+0.89 (Census officials; say; they are required to count everyone by the U.S. Constitution)
+0.61 Context(Census officials say,List([0, 20))):(they; are required; to count everyone by the U.S. Constitution)
+0.92 (the ``whole number of persons; residing; in the various states)
+0.58 (they; to count; everyone)
+0.92 (the U.S. Constitution; does not mention; citizenship)
+0.86 (the U.S. Constitution; only instructs; that the House apportionment be based on the ``whole number of persons)
+0.91 Context(the U.S. Constitution only instructs,List([60, 136))):(the House apportionment; be based; on the ``whole number of persons)
+
+That approach was upheld by a federal court in a similar suit, brought by the same immigration reform group, before the 1980 Census.
+0.90 (That approach; was upheld; by a federal court; L:in a similar suit)
+0.91 (a similar suit; brought; by the same immigration reform group; T:before the 1980 Census)
+
+Nonetheless, Dan Stein of the immigration reform federation contended that illegal aliens should not be allowed to be part of determining the political structure of the United States.
+0.94 (illegal aliens; to be; part of determining the political structure of the United States)
+0.92 (Dan Stein of the immigration reform federation; contended; that illegal aliens should not be allowed to be part of determining the political structure of the United States)
+0.68 Context(Dan Stein of the immigration reform federation contended,List([13, 69))):(illegal aliens; should not be allowed; )
+
+Rep. Tom Ridge, R-Pa., said the Census Bureau should actually count everyone but that it should develop a method to determine how many people are illegally in the country, and them deduct that number from the figures used for reapportioning Congress.
+0.78 (Rep. Tom Ridge; said; the Census Bureau should actually count everyone but that it should develop a method)
+0.92 Context(Rep. Tom Ridge said,List([0, 27))):(the Census Bureau; should actually count; everyone)
+0.23 (them; deduct; that number; from the figures)
+0.92 (the figures; used; for reapportioning Congress)
+0.21 (it; should develop; a method to determine how many people are illegally in the country, and them deduct that number from the figures)
+0.70 (a method; to determine; how many people are illegally in the country, and them deduct that number from the figures)
+0.89 Context(a method to determine,List([104, 125))):(how many people; are; illegally; L:in the country)
+
+Rep. Jan Meyers, R-Kan., suggested including a question on the Census form asking whether respondents are U.S. citizerns.
+0.93 (Rep. Jan Meyers; suggested; including a question on the Census form)
+0.93 (the Census form; asking; whether respondents are U.S. citizerns)
+0.89 Context(the Census form asking,List([59, 81))):(respondents; are; U.S. citizerns)
+

@@ -1,0 +1,137 @@
+Thousands of peole prayed, cheered, danced, beat drums and observed other traditions today as a total eclipse of the sun darkened a wide area of Indonesia and the southern Philippines.
+0.71 (Thousands of peole; prayed; )
+0.61 Context(Thousands of peole prayed,List([0, 25))):(Thousands of peole; prayed cheered; )
+0.61 Context(Thousands of peole prayed,List([0, 25))):(Thousands of peole; prayed danced; )
+0.84 Context(Thousands of peole prayed,List([0, 25))):(Thousands of peole; prayed beat; drums)
+0.91 Context(Thousands of peole prayed,List([0, 25))):(Thousands of peole; prayed observed; other traditions; T:today; T:as a total eclipse of the sun darkened a wide area of Indonesia and the southern Philippines)
+0.94 (a total eclipse of the sun; darkened; a wide area of Indonesia and the southern Philippines)
+
+The sun was blacked out by the shadow of the moon for up to four minutes along a 108-mile swath that moved from the Indian Ocean across Indonesia and the southern Philippine island of Mindanao.
+0.94 (The sun; was blacked out; by the shadow of the moon; T:for up to four minutes along a 108-mile swath)
+0.93 (a 108-mile swath; moved; from the Indian Ocean; across Indonesia and the southern Philippine island of Mindanao)
+
+A partial eclipse was visible across a wide area of Asia as far west as India _ including Southeast Asia, China, Japan and New Guinea as well as parts of Australia and the Pacific islands.
+0.96 (A partial eclipse; was; visible; L:across a wide area of Asia as far west as India _ including Southeast Asia, China, Japan and New Guinea as well as parts of Australia and the Pacific islands)
+
+Scientists said the eclipse would end at sunset in the Gulf of Alaska.
+0.93 (Scientists; said; the eclipse would end at sunset in the Gulf of Alaska)
+0.90 Context(Scientists said,List([0, 15))):(the eclipse; would end; T:at sunset in the Gulf of Alaska)
+
+Clouds obscured the solar spectacular in Jakarta, Indonesia, Hong Kong and in the eastern Mindanao city of Davao, where thousands of tourists and scientists had gathered to observe the eclipse.
+0.96 (Clouds; obscured; the solar spectacular; L:in Jakarta, Indonesia, Hong Kong and in the eastern Mindanao city of Davao)
+0.79 (thousands of tourists and scientists; had gathered; )
+0.91 (thousands of tourists and scientists; to observe; the eclipse)
+
+But it was visible for about 3 minutes in this city about 650 miles southeast of Manila despite early scattered clouds.
+0.68 (it; was; visible for about 3 minutes in this city about 650 miles southeast of Manila)
+
+President Corazon Aquino flew in to witness the event.
+0.95 (President Corazon Aquino; flew; in; to witness the event)
+0.92 (President Corazon Aquino; to witness; the event)
+
+Richard Fisher of the High Altitude Observatory in Boulder, Colo., said that despite scattered clouds, scientists were confident they had taken useful pictures of the eclipse.
+0.62 (they; had taken; useful pictures of the eclipse)
+0.73 (Richard Fisher of the High Altitude Observatory in Boulder; said; that despite scattered clouds, scientists were confident they had taken useful pictures of the eclipse)
+0.79 Context(Richard Fisher of the High Altitude Observatory in Boulder said,List([0, 71))):(scientists; were; confident they had taken useful pictures of the eclipse)
+
+In Jakarta, Wilson Sinambela of the National Institute of Aeronautics said a total eclipse was observed in several parts of the country, including by about 1,000 tourists in the South Sumatra capital Palembang.
+0.98 (Wilson Sinambela of the National Institute of Aeronautics; said; a total eclipse was observed in several parts of the country, including by about 1,000 tourists in the South Sumatra capital Palembang; L:In Jakarta)
+0.94 Context(Wilson Sinambela of the National Institute of Aeronautics said,List([12, 74))):(a total eclipse; was observed; L:in several parts of the country, including by about 1,000 tourists in the South Sumatra capital Palembang)
+
+He said thousands of Indonesians prayed and beat drums to herald the start of the eclipse, which began in southwestern Sumatra before heading on to the Philippines.
+0.90 (the eclipse; began; L:in southwestern Sumatra; T:before heading on to the Philippines)
+0.44 (He; said; thousands of Indonesians prayed and beat drums)
+0.77 Context(He said,List([0, 7))):(thousands of Indonesians; prayed; )
+0.90 (thousands of Indonesians; beat; drums; to herald the start of the eclipse)
+0.90 Context(thousands of Indonesians beat,List([8, 48))):(thousands of Indonesians; beat drums to herald; the start of the eclipse)
+
+In Kuala Lumpur, where a partial eclipse blocked out about 80 percent of the sun, some Malaysian Hindus visited temples to pray for protection against harm during the eclipse.
+0.96 (a partial eclipse; blocked out; about 80 percent of the sun; L:Kuala Lumpur)
+0.96 (some Malaysian Hindus; visited; temples; to pray for protection against harm during the eclipse; L:In Kuala Lumpur)
+0.91 Context(some Malaysian Hindus visited,List([82, 111))):(some Malaysian Hindus; visited temples to pray; for protection against harm; T:during the eclipse)
+
+In Kurukshetra, India, an estimated 1 million pilgrims dipped into the waters of the sacred Sannihit and Brahmsarover tanks after a public address system announced the start of the eclipse.
+0.96 (an estimated 1 million pilgrims; dipped; into the waters of the sacred Sannihit and Brahmsarover tanks; T:after a public address system)
+0.99 (an estimated 1 million pilgrims dipped into the waters of the sacred Sannihit and Brahmsarover tanks after a public address system; announced; the start of the eclipse; L:In Kurukshetra)
+
+Hymns were chanted and conch shells blown during the ceremony about 90 miles north of New Delhi.
+0.56 (Hymns; were chanted; )
+0.90 (Hymns; conch; shells blown during the ceremony about 90 miles north of New Delhi)
+0.92 (shells; blown; T:during the ceremony about 90 miles north of New Delhi)
+
+Clouds blocked the first moments of the eclipse in General Santos City.
+0.96 (Clouds; blocked; the first moments of the eclipse in General Santos City)
+
+But the cloud cover broke, setting off wild cheering among the thousands who watched the phenomenon in a scorching tropical heat.
+0.75 (the cloud cover; broke; )
+0.90 (the cloud cover; setting off; wild cheering among the thousands)
+0.89 (the thousands; watched; the phenomenon; L:in a scorching tropical heat)
+
+Street lights switched on, and members of the Naragcas tribe, in the city for a festival, danced in the streets to the beat of drums.
+0.73 (Street lights; switched on; )
+0.96 (members of the Naragcas tribe; danced; L:in the streets; to the beat of drums; L:in the city for a festival)
+
+In Baguio City, 130 miles north of Manila, pregnant women of the local Ilocano community rinsed their hair during the eclipse with water dripped from burned rice straws in a traditional ritual.
+0.89 (water; dripped; from burned rice straws)
+
+According to local superstition, babies conceived during or shortly before an eclipse will be deformed unless their mothers practice the ritual.
+0.89 (babies; conceived; T:during or shortly before an eclipse)
+0.83 (babies conceived during or shortly before an eclipse; will be deformed; )
+0.64 (their mothers; practice; the ritual)
+
+Many other Filipinos marked the eclipse by going to church.
+0.93 (Many other Filipinos; marked; the eclipse)
+
+The Philippines is Asia's only predominately Christian country.
+0.95 (The Philippines; is; Asia's only predominately Christian country)
+
+``This phenomenon is a clear reminder from God for mankind to repent its sins,'' said Theresa Teopengco, a government employee.
+0.82 (mankind; to repent; its sins)
+0.95 (This phenomenon is a clear reminder from God; said; Theresa Teopengco)
+0.92 Context(This phenomenon is a clear reminder from God said,List([2, 85))):(This phenomenon; is; a clear reminder from God)
+0.50 (This phenomenon; is a clear reminder from; God)
+
+Officials said about 20,000 tourists and scientists from around the world had come to the southern Philippines to watch the eclipse, the last one expected here for at least 50 years.
+0.94 (about 20,000 tourists and scientists from around the world; to watch; the eclipse)
+0.91 (the last one; expected; L:here; T:for at least 50 years)
+0.93 (Officials; said; about 20,000 tourists and scientists from around the world had come to the southern Philippines)
+0.95 Context(Officials said,List([0, 14))):(about 20,000 tourists and scientists from around the world; had come; to the southern Philippines; to watch the eclipse)
+
+Scientists said the area afforded the best opportunity to witness and study the eclipse because skies are usually clear this time of year.
+0.89 (skies; are; T:usually; clear; T:this time of year)
+0.87 (Scientists; said; the area afforded the best opportunity)
+0.88 Context(Scientists said,List([0, 15))):(the area; afforded; the best opportunity to witness and study the eclipse)
+
+But in Davao City, 60 miles to the northeast, morning clouds sent hundreds scurrying to the airport for flights to General Santos.
+0.98 (morning clouds; sent; hundreds scurrying to the airport for flights to General Santos; L:in Davao City)
+0.91 (hundreds; scurrying; to the airport; for flights to General Santos)
+
+Church bells in Davao tolled while police and civilians set off firecrackers and fired weapons in the air to mark the eclipse.
+0.96 (Church bells in Davao; tolled; T:while police and civilians set off firecrackers and fired weapons in the air to mark the eclipse)
+0.89 (police and civilians; set off; firecrackers and fired weapons; L:in the air; to mark the eclipse)
+0.84 Context(police and civilians set off,List([35, 63))):(police and civilians; set off firecrackers and fired weapons to mark; the eclipse)
+
+In Manila, thousands turned out under clear skies to see the partial eclipse that blocked about 75 percent of the sun's surface at its height.
+0.95 (thousands; turned out; L:under clear skies; to see the partial eclipse; L:In Manila)
+0.69 (thousands; to see; the partial eclipse that blocked about 75 percent of the sun's surface at its height)
+0.88 (the partial eclipse; blocked; about 75 percent of the sun's surface at its height)
+
+Police said four people were injured when a passenger bus collided with a jeep during the eclipse.
+0.92 (Police; said; four people were injured when a passenger bus collided with a jeep during the eclipse)
+0.92 Context(Police said,List([0, 11))):(four people; were injured; T:when a passenger bus collided with a jeep during the eclipse)
+
+``The drivers were probably looking skyward when the accident occurred,'' said policeman Ricardo Manansala.
+0.73 (the accident; occurred; )
+0.94 (The drivers were probably looking skyward when the accident occurred; said; policeman Ricardo Manansala)
+0.88 Context(The drivers were probably looking skyward when the accident occurred said,List([2, 78))):(The drivers; were probably looking skyward; T:when the accident occurred)
+
+``It's impossible to gaze at the sky and drive a vehicle at the same time.''
+
+Solar eclipses occur when the moon positions itself between the Earth and the sun.
+0.91 (Solar eclipses; occur; T:when the moon positions itself between the Earth and the sun)
+0.86 (the moon; positions; itself; between the Earth and the sun)
+
+The Chinese first recorded a total solar eclipse in 2137 B.C., regarding them as signs of a battle to death between the sun and the dragon.
+0.65 (The Chinese; recorded; a total solar eclipse; T:in 2137 B.C.; T:first)
+0.33 Context(The Chinese recorded,List([0, 26))):(The Chinese; recorded a total solar eclipse regarding; them; as signs of a battle to death between the sun and the dragon)
+

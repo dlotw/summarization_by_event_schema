@@ -1,0 +1,97 @@
+Language: <F P=105> English </F> Article Type:CSO
+
+<F P=106> [Article by Nigel Hawkes, Science Editor: "Zoo Antelope </F> Catch Mad Cow Disease"]    [Text] Scientists at London zoo have discovered that a  strain of "mad cow disease" affecting a type of antelope can be  transmitted much more easily than was thought.
+0.97 (Article by Nigel Hawkes, Science Editor: "Zoo Antelope </F> Catch Mad Cow Disease"]    [Text] Scientists at London zoo; have discovered; that a  strain of "mad cow disease" affecting a type of antelope can be  transmitted much more easily than was thought)
+0.86 Context(Article by Nigel Hawkes , Science Editor : " Zoo Antelope < / F > Catch Mad Cow Disease " ] [ Text ] Scientists at London zoo have discovered,List([11, 145))):(a  strain of "mad cow disease" affecting a type of antelope; can be transmitted much more easily; )
+
+The finding uncovers a threat to breeding other species in  captivity unless it can be shown that they are not equally  vulnerable.
+0.90 (The finding uncovers; to breeding; other species; L:in  captivity)
+
+The scientists say there is no evidence that similar  transmission is occurring among cows.
+0.90 (similar  transmission; is occurring; L:among cows)
+0.70 (The scientists; say; there is no evidence that similar  transmission is occurring among cows)
+0.39 (there; is no evidence that; similar transmission)
+
+The zoo's small herd of kudu, spiral-horned antelopes  closely  related to cows, has been severely hit by a disease similar to  bovine spongiform encephalopathy (BSE).
+0.92 (spiral-horned antelopes; closely related; to cows)
+0.93 (spiral-horned antelopes  closely  related to cows; has been severely hit; by a disease similar to  bovine spongiform encephalopathy)
+
+Of eight animals born in  the herd since 1987, five have contracted the disease.
+0.93 (eight animals; born; L:in  the herd; T:since 1987)
+
+Only one  of the five could have eaten feed containing protein from sheep,  believed to be the origin of the outbreak.
+0.64 (Only one  of the five; could have eaten; feed containing protein from sheep,)
+0.93 (feed; containing; protein from sheep,  believed to be the origin of the outbreak)
+
+The kudu is not the only zoo species to suffer the disease  since it appeared in cows.
+0.90 (The kudu; is not; the only zoo species to suffer the disease)
+0.86 (the only zoo species; to suffer; the disease; T:since it appeared in cows)
+0.45 (it; appeared; L:in cows)
+
+It has also been found in domestic  cats and their larger relations, the cheetah and the puma, in  eland and nyala, and in the gemsbok and the Arabian oryx.
+0.42 (It; has also been found; L:in domestic  cats and their larger relations, the cheetah and the puma, in  eland and nyala, and in the gemsbok and the Arabian oryx)
+
+In the  United States, mink have been affected by it.
+0.84 (mink; have been affected; by it; L:In the  United States)
+
+The infective agent and its mode of transmission are  unknown,  but the evidence from kudu suggests that some species may be  more easily infected than others.
+0.53 (The infective agent and its mode of transmission; are; unknown)
+0.84 (the evidence from kudu; suggests; that some species may be  more easily infected than others)
+0.69 Context(the evidence from kudu suggests,List([68, 99))):(some species; may be more easily infected; )
+
+Sheep are believed to catch  the disease by contact with placentas in fields after births,  but in the case of the kudu even this route seems unlikely.
+0.71 (Sheep; are believed; )
+0.88 (Sheep; to catch; the disease; by contact with placentas in fields after births)
+
+In THE VETERINARY RECORD, the scientists eliminate most  routes of infection.
+0.95 (the scientists; eliminate; most  routes of infection; L:In THE VETERINARY RECORD)
+
+Infected feed cannot account for four  cases.
+0.90 (Infected feed; can not account; for four  cases)
+
+Nor can at least three of the affected animals have  caught the disease from their mothers, who did not suffer from  it.
+0.45 (their mothers; did not suffer; from  it)
+
+It is possible but unlikely that the mothers were carriers  that passed on the infection without having symptoms themselves.
+0.28 (It; is; possible but unlikely)
+0.75 (the mothers; were; carriers  that passed on the infection without having symptoms themselves)
+0.68 (carriers; passed; )
+
+If this were so, it would have important implications for  the  disease in cows.
+0.18 (this; were; so)
+0.45 (it; would have; important implications for  the  disease in cows)
+
+It is more likely, the scientists believe, that  an unidentified agent entered the herd in contaminated feed and  was passed along, as with more mundane infections.
+0.78 (the scientists; believe; that  an unidentified agent entered the herd in contaminated feed and  was passed along)
+0.24 Context(the scientists believe,List([19, 41))):(It; is; more likely)
+0.89 Context(the scientists believe,List([19, 41))):(an unidentified agent; entered; the herd)
+
+Because of  the danger to other animals, the kudu herd has been isolated.
+0.75 (the kudu herd; has been isolated; )
+
+Another danger taken seriously by the zoo, a world centre  for  breeding rare and endangered species, is that animals bred in  captivity could carry the infection when released into the wild.
+0.90 (Another danger; taken seriously; by the zoo)
+0.95 (Another danger taken seriously by the zoo, a world centre  for  breeding rare and endangered species; is; that animals bred in  captivity could carry the infection when released into the wild)
+0.90 Context(Another danger taken seriously by the zoo , a world centre for breeding rare and endangered species is,List([0, 104))):(animals bred in  captivity; could carry; the infection; T:when released into the wild)
+0.92 (animals; bred; L:in  captivity)
+
+If they proved as vulnerable as the kudu, this could be  disastrous.
+0.62 (they; proved; as vulnerable as the kudu)
+0.18 (this; could be; disastrous)
+
+The scientists say that the next step must be to examine  whether the agent causing the disease in kudu is the same as  that in cows.
+0.90 (the agent; causing; the disease)
+0.81 (The scientists; say; that the next step must be to examine  whether the agent causing the disease in kudu is the same as  that in cows)
+0.83 Context(The scientists say,List([0, 18))):(the next step; must be; to examine  whether the agent causing the disease in kudu is the same as  that in cows)
+0.39 (kudu; is the same as; that)
+
+If it is, the conclusion would be that the kudu  were simply more susceptible to the disease.
+0.24 (it; is; )
+0.81 (the conclusion; would be; that the kudu  were simply more susceptible to the disease)
+0.88 Context(the conclusion would be,List([10, 33))):(the kudu; were simply; more susceptible to the disease)
+
+If, however, it  turned out to be a different and more easily transmittable form,  the case for isolating the kudu would be even stronger.
+0.41 (it; to be; a different and more easily transmittable form)
+
+TIMES NEWSPAPERS LIMITED, 1993 
+

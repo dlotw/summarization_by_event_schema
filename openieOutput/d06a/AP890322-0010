@@ -1,0 +1,179 @@
+Allegations of police racism and brutality have shaken this city that for decades has prided itself on a progressive attitude toward civil rights and a reputation for racial harmony.
+0.81 (Allegations of police racism and brutality; have shaken; this city; T:that for decades has prided itself on a progressive attitude toward civil rights and a reputation for racial harmony)
+
+The deaths of two blacks at a drug raid that went awry, followed 10 days later by a scuffle between police and blacks at a downtown hotel, touched off an outcry by minority leaders for an outside review of the department.
+0.80 (a drug raid; went; awry)
+0.91 (The deaths of two blacks; followed; T:10 days later)
+0.94 (The deaths of two blacks; touched off; an outcry by minority leaders for an outside review of the department)
+
+``It's like a watch spring.
+0.52 (It; 's; like a watch spring)
+
+You can only wind the watch so tightly before it's going to snap.
+0.17 (it; to snap; )
+
+I think we're approaching that breaking point,'' said Van Hayden, 25, a student who says police beat him at the hotel.
+0.77 (a student; says; police beat him at the hotel)
+0.78 Context(a student says,List([70, 88))):(police; beat; him; L:at the hotel)
+0.72 (I think we're approaching that breaking point; said; Van Hayden)
+0.15 Context(I think we 're approaching that breaking point said,List([0, 53))):(I; think; we're approaching that breaking point)
+0.19 Context(I think we 're approaching that breaking point said,List([0, 53))):(we; 're approaching; that breaking point)
+
+The city's police chief, John Laux, says there is no reason to assume the department would be immune to a problem that is present in all segments of society.
+0.91 (a problem; is; present in all segments of society)
+0.82 (The city's police chief; says; there is no reason)
+
+``The whole society to different degrees has problems of racism,'' he said.
+0.93 (The whole society to different degrees has problems of racism; said; he)
+0.94 Context(The whole society to different degrees has problems of racism said,List([2, 74))):(The whole society to different degrees; has; problems of racism)
+
+In a letter to police supervisors in mid-February, Laux said: ``Let me make one thing perfectly clear _ any act of bias will be dealt with directly and severely.
+0.93 (Laux; said; Let me make one thing perfectly clear _ any act of bias; L:In a letter to police supervisors in mid-February)
+
+There will be no tolerance for that type of inexcusable behavior.''
+
+Since former Vice President Hubert H. Humphrey, then a 35-year-old mayor running for the U.S. Senate, electrified the 1948 Democratic National Convention with his historic speech in support of civil rights, Minneapolis has been viewed as a liberal, progressive city.
+0.97 (a 35-year-old mayor; running; for the U.S. Senate; T:then)
+0.95 (former Vice President Hubert H. Humphrey; electrified; the 1948 Democratic National Convention)
+0.96 (Minneapolis; has been viewed; as a liberal, progressive city; T:Since former Vice President Hubert H. Humphrey, then a 35-year-old mayor running for the U.S. Senate, electrified the 1948 Democratic National Convention with his historic speech in support of civil rights)
+
+Some, including Hayden, say that image now blocks progress.
+0.79 (Some, including Hayden; say; that image now blocks progress)
+0.93 Context(Some , including Hayden say,List([0, 27))):(image; blocks; progress; T:now)
+
+``I think this city has to wake up.
+0.70 (this city; to wake up; )
+0.47 (I; think; this city has to wake up)
+
+Everyone always says, `I can't believe this is happening in Minnesota, in Minneapolis, the home of progressiveness.'
+0.91 (Everyone; says; I can't believe this is happening in Minnesota, in Minneapolis; T:always)
+0.43 Context(Everyone says,List([0, 20))):(I; ca n't believe; this is happening in Minnesota)
+0.36 Context(Everyone says I ca n't believe,List([0, 38))):(this; is happening; L:in Minnesota)
+
+That is real tricky,'' Hayden said.
+0.70 (That is real tricky; said; Hayden)
+0.19 Context(That is real tricky said,List([0, 34))):(That; is; real tricky)
+
+``If we get preoccupied with the image of the city, we're not going to be able to thoroughly address the problems we're facing.''
+0.52 (we; get; preoccupied with the image of the city)
+0.88 (the problems; 're facing; we)
+0.45 (we; get preoccupied; with the image of the city)
+0.41 (we; to be; able to thoroughly address the problems)
+0.27 (we; to thoroughly address; the problems we're facing)
+
+``The liberal image is a false picture,'' said Chris Nisan, a University of Minnesota student who has been involved in recent protests.
+0.93 (a University of Minnesota student; has been involved; in recent protests)
+0.92 (The liberal image is a false picture; said; Chris Nisan)
+0.92 Context(The liberal image is a false picture said,List([2, 46))):(The liberal image; is; a false picture)
+
+In a series of rallies in recent weeks, protesters demanded that officers involved in the drug raid be suspended, charges against those arrested at the hotel be dropped, and that a citizen police review board be established.
+0.87 (protesters; demanded; that officers involved in the drug raid be suspended, charges against those arrested at the hotel be dropped, and that a citizen police review board be established; L:In a series of rallies in recent weeks)
+0.76 Context(protesters demanded,List([40, 59))):(officers involved in the drug raid; be suspended; )
+0.79 (a citizen police review board; be established; )
+0.89 (officers; involved; in the drug raid)
+0.23 (those; arrested; L:at the hotel)
+0.72 (charges against those; be dropped; )
+
+City Council voted last week to study the problem.
+0.91 (City Council; voted; T:last week; to study the problem)
+0.86 Context(City Council voted,List([0, 18))):(City Council; voted to study; the problem)
+
+``There are bad apples in every bunch and the Minneapolis Police Department is no exception,'' said Councilwoman Sayles Belton.
+0.87 (There are bad apples in every bunch and the Minneapolis Police Department is no exception; said; Councilwoman Sayles Belton)
+0.50 (There; are bad apples in; every bunch)
+
+``I don't think they (the good officers) are pleased with the few that are giving them the bad rap _ the spoilers.''
+0.17 (I; do n't think; they (the good officers) are pleased with the few that are giving them the bad rap _ the spoilers)
+0.25 Context(I do n't think,List([2, 15))):(they; are pleased; with the few that are giving them the bad rap _ the spoilers)
+0.79 (the few that are giving them the bad rap; _; the spoilers)
+0.33 Context(the few that are giving them the bad rap _,List([58, 100))):(the few; are giving; them; the bad rap)
+
+Lloyd Smalley, 71, and Lillian Weiss, 65, were killed Jan. 25 in a fire that started after police hurled a stun grenade into their apartment, where others also lived, during a drug raid.
+0.93 (Lloyd Smalley, 71, and Lillian Weiss; were killed; T:Jan; L:in a fire; T:after police hurled a stun grenade into their apartment)
+0.70 (a fire; started; )
+0.82 (police; hurled; a stun grenade; into their apartment)
+0.87 (others; also lived; T:during a drug raid; L:their apartment)
+
+No one conducting the raid knew the elderly people were living there, said Laux.
+0.95 (No one conducting the raid knew the elderly people were living there; said; Laux)
+0.93 Context(No one conducting the raid knew the elderly people were living there said,List([0, 74))):(No one conducting the raid; knew; the elderly people were living there)
+0.88 Context(No one conducting the raid knew the elderly people were living there said,List([0, 74))):(No one; conducting; the raid)
+0.74 Context(No one conducting the raid knew the elderly people were living there said,List([0, 74))):(the elderly people; were living; L:there)
+
+A grand jury decided not to bring charges against any officers, but an FBI investigation is continuing.
+0.80 (an FBI investigation; is continuing; )
+0.89 (A grand jury; decided; not to bring charges against any officers)
+0.89 Context(A grand jury decided,List([0, 20))):(A grand jury; decided not to bring; charges against any officers)
+
+In the hotel scuffle, police said they responsed to a call of a loud party.
+0.86 (police; said; they responsed to a call of a loud party; L:In the hotel scuffle)
+0.55 Context(police said,List([22, 33))):(they; responsed; to a call of a loud party)
+
+Partygoers alleged that officers used the term ``nigger,'' and beat some of those arrested.
+0.48 (officers; beat; some of those)
+0.08 (those; arrested; )
+0.80 (Partygoers; alleged; that officers used the term ``nigger,'' and beat some of those)
+0.87 Context(Partygoers alleged,List([0, 18))):(officers; used; the term ``nigger)
+
+Laux said his officers have denied using racial names and said protesters lied about the number of people receiving medical attention following the arrests.
+0.89 (people; receiving; medical attention; T:following the arrests)
+0.54 (his officers; said; protesters lied about the number of people)
+0.87 Context(his officers said,List([10, 62))):(protesters; lied; about the number of people)
+0.89 (Laux; said; his officers have denied using racial names and said protesters lied about the number of people)
+0.59 Context(Laux said,List([0, 9))):(his officers; have denied; using racial names)
+0.59 Context(Laux said his officers have denied,List([0, 34))):(his officers; have denied using; racial names)
+
+Gleason Glover, president of the Minneapolis Urban League, which works for interracial cooperation, said police racism has been a problem since he took over the league position 21 years ago.
+0.94 (the Minneapolis Urban League; works; for interracial cooperation)
+0.45 (he; took over; the league position; T:21 years ago)
+0.88 (Gleason Glover; said; police racism has been a problem since he took over the league position 21 years ago)
+0.87 Context(Gleason Glover said,List([0, 104))):(police racism; has been; a problem; T:since he took over the league position 21 years ago)
+0.88 (Gleason Glover; [is] president of; the Minneapolis Urban League)
+
+``The matter of police misconduct and brutality has been going on for at least the 21 years I've been here, but I think the deaths pushed the issue beyond the point of tolerance that usually is the case in matters of police misconduct,'' Glover said.
+0.23 (I; 've been; here)
+0.94 (tolerance; is; the case in matters of police misconduct; T:usually)
+0.98 (The matter of police misconduct and brutality has been going on for at least the 21 years I've been here, but I think the deaths pushed the issue beyond the point of tolerance; said; Glover)
+0.39 (usually; is the case in; matters)
+
+``There is deep resentment in both the black community and among police officers with regard to how they feel they are perceived by each other ... I do not see a quick fix solution to it,'' Glover said.
+0.40 (they; feel; they are perceived by each other)
+0.30 Context(they feel,List([100, 109))):(they; are perceived; by each other)
+0.99 (There is deep resentment in both the black community and among police officers with regard to how they feel they are perceived by each other ... I do not see a quick fix solution to it; said; Glover)
+0.26 Context(There is deep resentment in both the black community and among police officers with regard to how they feel they are perceived by each other ... I do not see a quick fix solution to it said,List([2, 201))):(I; do not see; a quick fix solution to it)
+0.50 (There; is deep resentment in; both)
+
+Allegations of police misconduct currently are reviewed by a panel appointed by the mayor.
+0.94 (Allegations of police misconduct; are reviewed; by a panel; T:currently)
+0.90 (a panel; appointed; by the mayor)
+
+The panel can only make recommendations.
+0.90 (The panel; can only make; recommendations)
+
+Laux opposes establisment of a citizen panel to look into police actions.
+0.92 (Laux; opposes; establisment of a citizen panel)
+0.91 (a citizen panel; to look; into police actions)
+
+``The key point is that any time the head of the police department cannot hire, fire or impose discipline, you are no longer in charge,'' he said.
+0.95 (the head of the police department; can not hire; T:any time)
+0.93 (The key point is that any time the head of the police department cannot hire, fire or impose discipline, you are no longer in charge; said; he)
+0.78 Context(The key point is that any time the head of the police department can not hire , fire or impose discipline , you are no longer in charge said,List([2, 145))):(The key point; is; that any time the head of the police department cannot hire, fire or impose discipline, you are no longer in charge)
+0.79 Context(The key point is that any time the head of the police department can not hire , fire or impose discipline , you are no longer in charge said,List([2, 145))):(you; are; no longer; T:any time the head of the police department cannot hire, fire or impose discipline)
+
+Laux said the 750-member department, which includes 62 minority members and 68 white women, will begin cultural awareness training for all officers, probably this fall.
+0.91 (the 750-member department; includes; 62 minority members and 68 white women)
+0.94 (Laux; said; the 750-member department, which includes 62 minority members and 68 white women, will begin cultural awareness training for all officers, probably this fall)
+0.96 Context(Laux said,List([0, 9))):(the 750-member department, which includes 62 minority members and 68 white women; will begin; cultural awareness training for all officers; T:probably this fall)
+
+``We need to get more education about ourselves and about everyone else.
+0.36 (We; need; to get more education about ourselves and about everyone else)
+0.26 Context(We need,List([2, 9))):(We; need to get; more education about ourselves and about everyone else)
+
+Our goal is to find out who can offer that to us and in what form,'' said Laux.
+0.85 (Our goal is to find out who can offer that to us and in what form; said; Laux)
+0.37 Context(Our goal is to find out who can offer that to us and in what form said,List([0, 73))):(Our goal; is; to find out who can offer that to us and in what form)
+
+``But it must be thoughtful and be done by the right people.''
+0.23 (it; must be; thoughtful)
+0.41 (it; be done; by the right people)
+

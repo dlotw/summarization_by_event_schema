@@ -1,0 +1,55 @@
+The German government yesterday announced the launch of a new research project to examine whether the cattle disease bovine spongiform encephalopathy (BSE) can be transmitted to human beings.
+0.92 (The German government; announced; the launch of a new research project; T:yesterday)
+
+The initiative comes as the country is pushing for a European Union ban on British beef imports, arguing that there is still no conclusive evidence that the disease cannot affect humans.
+0.95 (The initiative; comes; T:as the country is pushing for a European Union ban on British beef imports)
+0.90 (the disease; can not affect; humans)
+0.90 (the country; is pushing; for a European Union ban on British beef imports)
+0.61 Context(the country is pushing,List([24, 46))):(the country; is pushing for a European Union ban on British beef imports arguing; that there is still no conclusive evidence that the disease cannot affect humans)
+
+Seven German universities and research institutes will be sponsored by the country's research and technology ministry to examine possible connections between the origins of BSE and two other diseases, Creutzfeldt Jakob disease and Gerstmann Straussler syndrome, which very rarely affect humans.
+0.93 (Seven German universities and research institutes; will be sponsored; by the country's research and technology ministry)
+0.98 (two other diseases, Creutzfeldt Jakob disease and Gerstmann Straussler syndrome; affect; humans; T:very rarely)
+
+Several German scientists have expressed concern that BSE - popularly known as 'mad cow disease' because of the way it debilitates the brains of cattle  -may be transmissible to humans who eat contaminated beef or take medicines made with ingredients from contaminated animals.
+0.80 (Several German scientists; have expressed; concern that BSE - popularly known as 'mad cow disease' because of the way it debilitates the brains of cattle  -may be transmissible to humans)
+0.83 (BSE; popularly known; as 'mad cow disease; because of the way)
+0.88 (humans; take; medicines made with ingredients from contaminated animals)
+0.45 (it; debilitates; the brains of cattle)
+0.89 (medicines; made; with ingredients from contaminated animals)
+0.83 (BSE; may be; transmissible to humans)
+0.88 (humans; eat; contaminated beef)
+
+'The danger that BSE can be transmitted to humans is minimal or non-existent,' said Professor Hans Kretzschmar from Gottingen University.
+0.86 (BSE; can be transmitted; to humans)
+0.97 (The danger that BSE can be transmitted to humans is minimal or non-existent; said; Professor Hans Kretzschmar from Gottingen University)
+0.90 Context(The danger that BSE can be transmitted to humans is minimal or non-existent said,List([1, 83))):(The danger that BSE can be transmitted to humans; is; minimal or non-existent)
+
+'However, we do not know that it is non-existent.
+0.11 (we; do not know; that it is non-existent)
+0.23 Context(we do not know,List([10, 24))):(it; is; non-existent)
+
+I personally think (British beef) should not be imported.'
+0.16 (I; personally think; should not be imported)
+
+Contaminated British beef will be discussed at a meeting of EU health ministers on March 30, but a German official said that any decisions about a ban would be made by the union's agriculture ministers, who were likely to argue that existing safeguards were sufficient.
+0.75 (the union's agriculture ministers; to argue; that existing safeguards were sufficient)
+0.72 Context(the union 's agriculture ministers to argue,List([168, 227))):(existing safeguards; were; sufficient)
+0.95 (Contaminated British beef; will be discussed; L:at a meeting of EU health ministers on March 30)
+0.83 (a German official; said; that any decisions about a ban would be made by the union's agriculture ministers)
+0.79 (the union's agriculture ministers; were; likely to argue that existing safeguards were sufficient)
+
+In 1992, the last year for which figures are available, Germany imported 2,092 tonnes of British beef - 2 per cent of all its beef imports from other EU countries - and 13 tonnes of veal.
+0.94 (figures; are; available; T:the last year)
+0.96 (Germany; imported; 2,092 tonnes of British beef - 2 per cent of all its beef imports from other EU countries - and 13 tonnes of veal; T:In 1992; T:the last year for which figures are available)
+
+The research ministry said that more than 100,000 cattle had died as a result of catching BSE in Britain.
+0.85 (The research ministry; said; that more than 100,000 cattle had died as a result of catching BSE in Britain)
+0.92 Context(The research ministry said,List([0, 26))):(more than 100,000 cattle; had died; as a result of catching BSE in Britain)
+
+A further 50 cases of the disease had been recorded in Switzerland and there were two known cases in Germany, one of which affected a cow imported from Britain.
+0.95 (A further 50 cases of the disease; had been recorded; L:in Switzerland)
+0.64 (one of which; affected; a cow imported from Britain)
+0.92 (a cow; imported; from Britain)
+0.38 (there; were two known cases in; Germany)
+

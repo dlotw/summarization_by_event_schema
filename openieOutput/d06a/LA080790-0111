@@ -1,0 +1,305 @@
+As they scanned the flow of passengers at Los Angeles International Airport,  police detective Clayton Searle and his fellow narcotics officer searched for  the likely companion of the suspected drug courier who stood handcuffed nearby.
+0.32 (they; scanned; )
+0.86 (the flow of passengers at Los Angeles International Airport,  police detective Clayton Searle and his fellow narcotics officer; searched; for  the likely companion of the suspected drug courier; T:As they scanned)
+0.77 (the suspected drug courier; stood handcuffed; L:nearby)
+0.39 (Clayton Searle; [is] detective [of]; police)
+
+When Searle noticed a short, muscular black man walk toward them and then turn  abruptly toward a bank of telephones, the plainclothes Los Angeles police  detective moved in quickly to question him.
+0.77 (Searle; noticed; )
+0.95 (a short, muscular black man; walk; toward them; T:When Searle noticed)
+0.97 (a short, muscular black man; turn; abruptly; toward a bank of telephones; T:When Searle noticed; T:then)
+0.84 (Los Angeles police  detective; moved quickly; to question him)
+0.88 (Los Angeles police  detective; to question; him)
+
+Within minutes, however, their words had turned into violence, and the two men  toppled to the terminal floor where Searle handcuffed his suspect and pulled  him to his feet.
+0.76 (their words; had turned; into violence; T:Within minutes)
+0.91 (the two men; toppled; to the terminal floor)
+0.92 (Searle; handcuffed; his suspect; L:the terminal floor)
+0.89 (the two men; pulled; him; to his feet; T:Within minutes)
+
+Placing his hand across the man's mouth, the officer then  marched him away before a gathering crowd of gaping passersby.
+0.92 (the officer; marched; away; T:before a gathering crowd of gaping passersby; T:then)
+
+Only later did Searle and his partner from the Drug Enforcement Administration  realize that the suspected drug courier they had arrested on that March day in  1988 was Joe Morgan, the former Cincinnati Reds second baseman who was inducted  Monday into Major League baseball's Hall of Fame.
+0.81 (the suspected drug courier; had arrested; T:on that March day in  1988)
+0.95 (the former Cincinnati Reds second baseman; was inducted; T:Monday; into Major League baseball's Hall of Fame)
+
+The 46-year-old Morgan, who is now an Oakland businessman and baseball  broadcaster, is suing Searle and the city of Los Angeles in federal court,  claiming that he was unfairly targeted because he is black and fit a certain  "profile" that narcotics officers think a drug courier should look like.
+0.97 (The 46-year-old Morgan; is; T:now; an Oakland businessman and baseball  broadcaster)
+0.21 (he; fit; )
+0.96 (The 46-year-old Morgan; is suing; Searle and the city of Los Angeles in federal court)
+0.74 Context(The 46 - year - old Morgan is suing,List([0, 93))):(The 46-year-old Morgan; is suing Searle and the city of Los Angeles in federal court claiming; that he was unfairly targeted because he is black and fit a certain  "profile")
+0.36 Context(The 46 - year - old Morgan is suing claiming,List([0, 156))):(he; was unfairly targeted; because he is black and fit a certain  "profile)
+0.91 (narcotics officers; think; a drug courier should look like)
+0.74 Context(narcotics officers think,List([241, 265))):(a drug courier; should look; like)
+0.28 (he; is; black)
+
+"There's no doubt in our mind that the only reason they stopped Joe Morgan was  because he is black and he was the first black who happened to come by," said  William Barnes, one of the attorneys representing the former ballplayer.
+0.72 (the first black; happened; )
+0.66 (they; stopped; Joe Morgan)
+0.75 (the first black; to come; by)
+0.82 (the only reason they stopped Joe Morgan; was; because he is black and he was the first black)
+0.88 (There's no doubt in our mind that the only reason they stopped Joe Morgan was; said; William Barnes)
+0.28 (he; is; black)
+0.90 (the attorneys; representing; the former ballplayer)
+0.52 (he; was; the first black who happened to come by)
+
+The Morgan case also reflects a growing criticism of police use of the drug  courier profile to stem the flow of drugs through airports.
+0.92 (The Morgan case; reflects; a growing criticism of police)
+
+"It's purely based on race or dress, not on whether you are involved in any  drug activity," said Gary Trichter, a Houston defense lawyer and former police  officer who specializes in such cases.
+0.62 (you; are involved; in any  drug activity)
+0.90 (former police  officer; specializes; in such cases)
+0.88 (It's purely based on race or dress, not on whether you are involved in any  drug activity; said; Gary Trichter)
+0.36 Context(It 's purely based on race or dress , not on whether you are involved in any drug activity said,List([1, 97))):(It; 's purely based; on race or dress, not on whether you are involved in any  drug activity)
+0.38 (Gary Trichter; [is] a defense lawyer [of]; Houston)
+
+First developed in the 1970s, the drug courier profile was based on patterns of  behavior believed to be used by those who use commercial airline flights to  transport narcotics.
+0.92 (the drug courier profile; was based; on patterns of  behavior)
+0.17 (those; use; commercial airline flights; to  transport narcotics)
+0.17 Context(those use,List([113, 126))):(those; use commercial airline flights to transport; narcotics)
+
+Such suspicious behavior include erratic movements, paying  for tickets with cash, using an alias, boarding a long flight without luggage  and staying briefly in distant cities known to be sources of narcotics.
+0.91 (Such suspicious behavior; include; erratic movements)
+0.89 (distant cities; to be; sources of narcotics)
+
+Last year, the U.S. Supreme Court ruled that government agents may stop and  question airline passengers who look and act like drug couriers.
+0.89 (government agents; question; airline passengers who look and act like drug couriers)
+0.70 (airline passengers; look; )
+0.91 (airline passengers; act; like drug couriers)
+0.89 (the U.S. Supreme Court; ruled; that government agents may stop and  question airline passengers; T:Last year)
+0.68 Context(the U.S. Supreme Court ruled,List([11, 39))):(government agents; may stop; )
+
+But the court  said brief detentions must be based on a person's behavior, not just on race or  appearance.
+0.92 (the court; said; brief detentions must be based on a person's behavior, not just on race or  appearance)
+0.92 Context(the court said,List([4, 19))):(brief detentions; must be based; on a person's behavior, not just on race or  appearance)
+
+"Profiles are important and we use them, but exactly how we use them or what  the profile is I cannot tell you," said Los Angeles Police Department Cmdr.
+0.92 (Profiles are important and we use them, but exactly how we use them or what  the profile is I cannot tell you; said; Los Angeles Police Department Cmdr.)
+0.70 Context(Profiles are important and we use them , but exactly how we use them or what the profile is I can not tell you said,List([1, 117))):(Profiles; are; important)
+0.31 (we; use; them)
+0.78 (the profile; is; )
+0.31 (I; can not tell; you)
+
+William Booth.
+
+"It is certainly not something based on any prejudice or racism.
+0.45 (It; is certainly not; something based on any prejudice or racism)
+0.89 (something; based; on any prejudice or racism)
+
+It's based on trying to protect the public."
+0.45 (It; 's based; on trying to protect the public)
+0.41 (It; on trying; to protect the public)
+
+He said that last year, 254  narcotics arrests were made at Los Angeles International Airport.
+0.32 (He; said; that last year, 254  narcotics arrests were made at Los Angeles International Airport)
+
+Through Aug.  3 of this year, there have been 121 such arrests.
+
+Frank Schults, chief of public affairs for the DEA in Washington, denied that  his agency uses drug courier profiles.
+0.63 (Frank Schults; denied; that  his agency uses drug courier profiles)
+0.59 Context(Frank Schults denied,List([0, 72))):(his agency; uses; drug courier profiles)
+0.89 (Frank Schults; [is] chief of; public affairs)
+
+"We have any number of investigative techniques and ways to identify people  involved in moving drugs, but a profile is not one of them," he said.
+0.91 (We have any number of investigative techniques and ways to identify people  involved in moving drugs, but a profile is not one of them; said; he)
+0.40 Context(We have any number of investigative techniques and ways to identify people involved in moving drugs , but a profile is not one of them said,List([1, 145))):(We; have; any number of investigative techniques and ways)
+0.89 (people; involved; in moving drugs)
+0.83 (a profile; is not; one of them)
+0.39 (a profile; is not one of; them)
+
+Neither Booth nor Schults would comment on the Morgan lawsuit, which is  scheduled to go to trial for a second time next month in Los Angeles.
+0.95 (Neither Booth nor Schults; would comment; on the Morgan lawsuit)
+0.96 (the Morgan lawsuit; is scheduled; to go to trial for a second time next month in Los Angeles)
+0.93 (the Morgan lawsuit; to go; to trial; T:for a second time next month in Los Angeles)
+
+Morgan is  seeking unspecified damages, claiming that his civil rights were violated.
+0.64 (Morgan; is seeking; unspecified damages; claiming that his civil rights were violated)
+0.53 Context(Morgan is seeking,List([0, 18))):(Morgan; is seeking unspecified damages claiming; that his civil rights were violated)
+0.31 Context(Morgan is seeking claiming,List([0, 48))):(his civil rights; were violated; )
+
+Last April, a six-person federal jury rejected Morgan's case.
+0.97 (a six-person federal jury; rejected; Morgan's case; T:Last April)
+
+But two months  later, U.S. District Judge Mariana R. Pfaelzer set aside the verdict after  ruling that she had failed to instruct jurors that Morgan had been illegally  detained by police.
+0.23 (she; to instruct; jurors that Morgan had been illegally  detained by police)
+0.88 (jurors; had been illegally detained; by police)
+0.78 (U.S. District Judge Mariana R. Pfaelzer; set; aside; the verdict; T:after  ruling that she had failed to instruct jurors; T:two months  later)
+0.49 Context(U.S. District Judge Mariana R. Pfaelzer set,List([23, 66))):(U.S. District Judge Mariana R. Pfaelzer; set aside after ruling; that she had failed to instruct jurors)
+0.39 Context(U.S. District Judge Mariana R. Pfaelzer set after ruling,List([23, 98))):(she; had failed; to instruct jurors)
+
+"There isn't any possible other conclusion but that the stop was illegal," the  judge concluded.
+0.81 (the stop; was; illegal)
+0.86 (There isn't any possible other conclusion but that the stop was illegal; concluded; the  judge)
+
+Both Searle, a 20-year Police Department veteran, and William Woessner, a DEA  agent who was subsequently dropped from the lawsuit, have denied that they did  anything wrong.
+0.93 (a DEA  agent; was dropped; from the lawsuit; T:subsequently)
+0.74 (Both Searle, a 20-year Police Department veteran, and William Woessner; have denied; that they did  anything wrong)
+0.63 Context(Both Searle , a 20 - year Police Department veteran , and William Woessner have denied,List([0, 143))):(they; did; anything wrong)
+0.88 (Both Searle; [is] a 20-year veteran [of]; Police Department)
+0.38 (William Woessner; [is] a agent [of]; DEA)
+
+"I wish that this hadn't happened," Searle said.
+0.81 (I wish that this hadn't happened; said; Searle)
+0.10 Context(I wish that this had n't happened said,List([1, 47))):(I; wish; that this hadn't happened)
+0.13 Context(I wish that this had n't happened said,List([1, 47))):(this; had n't happened; )
+
+"I wish (Morgan) luck now that  I know who he is.
+0.32 (I; know; who he is)
+0.20 Context(I know,List([32, 38))):(he; is; )
+
+I just hope I never see him again."
+0.26 (I; just hope; I never see him again)
+0.26 Context(I just hope,List([0, 11))):(I; never see; him; T:again)
+
+Morgan could not be reached for comment.
+0.92 (Morgan; could not be reached; for comment)
+
+But in court documents, he said that  on March 15, 1988, he was waiting at Los Angeles International Airport for a  connecting flight to Tucson to attend a golf tournament and was innocently  making a phone call when Searle suddenly grabbed his shoulder and spun him  around.
+0.30 (he; said; that  on March 15, 1988, he was waiting at Los Angeles International Airport for a  connecting flight to Tucson to attend a golf tournament and was innocently  making a phone call; L:in court documents)
+0.58 Context(he said,List([24, 31))):(he; was waiting; L:at Los Angeles International Airport; for a  connecting flight to Tucson; T:on March 15, 1988)
+0.90 (Searle; grabbed; his shoulder; T:suddenly)
+0.93 (Searle; spun; him; around; T:suddenly)
+0.41 (he; to attend; a golf tournament)
+0.42 (he; was innocently making; a phone call when Searle suddenly grabbed his shoulder and spun him  around)
+
+Asked to identify himself, Morgan said he told the officer that his wallet was  in an attache case about 40 feet away but that Searle refused to let him  retrieve it.
+0.83 (Searle; refused; to let him  retrieve it)
+0.83 Context(Searle refused,List([127, 141))):(Searle; refused to let; him  retrieve it)
+0.26 Context(Searle refused to let,List([127, 148))):(him; retrieve; it)
+0.77 (Morgan; said; he told the officer that his wallet was  in an attache case about 40 feet away but that Searle refused to let him  retrieve it)
+0.24 Context(Morgan said,List([27, 38))):(he; told; the officer; that his wallet was  in an attache case about 40 feet away but that Searle refused to let him  retrieve it)
+0.64 Context(Morgan said he told,List([27, 46))):(his wallet; was; in an attache case; T:about 40 feet away)
+
+When a bystander -- who would later testify for Morgan --  recognized the former player and tried to intervene, both men claimed that  Searle warned the man to stay away.
+0.94 (a bystander -- who would later testify for Morgan; recognized; the former player)
+0.89 Context(a bystander -- who would later testify for Morgan recognized,List([5, 69))):(a bystander; would testify; for Morgan; T:later)
+0.77 (the man; to stay; away)
+0.88 (a bystander -- who would later testify for Morgan; tried; to intervene)
+0.90 (both men; claimed; that  Searle warned the man to stay away; T:When a bystander -- who would later testify for Morgan --  recognized the former player and tried to intervene)
+0.90 Context(both men claimed,List([112, 128))):(Searle; warned; the man; to stay away)
+
+Minutes later, Morgan said, Searle grabbed him by the neck and they fell to the  floor.
+0.95 (Morgan; said; Searle grabbed him by the neck and they fell to the  floor; T:later)
+0.93 (Searle; grabbed; him; T:Minutes)
+0.68 (they; fell; to the  floor)
+
+Morgan said the officer then put a knee in his back, wrenched his arms  behind him and handcuffed him.
+0.81 (the officer; wrenched; his arms; behind him)
+0.81 (the officer; handcuffed; him)
+0.89 (Morgan; said; the officer then put a knee in his back, wrenched his arms  behind him and handcuffed him)
+0.89 Context(Morgan said,List([0, 11))):(the officer; put; a knee; in his back; T:then)
+
+He was taken to a small children's nursery in the terminal and interrogated,  but within minutes the officers had confirmed his identity, Morgan said.
+0.17 (He; interrogated; )
+0.90 (the officers; had confirmed; his identity; T:within minutes)
+0.96 (He was taken to a small children's nursery in the terminal and interrogated,  but within minutes the officers had confirmed his identity; said; Morgan)
+0.40 Context(He was taken to a small children 's nursery in the terminal and interrogated , but within minutes the officers had confirmed his identity said,List([0, 149))):(He; was taken; to a small children's nursery; L:in the terminal)
+
+Searle  then offered to free him if he would forget the matter, according to Morgan's  lawsuit.
+0.45 (he; would forget; the matter)
+0.88 (Searle; offered; to free him if he would forget the matter; T:then)
+0.80 Context(Searle offered,List([0, 20))):(Searle; offered to free; him)
+
+Instead, Morgan filed his complaint, in part, to discourage similar  incidents from occurring, his attorneys said.
+0.75 (Instead, Morgan filed his complaint, in part; said; his attorneys)
+0.83 Context(Instead , Morgan filed his complaint , in part said,List([0, 113))):(Morgan; filed; his complaint)
+0.85 Context(Instead , Morgan filed his complaint , in part said,List([0, 113))):(Morgan; filed his complaint to discourage; similar  incidents; from occurring)
+
+"This happened to Joe Morgan, but it really is applicable to any black person  who uses Los Angeles airport," said Oakland attorney Edwin Wilson Jr., who also  is black.
+0.45 (it; really is; applicable to any black person)
+0.91 (any black person; uses; Los Angeles airport)
+0.87 (This happened to Joe Morgan, but it really is applicable to any black person; said; Oakland attorney Edwin Wilson Jr)
+0.37 Context(This happened to Joe Morgan , but it really is applicable to any black person said,List([1, 114))):(This; happened; to Joe Morgan)
+0.38 (Edwin Wilson Jr.; [is] said attorney [of]; Oakland)
+
+"If it wasn't Joe, this could have happened to me or my father or to  any other black person."
+0.57 (it; was n't; Joe)
+0.35 (this; could have happened; to me or my father or to  any other black person)
+
+Searle, 42, denied the allegations but told The Times he could not discuss  specifics of the case.
+0.91 (Searle; denied; the allegations)
+0.87 (Searle; told; The Times; he could not discuss  specifics of the case)
+0.39 Context(Searle told,List([0, 43))):(he; could not discuss; specifics of the case)
+
+"All I can say is that the guy is a great baseball player and appears to be a  good announcer," Searle said.
+0.34 (All; can say; I)
+0.94 (All I can say is that the guy is a great baseball player and appears to be a  good announcer; said; Searle)
+0.57 Context(All I can say is that the guy is a great baseball player and appears to be a good announcer said,List([1, 107))):(All I can say; is; that the guy is a great baseball player and appears to be a  good announcer)
+0.91 Context(All I can say is that the guy is a great baseball player and appears to be a good announcer said,List([1, 107))):(the guy; is; a great baseball player)
+
+"I wish it didn't happen.
+0.32 (I; wish; it didn't happen)
+0.16 Context(I wish,List([1, 7))):(it; did n't happen; )
+
+He just sort of went  out of control."
+0.45 (He; just sort of went; out of control)
+
+Assistant City Atty.
+
+Honey A. Lewis, who represents the officer and the Police  Department, said Searle had acted properly and was merely asking Morgan to  identify himself when Morgan suddenly became belligerent, spewing profanities  and slapping the officer.
+0.88 (Morgan; to identify; himself; T:when Morgan suddenly became belligerent)
+0.91 (Honey A. Lewis; said; Searle had acted properly and was merely asking Morgan to  identify himself)
+0.92 Context(Honey A. Lewis said,List([0, 75))):(Honey A. Lewis; said Searle had acted properly and was merely asking Morgan to  identify himself represents; the officer and the Police  Department)
+0.73 Context(Honey A. Lewis said,List([0, 75))):(Searle; had acted properly; )
+0.80 (Morgan; suddenly became; belligerent)
+0.91 (Morgan; spewing; profanities)
+0.89 (Searle; was; merely asking Morgan to  identify himself)
+0.86 (Searle; merely asking; Morgan; to  identify himself when Morgan suddenly became belligerent,)
+
+"My argument is that Mr. Morgan overreacted," Lewis said.
+0.85 (My argument is that Mr. Morgan overreacted; said; Lewis)
+0.45 Context(My argument is that Mr. Morgan overreacted said,List([1, 56))):(My argument; is; that Mr. Morgan overreacted)
+0.75 Context(My argument is that Mr. Morgan overreacted said,List([1, 56))):(Mr. Morgan; overreacted; )
+
+"If he had  cooperated, none of this would have happened.
+0.19 (he; had cooperated; )
+0.75 (none of this; would have happened; )
+
+I think he had a bruised ego, and  he was offended because the officer hadn't recognized him."
+0.31 (he; was offended; because the officer hadn't recognized him)
+0.83 (the officer; had n't recognized; him)
+0.32 (I; think; he had a bruised ego)
+0.47 Context(I think,List([0, 7))):(he; had; a bruised ego)
+
+According to Searle's sworn court deposition, the incident began after he and  Woessner, working together as members of an airport anti-drug task force, had  arrested a passenger as a suspected drug courier.
+0.73 (the incident; began; )
+0.69 (he and  Woessner; working together; as members of an airport anti-drug task force)
+
+They said he was using an  alias.
+0.41 (They; said; he was using an  alias)
+0.40 Context(They said,List([0, 9))):(he; was using; an  alias)
+
+Although the officers found no drugs in his possession, Searle said they  discovered that the passenger was holding a second plane ticket, and they began  looking for his companion.
+0.83 (the officers; found; no drugs; L:in his possession)
+0.41 (they; began; looking for his companion)
+0.41 Context(they began,List([143, 153))):(they; began looking; for his companion)
+0.74 (Searle; said; they  discovered that the passenger was holding a second plane ticket)
+0.31 Context(Searle said,List([56, 67))):(they; discovered; that the passenger was holding a second plane ticket)
+0.88 Context(Searle said they discovered,List([56, 84))):(the passenger; was holding; a second plane ticket)
+
+Since the passenger was black and indicated that his  companion "looked like me," the officer began looking for a black man who was  nervous-looking or having "other characteristics of a narcotics courier."
+0.81 (the passenger; was; black)
+0.95 (a black man; was; nervous-looking or having "other characteristics of a narcotics courier)
+0.56 (the passenger; indicated; that his  companion "looked like me)
+0.39 Context(the passenger indicated,List([6, 43))):(his  companion; looked; like me)
+0.88 (a black man; having; other characteristics of a narcotics courier)
+0.73 (the officer; began; )
+0.89 (the officer; looking; for a black man)
+
+When they spotted Morgan, Searle said, he tried to speak to him but Morgan  started screaming profanities and "making animal noises" and hit him in the  chest with a wild swing.
+0.66 (they; spotted; Morgan)
+0.41 (he; screaming; profanities)
+0.93 (Searle; said; he tried to speak to him but Morgan  started screaming profanities and "making animal noises" and hit him in the  chest with a wild swing; T:When they spotted Morgan)
+0.26 Context(Searle said,List([26, 37))):(he; tried; to speak to him)
+0.26 Context(Searle said he tried,List([26, 47))):(he; tried to speak; to him)
+0.33 (he; hit; him; L:in the  chest; with a wild swing)
+
+In his suit, Morgan denies that and contends that he suffered "acute physical  and emotional distress and embarrassment" after the incident and expressed  concern about damage to his reputation.
+0.80 (Morgan; denies; that; L:In his suit)
+0.27 (he; expressed; concern about damage to his reputation)
+0.81 (Morgan; contends; that he suffered "acute physical  and emotional distress and embarrassment" after the incident and expressed  concern about damage to his reputation; L:In his suit)
+0.35 Context(Morgan contends,List([13, 44))):(he; suffered; acute physical  and emotional distress and embarrassment; T:after the incident)
+
+RELATED STORY: C14 
+

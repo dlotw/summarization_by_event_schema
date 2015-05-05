@@ -1,0 +1,149 @@
+_Alabama: Seventeen people were killed in Huntsville on Wednesday when a tornado touched down just before rush hour, causing major damage.
+0.95 (Seventeen people; were killed; L:in Huntsville; T:on Wednesday; T:when a tornado touched down just before rush hour, causing major damage)
+0.88 (a tornado; touched down; T:just before rush hour)
+0.82 Context(a tornado touched down,List([71, 93))):(a tornado; touched down causing; major damage)
+
+There were 463 injuries and about 1,000 people left homeless, authorities said.
+0.79 (There were 463 injuries and about 1,000 people; said; authorities)
+
+Three people were injured in an earlier tornado in Clay County in eastern Alabama.
+0.95 (Three people; were injured; L:in an earlier tornado in Clay County in eastern Alabama)
+
+_District of Columbia: Heavy thunderstorms packing 50-60 mph winds swept through the Washington area during the Thursday morning rush hour, flooding some streets.
+0.94 (50-60 mph winds; swept; through the Washington area; T:during the Thursday morning rush hour)
+0.95 (Heavy; thunderstorms; packing 50-60 mph winds swept through the Washington area during the Thursday morning rush hour, flooding some streets)
+0.95 Context(Heavy thunderstorms,List([23, 42))):(Heavy; thunderstorms packing; 50-60 mph winds swept through the Washington area during the Thursday morning rush hour)
+0.86 Context(Heavy thunderstorms,List([23, 42))):(Heavy; thunderstorms flooding; some streets)
+
+About 10,000 customers lost power, mostly in the Maryland suburbs.
+0.94 (About 10,000 customers; lost; power; L:mostly in the Maryland suburbs)
+
+No injuries were reported.
+0.73 (No injuries; were reported; )
+
+_Georgia: 19 people were injured, four critically, and at least 200 people were evacuated Wednesday after a tornado struck two mobile home parks and an interstate highway near Palmetto, about 25 miles southeast of Atlanta.
+0.73 (19 people; were injured; )
+0.96 (a tornado; struck; two mobile home parks and an interstate highway near Palmetto, about 25 miles southeast of Atlanta)
+
+_Illinois: Strong winds Wednesday morning destroyed about 15 homes and killed one woman in St. Clair County in southwestern Illinois.
+0.94 (_Illinois; destroyed; about 15 homes; T:Wednesday morning)
+
+Damage was estimated at $3 million to $5 million.
+0.75 (Damage; was estimated; at $3 million to $5 million)
+
+_Indiana: A tornado was spotted Wednesday afternoon around Richmond, close to the Ohio border.
+0.92 (A tornado; was spotted; T:Wednesday afternoon; L:around Richmond)
+
+It ripped the top off a silo and tipped a semi-trailer into a ditch.
+0.45 (It; ripped; the top; off a silo)
+0.41 (It; tipped; a semi-trailer; into a ditch)
+
+The driver was slightly injured.
+0.73 (The driver; was slightly injured; )
+
+_Kentucky: The storm Wednesday left at least 28 people injured; damage was estimated at $2.5 million or more.
+0.96 (Wednesday; left; at least 28 people; injured; T:The storm)
+0.77 (at least 28 people; injured; )
+0.75 (damage; was estimated; at $2.5 million or more)
+
+A storm believed to have been a tornado cut a mile-long swath of destruction through the town of Flaherty in Meade County.
+0.73 (A storm; believed; )
+0.94 (A storm; to have been; a tornado cut a mile-long swath of destruction through the town of Flaherty in Meade County)
+0.93 (a tornado; cut; a mile-long swath of destruction)
+
+Damage was also reported in Bullitt, LaRue, Hardin and Pendleton counties.
+0.87 (Damage; was reported; L:in Bullitt, LaRue, Hardin and Pendleton counties)
+
+_Maryland, Delaware: Heavy winds on Thursday leveled a church building in Kent County, Md., lifted roofs from buildings in Baltimore and cut power to tens of thousands of utility customers, authorities said.
+0.94 (Heavy winds on Thursday; lifted; roofs; from buildings in Baltimore)
+0.94 (Heavy winds on Thursday; cut; power; to tens of thousands of utility customers)
+0.99 (_Maryland, Delaware: Heavy winds on Thursday leveled a church building in Kent County, Md., lifted roofs from buildings in Baltimore and cut power to tens of thousands of utility customers; said; authorities)
+0.94 Context(_Maryland , Delaware : Heavy winds on Thursday leveled a church building in Kent County , Md . , lifted roofs from buildings in Baltimore and cut power to tens of thousands of utility customers said,List([0, 206))):(Heavy winds on Thursday; leveled; a church building in Kent County)
+
+Reports of tornado damage came from Kent County, Md., and Hockessin, Del.
+0.93 (Reports of tornado damage; came; from Kent County, Md., and Hockessin)
+
+National Weather Service officials were unable to immediately confirm the reports.
+0.94 (National Weather Service officials; were; unable to immediately confirm the reports)
+0.94 (National Weather Service officials; to confirm; the reports; T:immediately)
+
+No injuries were reported.
+0.73 (No injuries; were reported; )
+
+_Mississippi: Scattered damage and power outages were reported Wednesday after radar showed tornadoes in Neshoba and Kemper counties in the east-central portion of the state.
+0.96 (Scattered damage and power outages; were reported; T:Wednesday; T:after radar showed tornadoes in Neshoba and Kemper counties in the east-central portion of the state)
+0.94 (radar; showed; tornadoes in Neshoba and Kemper counties in the east-central portion of the state)
+
+No injuries were reported.
+0.73 (No injuries; were reported; )
+
+_New Jersey: High winds and tornadoes were blamed for one death, at least four injuries and widespread damage and power outages Thursday.
+0.96 (High winds and tornadoes; were blamed; for one death, at least four injuries and widespread damage and power outages Thursday)
+
+A tornado touched down in Piscataway shortly after noon, collapsing on house and damaging 10 to 12 others.
+0.90 (A tornado; touched down; L:in Piscataway; T:shortly after noon)
+0.82 Context(A tornado touched down,List([0, 22))):(A tornado; touched down collapsing; on house)
+0.82 Context(A tornado touched down,List([0, 22))):(A tornado; touched down damaging; 10 to 12 others)
+
+One person suffered a minor injury.
+0.90 (One person; suffered; a minor injury)
+
+A bridge connecting Elizabeth with New York City was closed after two tractor trailers overturned in heavy winds; one truck driver died and a passenger was injured.
+0.92 (A bridge; connecting; Elizabeth)
+0.91 (two tractor trailers; overturned; L:in heavy winds)
+0.75 (one truck driver; died; )
+0.73 (a passenger; was injured; )
+
+Two minor injuries were reported in Bergen County.
+0.93 (Two minor injuries; were reported; L:in Bergen County)
+
+_New York: A severe thunderstorm Thursday sent a tree crashing through an elementary school roof in Newburgh, about 60 miles north of New York City, killing at least seven children and injuring 18, authorities said.
+0.92 (a tree; crashing; through an elementary school roof in Newburgh)
+0.99 (_New York: A severe thunderstorm Thursday sent a tree crashing through an elementary school roof in Newburgh, about 60 miles north of New York City; said; authorities)
+0.98 Context(_New York : A severe thunderstorm Thursday sent a tree crashing through an elementary school roof in Newburgh , about 60 miles north of New York City said,List([0, 214))):(Thursday; sent; a tree crashing through an elementary school roof in Newburgh, about 60 miles north of New York City,; about 60 miles north of New York City; T:A severe thunderstorm)
+
+In New York City, a woman was killed by a 12-foot steel beam that apparently had blown off her apartment's water tower.
+0.95 (a woman; was killed; by a 12-foot steel beam; L:In New York City)
+0.86 (a 12-foot steel beam; apparently had blown off; her apartment's water tower)
+
+Tornadoes were reported in Peekskill, just north of the city.
+0.91 (Tornadoes; were reported; L:in Peekskill; just north of the city)
+
+_North Carolina: A pair of tornadoes were reported Wednesday in Henderson County, where a vacant house was destroyed.
+0.95 (a vacant house; was destroyed; L:Henderson County)
+
+No injuries were reported.
+0.73 (No injuries; were reported; )
+
+_Ohio: High winds described by local authorities as a tornado hopscotched across north-central Ohio on Wednesday, ripping roofs off barns and houses, destroying farm sheds and damaging trailer homes.
+0.95 (High winds; described; by local authorities; as a tornado hopscotched across north-central Ohio on Wednesday)
+0.90 (a tornado; hopscotched; across north-central Ohio; T:on Wednesday)
+0.82 Context(a tornado hopscotched,List([52, 73))):(a tornado; hopscotched destroying; farm sheds)
+
+One man was hospitalized from a lightning strike and a woman was slightly injured by flying debris.
+0.90 (One man; was hospitalized; from a lightning strike)
+0.90 (a woman; was slightly injured; by flying debris)
+
+_Pennsylvania: High winds and funnel clouds ripped off roofs and downed trees in eastern Pennslyvania on Thursday, shattering windows in Philadelphia skyscrapers.
+0.93 (High winds and funnel clouds; downed; trees; L:in eastern Pennslyvania; T:on Thursday)
+
+No serious injuries were reported, but at least 75,000 customers in southeastern Pennsylvania lost power.
+0.75 (No serious injuries; were reported; )
+0.96 (at least 75,000 customers in southeastern Pennsylvania; lost; power)
+
+_South Carolina: A tornado Wednesday downed power lines and damaged 20 houses near Greenwood.
+0.95 (Wednesday; downed; power lines; T:A tornado)
+0.95 (Wednesday; damaged; 20 houses near Greenwood; T:A tornado)
+
+No injuries were reported.
+0.73 (No injuries; were reported; )
+
+_West Virginia: High winds knocked over trees, ripped roofs off houses and toppled a trailer early Thursday in Jefferson County, just west of Frederick, Md., injuring four members of one family, two seriously.
+0.90 (High winds; knocked; over trees)
+0.89 (High winds; ripped; roofs; off houses)
+0.90 (High winds; toppled just west; T:early Thursday)
+
+The National Weather Service said the storm probably was a tornado.
+0.92 (The National Weather Service; said; the storm probably was a tornado)
+0.88 Context(The National Weather Service said,List([0, 33))):(the storm; probably was; a tornado)
+

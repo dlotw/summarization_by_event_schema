@@ -1,0 +1,60 @@
+GOVERNMENT veterinary and health experts were yesterday putting out reassuring messages about bovine spongiform encephalopathy (BSE), or 'mad cow' disease, in the face of growing public anxiety.
+0.93 (GOVERNMENT veterinary and health experts; were; T:yesterday; putting out reassuring messages about bovine spongiform encephalopathy (BSE), or 'mad cow' disease, in the face of growing public anxiety)
+
+Dr Kenneth Calman, the government's chief medical officer, yesterday repeated the official advice that beef can be eaten safely: 'There is no scientific evidence of a causal link between BSE in cattle and CJD in humans.'
+0.89 (Dr Kenneth Calman; repeated; the official advice that beef can be eaten safely: 'There is no scientific evidence of a causal link between BSE in cattle and CJD in humans; T:yesterday)
+0.73 (that beef; can be eaten safely; )
+0.89 (Dr Kenneth Calman; [is] chief medical officer [of]; the government)
+0.39 (' There; is no scientific evidence of; a causal link)
+
+One cause of concern is that the number of cases is continuing to rise, in spite of forecasts from the Ministry of Agriculture that the incidence of cases would peak last year and then decline rapidly.
+0.74 (the number of cases; to rise; )
+0.92 (the incidence of cases; would peak; T:last year)
+0.86 (the incidence of cases; decline rapidly; T:then)
+0.89 (One cause of concern; is; that the number of cases is continuing to rise, in spite of forecasts from the Ministry of Agriculture that the incidence of cases would peak last year and then decline rapidly)
+0.73 Context(One cause of concern is,List([0, 23))):(the number of cases; is continuing; )
+
+Farmers reported 8,581 animals with BSE during the first nine weeks of this year compared with 8,099 in the same period last year.
+0.94 (Farmers; reported; 8,581 animals; with BSE; T:during the first nine weeks of this year compared with 8,099 in the same period last year)
+
+Another fear is that BSE could cause illness in humans.
+0.81 (Another fear; is; that BSE could cause illness in humans)
+0.83 Context(Another fear is,List([0, 15))):(BSE; could cause; illness; L:in humans)
+
+It was revealed this week that Mr Peter Warhurst, a dairy farmer whose herd had a BSE case in 1989, died last year of Creutzfeld-Jacob disease.
+0.93 (a dairy farmer; had; a BSE case; T:in 1989)
+0.40 (It; was revealed; T:this week)
+0.92 Context(It was revealed,List([0, 15))):(Mr Peter Warhurst; died; T:last year; of Creutzfeld-Jacob disease)
+
+Both BSE and CJD are caused by mysterious particles of infectious protein called prions.
+0.89 (Both BSE and CJD; are caused; by mysterious particles of infectious protein)
+0.90 (infectious protein; called; prions)
+
+Dr Robert Will of Western General Hospital, Edinburgh, who is monitoring all CJD cases in the UK for the Department of Health, drew attention to Mr Warhurst's case without naming him in the Lancet, a medical journal.
+0.93 (Western General Hospital; is monitoring; all CJD cases; for the Department of Health)
+0.93 (Dr Robert Will of Western General Hospital; drew; attention; to Mr Warhurst's case)
+
+He says he now regrets writing to the Lancet because of the unnecessary alarm caused.
+0.75 (the unnecessary alarm; caused; )
+0.40 (He; says; he now regrets writing to the Lancet because of the unnecessary alarm)
+0.54 Context(He says,List([0, 7))):(he; regrets; writing to the Lancet; because of the unnecessary alarm; T:now)
+0.39 Context(He says he regrets,List([0, 22))):(he; regrets writing; to the Lancet)
+
+Statistical analysis, taking account of the average national incidence of CJD and the number of people working on BSE-affected dairy farms, shows that the probability of one CJD case having occurred among the latter group by chance is about 1 in 20.
+0.91 (people; working; on BSE-affected dairy farms)
+0.93 (one CJD case; having occurred; L:among the latter group by chance)
+0.85 (Statistical analysis; shows; that the probability of one CJD case having occurred among the latter group by chance is about 1 in 20)
+0.92 Context(Statistical analysis shows,List([0, 145))):(Statistical analysis; shows taking; account of the average national incidence of CJD and the number of people)
+0.94 Context(Statistical analysis shows,List([0, 145))):(the probability of one CJD case having occurred among the latter group by chance; is; about 1 in 20)
+0.39 (chance; is about 1 in; 20)
+
+Even so, Dr Will believes that Mr Warhurst's disease was a coincidence not related to BSE exposure.
+0.92 (a coincidence; not related; to BSE exposure)
+0.69 (Dr Will; believes; that Mr Warhurst's disease was a coincidence)
+0.95 Context(Dr Will believes,List([9, 25))):(Mr Warhurst's disease; was; a coincidence not related to BSE exposure)
+
+His study has shown no change in the pattern of CJD since BSE started and no other cases among people working with cattle, such as abattoir staff or vets.
+0.68 (His study; has shown; no change in the pattern of CJD; T:since BSE started and no other cases among people)
+0.63 (BSE; started; )
+0.89 (people; working; with cattle, such as abattoir staff or vets)
+

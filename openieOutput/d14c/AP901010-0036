@@ -1,0 +1,67 @@
+A U.S. Air Force F-111 fighter-bomber crashed today in Saudi Arabia, killing both crew members, U.S. military officials reported.
+0.92 (A U.S. Air Force F-111 fighter-bomber; killing; both crew members)
+0.97 (A U.S. Air Force F-111 fighter-bomber crashed today in Saudi Arabia; reported; U.S. military officials)
+0.93 Context(A U.S. Air Force F - 111 fighter - bomber crashed today in Saudi Arabia reported,List([0, 128))):(A U.S. Air Force F-111 fighter-bomber; crashed; T:today; L:in Saudi Arabia)
+
+It was the fourth American aircraft to crash in three days among those deployed to this kingdom for Operation Desert Shield.
+0.44 (It; was; the fourth American aircraft to crash in three days among those deployed to this kingdom for Operation Desert Shield)
+0.89 (the fourth American aircraft; to crash; T:in three days; L:among those deployed to this kingdom for Operation Desert Shield)
+0.23 (those; deployed; to this kingdom)
+
+Eight Marines are missing in the crash of two helicopters in the northern Arabian Sea on Monday.
+0.96 (Eight Marines; are missing; L:in the crash of two helicopters in the northern Arabian Sea; T:on Monday)
+
+An Air Force F-4 reconnaissance jet also went down that day, killing both crew members.
+0.88 (An Air Force F-4 reconnaissance jet; went; down; T:that day)
+0.91 Context(An Air Force F - 4 reconnaissance jet went,List([0, 45))):(An Air Force F-4 reconnaissance jet; went killing; both crew members)
+
+Lt. Cmdr.
+
+J.D. van Sickle, a military spokesman, said the F-111 crashed in the ``southern Arabian peninsula'' while on a training mission and that the incident was under investigation.
+0.93 (the incident; was; under investigation)
+0.87 (J.D. van Sickle; said; the F-111 crashed in the ``southern Arabian peninsula'' while on a training mission and that the incident was under investigation)
+0.92 Context(J.D. van Sickle said,List([0, 43))):(the F-111; crashed; T:in the ``southern Arabian peninsula; T:while on a training mission)
+
+The names of the flyers were withheld pending notification of next of kin.
+0.79 (The names of the flyers; were withheld; )
+
+The aircraft was attached the 48th Tactical Fighter Wing based at RAF Lakenheath Air Base in Britain.
+0.73 (The aircraft; was attached; )
+0.95 (the 48th Tactical Fighter Wing; based; L:at RAF Lakenheath Air Base in Britain)
+
+The wing was sent to Turkey as U.S. forces massed in the region in response to Iraq's Aug. 2 takeover of Kuwait.
+0.95 (The wing; was sent; to Turkey; T:as U.S. forces massed in the region in response to Iraq's Aug)
+0.94 (U.S. forces; massed; L:in the region; in response to Iraq's Aug)
+
+Today's crash brought to at least nine the number of Americans killed in the Persian Gulf region since Operation Desert Shield began.
+0.93 (Today's crash; brought; to at least nine; the number of Americans)
+0.93 (Americans; killed; L:in the Persian Gulf region)
+0.80 (Operation Desert Shield; began; )
+
+The eight Marines aboard the two UH-1 Huey helicopters that vanished Monday are still officially listed as missing.
+0.95 (the two UH-1 Huey helicopters; vanished; T:Monday)
+0.91 (The eight Marines aboard the two UH-1 Huey helicopters; are officially listed; as missing; T:still)
+
+In addition to those killed in Saudi Arabia, 13 other Air Force personnel were killed in a crash of a C-5 jet cargo plane in Germany.
+0.27 (those; killed; L:in Saudi Arabia)
+0.97 (13 other Air Force personnel; were killed; L:in a crash of a C-5 jet cargo plane in Germany)
+
+That aircraft was ferrying supplies and equipment to the Saudi peninsula.
+0.90 (That aircraft; was ferrying; supplies and equipment; to the Saudi peninsula)
+
+Officials said the F-111 crashed at dawn.
+0.89 (Officials; said; the F-111 crashed at dawn)
+0.92 Context(Officials said,List([0, 14))):(the F-111; crashed; T:at dawn)
+
+The aircraft was an F-model, the latest version of the 23-year-old swing-wing jet that first saw action in Vietnam.
+0.94 (The aircraft; was; an F-model)
+0.98 (the 23-year-old swing-wing jet; saw; action in Vietnam; T:first)
+
+The F-model has more powerful engines, and state-of-the-art equipment to operate against enemy targets at night.
+0.97 (The F-model; has; more powerful engines, and state-of-the-art equipment)
+0.96 (more powerful engines, and state-of-the-art equipment; to operate; T:at night)
+
+The plane can carry up to 12 tons of bombs and missiles and has a crew of two, a pilot and a weapons systems officer.
+0.90 (The plane; can carry; up to 12 tons of bombs and missiles)
+0.91 (The plane; has; a crew of two)
+

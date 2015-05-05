@@ -1,0 +1,54 @@
+A U.S. military jet crashed today in a remote, forested area in northern Japan, but the pilot bailed out safely and was taken by helicopter to an American military base, officials said.
+0.73 (the pilot; bailed out safely; )
+0.89 (the pilot; was taken; by helicopter)
+1.00 (A U.S. military jet crashed today in a remote, forested area in northern Japan, but the pilot bailed out safely and was taken by helicopter to an American military base; said; officials)
+0.94 Context(A U.S. military jet crashed today in a remote , forested area in northern Japan , but the pilot bailed out safely and was taken by helicopter to an American military base said,List([0, 184))):(A U.S. military jet; crashed; T:today; L:in a remote, forested area in northern Japan)
+
+The pilot of the F-16C, Maj.
+
+Wyman E. Vanedoe, was listed in good condition soon after the crash, the U.S. Forces Japan Media Liaison Office in Tokyo said.
+0.98 (Wyman E. Vanedoe, was listed in good condition soon after the crash; said; the U.S. Forces Japan Media Liaison Office in Tokyo)
+0.89 Context(Wyman E. Vanedoe , was listed in good condition soon after the crash said,List([0, 125))):(Wyman E. Vanedoe; was listed; T:soon after the crash)
+
+Vanedoe's home town was not immediately available, said a U.S. official who spoke on condition of anonymity.
+0.95 (Vanedoe's home town was not immediately available; said; a U.S. official)
+0.81 Context(Vanedoe 's home town was not immediately available said,List([0, 55))):(Vanedoe's home town; was not; immediately available)
+0.73 Context(Vanedoe 's home town was not immediately available said,List([0, 55))):(a U.S. official; spoke; )
+
+Isao Teranagare, spokesman of Iwate Prefecture (state) Police, said the pilot was taken by a Japanese rescue helicopter to the U.S. Air Base at Misawa in northern Japan.
+0.94 (Isao Teranagare; said; the pilot was taken by a Japanese rescue helicopter to the U.S. Air Base at Misawa in northern Japan)
+0.88 Context(Isao Teranagare said,List([0, 67))):(the pilot; was taken; by a Japanese rescue helicopter)
+0.89 (Isao Teranagare; [is] spokesman of; Iwate Prefecture ( state ) Police)
+
+No one else was aboard the fighter, he said.
+0.91 (No one else was aboard the fighter; said; he)
+0.92 Context(No one else was aboard the fighter said,List([0, 43))):(No one else; was; aboard the fighter)
+
+The U.S. aircraft, belonging to the 14th Tactical Fighter Squadron at Misawa, was on a routine training flight with two other F-16s in partly cloudy skies when it crashed in a forested area in Iwate, police said.
+0.93 (The U.S. aircraft; belonging; to the 14th Tactical Fighter Squadron at Misawa)
+0.50 (it; crashed; L:in a forested area in Iwate)
+0.99 (The U.S. aircraft, belonging to the 14th Tactical Fighter Squadron at Misawa, was on a routine training flight with two other F-16s in partly cloudy skies; said; T:when it crashed in a forested area in Iwate)
+0.96 Context(The U.S. aircraft , belonging to the 14th Tactical Fighter Squadron at Misawa , was on a routine training flight with two other F - 16 s in partly cloudy skies said,List([0, 211))):(The U.S. aircraft; was; on a routine training flight with two other F-16s in partly cloudy skies)
+
+Iwate is about 290 miles north of Tokyo.
+0.95 (Iwate; is; about 290 miles north of Tokyo)
+
+The cause of the crash was under investigation.
+0.94 (The cause of the crash; was; under investigation)
+
+On March 22, 1987, another F-16 crashed in the Pacific Ocean off Misawa, 360 miles north of Tokyo.
+0.97 (another F-16; crashed; L:in the Pacific Ocean; off Misawa; L:360 miles north of Tokyo; T:On March 22, 1987)
+
+In that crash, the pilot also bailed out and was rescued by a helicopter.
+0.81 (the pilot; bailed out; L:In that crash)
+0.89 (the pilot; was rescued; by a helicopter)
+
+The F-16, a powerful air-to-surface fighter, has a combat range of about 575 miles, according to Jane's ``All The World's Aircraft.''
+0.94 (The F-16; has; a combat range of about 575 miles)
+
+About 50 F-16s are stationed at Misawa.
+0.96 (About 50 F-16s; are stationed; at Misawa)
+
+Misawa is located about 440 miles south of a Soviet military base near Yuzhno Sakhalinsk on the island of Sakhalin.
+0.96 (Misawa; is located; L:about 440 miles south of a Soviet military base near Yuzhno Sakhalinsk on the island of Sakhalin)
+

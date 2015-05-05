@@ -1,0 +1,172 @@
+What's the link?
+
+A poor ventilation system that does little more than recycle old, stale air from one end of the building to another.;   Millions of American office workers are getting more than they bargained for when they inhale in a building that has no fresh air.
+0.94 (A poor ventilation system; does; little more than recycle old, stale air from one end of the building to another)
+0.91 (a building; has; no fresh air)
+0.87 (Millions of American office workers; are getting; more than they bargained; for when they inhale in a building)
+0.32 (they; bargained; )
+0.62 (they; inhale; L:in a building)
+
+Along with oxygen, they may be getting flu and other infectious bugs from their co-workers.;
+0.61 (they; may be getting; flu and other infectious bugs; from their co-workers; T:Along with oxygen)
+
+That's because, in today's modern office buildings, recirculated air can mean recycled flu and other airborne infections.
+0.57 (That; 's; because, in today's modern office buildings, recirculated air can mean recycled flu and other airborne infections)
+0.94 (recirculated air; can mean; recycled flu and other airborne infections; L:in today's modern office buildings)
+
+The evidence comes from various studies of tuberculosis, measles and flu that spread in a manner that can only be explained by poor air ventilation.;
+0.90 (The evidence; comes; from various studies of tuberculosis, measles and flu)
+0.93 (various studies of tuberculosis, measles and flu; spread; L:in a manner)
+0.89 (a manner; can only be explained; by poor air ventilation)
+
+"Modern office buildings are tight," says Jon Rosenberg, public health officer in California's occupational health program.
+0.91 (Modern office buildings are tight; says; Jon Rosenberg)
+0.74 Context(Modern office buildings are tight says,List([1, 41))):(Modern office buildings; are; tight)
+0.38 (Jon Rosenberg; [is] public health officer in; California)
+
+"In order to conserve energy, they're often sealed.";
+0.35 (they; 're sealed; T:often)
+
+Experts say the problem is not the same as "sick building syndrome" -- a situation in which workers are exposed chronically to toxic chemicals and gases emitted from carpets, furniture and other building materials.
+0.94 (workers; are exposed chronically; to toxic chemicals and gases; L:a situation)
+0.92 (toxic chemicals and gases; emitted; from carpets, furniture and other building materials)
+0.92 (Experts; say; the problem is not the same as "sick building syndrome)
+0.88 Context(Experts say,List([0, 11))):(the problem; is not; the same as "sick building syndrome)
+
+Nor is it to blame for last month's outbreak in Richmond of Legionnaire's disease -- an illness caused by a bug linked to wet, damp spaces rather than poor ventilation.;
+0.61 (it; to blame; for last month's outbreak in Richmond of Legionnaire's disease)
+0.90 (an illness; caused; by a bug)
+0.73 (a bug; linked; )
+
+But as in "sick building syndrome," it's the airtight environment that sets the stage for problems.
+0.29 (it; 's; the airtight environment that sets the stage for problems)
+0.92 (the airtight environment; sets; the stage; for problems)
+
+Lack of windows is not necessarily the culprit.
+0.91 (Lack of windows; is not necessarily; the culprit)
+
+"If it has a good ventilation system . . .
+0.52 (it; has; a good ventilation system)
+
+you don't necessarily have to have a sick building," Rosenberg says.;
+0.58 (you; to have; a sick building)
+0.85 (you don't necessarily have to have a sick building; says; Rosenberg)
+
+But, alas, many modern ventilation systems recirculate indoor air with little or no fresh air.
+0.92 (many modern ventilation systems; recirculate; indoor air)
+
+So the infectious bugs that a worker exhales at one end of the building can end up, via the ventilation system, being inhaled at the other end.;   "The building is not the source.
+0.90 (the infectious bugs; exhales; T:at one end of the building)
+0.96 (the infectious bugs that a worker exhales at one end of the building; can end up; being inhaled at the other end)
+0.96 (the infectious bugs that a worker exhales at one end of the building; being inhaled; T:at the other end)
+0.90 (The building; is not; the source)
+
+People are the source," says Dr. Edward Nardell, who studies airborne infections for the Massachusetts Department of Public Health.
+0.90 (People are the source; says; Dr. Edward Nardell)
+0.87 Context(People are the source says,List([0, 28))):(People; are; the source)
+0.92 Context(People are the source says,List([0, 28))):(Dr. Edward Nardell; studies; airborne infections for the Massachusetts Department of Public Health)
+
+"Very bad ventilation makes the system worse.";
+0.91 (Very bad ventilation; makes; the system worse)
+
+In a study published in the August issue of the American Review of Respiratory Diseases, Nardell and colleagues at Harvard Medical School found that an outbreak of tuberculosis documented in one unidentified government building could have been cut in half had the ventilation been better.;
+0.95 (a study; published; L:in the August issue of the American Review of Respiratory Diseases, Nardell and colleagues at Harvard Medical School)
+0.92 (an outbreak of tuberculosis; documented; L:in one unidentified government building)
+
+The study found that 40 percent of the building's workers -- or 27 of 47 -- were infected with tuberculosis from one 30-year-old sick employee.
+0.81 (The study; found; that 40 percent of the building's workers -- or 27 of 47 -- were infected with tuberculosis from one 30-year-old sick employee)
+0.94 Context(The study found,List([0, 15))):(40 percent of the building's workers -- or 27 of 47; were infected; with tuberculosis; from one 30-year-old sick employee)
+
+The infection rate was as high in some distant parts of the building as it was next to the sick employee.;
+0.92 (The infection rate; was; as high in some distant parts of the building as it was next to the sick employee)
+0.52 (it; was; next to the sick employee)
+
+"By recirculating the air, you spread it throughout the building," says Nardell. "People who had no direct contact with this case, might have been exposed in far reaches of the building.";
+0.90 (People; had; no direct contact with this case)
+0.84 (By recirculating the air, you spread it throughout the building; says; Nardell; People who had no direct contact with this case, might have been exposed in far reaches of the building)
+0.40 Context(By recirculating the air , you spread it throughout the building says,List([1, 71))):(you; spread; it; L:throughout the building)
+0.92 Context(By recirculating the air , you spread it throughout the building says,List([1, 71))):(People who had no direct contact with this case; might have been exposed; L:in far reaches of the building)
+
+If tuberculosis can spread in poorly ventilated buildings, so can other infectious bugs.
+0.89 (tuberculosis; can spread; L:in poorly ventilated buildings)
+
+Respiratory infection experts say that flu viruses and measles are easier to spread than TB.;   "This particular study deals only with TB," says Dr. Jonathan Samet, a respiratory-disease expert at the University of New Mexico, "but the observations may apply to other organisms, such as the respiratory viruses that cause flu.";
+0.90 (the observations; may apply; to other organisms, such as the respiratory viruses)
+0.90 (the respiratory viruses; cause; flu)
+0.94 (This particular study deals only with TB; says; Dr. Jonathan Samet)
+0.85 Context(This particular study deals only with TB says,List([97, 144))):(Respiratory infection experts; say; that flu viruses and measles are easier to spread than TB)
+0.92 Context(Respiratory infection experts say This particular study deals only with TB says,List([0, 144))):(flu viruses and measles; are; easier to spread than TB)
+0.91 Context(This particular study deals only with TB says,List([97, 144))):(This particular study; deals; only with TB)
+0.38 (Dr. Jonathan Samet; [is] a respiratory-disease expert at; the University)
+
+Building workers had complained for years about poor air quality.;
+0.88 (Building workers; had complained; T:for years about poor air quality)
+
+The building's ventilation system permitted circulation of some outdoor air -- 15 cubic feet per minute -- a low level commonly found in buildings since the 1930s.
+0.93 (The building's ventilation system; permitted; circulation of some outdoor air)
+0.91 (a low level; commonly found; L:in buildings; T:since the 1930s)
+
+Even lower levels of outdoor air ventilation, below 10 cfm, have become common since 1973, the post-oil embargo era.;
+0.96 (Even lower levels of outdoor air ventilation; have become; common; T:since 1973; T:below 10 cfm)
+
+In the study, Nardell estimated that if outdoor air ventilation in the government building had been doubled -- to about 35 cubic feet per minute, a level that Massachusetts recommends for buildings where smoking is permitted -- only half as many workers would have been infected with tuberculosis.;
+0.93 (outdoor air ventilation in the government building; had been doubled; to about 35 cubic feet per minute)
+0.89 (a level; recommends; for buildings)
+0.93 (smoking; is permitted; L:buildings)
+0.92 (Nardell; estimated; that if outdoor air ventilation in the government building had been doubled -- to about 35 cubic feet per minute, a level that Massachusetts recommends for buildings where smoking is permitted -- only half as many workers would have been infected with tuberculosis; L:In the study)
+0.91 Context(Nardell estimated,List([14, 31))):(only half as many workers; would have been infected; with tuberculosis)
+
+Other studies have documented:;   (check) Flu spreads quickly on airplanes where ventilation systems consist entirely of recirculated air.;   (check) Measles are transmitted by infectious air in a pediatrician's waiting room.;   (check) Tuberculosis can spread in homeless shelters, prisons and hospitals where ventilation is poor.;
+0.80 (ventilation; is; poor)
+0.94 (ventilation systems; consist entirely; of recirculated air; L:airplanes)
+0.92 (Tuberculosis; can spread; L:in homeless shelters, prisons and hospitals)
+0.89 (check) Measles; are transmitted; by infectious air; L:in a pediatrician's waiting room)
+0.91 Context(check ) Measles are transmitted,List([143, 173))):(check) Flu; spreads quickly; L:on airplanes)
+0.68 Context(check ) Flu spreads quickly check ) Measles are transmitted,List([35, 173))):(Other studies; have documented; )
+
+Flu spreads much more easily than TB.
+0.63 (Flu; spreads much more easily; )
+
+"It may survive several hours in dry air," says Vernon Knight, a respiratory virus disease expert at Baylor College of Medicine in Houston.
+0.72 (It may survive several hours in dry air; says; Vernon Knight)
+0.40 Context(It may survive several hours in dry air says,List([1, 47))):(It; may survive; T:several hours; L:in dry air)
+0.38 (Vernon Knight; [is] a respiratory virus disease expert at; Baylor College)
+
+"In those tight buildings, they continue to recirculate it, and they probably build up.";
+0.32 (they; probably build up; )
+0.30 (they; continue; to recirculate it; L:In those tight buildings)
+0.40 Context(they continue,List([27, 40))):(they; continue to recirculate; it)
+
+Nardell and others recognize that the solution to this problem -- fixing or replacing ventilation systems to include more fresh air -- can be expensive.
+0.76 (the solution to this problem; fixing; )
+0.87 (Nardell and others; recognize; that the solution to this problem -- fixing or replacing ventilation systems to include more fresh air -- can be expensive)
+0.84 Context(Nardell and others recognize,List([0, 28))):(the solution to this problem -- fixing or replacing ventilation systems; can be; expensive)
+
+Flu and colds will probably never be eliminated from the workplace entirely, and it may not make sense to install a new ventilation system unless the air quality is very low.;
+0.93 (Flu and colds; will probably never be eliminated entirely; from the workplace)
+0.57 (it; may not make; sense; to install a new ventilation system unless the air quality is very low)
+0.83 (the air quality; is; very low)
+
+In his tuberculosis study, he found that the biggest benefit comes from improving the worst ventilation systems that allow very little fresh air.
+0.91 (the worst ventilation systems; allow; very little fresh air)
+0.26 (he; found; that the biggest benefit comes from improving the worst ventilation systems; L:In his tuberculosis study)
+0.89 Context(he found,List([27, 35))):(the biggest benefit; comes; from improving the worst ventilation systems)
+
+If the ventilation is moderately effective but not ideal, further improvements yield only a slight decrease in infectious illness.;   "There's only so much you can do," Nardell says.
+0.81 (the ventilation; is; moderately effective but not ideal)
+0.54 (only so much; can do; you)
+0.33 (There's only so much; says; Nardell)
+0.88 Context(There 's only so much says,List([135, 181))):(further improvements; yield; only a slight decrease in infectious illness)
+
+"There's going to be a price of living together in a communal society.";
+
+YOU'RE INTERESTEDEmployees who think that poor air quality at their workplace is contributing to health problems can call Cal-OSHA, a state agency that monitors worker safety and health.
+0.90 (a state agency; monitors; worker safety and health)
+0.35 (YOU; 'RE; INTERESTEDEmployees who think that poor air quality at their workplace is contributing to health problems)
+0.75 Context(YOU 'RE,List([0, 6))):(INTERESTEDEmployees who think that poor air quality at their workplace is contributing to health problems; can call; Cal-OSHA)
+0.54 (INTERESTEDEmployees; think; that poor air quality at their workplace is contributing to health problems)
+0.67 Context(INTERESTEDEmployees think,List([7, 36))):(poor air quality at their workplace; is contributing; to health problems)
+
+In San Jose, Cal-OSHA can be reached at
+0.97 (Cal-OSHA; can be reached; L:at; L:In San Jose)
+

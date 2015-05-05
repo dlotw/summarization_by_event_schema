@@ -1,0 +1,94 @@
+LOS ANGELES Police Chief Daryl Gates had been accused of nurturing one of the most brutal police forces in the country: now he is under attack for fuelling the violence and then standing by as it rolled across poor black neighbourhoods.
+0.45 (it; rolled; across poor black neighbourhoods)
+0.93 (LOS ANGELES Police Chief Daryl Gates; of nurturing; one of the most brutal police forces in the country)
+0.71 (he; is; under attack for fuelling the violence and then standing by; T:now)
+0.92 Context(he is,List([124, 129))):(LOS ANGELES Police Chief Daryl Gates; had been accused; of nurturing one of the most brutal police forces in the country)
+
+Mr Gates acknowledged yesterday that his department had been overwhelmed by the scale of the violence.
+0.76 (Mr Gates; acknowledged; T:yesterday; that his department had been overwhelmed by the scale of the violence)
+0.58 Context(Mr Gates acknowledged,List([0, 21))):(his department; had been overwhelmed; by the scale of the violence)
+
+Police could only look on, outnumbered, as crowds looted shops, and moved in mostly to protect firefighters from attack.
+0.74 (Police; could only look outnumbered; on)
+0.81 (crowds; looted; shops)
+0.88 (Police; moved; in; mostly to protect firefighters from attack)
+
+The controversial police chief was said to have argued on Wednesday, the first night of rioting, against sending in National Guard troops, and only to have bowed later to evidence that his police force was incapable of handling the violence.
+0.77 (The controversial police chief; was said; )
+0.79 (The controversial police chief; to have argued; L:on Wednesday; T:the first night of rioting, against sending in National Guard troops, and only to have bowed later to evidence that his police force was incapable of handling the violence)
+0.72 (his police force; was; incapable of handling the violence)
+
+That the Los Angeles police department should have been overwhelmed by the riots may be understandable, but it represents one final blot on Mr Gates's reputation.
+0.94 (the Los Angeles police department; should have been overwhelmed; by the riots)
+0.50 (it; represents; one final blot on Mr Gates's reputation)
+
+In his 14 years of office, his critics say he has built a heavily politicised force in his own image: aggressive, insensitive and widely tinged with racism.
+0.68 (his critics; say; he has built a heavily politicised force in his own image: aggressive, insensitive and widely tinged with racism; T:In his 14 years of office)
+0.36 Context(his critics say,List([27, 42))):(he; has built; a heavily politicised force in his own image: aggressive, insensitive and widely tinged with racism)
+
+Shortly after his appointment in 1978, Mr Gates told a Hispanic audience that Hispanic officers were not promoted because they were lazy, and he later suggested that the carotid choke hold - a police technique severely curbed in 1983 after police had killed 16 suspects with it - might be more dangerous for blacks because their arteries did not open up as fast as on 'normal people'.
+0.85 (a police technique; severely curbed; T:in 1983; T:after police had killed 16 suspects with it)
+0.34 (their arteries; did not open up as fast; )
+0.36 (they; were; lazy)
+0.82 (police; had killed; 16 suspects with it)
+0.23 (he; suggested; that the carotid choke hold - a police technique severely curbed in 1983 after police had killed 16 suspects with it - might be more dangerous for blacks; T:later)
+0.86 Context(he suggested,List([142, 160))):(the carotid; choke; hold - a police technique severely curbed in 1983 after police had killed 16 suspects with it - might be more dangerous for blacks)
+0.92 (a police technique severely curbed in 1983; might be; more dangerous for blacks; because their arteries did not open up as fast as on 'normal people)
+
+In March, Mr Gates strongly defended the detective who had led an investigation 17 years earlier into the killing of an off-duty Los Angeles police officer, although a judge had just released the two men wrongfully convicted, calling police conduct 'reprehensible' and urging an immediate investigation of the 'sordid record'.
+0.98 (Mr Gates; strongly defended; the detective who had led an investigation 17 years earlier into the killing of an off-duty Los Angeles police officer; T:In March)
+0.94 (the detective; had led; an investigation; T:17 years earlier into the killing of an off-duty Los Angeles police officer)
+0.88 (a judge; had just released; the two men wrongfully convicted)
+0.82 Context(a judge had just released,List([166, 191))):(a judge; had just released the two men wrongfully convicted calling; police conduct; reprehensible)
+0.82 Context(a judge had just released,List([166, 191))):(a judge; had just released the two men wrongfully convicted urging; an immediate investigation of the 'sordid record)
+0.75 (the two men; wrongfully convicted; )
+
+The detective involved now heads the unit which investigates shootings involving police officers.
+0.73 (The detective; involved; )
+0.94 (The detective involved; heads; the unit which investigates shootings; T:now)
+0.89 (the unit; investigates; shootings involving police officers)
+0.89 (shootings; involving; police officers)
+
+But the Los Angeles police chief has almost complete protection from removal under a 1937 statute that followed a series of political scandals, and Mr Gates has developed political clout on top of this job security.
+0.96 (the Los Angeles police chief; has; almost complete protection from removal under a 1937 statute)
+0.90 (a 1937 statute; followed; a series of political scandals)
+0.93 (Mr Gates; has developed; political clout; L:on top of this job security)
+
+President George Bush last year called Mr Gates 'an exemplary police chief,' although at the time he called the conduct of the four Los Angeles officers  -whose acquittal this week over the beating of a black motorist triggered this week's protests and violence - 'sickening' and 'outrageous'.
+0.96 (President George Bush; called; Mr Gates 'an exemplary police chief; T:last year)
+0.64 (he; called; the conduct of the four Los Angeles officers; T:at the time)
+
+A high-ranking commission appointed after the beating, under the chairmanship of Mr Warren Christopher, a lawyer and former deputy secretary of state, concluded that the Los Angeles police department got results, in terms of arrests, but had developed a 'siege mentality that alienates the officer from the community'.
+0.34 (high; ranking; commission appointed after the beating)
+0.91 (a 'siege mentality; alienates; the officer; from the community)
+0.93 (A high-ranking commission; appointed; T:after the beating)
+0.94 (A high-ranking commission appointed after the beating; concluded; that the Los Angeles police department got results, in terms of arrests; L:under the chairmanship of Mr Warren Christopher)
+0.95 Context(A high - ranking commission appointed after the beating concluded,List([0, 160))):(the Los Angeles police department; got; results)
+0.90 (A high-ranking commission appointed after the beating; had developed; a 'siege mentality that alienates the officer from the community)
+
+Besides recommending that Mr Gates should go, the Christopher commission urged a policy of community policing with more foot patrols, as well as measures to discipline racist police officers and to improve the investigation of complaints about police brutality.
+0.92 (a policy of community; policing; with more foot patrols, as well as measures)
+0.94 (the Christopher commission; urged; a policy of community policing with more foot patrols, as well as measures)
+
+The commission found that a significant minority of the Los Angeles police force 'repetitively misuse force' without being properly disciplined.
+0.73 (The commission; found; )
+
+Six months after its initial report, however, the commission noted that of the 44 officers identified as the object of six or more brutality complaints, two had been fired, three had resigned and 11 removed from field duty.
+0.91 (the 44 officers; identified; as the object of six or more brutality complaints)
+0.26 (three; had resigned; )
+0.54 (11; removed; from field duty)
+0.80 (the commission; noted; that of the 44 officers identified as the object of six or more brutality complaints, two had been fired, three had resigned and 11 removed from field duty; T:Six months after its initial report)
+0.12 Context(the commission noted,List([46, 66))):(two; had been fired; )
+
+Mr Gates has finally agreed to step down in June.
+0.93 (Mr Gates; has agreed; to step down in June; T:finally)
+0.88 Context(Mr Gates has agreed,List([0, 27))):(Mr Gates; has agreed to step down; T:in June)
+
+His replacement, Mr Willie Williams, will be the first black head of the Los Angeles force.
+0.64 (His replacement; will be; the first black head of the Los Angeles force)
+
+Mr Williams faces an uphill struggle, but he has drawn widespread praise as Philadelphia's police commissioner since 1988 for mending fences between the police and the community - notably through the use of the foot patrol methods recommended by the Christopher commission.
+0.93 (Mr Williams; faces; an uphill struggle)
+0.61 (he; has drawn; widespread praise; as Philadelphia's police commissioner since 1988 for mending fences between the police and the community - notably through the use of the foot patrol methods)
+0.93 (the foot patrol methods; recommended; by the Christopher commission)
+

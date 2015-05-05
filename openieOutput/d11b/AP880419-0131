@@ -1,0 +1,163 @@
+A tornado blasted through this North Florida town before dawn today, destroying several homes and a college library, blowing off rooftops, flipping cars and leaving four people dead and 15 injured, officials said.
+0.26 (15; injured; )
+0.97 (A tornado blasted through this North Florida town before dawn today; said; officials)
+0.90 Context(A tornado blasted through this North Florida town before dawn today said,List([0, 212))):(A tornado; blasted; through this North Florida town; T:before dawn; T:today)
+0.82 Context(A tornado blasted through this North Florida town before dawn today said,List([0, 212))):(A tornado; blasted destroying; several homes and a college library)
+0.82 Context(A tornado blasted through this North Florida town before dawn today said,List([0, 212))):(A tornado; blasted blowing off; rooftops)
+
+The tornado touched down at 4:30 a.m.
+0.90 (The tornado; touched down; T:at 4:30 a.m.)
+
+just west of Madison, about 50 miles east of Tallahassee, and cut a 12-mile swath of destruction, authorities said.
+0.99 (just west of Madison, about 50 miles east of Tallahassee, and cut a 12-mile swath of destruction; said; authorities)
+
+``There was this huge roar and then I heard a tree crack out there and thought we were all gone,'' said Marie Prince, a Madison County sheriff's dispatcher.
+0.89 (There was this huge roar and then I heard a tree crack out there and thought we were all gone; said; Marie Prince)
+0.53 (I; heard; a tree crack out there; T:then)
+0.77 Context(I heard,List([36, 43))):(a tree; crack; L:out there)
+0.34 (I; thought; we were all gone; T:then)
+0.11 Context(I thought,List([36, 78))):(we; were gone; )
+0.38 (Marie Prince; [is] a sheriff [of]; Madison County)
+
+The tornado passed only four blocks from her office.
+0.83 (The tornado; passed; only four blocks; from her office)
+
+Four people were killed north of town, said Sheriff Joe Peavy.
+0.92 (Four people were killed north of town; said; Sheriff Joe Peavy)
+0.88 Context(Four people were killed north of town said,List([0, 43))):(Four people; were killed; L:north of town)
+
+Fifteen people were injured, but none of the injuries was critical, according to Madison County Memorial Hospital administrator Jeannie Baker.
+0.73 (Fifteen people; were injured; )
+0.84 (none of the injuries; was; critical)
+0.38 (Jeannie Baker; [is] administrator [of]; Madison County Memorial Hospital)
+
+A house-to-house search found no more bodies, but a man and a baby had to be freed from separate homes where they were trapped, Peavy said.
+0.91 (a man and a baby; to be freed; from separate homes)
+0.70 (they; were trapped; L:separate homes)
+0.99 (A house-to-house search found no more bodies, but a man and a baby had to be freed from separate homes; said; Peavy)
+0.92 Context(A house - to - house search found no more bodies , but a man and a baby had to be freed from separate homes said,List([0, 138))):(A house-to-house search; found; no more bodies)
+
+Two of the deaths occurred in mobile homes blown apart by the tornado, and four other houses were seriously damaged as well, said Madison County Civil Defense Director Bernard Wilson.
+0.93 (mobile homes; blown; apart; by the tornado)
+0.75 (four other houses; were seriously damaged as well; )
+0.98 (Two of the deaths occurred in mobile homes blown apart by the tornado, and four other houses were seriously damaged as well; said; Madison County Civil Defense Director Bernard Wilson)
+0.90 Context(Two of the deaths occurred in mobile homes blown apart by the tornado , and four other houses were seriously damaged as well said,List([0, 129))):(Two of the deaths; occurred; L:in mobile homes)
+
+``It didn't leave any of it.
+0.31 (It; did n't leave; any of it)
+
+Not even a dish.
+
+You'd never know there was a trailer here,'' said Dorothy Butler, sister of one of the victims.
+0.73 (You'd never know there was a trailer here; said; Dorothy Butler)
+0.40 Context(You 'd never know there was a trailer here said,List([0, 49))):(You; 'd never know; there was a trailer here)
+0.39 (Dorothy Butler; [is] sister of; one)
+
+Rescue units from adjoining counties were helping out, along with state law enforcement and forestry officials.
+0.79 (Rescue units from adjoining counties; were helping out; )
+
+State prisoners were also on their way to help with the cleanup, Peavy said.
+0.81 (State prisoners were also on their way; said; Peavy)
+0.80 Context(State prisoners were also on their way said,List([0, 75))):(State prisoners; were also; on their way)
+
+He had no estimate of the damage.
+0.52 (He; had; no estimate of the damage)
+
+The tornado was part of a storm system that struck across the Southeast with high winds, lightning and hail.
+0.93 (The tornado; was; part of a storm system)
+0.77 (a storm system; struck; )
+0.89 (The tornado; was part of; a storm system)
+
+Trees, roofs and mobile homes were damaged, and at least six other injuries were reported.
+0.80 (Trees, roofs and mobile homes; were damaged; )
+0.79 (at least six other injuries; were reported; )
+
+Madison, a town of about 3,500 people, is the county seat of Madison County, a thinly populated tobacco growing area of piney woods, rolling hills and swamps on the border with Georgia.
+0.94 (Madison; is; the county seat of Madison County)
+
+The twister's destructive path started in front of a shopping center and then proceeded straight into North Florida Junior College, where it ``totaled the new library and took the roof off the auditorium,'' Peavy said.
+0.96 (The twister's destructive path; proceeded; straight into North Florida Junior College; T:then)
+0.60 (it; totaled; the new library; L:North Florida Junior College)
+0.99 (The twister's destructive path started in front of a shopping center and then proceeded straight into North Florida Junior College; said; Peavy)
+0.91 Context(The twister 's destructive path started in front of a shopping center and then proceeded straight into North Florida Junior College said,List([0, 217))):(The twister's destructive path; started; L:in front of a shopping center)
+
+The twister blew away several homes, blew the roof off a nearby church, overturned cars and knocked down trees, Peavy said.
+0.99 (The twister blew away several homes, blew the roof off a nearby church, overturned cars and knocked down trees; said; Peavy)
+0.91 Context(The twister blew away several homes , blew the roof off a nearby church , overturned cars and knocked down trees said,List([0, 122))):(The twister; blew; away; several homes)
+
+As far as his office knew, all the damage was from one tornado, Peavy said.
+0.41 (his office; knew; )
+0.89 (As far as his office knew, all the damage was from one tornado; said; Peavy)
+
+He said the tornado's sweep through town lasted under 30 minutes.
+0.51 (He; said; the tornado's sweep through town lasted under 30 minutes)
+0.92 Context(He said,List([0, 7))):(the tornado's sweep through town; lasted; under 30 minutes)
+
+Electric company workers were restoring power throughout the area.
+0.91 (Electric company workers; were restoring; power; L:throughout the area)
+
+Two tornadoes struck near the towns of Malone and Bascom, about 100 miles to the west of Madison, said Jackson County emergency management director John Mader.
+0.98 (Two tornadoes struck near the towns of Malone and Bascom, about 100 miles to the west of Madison; said; Jackson County emergency management director John Mader)
+0.92 Context(Two tornadoes struck near the towns of Malone and Bascom , about 100 miles to the west of Madison said,List([0, 102))):(Two tornadoes; struck; L:near the towns of Malone and Bascom)
+0.38 (John Mader; [is] said director [of]; Jackson County emergency management)
+
+Three homes and a trailer were destroyed and five homes seriously damaged, he said, and two people were slightly injured.
+0.73 (five homes; seriously damaged; )
+0.73 (two people; were slightly injured; )
+0.94 (Three homes and a trailer were destroyed and five homes seriously damaged; said; he)
+0.75 Context(Three homes and a trailer were destroyed and five homes seriously damaged said,List([0, 82))):(Three homes and a trailer; were destroyed; )
+
+Many county roads were blocked by fallen trees, he said, and officials were surveying the area by helicopter.
+0.91 (Many county roads; were blocked; by fallen trees)
+0.19 (he; said; )
+0.89 (officials; were surveying; the area)
+
+The tornadoes were spawned by a belt of thunderstorms being pushed by a cold front.
+0.90 (The tornadoes; were spawned; by a belt of thunderstorms)
+0.89 (thunderstorms; being pushed; by a cold front)
+
+Hail the size of golf balls and damaging winds hit Louisiana, Mississippi, Alabama and Georgia.
+0.94 (Hail; hit; Louisiana, Mississippi, Alabama and Georgia)
+
+More than one inch of rain fell in one hour this morning in Waycross, Ga., 70 miles northeast of here, and wind gusts of 40 mph were reported in Valdosta, according to the National Weather Service.
+0.94 (More than one inch of rain; fell northeast; T:in one hour; T:this morning; L:in Waycross)
+0.94 (wind gusts of 40 mph; were reported; L:in Valdosta)
+
+Elsewhere in Georgia, trees and power lines were reported blown down, a barn was reported destroyed and a tin roof was blown off an old building.
+0.70 (a barn; destroyed; )
+0.91 (a tin roof; was blown off; L:an old building)
+0.69 (a barn; was reported; )
+0.94 Context(a barn was reported,List([70, 89))):(trees and power lines; were reported blown down; L:Elsewhere in Georgia)
+
+The winds destroyed up to nine mobile homes west of Bainbridge, Ga., Monday night, injuring three people, one seriously.
+0.92 (The winds; destroyed up; to nine mobile homes west of Bainbridge; T:Monday night)
+0.89 (The winds; injuring; three people)
+
+The sheriff's office said the wind left the homes in shreds.
+0.90 (The sheriff's office; said; the wind left the homes in shreds)
+0.91 Context(The sheriff 's office said,List([0, 25))):(the wind; left; the homes in shreds)
+
+Bainbridge is 25 miles northwest of Tallahassee.
+0.95 (Bainbridge; is; 25 miles northwest of Tallahassee)
+
+A 9-year-old girl from Cottonwood, Ala., was injured by lightning as she stood near a stove at her home Monday night.
+0.96 (A 9-year-old girl from Cottonwood; was injured; by lightning; T:as she stood near a stove at her home Monday night)
+0.35 (she; stood; near a stove; L:at her home; T:Monday night)
+
+The lightning accompanied a tornado that moved through southern Houston County about 60 miles northwest of Tallahasse.
+0.87 (The lightning; accompanied; a tornado that moved through southern Houston County about 60 miles northwest of Tallahasse)
+0.60 (a tornado; moved northwest; )
+
+In the eastern Georgia's Bulloch County, six mobile homes and one house were heavily damaged shortly after dawn today, but no injuries were reported, the weather service said.
+0.73 (no injuries; were reported; )
+0.99 (In the eastern Georgia's Bulloch County, six mobile homes and one house were heavily damaged shortly after dawn today, but no injuries were reported; said; the weather service)
+0.96 Context(In the eastern Georgia 's Bulloch County , six mobile homes and one house were heavily damaged shortly after dawn today , but no injuries were reported said,List([0, 174))):(six mobile homes and one house; were heavily damaged; T:shortly after dawn; T:today; L:In the eastern Georgia's Bulloch County)
+
+Tornado watches were still in effect across 14 southeastern Georgia and 15 northeastern Florida counties until at least five hours after the tornado hit.
+0.96 (Tornado watches; were; T:still; in effect; T:across 14 southeastern Georgia and 15 northeastern Florida counties until at least five hours; T:after the tornado hit)
+0.78 (the tornado; hit; )
+
+Madison County has been hit by seven tornadoes since 1959 with only one injury reported, according to the National Weather Service.
+0.93 (Madison County; has been hit; by seven tornadoes; T:since 1959)
+0.75 (only one injury; reported; )
+

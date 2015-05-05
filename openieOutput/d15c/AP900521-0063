@@ -1,0 +1,128 @@
+Tuberculosis is alarming health officials again because it's posing new health threats with its connection to the AIDS virus.
+0.92 (Tuberculosis; is; alarming health officials; T:again; because it's posing new health threats with its connection to the AIDS virus)
+0.46 (it; 's posing; new health threats with its connection to the AIDS virus)
+
+A 35 percent increase in tuberculosis in 1989 in Newark, N.J., has caught the attention of health officials, who had been previously recording with satisfaction a slow, steady decrease in TB cases over the last few decades.
+0.96 (A 35 percent increase in tuberculosis in 1989 in Newark; has caught; the attention of health officials)
+0.94 (health officials; had been recording; a slow, steady decrease in TB cases over the last few decades; T:previously)
+
+They attribute the 5 percent national increase in TB cases in 1989 to the ravages of the AIDS virus, which destroys the body's immune system and leaves victims open to TB infection, Dr. Philip C. Hopewell of San Francisco General Hospital said Sunday.
+0.92 (the AIDS virus; destroys; the body's immune system)
+0.93 (the AIDS virus; leaves; victims; open to TB infection)
+0.83 (They attribute the 5 percent national increase in TB cases in 1989 to the ravages of the AIDS virus; said; T:Sunday)
+0.60 Context(They attribute the 5 percent national increase in TB cases in 1989 to the ravages of the AIDS virus said,List([0, 243))):(They; attribute; the 5 percent national increase in TB cases; T:in 1989; to the ravages of the AIDS virus)
+
+Hopewell and other health officials discussed the link between AIDS and TB during the a four-day World Conference on Lung Health in Boston, which ends Wednesday.
+0.97 (Hopewell and other health officials; discussed; the link between AIDS and TB; T:during the a four-day World Conference on Lung Health in Boston)
+0.98 (the a four-day World Conference on Lung Health in Boston; ends; Wednesday)
+
+About 4 percent of Americans identified as having the AIDS virus also have been diagnosed as being infected with tuberculosis, said Dr. Dixie E. Snider Jr., director of the division of tuberculosis control at the Centers for Disease Control in Atlanta.
+0.96 (Americans; identified; as having the AIDS virus also have been diagnosed as being infected with tuberculosis)
+0.94 (About 4 percent of Americans; said; Dr. Dixie E. Snider Jr)
+0.90 (Americans; as having; the AIDS virus)
+0.90 Context(Americans as having,List([19, 49))):(the AIDS virus; have been diagnosed; as being infected with tuberculosis)
+0.39 (Dr. Dixie E. Snider Jr.; [is] director of; the division)
+
+The American Lung Association estimates that 20,000 Americans a year develop TB.
+0.84 (The American Lung Association; estimates; that 20,000 Americans a year develop TB)
+
+In parts of Africa, where AIDS is already a health risk, tuberculosis has become epidemic, said Dr. Annik Rouillon, executive director of the International Union Against Tuberculosis and Lung Disease in Paris.
+0.97 (AIDS; is; T:already; a health risk; L:Africa)
+0.96 (In parts of Africa, where AIDS is already a health risk, tuberculosis has become epidemic; said; Dr. Annik Rouillon)
+0.87 Context(In parts of Africa , where AIDS is already a health risk , tuberculosis has become epidemic said,List([0, 95))):(tuberculosis; has become; epidemic)
+0.38 (Dr. Annik Rouillon; [is] executive director of; the International Union)
+
+``The combination of the two is really catastrophic,'' she said.
+0.92 (The combination of the two is really catastrophic; said; she)
+0.82 Context(The combination of the two is really catastrophic said,List([2, 63))):(The combination of the two; is; really catastrophic)
+
+Snider stressed that tuberculosis, unlike AIDS, is a curable disease and called for TB screenings at drug rehabilitation programs, prisons or other places where AIDS tests are being administered.
+0.90 (tuberculosis; called; for TB screenings; L:at drug rehabilitation programs, prisons or other places)
+0.95 (AIDS tests; are being administered; L:other places)
+0.87 (Snider; stressed; that tuberculosis, unlike AIDS, is a curable disease and called for TB screenings at drug rehabilitation programs, prisons or other places)
+0.88 Context(Snider stressed,List([0, 15))):(tuberculosis; is; a curable disease)
+
+Snider also said doctors should administer TB tests to all persons testing positive for the HIV virus since TB may not be readily diagnosed in AIDS patients.
+0.77 (all persons; testing; positive)
+0.88 (TB; may not be readily diagnosed; in AIDS patients)
+0.90 (Snider; said; doctors should administer TB tests to all persons)
+0.89 Context(Snider said,List([0, 16))):(doctors; should administer; TB tests; to all persons)
+
+``It's important we get control of the situation,'' he said.
+0.69 (It's important we get control of the situation; said; he)
+
+In Wyoming, the Centers for Disease Control recorded no new cases of TB in 1989, demonstrating that it is a condition that can be controlled and cured, according to Dr. Lee B. Reichman, director of the pulmonary division of the University of Medicine and Dentistry in New Jersey.
+0.70 (a condition; can be controlled; )
+0.70 (a condition; cured; )
+0.97 (the Centers for Disease Control; recorded; no new cases of TB; T:in 1989; L:In Wyoming)
+0.63 Context(the Centers for Disease Control recorded,List([12, 52))):(the Centers for Disease Control; recorded no new cases of TB demonstrating; that it is a condition)
+0.24 Context(the Centers for Disease Control recorded demonstrating,List([12, 94))):(it; is; a condition that can be controlled and cured)
+0.39 (Dr. Lee B. Reichman; [is] director of; the pulmonary division)
+
+``I have never heard of a rise of the magnitude seen in New Jersey or, on the other hand, the hope generated by no cases in one state,'' Reichman said.
+0.92 (the magnitude; seen; L:in New Jersey)
+0.90 (the hope; generated; by no cases; L:in one state)
+0.84 (I have never heard of a rise of the magnitude; said; Reichman)
+0.39 Context(I have never heard of a rise of the magnitude said,List([2, 150))):(I; have never heard; of a rise of the magnitude)
+
+Moreover, unlike AIDS, TB is a highly contagious disease that can be spread by airborne particles coughed up by a person with untreated, clinically active pulmonary TB.
+0.82 (TB; is; a highly contagious disease that can be spread by airborne particles)
+0.91 (a highly contagious disease; can be spread; by airborne particles)
+0.95 (airborne particles; coughed up; by a person with untreated, clinically active pulmonary TB)
+
+Untreated, tuberculosis kills about 50 percent of its victims within two years, according to the Centers for Disease Control.
+0.86 (tuberculosis; kills; about 50 percent of its victims; T:within two years)
+
+Snider said sustained contact is necessary for TB transmission, and would not pose new problems for AIDS victims already fighting discrimination in jobs and housing.
+0.95 (AIDS victims; fighting; discrimination in jobs and housing; T:already)
+0.95 (Snider; said; sustained contact is necessary for TB transmission, and would not pose new problems for AIDS victims)
+0.92 Context(Snider said,List([0, 11))):(sustained contact; is; necessary for TB transmission)
+
+However, he noted that there had been an increase in positive TB tests among AIDS health workers.
+0.20 (he; noted; that there had been an increase in positive TB tests among AIDS health workers)
+
+Tuberculosis is caused by a bacterium that commonly affects the lungs but can attack almost any organ.
+0.89 (Tuberculosis; is caused; by a bacterium)
+0.89 (a bacterium; commonly affects; the lungs)
+0.89 (a bacterium; can attack; almost any organ)
+
+For the last three decades, it has been preventable and curable through multiple drug therapy, Snider said.
+0.91 (For the last three decades, it has been preventable and curable through multiple drug therapy; said; Snider)
+0.54 Context(For the last three decades , it has been preventable and curable through multiple drug therapy said,List([0, 106))):(it; has been; preventable and curable; T:For the last three decades)
+
+Snider said 10 million to 15 million Americans have been infected with the tuberculosis germ, but only a small percentage of them develop the disease because their immune system was strong enough to prevent the disease from developing.
+0.91 (Snider; said; 10 million to 15 million Americans have been infected with the tuberculosis germ, but only a small percentage of them develop the disease)
+0.93 Context(Snider said,List([0, 11))):(10 million to 15 million Americans; have been infected; with the tuberculosis germ; because their immune system was strong enough to prevent the disease from developing)
+0.72 (only a small percentage of them; develop; the disease)
+0.72 (their immune system; was; strong enough to prevent the disease from developing)
+0.62 (their immune system; to prevent; the disease; from developing)
+
+If, however, a person's immune system is impaired by poor nutrition or weakened by the HIV virus, people can develop active TB.
+0.93 (a person's immune system; weakened; by the HIV virus)
+
+``TB is long known as an opportunistic organism,'' Hopewell said.
+0.97 (TB is long known as an opportunistic organism; said; Hopewell)
+0.85 Context(TB is long known as an opportunistic organism said,List([2, 64))):(TB; is known; as an opportunistic organism; T:long)
+
+The doctors said U.S. minority groups have become increasing susceptible to TB. Snider said there has been a 150 percent increased in cases of TB among young blacks in New York City.
+0.95 (a 150 percent; increased; L:in cases of TB among young blacks in New York City)
+
+Tuberculosis can be effectively treated, even in AIDS patients, underscoring efforts to screen persons for the disease, the doctor said.
+0.97 (Tuberculosis can be effectively treated, even in AIDS patients; said; the doctor)
+0.87 Context(Tuberculosis can be effectively treated , even in AIDS patients said,List([0, 135))):(Tuberculosis; can be effectively treated; L:even in AIDS patients)
+
+Reichman noted that most American have forgotten about the problems of TB; from 1981 to 1984, TB cases declined an average of 6 percent per year according to the Centers for disease control.
+
+But, he said, ``TB is back with a vengeance.''
+0.39 (he; said; TB is back with a vengeance)
+0.86 Context(he said,List([5, 12))):(TB; is; back with a vengeance)
+
+While associated with poverty and crowded living conditions, TB through history has ravaged both the poor and the famous.
+0.83 (TB through history; has ravaged; both the poor and the famous)
+
+TB victims include Henry David Thoreau, Washington Irving, Franz Kafka, Ring Lardner, Somerset Maugham and Vivien Leigh.
+0.95 (TB victims; include; Henry David Thoreau, Washington Irving, Franz Kafka, Ring Lardner, Somerset Maugham and Vivien Leigh)
+
+An estimated 3 million persons a year die worldwide from TB, according to the American Lung Association.
+0.95 (An estimated 3 million persons a year; die; L:worldwide; from TB)
+

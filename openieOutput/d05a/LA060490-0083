@@ -1,0 +1,124 @@
+"Mad cow" disease, an enigmatic nervous disorder that has killed thousands of  cattle in Britain, is causing trade friction in Europe and is threatening the  $3.7-billion
+0.92 (an enigmatic nervous disorder; has killed; thousands of  cattle; L:in Britain)
+0.92 (Mad cow" disease; is causing; trade friction in Europe)
+0.77 (Mad cow" disease; is threatening; the  $3.7-billion)
+
+British beef industry.
+
+On Friday, West Germany joined France in a ban on British beef imports, citing  health fears related to the mysterious ailment, whose technical name is bovine  spongiform encephalopathy (BSE).
+0.90 (health fears; related; to the mysterious ailment)
+0.80 (the mysterious ailment; is; bovine)
+0.95 (West Germany; joined; France; L:in a ban on British beef imports; T:On Friday)
+0.86 Context(West Germany joined,List([11, 30))):(West Germany; joined France citing; health fears related to the mysterious ailment,)
+
+Concern that the disease can be transmitted to humans has made the subject  Topic A in the pubs and press of Britain, and has put a serious crimp in  domestic beef sales.
+0.90 (the disease; can be transmitted; to humans)
+0.96 (Concern that the disease can be transmitted to humans; has made; the subject; L:in the pubs and press of Britain)
+0.94 (Concern that the disease can be transmitted to humans; has put; a serious crimp; in  domestic beef sales)
+
+Despite assurances from the British government that the  beef is safe, consumers and some scientists remain skeptical.
+0.93 (the  beef; is; safe, consumers and some scientists)
+
+British officials complain that the French and German import ban is a result of  economic, not health, concerns.
+0.81 (British officials; complain; that the French and German import ban is a result of  economic, not health, concerns)
+0.94 Context(British officials complain,List([0, 26))):(the French and German import ban; is; a result of)
+0.39 (the French and German import ban; is a result of; economic , not health)
+
+The price of British beef is dropping in the  wake of the "mad cow" scare.
+0.95 (The price of British beef; is dropping; L:in the  wake of the "mad cow" scare)
+
+Therefore, British officials believe, France and  West Germany imposed the bans to protect their domestic sales.
+0.88 (British officials; believe; France and  West Germany imposed the bans)
+0.86 Context(British officials believe,List([11, 36))):(France and  West Germany; imposed; the bans; to protect their domestic sales)
+0.86 Context(British officials believe France and West Germany imposed,List([11, 70))):(France and  West Germany; imposed the bans to protect; their domestic sales)
+
+"It's totally unjustified and illegal," said Patrick Barrow, spokesman for the  Meat and Livestock Commission, a trade organization.
+0.68 (It's totally unjustified and illegal; said; Patrick Barrow)
+0.24 Context(It 's totally unjustified and illegal said,List([1, 44))):(It; 's; totally unjustified and illegal)
+0.38 (Patrick Barrow; [is] spokesman for; the Meat and Livestock Commission)
+
+France accounted for slightly more than half of Britain's beef exports last  year, buying 70,000 tons of beef worth $264 million.
+0.94 (France; accounted; for slightly more than half of Britain's beef exports; T:last  year; buying 70,000 tons of beef worth $264 million)
+0.85 Context(France accounted,List([0, 16))):(France; accounted for slightly more than half of Britain's beef exports buying; 70,000 tons of beef worth $264 million)
+
+West Germany bought $50  million worth last year.
+0.93 (West Germany; bought; $50  million worth last year)
+
+Although other countries have recently placed some restrictions on British beef  and cattle, the French and German moves were the strongest by far.
+0.92 (other countries; have placed; some restrictions on British beef  and cattle; T:recently)
+0.81 (the French and German moves; were; the strongest)
+0.39 (the French and German moves; were the strongest by; far)
+
+The United  States does not import British beef and recently rescinded permits for the  importation of live cattle.
+0.93 (The United  States; does not import; British beef)
+0.95 (The United  States; rescinded; permits for the  importation of live cattle; T:recently)
+
+British officials have been joined by European Community commissioners in  protesting the French and Germany import ban.
+0.95 (British officials; have been joined; by European Community commissioners in  protesting the French and Germany import ban)
+
+Mad cow disease has been responsible for the deaths of nearly 14,000 cows since  it was first noticed in the mid-1980s.
+0.85 (Mad cow disease; has been; responsible for the deaths of nearly 14,000 cows; since  it was first noticed in the mid-1980s)
+0.49 (it; was noticed; T:in the mid-1980s; T:first)
+
+BSE-infected cows "degenerate very  quickly," said a spokeswoman from Britain's Ministry of Agriculture.
+0.93 (BSE-infected cows "degenerate very  quickly; said; a spokeswoman from Britain's Ministry of Agriculture)
+0.69 Context(BSE - infected cows " degenerate very quickly said,List([0, 50))):(BSE-infected cows; degenerate very quickly; )
+
+The cows  become aggressive and then wobbly-legged before dying.
+0.77 (The cows; become; aggressive and then wobbly-legged; T:before dying)
+0.70 (The cows; before dying; )
+
+No one is certain what causes the disease, which affects the cow's brain.
+0.93 (No one; is; certain what causes the disease)
+0.89 (the disease; affects; the cow's brain)
+
+But  the prime suspect is tainted cow feed.
+0.93 (the prime suspect; is; tainted cow feed)
+
+Some experts believe that cattle  contracted the disease as a result of eating food contaminated with the remains  of sheep infected with a BSE-like disease called scrapie.
+0.81 (Some experts; believe; that cattle  contracted the disease as a result of eating food)
+0.94 (a BSE-like disease; called; scrapie)
+0.89 (food; contaminated; with the remains  of sheep)
+0.91 (sheep; infected; with a BSE-like disease)
+
+Although government and industry officials have been concerned for some time,  mad cow disease did not become a household word until recently.
+0.92 (government and industry officials; have been concerned; T:for some time)
+0.91 (mad cow disease; did not become; a household word; T:until recently)
+
+On May 11, the Ministry of Agriculture revealed that a Siamese cat had died  from a disease identical to BSE.
+0.94 (the Ministry of Agriculture; revealed; that a Siamese cat had died  from a disease identical to BSE; T:On May 11)
+0.90 Context(the Ministry of Agriculture revealed,List([11, 47))):(a Siamese cat; had died; from a disease identical to BSE)
+
+The press went wild with the story,  suggesting, in boldface, that if cats can get it, people can too.
+0.81 (The press; went; wild)
+0.70 (The press; suggesting; )
+0.70 (cats; can get; it)
+
+Panic ensued.
+0.71 (Panic; ensued; )
+
+"BSE has been around for six or seven years," said David Lewis of the Meat and  Livestock Commission.
+0.95 (BSE has been around for six or seven years; said; David Lewis of the Meat and  Livestock Commission)
+0.83 Context(BSE has been around for six or seven years said,List([1, 50))):(BSE; has been; around; T:for six or seven years)
+
+"And until the cat, it hadn't been brought into the  home."
+0.60 (it; had n't been brought; into the  home; T:until the cat)
+
+Beef sales dropped, with surveys showing that about a quarter of British  households had stopped eating it.
+0.79 (Beef sales; dropped; )
+0.68 (surveys; showing; that about a quarter of British  households had stopped eating it)
+0.86 Context(surveys showing,List([25, 40))):(about a quarter of British  households; had stopped; eating it)
+0.86 Context(surveys showing about a quarter of British households had stopped,List([25, 96))):(about a quarter of British  households; had stopped eating; it)
+
+Two thousand schools dropped beef from their  menus.
+0.85 (Two thousand schools; dropped; beef; from their  menus)
+
+The government and meat industry fought back.
+0.79 (The government and meat industry; fought back; )
+
+Some regulations were enacted to  fight the disease, but more overt was the publicity campaign: Princess Anne  said her family was still eating British beef.
+0.64 (more overt; was; the publicity campaign)
+0.85 (Princess Anne; said; her family was still eating British beef)
+0.69 Context(Princess Anne said,List([96, 115))):(Some regulations; were enacted; )
+0.62 Context(Princess Anne said,List([96, 115))):(her family; was eating; British beef; T:still)
+

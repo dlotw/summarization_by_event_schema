@@ -1,0 +1,113 @@
+1990 is fast becoming one of the worst years on record for tornadoes and flooding across the middle and southern sections of the nation.
+0.66 (1990; is fast becoming; one of the worst years on record for tornadoes and flooding across the middle and southern sections of the nation)
+
+So far this year, 726 tornadoes have touched down nationwide, well ahead of the 640 tornadoes recorded during the first six months of last year, and the 30-year average of 482 tornadoes recorded between January and July, said Frederick Ostby of the National Severe Storms Forecast Center here.
+0.90 (726 tornadoes; have touched down nationwide ahead; T:So far; T:this year)
+0.91 (the 640 tornadoes; recorded; T:during the first six months of last year)
+0.92 (482 tornadoes; recorded; T:between January and July)
+0.94 (the 30-year average of 482 tornadoes; said; Frederick Ostby of the National Severe Storms Forecast Center; L:here)
+
+The nation had 747 tornadoes in the first six months of 1973 _ one of the biggest years for tornadoes since 1950, when the forecast center began keeping reliable records of the storms.
+0.93 (The nation; had; 747 tornadoes in the first six months of 1973)
+0.89 (the forecast center; began; keeping reliable records of the storms)
+0.89 Context(the forecast center began,List([119, 144))):(the forecast center; began keeping; reliable records of the storms)
+
+There were 756 tornadoes reported in 1982.
+0.77 (756 tornadoes; reported; T:in 1982)
+
+``We seem to be on a pace that would put us up with those two years,'' Ostby said.
+0.41 (We; to be; on a pace)
+0.65 (a pace; would put up; with those two years)
+0.81 (We seem to be on a pace; said; Ostby)
+0.16 Context(We seem to be on a pace said,List([2, 81))):(We; seem; )
+
+The culprit in this tornado barrage across the Plains is a persistent West Coast pattern of low pressure in the upper atmosphere that is keeping the jet stream anchored at a southern latitude.
+0.98 (The culprit in this tornado barrage across the Plains; is; a persistent West Coast pattern of low pressure in the upper atmosphere)
+0.90 (the upper atmosphere; is keeping; the jet stream anchored at a southern latitude)
+0.91 (the jet stream; anchored; L:at a southern latitude)
+0.39 (the Plains; is a persistent West Coast pattern of; low pressure)
+
+This year's storms seem particularly violent, as illustrated by the March 13 tornado that cut a swath a mile wide and brought winds of 300 mph to a field in Kansas.
+0.77 (This year's storms; seem; )
+0.94 (the March 13 tornado; cut; a swath a mile wide)
+0.94 (the March 13 tornado; brought; winds of 300 mph; to a field; L:in Kansas)
+
+The tornado was the strongest to hit the United States since 1985.
+0.94 (The tornado; was; the strongest to hit the United States since 1985)
+0.61 (the strongest; to hit; the United States; T:since 1985)
+
+The first weekend in June saw the worst outburst of tornadoes since 1974.
+0.96 (The first weekend in June; saw; the worst outburst of tornadoes; T:since 1974)
+
+Ostby said 101 tornadoes touched down from Kansas to Kentucky, leaving nine people dead.
+0.91 (Ostby; said; 101 tornadoes touched down from Kansas to Kentucky)
+0.90 Context(Ostby said,List([0, 10))):(101 tornadoes; touched down; from Kansas)
+0.82 Context(Ostby said 101 tornadoes touched down,List([0, 37))):(101 tornadoes; touched down leaving; nine people; dead)
+
+But a break in the storm pattern may be at hand.
+0.93 (a break in the storm pattern; may be; at hand)
+
+As summer wears on, the land warms up and cold air from Canada retreats.
+0.71 (summer; wears on; )
+0.73 (the land; warms up; )
+
+This moves the boundary of the jet stream to the north, Ostby said.
+0.97 (This moves the boundary of the jet stream to the north; said; Ostby)
+0.33 Context(This moves the boundary of the jet stream to the north said,List([0, 66))):(This; moves; the boundary of the jet stream to the north)
+
+``Our longer range computer forecasts are suggestive of that.
+0.23 (Our longer range computer forecasts; are; suggestive of that)
+
+There is some kind of a readjustment beginning to take place in the upper atmosphere,'' he said.
+0.65 (There is some kind of a readjustment; said; he)
+0.89 (There; is some kind of; a readjustment)
+
+However, a study of tornado trends indicates parts of the Midwest, particularly Kansas and Missouri, are heading into a six-year period of more intense tornadoes.
+0.92 (a study of tornado trends; indicates; parts of the Midwest, particularly Kansas and Missouri)
+
+The study of tornadoes since early this century shows that they are concentrated in regions for five- or six-year periods, said Michael Smith, president of WeatherData Inc.
+0.62 (they; are concentrated; L:in regions; T:for five- or six-year periods)
+0.93 (The study of tornadoes since early this century shows that they are concentrated in regions for five- or six-year periods; said; Michael Smith)
+0.38 (Michael Smith; [is] president of; WeatherData Inc.)
+
+But warning of impending storms is becoming more sophisticated, leading to fewer deaths.
+0.80 (warning of impending storms; is becoming; more sophisticated)
+
+Tornadoes have caused 20 deaths this year, while an average year in the 1980s saw 52 deaths, and in the 1970s nearly 100, Ostby said.
+0.89 (Tornadoes; have caused; 20 deaths this year)
+0.95 (an average year in the 1980s; saw; 52 deaths)
+0.94 (Ostby; said; L:in the 1970s)
+
+``There are better watches, better warnings and a better response,'' Ostby said.
+0.86 (There are better watches, better warnings and a better response; said; Ostby)
+
+Ostby credited the quicker response to computers that allow meteorologists to see many sources of data, such as satellite readings, more clearly.
+0.92 (Ostby; credited; the quicker response to computers)
+0.90 (computers; allow; meteorologists to see many sources of data, such as satellite readings, more clearly)
+0.86 Context(computers allow,List([39, 59))):(meteorologists; to see more clearly; many sources of data, such as satellite readings)
+
+Flooding in the South and the Plains has been as destructive as the tornadoes.
+0.95 (Flooding in the South and the Plains; has been; as destructive as the tornadoes)
+
+The death toll from last week's flash floods in Shadyside, Ohio, rose to 21 on Monday, making the flood one of the most deadly in recent years.
+0.97 (The death toll from last week's flash floods in Shadyside; rose; to 21; T:on Monday)
+
+Authorities held out little hope for more than a dozen others listed as missing.
+0.89 (Authorities; held out; little hope; for more than a dozen others)
+0.81 (more than a dozen others; listed; as missing)
+
+Wegee and Pipe creeks overflowed during storms that dumped 5{ inches of rain in 3{ hours.
+0.94 (Wegee and Pipe creeks; overflowed; T:during storms)
+0.79 (storms; dumped; 5{ inches of rain; T:in 3{ hours)
+
+The floods destroyed as many as 70 houses and damaged up to 40, officials said.
+0.97 (The floods destroyed as many as 70 houses and damaged up to 40; said; officials)
+0.88 Context(The floods destroyed as many as 70 houses and damaged up to 40 said,List([0, 78))):(The floods; destroyed; as many as 70 houses)
+
+Flooding in Texas has been blamed for at least 16 deaths since April.
+0.94 (Flooding in Texas; has been blamed; for at least 16 deaths since April)
+
+An estimated 10,000 people were forced from their homes, and high water caused hundreds of millions of dollars in damage.
+0.86 (An estimated 10,000 people; were forced; from their homes)
+0.90 (high water; caused; hundreds of millions of dollars in damage)
+

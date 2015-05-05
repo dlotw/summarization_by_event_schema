@@ -1,0 +1,69 @@
+PRESIDENT Bill Clinton yesterday promised to name a task-force within the next 10 days to reform the US social safety net of welfare programmes.
+0.94 (PRESIDENT Bill Clinton; promised; to name a task-force within the next 10 days to reform the US social safety net of welfare programmes; T:yesterday)
+0.82 Context(PRESIDENT Bill Clinton promised,List([0, 41))):(PRESIDENT Bill Clinton; promised to name; a task-force; T:within the next 10 days)
+
+He told the National Governors' Association that he was committed to 'ending welfare as we know it' with measures to finance expanded job training for the unemployed, matched by a requirement that people must do some kind of work for their welfare cheque.
+0.17 (He; told; the National Governors' Association; that he was committed to 'ending welfare)
+0.39 Context(He told,List([0, 7))):(he; was committed; to 'ending welfare)
+0.26 (the unemployed; matched; by a requirement that people must do some kind of work for their welfare cheque)
+0.27 (he; ending; welfare; T:as we know it' with measures)
+0.82 (people; must do; some kind of work; for their welfare cheque)
+0.37 (we; know; it)
+0.89 (measures; to finance; expanded job training for the unemployed)
+
+The president said he would focus on better implementation of the Family Support Act, a 1988 welfare reform based on the work of an NGA task-force which he, as governor of Arkansas, co-chaired.
+0.93 (a 1988 welfare reform; based; on the work of an NGA task-force)
+0.94 (the work of an NGA task-force; co-chaired; he)
+0.89 (The president; said; he would focus on better implementation of the Family Support Act)
+0.44 Context(The president said,List([0, 18))):(he; would focus; on better implementation of the Family Support Act)
+
+'The bill that is on the books will work, given the right economy and the right support systems,' Mr Clinton said.
+0.91 (The bill; is; on the books)
+0.99 (The bill that is on the books will work, given the right economy and the right support systems; said; Mr Clinton)
+0.78 Context(The bill that is on the books will work , given the right economy and the right support systems said,List([1, 113))):(The bill that is on the books; will work; )
+
+Advocates of welfare reform had been discouraged about the new administration's intentions, fearing that the centrist Democratic emphasis on requiring welfare recipients to work or enroll for training might fall prey to left-wing advocacy groups concentrating on greater funding of existing programmes.
+0.92 (Advocates of welfare reform; had been discouraged; about the new administration's intentions)
+0.82 (Advocates of welfare reform; fearing; that the centrist Democratic emphasis on requiring welfare recipients to work or enroll for training might fall prey to left-wing advocacy groups)
+0.96 Context(Advocates of welfare reform fearing,List([0, 99))):(the centrist Democratic emphasis on requiring welfare recipients to work or enroll for training; might fall; prey; to left-wing advocacy groups)
+0.93 (left-wing advocacy groups; concentrating; on greater funding of existing programmes)
+0.73 (welfare recipients; to work; )
+0.88 (the centrist Democratic emphasis on requiring; to enroll; for training)
+
+These suspicions were enhanced when Ms Donna Shalala, new secretary of health and human services, last month devoted only one sentence to welfare reform in a five-page statement of goals.
+0.95 (These suspicions; were enhanced; T:when Ms Donna Shalala, new secretary of health and human services, last month devoted only one sentence)
+0.97 (Ms Donna Shalala; devoted; only one sentence to welfare reform in a five-page statement of goals; T:last month)
+0.39 (Ms Donna Shalala; [is] new secretary of; health and human services)
+
+With the onset of the recession, state revenues have been constrained while the number of welfare recipients has grown by 30 per cent.
+0.94 (state revenues; have been constrained; T:while the number of welfare recipients has grown by 30 per cent)
+0.93 (the number of welfare recipients; has grown; by 30 per cent)
+
+As a result, few states have been able to implement in full the act's requirement that welfare recipients take part in some form of education or training.
+0.85 (few states; have been; able to implement in full the act's requirement that welfare recipients take part in some form of education or training)
+0.82 (few states; to implement; L:in full the act's requirement that welfare recipients take part in some form of education or training)
+0.90 (welfare recipients; take; part)
+
+Mr Clinton promised yesterday his reforms would be based on the principle that 'welfare should be a second chance, not a way of life'.
+0.89 (welfare; should be; a second chance, not)
+0.76 (Mr Clinton; promised; T:yesterday; his reforms would be based on the principle that 'welfare should be a second chance, not)
+0.44 Context(Mr Clinton promised,List([0, 19))):(his reforms; would be based; on the principle that 'welfare should be a second chance, not)
+
+There must be 'a certain time beyond which people don't draw a cheque for doing nothing,' he said.
+0.94 (people; do n't draw; a cheque for doing nothing; T:a certain time)
+0.65 (There must be 'a certain time; said; he)
+
+But at the same time people must be helped out of the welfare trap by providing them with continued health coverage, child care, and expanded earned income tax credits when they took jobs.
+0.93 (people; must be helped; T:at the same time)
+0.86 (people; by providing; them; with continued health coverage, child care, and expanded earned income tax credits)
+0.62 (they; took; jobs)
+
+Many states have already embarked on far-reaching welfare reform programmes, such as Michigan's 21-point plan to strengthen families or New Jersey's family development programme.
+0.95 (Many states; have embarked; on far-reaching welfare reform programmes, such as Michigan's 21-point plan; T:already)
+
+Mr Clinton said he would let states experiment with such programmes, even when he disagreed with them.
+0.31 (he; disagreed; with them)
+0.89 (Mr Clinton; said; he would let states experiment with such programmes, even when he disagreed with them)
+0.26 Context(Mr Clinton said,List([0, 15))):(he; would let; states experiment with such programmes; T:even when he disagreed with them)
+0.87 Context(Mr Clinton said he would let,List([0, 28))):(states; experiment; with such programmes)
+

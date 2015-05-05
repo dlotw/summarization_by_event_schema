@@ -1,0 +1,154 @@
+Yet in a matter of weeks, Thomas goes before the Senate Judiciary Committee as President Bush's nominee to join the increasingly conservative Supreme Court.;   Thomas' dramatic political and philosophical transformation reveals more about the man than does his Horatio Alger journey from rural Southern poverty to Supreme Court nomination.
+0.94 (Thomas' dramatic political and philosophical transformation; reveals; more about the man)
+0.97 Context(Thomas ' dramatic political and philosophical transformation reveals,List([160, 227))):(Thomas; goes; before the Senate Judiciary Committee as President Bush's nominee; L:in a matter of weeks)
+
+To friends, his is a story of courage, to foes, a story of opportunism.;
+0.52 (his; is; a story of courage, to foes)
+0.39 (his; is a story of; courage)
+
+Racial anger, protest lyrics; The homespun homilies of his grandfather, the ruler-slapping discipline of the nuns who taught him at a Catholic school in segregated Savannah, Ga., the racial anger in the writings of Richard Wright and Malcolm X, the iconoclastic theories of such academicians as Thomas Sowell and William Barclay Allen, even the protest lyrics of singer-songwriter Nina Simone -- all are parts of the story.;
+0.84 (the nuns; taught; him; L:at a Catholic school in segregated Savannah)
+0.38 (all; are; parts of the story)
+0.39 (all; are parts of; the story)
+
+As glimpsed in dozens of interviews and tens of thousands of pages of documents that Thomas has turned over to the Senate Judiciary Committee, these influences helped shape a set of beliefs that are now the subject of bitter controversy.;
+0.96 (dozens of interviews and tens of thousands of pages of documents; has turned over; to the Senate Judiciary Committee)
+0.88 (beliefs; are; T:now; the subject of bitter controversy)
+0.88 (these influences; helped; shape a set of beliefs)
+0.88 Context(these influences helped,List([143, 166))):(these influences; helped shape; a set of beliefs)
+
+Thomas takes immense pride in having staked out an independent course despite suffering what he said was a heavy personal toll in lost friends and public condemnation.;
+0.92 (Thomas; takes; immense pride)
+
+Black 'intellectual clones'; "I refuse to submit to the racially derogatory orthodoxy which says that all blacks should share the same opinion on . . .
+0.40 (I; refuse; to submit to the racially derogatory orthodoxy)
+0.40 Context(I refuse,List([30, 38))):(I; refuse to submit; to the racially derogatory orthodoxy)
+0.73 (the racially derogatory orthodoxy; says; that all blacks should share the same opinion on)
+0.87 Context(the racially derogatory orthodoxy says,List([52, 96))):(all blacks; should share on; the same opinion)
+
+affirmative action, busing or welfare. . . .
+
+I believe it is racist to act as though blacks are intellectual clones," he said in a 1984 speech to black students at Yale Law School, where he earned his law degree.;
+0.49 (he; earned; his law degree; L:Yale Law School)
+0.41 (it; to act; as though blacks are intellectual clones)
+0.81 (blacks; are; intellectual clones)
+0.78 (I believe it is racist to act; said; L:in a 1984 speech to black students at Yale Law School)
+0.26 Context(I believe it is racist to act said,List([0, 80))):(I; believe; it is racist to act)
+0.23 Context(I believe it is racist to act said,List([0, 80))):(it; is; racist to act)
+
+Thomas underscores his role as a minority figure within a minority by repeatedly quoting Robert Frost's poetic recollection: "Two roads diverged in a wood, and I -- I took the one less traveled by, and that has made all the difference.";
+0.14 (that; has made; all the difference)
+0.32 (the one; less traveled; by)
+0.18 (I; took; the one less traveled by)
+0.83 Context(I took,List([165, 171))):(Thomas; underscores; his role as a minority figure within a minority)
+0.91 Context(Thomas underscores I took,List([0, 171))):(Thomas; underscores his role as a minority figure within a minority by repeatedly quoting; Robert Frost's poetic recollection)
+
+Even his close friends have trouble explaining why Thomas took a different road.;
+0.67 (Even his close friends; have; trouble explaining why Thomas took a different road)
+0.57 Context(Even his close friends have,List([0, 27))):(Even his close friends; have explaining; why Thomas took a different road)
+0.90 Context(Even his close friends have explaining,List([0, 46))):(Thomas; took; a different road)
+
+As a youth, Clarence Thomas shared the liberal attitudes of many bright young black people who were born into a segregated America and came of age after freedom rides, lunch room sit-ins and the 1964 Civil Rights Act began erasing the overt signs of racial discrimination.;
+0.96 (Clarence Thomas; shared; the liberal attitudes of many bright young black people; T:As a youth)
+0.93 (many bright young black people; were born; L:into a segregated America)
+0.94 (many bright young black people; came; T:after freedom rides, lunch room sit-ins and the 1964 Civil Rights Act began erasing the overt signs of racial discrimination)
+0.97 (freedom rides, lunch room sit-ins and the 1964 Civil Rights Act; began; erasing the overt signs of racial discrimination)
+0.97 Context(freedom rides , lunch room sit - ins and the 1964 Civil Rights Act began,List([153, 222))):(freedom rides, lunch room sit-ins and the 1964 Civil Rights Act; began erasing; the overt signs of racial discrimination)
+
+As a Holy Cross College student in the turbulent 1960s, he joined black protesters, wore a beret and a leather jacket, and decorated his dormitory room with a poster of Malcolm X.;   But Thomas came to see his college years as wrongheaded.;
+0.45 (he; joined; black protesters)
+0.41 (he; wore; a beret and a leather jacket)
+0.31 (he; decorated; his dormitory room; with a poster of Malcolm X.)
+0.86 (Thomas; came; to see his college years)
+0.84 (Thomas; to see; his college years as wrongheaded)
+
+His rightward shift -- or, by his account, his circling back to conservative values -- began while he was a Yale law student from 1971 to 1974.;   Thomas was admitted while an affirmative action program was in effect, although there is no evidence that he would not have gotten in without it.;
+0.45 (his; circling; back to conservative values)
+0.19 (he; would not have gotten in; )
+0.57 (he; was; a Yale law student from 1971 to 1974)
+0.90 (Thomas; was admitted; T:while an affirmative action program was in effect)
+0.70 Context(Thomas was admitted,List([147, 166))):(His rightward shift -- or, by his account; began; T:while he was a Yale law student from 1971 to 1974)
+0.94 (an affirmative action program; was; in effect)
+0.39 (he; was a Yale law student from; 1971)
+0.39 (there; is no evidence that; he)
+
+Friend's view; Whatever the reasons -- and his classmates and faculty members at Yale are unable to pinpoint any particular turning points or pivotal events -- Thomas "became more conservative as he went through the process of legal education," said Harry Singleton, a friend.;
+0.84 (Whatever the reasons -- and his classmates and faculty members at Yale; to pinpoint; any particular turning points or pivotal events)
+0.52 (he; went; through the process of legal education)
+0.94 (Whatever the reasons -- and his classmates and faculty members at Yale are unable to pinpoint any particular turning points or pivotal events; said; Harry Singleton)
+0.89 Context(Whatever the reasons -- and his classmates and faculty members at Yale are unable to pinpoint any particular turning points or pivotal events said,List([15, 249))):(Whatever the reasons -- and his classmates and faculty members at Yale; are; unable to pinpoint any particular turning points or pivotal events)
+0.81 Context(Whatever the reasons -- and his classmates and faculty members at Yale are unable to pinpoint any particular turning points or pivotal events said,List([15, 249))):(Thomas; became; more conservative; T:as he went through the process of legal education)
+
+By the time Thomas arrived in Jefferson City, Mo., in 1974 to work for John Danforth, now Thomas' chief supporter in the Senate, then the Republican state attorney general, his attitudes were largely formed.;
+0.96 (Thomas; arrived; in Jefferson City; T:the time)
+0.72 (his attitudes; were largely formed; T:By the time; T:now; T:then)
+
+"His philosophy by that point was that he felt that this country was affording people opportunities if they were willing to work and that to rely on government was in the nature of servitude," said lawyer Harvey Tettlebaum, who worked with Thomas.;
+0.94 (to rely on government; was; in the nature of servitude)
+0.85 (His philosophy by that point was that he felt that this country was affording people opportunities; said; lawyer Harvey Tettlebaum)
+0.44 Context(His philosophy by that point was that he felt that this country was affording people opportunities said,List([1, 197))):(His philosophy by that point; was; that he felt that this country was affording people opportunities)
+0.22 Context(His philosophy by that point was that he felt that this country was affording people opportunities said,List([1, 197))):(he; felt; that this country was affording people opportunities if they were willing to work and that to rely on government was in the nature of servitude)
+0.88 Context(His philosophy by that point was that he felt that this country was affording people opportunities said,List([1, 197))):(this country; was affording; people opportunities)
+0.92 Context(His philosophy by that point was that he felt that this country was affording people opportunities said,List([1, 197))):(lawyer Harvey Tettlebaum; worked; with Thomas)
+0.36 (they; were; willing to work)
+0.28 (they; to work; )
+
+Several years later he captured the attention of the Reagan transition team, which offered a civil rights job to a reluctant Thomas.
+0.64 (he; captured; the attention of the Reagan transition team; T:Several years later)
+0.94 (the Reagan transition team; offered; a civil rights job; to a reluctant Thomas)
+
+His friends urged him not to shun a rare opportunity to make policy, and he accepted successive jobs as assistant secretary of education for civil rights and chairman of the Equal Employment Opportunity Commission.;
+0.49 (His friends; urged; him; not to shun a rare opportunity)
+0.45 (him; not to shun; a rare opportunity to make policy)
+0.45 (he; accepted; successive jobs as assistant secretary of education)
+
+A colorblind Constitution; In those jobs, Thomas began questioning preferences in jobs and education for racial minorities who had historically suffered discrimination.
+0.90 (racial minorities; had suffered; discrimination; T:historically)
+0.85 (Thomas; began; questioning preferences in jobs and education for racial minorities; L:In those jobs)
+0.90 Context(Thomas began,List([42, 54))):(Thomas; began questioning; preferences in jobs and education for racial minorities)
+
+Later, he began openly opposing such preferences, denouncing the Supreme Court decisions that upheld them and calling for a colorblind Constitution.;
+0.88 (the Supreme Court decisions; upheld; them)
+0.53 (he; began openly opposing; such preferences; T:Later)
+0.33 Context(he began openly opposing,List([7, 31))):(he; began openly opposing such preferences denouncing; the Supreme Court decisions)
+0.33 Context(he began openly opposing,List([7, 31))):(he; began openly opposing such preferences calling; for a colorblind Constitution)
+
+Some critics cynically attribute his ideological metamorphosis to opportunism.;
+0.83 (Some critics; cynically attribute; his ideological metamorphosis; to opportunism)
+
+Thomas, who has declined to be interviewed since his Supreme Court nomination, has not responded.
+0.86 (Thomas; to be interviewed; T:since his Supreme Court nomination)
+0.70 (Thomas; has not responded; )
+0.83 Context(Thomas has not responded,List([0, 96))):(Thomas; has not responded has declined; to be interviewed since his Supreme Court nomination)
+
+But he has offered an explanation for his political change of heart.
+0.31 (he; has offered; an explanation for his political change of heart)
+
+In handwritten notes from his files, he recalled telling his Democratic grandparents why he had turned Republican.;   "You all made me become Republican," he told his incredulous grandparents.
+0.31 (he; told; his incredulous grandparents)
+0.43 Context(he told,List([155, 162))):(he; recalled; telling his Democratic grandparents why he had turned Republican; L:In handwritten notes from his files)
+0.29 Context(he recalled he told,List([37, 162))):(he; recalled telling; his Democratic grandparents; why he had turned Republican)
+0.43 Context(he recalled telling he told,List([37, 162))):(he; had turned; Republican)
+0.40 Context(he told,List([155, 162))):(You; made; me become Republican)
+0.43 Context(You made he told,List([119, 162))):(me; become; Republican)
+
+"Remember . . .
+
+when you told me that it wasn't right to beg as long as I could work and get it myself? . . .
+0.38 (it; to beg; T:as long as I could work and get it myself)
+0.19 (I; could work; )
+0.33 (I; get; it; myself)
+0.24 (you; told; me; that it wasn't right to beg as long)
+0.23 Context(you told,List([5, 13))):(it; was n't; right to beg as long)
+
+Remember when you told me that if I ever amounted to anything it would be by the sweat of MY brow and MY elbow grease?;   "And remember when you said you would rather starve than have anyone give you something -- as long as you could work for it? . . .
+0.52 (you; said; you would rather starve than have anyone give you something -- as long)
+0.27 Context(you said,List([141, 149))):(you; would rather starve; )
+0.38 (you; told; me; that if I ever amounted to anything it would be by the sweat of MY brow and MY elbow grease)
+0.55 Context(you told,List([14, 22))):(it; would be; by the sweat of MY brow and MY elbow grease)
+0.46 (you; could work; for it)
+0.55 (I; amounted; to anything; T:ever)
+
+Politically, I had no choice: The only party openly standing for those values
+0.74 (The only party; openly standing; for those values)
+

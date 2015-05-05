@@ -1,0 +1,376 @@
+Over the past two years, the Ventura County district attorney's office in four  separate incidents has declined to prosecute suspects who contended that they  were victims of police brutality while being arrested for various offenses by  Oxnard officers, records show.
+0.89 (the Ventura County district attorney's office in four  separate incidents; to prosecute; suspects who contended that they  were victims of police brutality)
+0.99 (Over the past two years, the Ventura County district attorney's office in four  separate incidents has declined to prosecute suspects; show; records)
+0.97 Context(Over the past two years , the Ventura County district attorney 's office in four separate incidents has declined to prosecute suspects show,List([0, 267))):(the Ventura County district attorney's office in four  separate incidents; has declined; T:Over the past two years)
+0.68 (suspects; contended; that they  were victims of police brutality while being arrested for various offenses by  Oxnard officers)
+0.60 Context(suspects contended,List([125, 147))):(they; were; victims of police brutality; T:while being arrested for various offenses by  Oxnard officers)
+0.39 (they; were victims of; police brutality)
+
+In a fifth and more recent incident, the district attorney's office declined to  file a charge of assaulting an officer against an Oxnard man who says he and  several other guests at a June 15 private party were beaten by Oxnard police.
+0.95 (the district attorney's office; to file; a charge of assaulting an officer against an Oxnard man)
+0.90 (an Oxnard man; says; he and  several other guests at a June 15 private party were beaten by Oxnard police)
+0.84 Context(an Oxnard man says,List([128, 150))):(he and  several other guests at a June 15 private party; were beaten; by Oxnard police)
+
+Instead, Anthony Flores, 22, was charged with five misdemeanor counts of  resisting arrest.
+0.91 (Anthony Flores; was charged; with five misdemeanor counts of  resisting arrest)
+
+The men involved in three of the five incidents have filed police brutality  lawsuits against the city, the department or the police officers involved.
+0.90 (The men; involved; in three of the five incidents)
+0.94 (The men involved in three of the five incidents; have filed; the department or the police officers)
+0.75 (the police officers; involved; )
+
+The  suits, which seek unspecified damages and medical and legal expenses, are  pending.
+0.89 (The  suits; seek; unspecified damages and medical and legal expenses)
+
+Two of the incidents have led to an investigation by the Police Department's  internal affairs division.
+0.96 (Two of the incidents; have led; to an investigation by the Police Department's  internal affairs division)
+
+Deputy Dist.
+
+Atty.
+
+Edward Brodie, misdemeanor supervisor for the office, said  the decisions not to prosecute the suspects do not necessarily mean that Oxnard  police were not justified in making the arrests.
+0.91 (Oxnard  police; in making; the arrests)
+0.85 (Edward Brodie; said; the decisions not to prosecute the suspects do not necessarily mean that Oxnard  police were not justified in making the arrests)
+0.89 Context(Edward Brodie said,List([0, 58))):(the decisions not to prosecute the suspects; do not necessarily mean; that Oxnard  police were not justified in making the arrests)
+0.91 Context(Edward Brodie said the decisions not to prosecute the suspects do not necessarily mean,List([0, 127))):(Oxnard  police; were not justified; L:in making the arrests)
+0.89 (Edward Brodie; [is] misdemeanor supervisor for; the office)
+
+In each of the four cases,  Brodie said, his office did not prosecute because it found that police did not  provide enough evidence to prove the charges "beyond a reasonable doubt."
+0.81 (Brodie; said; his office did not prosecute because it found that police did not  provide enough evidence; L:In each of the four cases)
+0.30 Context(Brodie said,List([28, 39))):(his office; did not prosecute; because it found that police did not  provide enough evidence)
+0.19 (it; found; that police did not  provide enough evidence)
+0.92 Context(it found,List([78, 86))):(police; did not provide; enough evidence to prove the charges "beyond a reasonable doubt)
+
+But Jean Farley, a supervisor for the Ventura County public defender's office,  said it is extremely rare for the district attorney's office not to prosecute a  suspect who is accused by police.
+0.89 (a  suspect; is accused; by police)
+0.88 (Jean Farley; said; it is extremely rare for the district attorney's office)
+0.46 Context(Jean Farley said,List([4, 84))):(it; is; extremely rare for the district attorney's office)
+0.50 (Jean Farley; [is] a supervisor for; the Ventura County public defender)
+
+The district attorney's office may have declined to prosecute the suspects  because police brutality has been alleged, she said.
+0.91 (The district attorney's office; to prosecute; the suspects)
+0.73 (police brutality; has been alleged; )
+0.94 (The district attorney's office may have declined to prosecute the suspects; said; she)
+0.75 Context(The district attorney 's office may have declined to prosecute the suspects said,List([0, 127))):(The district attorney's office; may have declined; )
+
+Prosecution is usually  turned down when the arresting officer is suspected of using excessive force,  she said.
+0.92 (Prosecution is usually  turned down; said; she)
+0.94 Context(Prosecution is usually turned down said,List([0, 111))):(Prosecution; is turned down; T:when the arresting officer is suspected of using excessive force; T:usually)
+
+Assistant Police Chief William Kady declined to discuss the brutality  allegations against the Oxnard officers because of pending litigation.
+0.96 (Assistant Police Chief William Kady; declined; to discuss the brutality  allegations against the Oxnard officers because of pending litigation)
+0.96 Context(Assistant Police Chief William Kady declined,List([0, 44))):(Assistant Police Chief William Kady; declined to discuss; the brutality  allegations against the Oxnard officers because of pending litigation)
+
+He said,  however, that the decisions by the district attorney's office not to prosecute  the suspects do not reflect poorly on the department.
+0.19 (He; said; however)
+
+"I don't think our reputation is any worse than any other department's," he  said.
+0.78 (I don't think our reputation is any worse than any other department's; said; he)
+0.36 Context(I do n't think our reputation is any worse than any other department 's said,List([1, 81))):(I; do n't think; our reputation is any worse than any other department's)
+0.64 Context(I do n't think our reputation is any worse than any other department 's said,List([1, 81))):(our reputation; is; any worse than any other department's)
+0.39 (our reputation; is any worse than; any other department)
+
+"There is always going to be a disagreement over how much force is used."
+0.75 (how much force; is used; )
+
+The latest incident involving an accusation of police brutality stemmed from  the June 15 clash between 18 officers and about 12 party guests at a house in  the 1300 block of South E Street.
+0.91 (The latest incident; involving; an accusation of police brutality)
+0.97 (The latest incident involving an accusation of police brutality; stemmed; from  the June 15 clash between 18 officers and about 12 party guests at a house in  the 1300 block of South E Street)
+
+It began when four officers answered complaints about a loud party.
+0.45 (It; began; T:when four officers answered complaints about a loud party)
+0.90 (four officers; answered; complaints about a loud party)
+
+A police  report said Flores started the fight by shoving a policeman.
+0.90 (A police  report; said; Flores started the fight by shoving a policeman)
+0.90 Context(A police report said,List([0, 21))):(Flores; started; the fight)
+0.90 Context(A police report said Flores started,List([0, 36))):(Flores; started the fight by shoving; a policeman)
+
+Flores and his  brothers, Alex, 19, and Luis Jr., 24 -- all of whom suffered gashes and scrapes  on their heads and bodies -- said the officers beat them without provocation.
+0.92 (Flores and his  brothers, Alex, 19, and Luis Jr., 24 -- all of whom suffered gashes and scrapes  on their heads and bodies; said; the officers beat them without provocation)
+0.80 Context(Flores and his brothers , Alex , 19 , and Luis Jr . , 24 -- all of whom suffered gashes and scrapes on their heads and bodies said,List([0, 130))):(the officers; beat; them)
+
+Police had arrested Flores on suspicion of assaulting an officer and of  resisting arrest but the district attorney's office decided two weeks later to  prosecute Flores on the five misdemeanor counts of resisting arrest.
+0.93 (Police; had arrested; Flores; T:on suspicion of assaulting an officer and of  resisting arrest)
+0.94 (the district attorney's office; decided; T:two weeks later; to  prosecute Flores on the five misdemeanor counts of resisting arrest)
+0.86 Context(the district attorney 's office decided,List([94, 132))):(the district attorney's office; decided to prosecute; Flores; on the five misdemeanor counts of resisting arrest)
+
+"Based upon my review of all the reports, the charges were the most appropriate  charges to file," said Deputy Dist.
+0.77 (the most appropriate  charges; to file; )
+0.85 (Based upon my review of all the reports, the charges were the most appropriate  charges; said; Deputy Dist)
+0.88 Context(Based upon my review of all the reports , the charges were the most appropriate charges said,List([1, 103))):(the charges; were; the most appropriate  charges to file)
+
+Atty.
+
+Donald Gran, who declined to  elaborate.
+0.74 (Donald Gran; declined; to  elaborate)
+0.71 Context(Donald Gran declined,List([0, 25))):(Donald Gran; declined to  elaborate to elaborate; )
+
+Police Chief Robert Owens has ordered an investigation into the incident.
+0.94 (Police Chief Robert Owens; has ordered; an investigation into the incident)
+
+In an incident April 7, Sergio E. Gonzalez, 19, accused Oxnard officers of  ordering a police dog to attack him before he was arrested.
+0.87 (Oxnard officers; of ordering; a police dog; to attack him before he was arrested)
+0.85 (a police dog; to attack; him; T:before he was arrested)
+0.19 (he; was arrested; )
+
+In a suit filed June 29, Gonzalez said he was standing on Sunkist Circle when  the dog attacked him, biting him on the arm and left shoulder.
+0.92 (a suit; filed; T:June 29)
+0.91 (the dog; left; shoulder)
+0.91 (Gonzalez; said; he was standing on Sunkist Circle; L:In a suit)
+0.40 Context(Gonzalez said,List([25, 38))):(he; was standing; on Sunkist Circle; T:when  the dog attacked him, biting him on the arm and left shoulder)
+0.27 (he; biting; him; L:on the arm)
+
+Gonzalez was  taken to St. John's Regional Medical Center, where he underwent surgery and  spent two weeks recovering from his injuries.
+0.93 (Gonzalez; was taken; to St. John's Regional Medical Center)
+0.64 (he; underwent; surgery; L:St. John's Regional Medical Center)
+0.33 (he; spent; two weeks; recovering from his injuries)
+0.27 (he; recovering; from his injuries)
+
+Edward M. Fox, an attorney representing Gonzalez, said his client, a gardener,  might suffer some permanent injury to his right arm.
+0.92 (an attorney; representing; Gonzalez)
+0.89 (Edward M. Fox; said; his client, a gardener,  might suffer some permanent injury to his right arm)
+0.39 Context(Edward M. Fox said,List([0, 54))):(his client; might suffer; some permanent injury; to his right arm)
+
+According to a police report filed by Officer Michael Cole, police were sent to  a parking lot outside the Oxnard Moose Lodge to investigate a report of an  altercation between several men after a wedding reception.
+0.93 (a police report; filed; by Officer Michael Cole)
+0.94 (police; were sent; to  a parking lot outside the Oxnard Moose Lodge; to investigate a report of an  altercation between several men after a wedding reception)
+0.92 (police; to investigate; a report of an  altercation between several men after a wedding reception)
+
+Cole's report said  Gonzalez was found hiding in the parking lot and "was bit by a police service  dog during the arrest."
+0.91 (Gonzalez; hiding; L:in the parking lot)
+0.91 (Gonzalez; was bit; by a police service  dog; T:during the arrest)
+0.96 (Cole's report; said; Gonzalez was found hiding in the parking lot and "was bit by a police service  dog during the arrest)
+0.73 Context(Cole 's report said,List([0, 18))):(Gonzalez; was found; )
+
+The report, however, does not say why the dog attacked Gonzalez or whether  Gonzalez resisted arrest.
+0.92 (Gonzalez; resisted; arrest)
+0.92 (The report; does not say; why the dog attacked Gonzalez or whether  Gonzalez resisted arrest)
+0.90 Context(The report does not say,List([0, 33))):(the dog; attacked; Gonzalez)
+
+Police arrested Gonzalez on suspicion of disturbing  the peace, Brodie said.
+0.97 (Police arrested Gonzalez on suspicion of disturbing  the peace; said; Brodie)
+0.89 Context(Police arrested Gonzalez on suspicion of disturbing the peace said,List([0, 75))):(Police; arrested; Gonzalez; on suspicion of disturbing  the peace)
+0.81 Context(Police arrested Gonzalez on suspicion of disturbing the peace said,List([0, 75))):(Police; arrested Gonzalez of disturbing; the peace)
+
+But the district attorney's office declined to file any  charges because the police report failed to show that Gonzalez was involved in  the altercation, Brodie said.
+0.91 (the district attorney's office; to file; any  charges)
+0.82 (the police report; failed; to show that Gonzalez was involved in  the altercation)
+0.97 (the district attorney's office declined to file any  charges; said; Brodie)
+0.75 (the police report; to show; that Gonzalez was involved in  the altercation)
+0.90 Context(the police report to show,List([73, 105))):(Gonzalez; was involved; in  the altercation)
+
+Fox said Gonzalez did not attend the wedding but was visiting a friend nearby  and went to the parking lot to find out what was causing the commotion.
+0.91 (Gonzalez; was visiting; a friend nearby)
+0.93 (Gonzalez; went; to the parking lot; to find out what was causing the commotion)
+0.90 (Fox; said; Gonzalez did not attend the wedding but was visiting a friend nearby  and went to the parking lot)
+0.90 Context(Fox said,List([0, 8))):(Gonzalez; did not attend; the wedding)
+
+In a third incident, Louis M. Cornett, a retired teacher and licensed gun  dealer, said he was beaten on Oct. 20 while in custody at Oxnard police  headquarters.
+0.91 (Louis M. Cornett; said; he was beaten on Oct; L:In a third incident)
+0.43 Context(Louis M. Cornett said,List([21, 87))):(he; was beaten; L:on Oct)
+
+Cornett said the altercation began as he was returning home after  scouting out a site for quail hunting near Santa Maria.
+0.61 (he; was returning; home; T:after  scouting out a site for quail hunting near Santa Maria)
+0.46 (he; after scouting out; a site for quail hunting near Santa Maria)
+0.91 (Cornett; said; the altercation began as he was returning home after  scouting out a site for quail hunting near Santa Maria)
+0.89 Context(Cornett said,List([0, 12))):(the altercation; began; T:as he was returning home after  scouting out a site for quail hunting near Santa Maria)
+
+Officer Robert Camarillo said in a police report that Cornett was arrested in  the 3600 block of Taffrail Road on suspicion of brandishing a weapon, resisting  arrest and possessing a loaded firearm.
+0.93 (Officer Robert Camarillo; said; L:in a police report)
+0.96 (Cornett; was arrested; L:in  the 3600 block of Taffrail Road on suspicion of brandishing a weapon, resisting  arrest and possessing a loaded firearm)
+
+Camarillo said in the report that he stopped Cornett while investigating a  complaint of a man waving a gun from a car and threatening youngsters packed  into another vehicle.
+0.89 (youngsters; packed; into another vehicle)
+0.90 (a man; waving; a gun; from a car)
+0.89 (a man; threatening; youngsters packed  into another vehicle)
+0.68 (Camarillo; said; L:in the report; that he stopped Cornett)
+0.43 Context(Camarillo said,List([0, 14))):(he; stopped; Cornett; T:while investigating a  complaint of a man)
+0.29 Context(Camarillo said he stopped,List([0, 44))):(he; stopped Cornett investigating; a  complaint of a man)
+
+Camarillo said Cornett fit the description of the man who  allegedly brandished the weapon.
+0.89 (the man; allegedly brandished; the weapon)
+0.92 (Camarillo; said; Cornett fit the description of the man)
+0.78 Context(Camarillo said,List([0, 14))):(Cornett; fit; )
+
+When he searched Cornett's car, Camarillo said, he found a semiautomatic  handgun, several rounds of ammunition and a 12-gauge shotgun.
+0.50 (he; searched; Cornett's car)
+0.93 (Camarillo; said; he found a semiautomatic  handgun, several rounds of ammunition and a 12-gauge shotgun; T:When he searched Cornett's car)
+0.39 Context(Camarillo said,List([32, 46))):(he; found; a semiautomatic  handgun)
+
+Camarillo admitted that he later shoved Cornett against a wall at police  headquarters because the suspect had struggled and had clenched his fists in a  threatening manner.
+0.73 (the suspect; had struggled; )
+0.81 (the suspect; had clenched; his fists)
+0.78 (Camarillo; admitted; that he later shoved Cornett against a wall at police  headquarters)
+0.51 Context(Camarillo admitted,List([0, 18))):(he; shoved; Cornett; against a wall at police  headquarters; because the suspect had struggled and had clenched his fists in a  threatening manner; T:later)
+
+But a lawsuit against Camarillo filed May 8, 1989, alleges that while in  custody at the police station, Camarillo shoved and punched Cornett in the  mouth.
+0.97 (a lawsuit against Camarillo; filed; T:May 8, 1989; T:while in  custody at the police station, Camarillo shoved and punched Cornett in the  mouth)
+0.63 (a lawsuit against Camarillo; alleges; that)
+0.94 (Camarillo; shoved; L:in  custody at the police station)
+0.92 (Camarillo; punched; Cornett; L:in the  mouth)
+
+"He slammed me in the mouth once, twice and a third time," Cornett said  in an interview.
+0.77 (He slammed me in the mouth once, twice and a third time; said; L:in an interview)
+0.26 Context(He slammed me in the mouth once , twice and a third time said,List([1, 71))):(He; slammed; me; L:in the mouth; T:once; T:twice; T:a third time)
+
+Cornett, maintaining that he never struggled with the officer, said he suffered  a broken tooth and a cut lip during the beating.
+0.87 (Cornett; said; he suffered  a broken tooth and a cut lip during the beating)
+0.59 Context(Cornett said,List([0, 67))):(Cornett; said maintaining; that he never struggled with the officer)
+0.39 Context(Cornett maintaining said,List([0, 67))):(he; never struggled; with the officer)
+0.39 Context(Cornett said,List([0, 67))):(he; suffered; a broken tooth and a cut lip; T:during the beating)
+
+The district attorney's office declined to file charges against Cornett  because, Brodie said, there was insufficient evidence to prove that Cornett  brandished a gun.
+0.93 (The district attorney's office; to file; charges; against Cornett)
+0.77 (Brodie; said; )
+
+In a fourth incident, Alejandro Guzman-Flores, 21, accused three Oxnard  officers of beating him on his face, causing severe damage to his eyesight.
+0.92 (Alejandro Guzman-Flores; accused; three Oxnard  officers; of beating him on his face; L:In a fourth incident)
+0.84 Context(Alejandro Guzman - Flores accused,List([22, 58))):(Alejandro Guzman-Flores; accused three Oxnard  officers of beating; him; L:on his face)
+0.78 Context(Alejandro Guzman - Flores accused,List([22, 58))):(Alejandro Guzman-Flores; accused three Oxnard  officers causing; severe damage to his eyesight)
+
+Guzman-Flores said he was working in a motorcycle repair shop on Jan. 27, 1989,  when his boss asked him to investigate a noise in the alley behind the shop in  the 1500 block of South Pine Street.
+0.65 (his boss; asked; him; to investigate a noise in the alley behind the shop in  the 1500 block of South Pine Street)
+0.45 (him; to investigate; a noise)
+0.92 (Guzman-Flores; said; he was working in a motorcycle repair shop on Jan. 27, 1989)
+0.44 Context(Guzman - Flores said,List([0, 18))):(he; was working; L:in a motorcycle repair shop on Jan)
+
+In a suit filed against the city Nov. 14, 1989, the Police Department and  officers Jana Younger, Fred Sedillos and James Struck, Guzman-Flores contends  that he was grabbed from behind by Younger while in the alley.
+0.90 (a suit; filed; against the city)
+0.80 (the Police Department and  officers; contends; that he was grabbed from behind by Younger; L:In a suit)
+0.18 Context(the Police Department and officers contends,List([48, 152))):(he; was grabbed; from behind; by Younger)
+
+The officer  poked him with a baton and questioned him about a car parked nearby,  Guzman-Flores said in the suit.
+0.81 (The officer; questioned; him; about a car)
+0.77 (a car; parked; nearby)
+0.77 (The officer  poked him with a baton and questioned him about a car; said; L:in the suit)
+0.80 Context(The officer poked him with a baton and questioned him about a car said,List([0, 101))):(The officer; poked; him)
+
+The Police Department declined to release Flores' arrest report because, police  officials said, it contains his criminal history.
+0.73 (police  officials; said; )
+0.31 (it; contains; his criminal history)
+0.93 (The Police Department; declined; to release Flores' arrest report)
+0.93 Context(The Police Department declined,List([0, 30))):(The Police Department; declined to release; Flores' arrest report)
+
+But Flores' lawyer, Sherrie  L. McCracken, said the report states that officers were at the shop responding  to a complaint of a man with a gun.
+0.90 (the shop; responding; to a complaint of a man with a gun)
+0.77 (Flores' lawyer; said; the report states that officers were at the shop)
+0.72 Context(Flores ' lawyer said,List([4, 47))):(the report; states; that officers were at the shop)
+0.87 Context(Flores ' lawyer said the report states,List([4, 65))):(officers; were; at the shop)
+0.50 (Sherrie L. McCracken; [is] lawyer [of]; Flores)
+
+McCracken said the officers continued to question Flores in English, but Flores  -- a recent immigrant from Mexico who speaks only Spanish -- could not respond.
+0.90 (the officers; to question; Flores)
+0.83 (a recent immigrant from Mexico; speaks; only Spanish)
+0.74 (Flores; could not respond; )
+0.95 (McCracken; said; the officers continued to question Flores in English, but Flores  -- a recent immigrant from Mexico who speaks only Spanish -- could not respond)
+0.69 Context(McCracken said,List([0, 14))):(the officers; continued; )
+
+Flores was handcuffed and shoved to the ground, causing Sedillos to trip and  fall on him, according to the suit.
+0.82 (Flores; was handcuffed; causing Sedillos to trip and  fall on him)
+0.88 (Flores; shoved; to the ground)
+0.80 (Sedillos; to fall; on him)
+0.79 (Flores; causing; Sedillos to trip and  fall on him)
+0.73 Context(Flores causing,List([0, 55))):(Sedillos; to trip; )
+
+Sedillos got up and punched and kicked Flores several times while Younger held  Flores in a "choke-hold," the suit alleges.
+0.96 (Sedillos; got; up; while Younger held  Flores in a "choke-hold," the suit alleges)
+0.74 (Sedillos; punched; )
+0.92 (Sedillos; kicked; Flores; T:several times)
+
+Flores was arrested on suspicion of resisting arrest and obstructing an  officer.
+0.89 (Flores; was arrested; on suspicion of resisting arrest and obstructing an  officer)
+
+The district attorney's office decided to prosecute Flores but later  dismissed all charges during Flores' trial because police failed to turn over a  recording of a dispatcher's call requesting that officers investigate the  incident at the motorcycle shop, McCracken said.
+0.97 (The district attorney's office; dismissed; all charges; T:during Flores' trial; because police failed to turn over a  recording of a dispatcher's call; T:later)
+0.99 (The district attorney's office decided to prosecute Flores but later  dismissed all charges during Flores' trial; said; McCracken)
+0.91 Context(The district attorney 's office decided to prosecute Flores but later dismissed all charges during Flores ' trial said,List([0, 273))):(The district attorney's office; decided; to prosecute Flores)
+0.91 Context(The district attorney 's office decided to prosecute Flores but later dismissed all charges during Flores ' trial said,List([0, 273))):(The district attorney's office; decided to prosecute; Flores)
+0.93 (police; failed; to turn over a  recording of a dispatcher's call)
+0.88 (police; to turn over; a  recording of a dispatcher's call)
+
+McCracken said Flores never struggled with the officers until after he was  placed in the choke-hold.
+0.45 (he; was placed; in the choke-hold)
+0.92 (McCracken; said; Flores never struggled with the officers)
+0.89 Context(McCracken said,List([0, 14))):(Flores; never struggled; with the officers; T:until after he was  placed in the choke-hold)
+
+McCracken said Flores was beaten so severely that he  suffered a detached retina and might lose partial sight in one eye.
+0.45 (he; suffered; a detached retina)
+0.41 (he; might lose; partial sight)
+0.78 (McCracken; said; Flores was beaten so severely that he  suffered a detached retina and might lose partial sight in one eye)
+0.73 Context(McCracken said,List([0, 14))):(Flores; was beaten so severely; )
+
+"They essentially beat the hell out of him for nothing," she said.
+0.71 (They essentially beat the hell out of him for nothing; said; she)
+0.41 Context(They essentially beat the hell out of him for nothing said,List([1, 65))):(They; essentially beat; the hell; out of him)
+
+In another incident, Luis C. Luna, 50, alleges in a complaint filed with the  city on June 27, 1989, that he was beaten by three officers near a restaurant  in Port Hueneme.
+0.92 (a complaint; filed; with the  city; T:on June 27, 1989)
+0.86 (Luis C. Luna; alleges; L:in a complaint; that he was beaten by three officers near a restaurant  in Port Hueneme; L:In another incident)
+0.43 Context(Luis C. Luna alleges,List([21, 46))):(he; was beaten; by three officers; near a restaurant  in Port Hueneme)
+
+Luna said in an interview that he, his wife and several friends were leaving  the restaurant on July 16, 1988, when an Oxnard police car pulled up in front  of the group.
+0.97 (an Oxnard police car; pulled; up; L:in front  of the group; T:July 16, 1988)
+0.77 (Luna; said; L:in an interview; that he, his wife and several friends were leaving  the restaurant on July 16, 1988)
+0.73 Context(Luna said,List([0, 9))):(he, his wife and several friends; were leaving; the restaurant; T:on July 16, 1988)
+
+Luna, a public works inspector for the city of Port Hueneme, said  he walked up to the police car and asked Officer Peter Ruggiero "in a kidding  manner" what he was doing in Port Hueneme.
+0.89 (Luna; said; he walked up to the police car and asked Officer Peter Ruggiero "in a kidding  manner" what he was doing in Port Hueneme)
+0.40 Context(Luna said,List([0, 65))):(he; walked; up to the police car)
+0.26 (he; asked; Officer Peter Ruggiero; what he was doing in Port Hueneme)
+0.43 Context(he asked,List([67, 107))):(he; was doing; L:in Port Hueneme)
+
+"The officer jumped out and started pushing me back against the pillar in front  of the building, using his baton on my throat," Luna said in the complaint.
+0.85 (The officer; started; pushing me back against the pillar in front  of the building, using his baton on my throat)
+0.77 Context(The officer started,List([1, 35))):(The officer; started pushing; me; back against the pillar)
+0.83 (The officer jumped out and started pushing me back against the pillar in front  of the building; said; L:in the complaint)
+0.72 Context(The officer jumped out and started pushing me back against the pillar in front of the building said,List([1, 138))):(The officer; jumped; out)
+
+When he asked the officer why he was being shoved, Ruggiero told him that he  was under arrest, according to the complaint.
+0.31 (he; asked; the officer why he was being shoved)
+0.19 (he; was being shoved; )
+0.87 (Ruggiero; told; him; that he  was under arrest, according to the complaint; T:When he asked the officer)
+0.46 Context(Ruggiero told,List([51, 64))):(he; was; under arrest)
+
+Officers Steven Vendt and  Humberto Jimenez were called to assist Ruggiero, the complaint said.
+0.96 (Officers Steven Vendt and  Humberto Jimenez were called; said; the complaint)
+0.95 Context(Officers Steven Vendt and Humberto Jimenez were called said,List([0, 94))):(Officers Steven Vendt and  Humberto Jimenez; were called; to assist Ruggiero)
+
+"They used forcible brutality by hitting me with the baton on my elbow, knees  and back, forcing me to drop down on the sidewalk with my face slammed against  the pavement," Luna said in the complaint.
+0.45 (me; to drop down; on the sidewalk)
+0.64 (my face; slammed; against  the pavement)
+0.94 (They used forcible brutality by hitting me with the baton on my elbow, knees  and back, forcing me to drop down on the sidewalk with my face; said; L:in the complaint)
+0.55 Context(They used forcible brutality by hitting me with the baton on my elbow , knees and back , forcing me to drop down on the sidewalk with my face said,List([1, 183))):(They; used; forcible brutality)
+0.52 Context(They used forcible brutality by hitting me with the baton on my elbow , knees and back , forcing me to drop down on the sidewalk with my face said,List([1, 183))):(They; used forcible brutality by hitting; me; with the baton on my elbow, knees  and back)
+0.30 Context(They used forcible brutality by hitting me with the baton on my elbow , knees and back , forcing me to drop down on the sidewalk with my face said,List([1, 183))):(They; used forcible brutality forcing; me; to drop down on the sidewalk with my face)
+
+Luna was arrested on suspicion of disorderly conduct under the influence of  drugs.
+0.95 (Luna; was arrested; on suspicion of disorderly conduct under the influence of  drugs)
+
+The district attorney's office decided to prosecute Luna, but in  September, 1988 -- before his trial began -- all charges against him were  withdrawn for lack of evidence, Brodie said.
+0.34 (his trial; began; )
+0.71 (all charges against him; were withdrawn; for lack of evidence; T:in  September, 1988; T:before his trial began)
+0.98 (The district attorney's office decided to prosecute Luna, but in  September, 1988 -- before his trial began -- all charges against him were  withdrawn for lack of evidence; said; Brodie)
+0.92 Context(The district attorney 's office decided to prosecute Luna , but in September , 1988 -- before his trial began -- all charges against him were withdrawn for lack of evidence said,List([0, 184))):(The district attorney's office; decided; to prosecute Luna)
+0.92 Context(The district attorney 's office decided to prosecute Luna , but in September , 1988 -- before his trial began -- all charges against him were withdrawn for lack of evidence said,List([0, 184))):(The district attorney's office; decided to prosecute; Luna)
+
+Owens ordered the department's internal affairs division to investigate Luna's  complaint.
+0.93 (Owens; ordered; the department's internal affairs division; to investigate Luna's  complaint)
+0.94 (the department's internal affairs division; to investigate; Luna's  complaint)
+
+But Luna said the Police Department later sent him a letter saying  the investigation revealed no wrongdoing on the officers' parts.
+0.85 (Luna; said; the Police Department later sent him a letter)
+0.95 Context(Luna said,List([4, 13))):(the Police Department; sent; him; a letter saying  the investigation revealed no wrongdoing on the officers' parts; T:later)
+0.92 (a letter; saying; the investigation revealed no wrongdoing on the officers' parts)
+0.88 Context(a letter saying,List([51, 66))):(the investigation; revealed; no wrongdoing on the officers' parts)
+
+Luna had asked the city for $50,000 for medical expenses and to compensate for  "humiliation suffered in public."
+0.92 (Luna; had asked; the city; for $50,000 for medical expenses)
+0.89 (humiliation; suffered; L:in public)
+
+He failed, however, to submit the claim for  damages during the statutory six-month period after the incident and was barred  by law from filing a lawsuit.
+0.52 (He; failed; however; to submit the claim for  damages during the statutory six-month period after the incident)
+0.53 (He; to submit; the claim for  damages; T:during the statutory six-month period after the incident)
+0.41 (He; was barred; by law; from filing a lawsuit)
+

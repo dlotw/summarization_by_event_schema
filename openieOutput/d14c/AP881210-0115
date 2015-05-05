@@ -1,0 +1,109 @@
+A top West German military official said Saturday that the fiery crash of a U.S. Air Force jet that killed six people will further erode popular support for national defense programs.
+0.93 (a U.S. Air Force jet; killed; six people)
+0.88 (A top West German military official; said; T:Saturday; that the fiery crash of a U.S. Air Force jet that killed six people will further erode popular support for national defense programs)
+0.91 Context(A top West German military official said,List([0, 40))):(the fiery crash of a U.S. Air Force jet; will erode; popular support for national defense programs)
+
+In the city of Remscheid, fire brigade leader Berthold Hoehler said the body of a construction worker was pulled from the rubble of a house destroyed in the accident, raisng the death toll from the accident to six.
+0.90 (a house; destroyed; L:in the accident)
+0.98 (fire brigade leader Berthold Hoehler; said; the body of a construction worker was pulled from the rubble of a house destroyed in the accident, raisng the death toll from the accident to six; L:In the city of Remscheid)
+0.91 Context(fire brigade leader Berthold Hoehler said,List([26, 67))):(the body of a construction worker; was pulled; from the rubble of a house)
+0.39 (Berthold Hoehler; [is] leader [of]; fire brigade)
+
+Seven people hurt in Thursday's accident remained in critical condition, he said.
+0.89 (Seven people; remained; in critical condition)
+0.95 (Seven people hurt in Thursday's accident remained in critical condition; said; he)
+0.92 Context(Seven people hurt in Thursday 's accident remained in critical condition said,List([0, 80))):(Seven people; hurt; L:in Thursday's accident)
+
+Later Saturday, at least 4,000 people took part in a torchlight vigil and procession in downtown Remscheid to remember the victims and to demand an end to low-level flight training missions.
+0.97 (at least 4,000 people; took; part; L:in a torchlight vigil and procession in downtown Remscheid; to remember the victims and to demand an end to low-level flight training missions; T:Later Saturday)
+0.85 Context(at least 4,000 people took,List([16, 42))):(at least 4,000 people; took part to remember; the victims)
+
+A U.S. Air Force A-10 Thunderbolt II jet tore a swath of destruction through a working-class neighborhood in the central West German city of Remscheid.
+0.93 (A U.S. Air Force A-10 Thunderbolt II jet; tore; a swath of destruction)
+
+Rescue workers continued to comb the debris Saturday, as work crews tore down the remains of demolished houses.
+0.90 (work crews; tore down; the remains of demolished houses)
+0.93 (Rescue workers; continued; to comb the debris Saturday; T:as work crews tore down the remains of demolished houses)
+0.93 Context(Rescue workers continued,List([0, 24))):(Rescue workers; continued to comb; the debris; T:Saturday; T:as work crews tore down the remains of demolished houses)
+
+In an interview with the Welt am Sonntag newspaper, the inspector general of West Germany's military said the crash was certain to have a serious impact on already sinking public support for defense issues.
+0.93 (the crash; to have; a serious impact on already sinking public support for defense issues)
+0.97 (the inspector general of West Germany's military; said; the crash was certain to have a serious impact on already sinking public support for defense issues)
+0.94 Context(the inspector general of West Germany 's military said,List([52, 105))):(the crash; was; certain to have a serious impact on already sinking public support for defense issues)
+0.38 (Sonntag newspaper; [is] the inspector general of; West Germany)
+
+``We are in a very difficult psychological situation,'' Dieter Wellershoff was quoted as saying.
+0.76 (Dieter Wellershoff; saying; )
+0.77 (Dieter Wellershoff; was quoted; as)
+0.39 Context(Dieter Wellershoff was quoted,List([56, 85))):(We; are; in a very difficult psychological situation)
+
+Wellershoff was referring to recent polls indicating dwindling public support for defense spending and increasing dissatisfaction over disruptive and often deadly military training maneuvers.
+0.92 (Wellershoff; was referring; to recent polls)
+0.94 (recent polls; indicating; dwindling public support for defense spending and increasing dissatisfaction over disruptive and often deadly military training maneuvers)
+
+``I am alarmed that many West Germans have lost sight of the hard facts (of defense realities) in their hopes for continued peace,'' which hinge on West Germany's and NATO's security preparedness, he said.
+0.90 (continued peace; hinge; on West Germany's and NATO's security preparedness)
+0.14 (I; alarmed; )
+0.86 Context(I alarmed,List([2, 14))):(many West Germans; have lost; sight of the hard facts (of defense realities; L:in their hopes for continued peace)
+0.94 (I am alarmed that many West Germans have lost sight of the hard facts (of defense realities) in their hopes for continued peace; said; he)
+0.25 Context(I am alarmed that many West Germans have lost sight of the hard facts ( of defense realities ) in their hopes for continued peace said,List([2, 204))):(I; am; alarmed that many West Germans have lost sight of the hard facts (of defense realities) in their hopes for continued peace)
+
+West Germany, a staunch NATO ally, borders East Germany and Czechoslovakia, thus putting it on the front lines of the East-West struggle.
+0.92 (West Germany; putting; it; on the front lines of the East-West struggle)
+0.88 (West Germany; [is] a staunch ally [of]; NATO)
+
+Wellershoff's comments were to appear in the newspaper's Sunday editions.
+0.94 (Wellershoff's comments; were; to appear in the newspaper's Sunday editions)
+0.93 (Wellershoff's comments; to appear; L:in the newspaper's Sunday editions)
+
+The text of the interview was telexed in advance to other news media.
+0.93 (The text of the interview; was telexed; T:in advance to other news media)
+
+West Germany's skies are crowded with hundreds of jets and helicopters each day.
+0.94 (West Germany's skies; are; crowded with hundreds of jets and helicopters each day)
+
+A series of deadly accidents has fueled growing calls for a halt to or drastic reductions in low-level training flights.
+0.95 (A series of deadly accidents; has fueled; growing calls for a halt to or drastic reductions in low-level training flights)
+
+Even before Thursday's fatal crash, 12 major accidents of military aircraft had killed 95 people this year alone.
+0.97 (12 major accidents of military aircraft; had killed; 95 people; T:this year alone; T:Even before Thursday's fatal crash)
+
+They included 70 people who died as a result of an air show crash at the U.S. base in Ramstein in August.
+0.76 (They; included; 70 people who died as a result of an air show crash at the U.S. base in Ramstein in August)
+0.94 (70 people; died; as a result of an air show crash at the U.S. base in Ramstein in August)
+
+Following the Remscheid crash, temporary suspensions of low-level training missions were ordered.
+0.97 (temporary suspensions of low-level training missions; were ordered; T:Following the Remscheid crash)
+
+The U.S. Air Force said in a statement Saturday that the pilot of the A-10 ``inadvertently flew into clouds'' while attempting to join in close formation with another aircraft.
+0.92 (The U.S. Air Force; said; L:in a statement Saturday that the pilot of the A-10 ``inadvertently flew into clouds'' while attempting to join in close formation with another aircraft)
+0.93 (the pilot of; inadvertently flew; into clouds; T:while attempting to join in close formation with another aircraft)
+
+The Air Force statement, quoting Maj.
+0.94 (The Air Force statement; quoting; Maj.)
+
+Gen. Marcus A. Anderson, said the pilot ``then initiated a separation maneuver as is normal if two aircraft in formation lose visual contact.''
+0.92 (two aircraft in formation; lose; visual contact)
+0.94 (Gen. Marcus A. Anderson; said; the pilot ``then initiated a separation maneuver as is normal)
+0.95 Context(Gen. Marcus A. Anderson said,List([0, 29))):(the pilot; initiated; a separation maneuver; T:as is normal if two aircraft in formation lose visual contact; T:then)
+
+The statement said the lead aircraft climbed above the clouds, but that the second A-10 ``continued in a descent.''
+0.93 (the second A-10; continued; L:in a descent)
+0.88 (The statement; said; the lead aircraft climbed above the clouds)
+0.89 Context(The statement said,List([0, 18))):(the lead aircraft; climbed; L:above the clouds)
+
+``We do not know why,'' Anderson said in the statement.
+0.61 (We do not know why; said; L:in the statement)
+0.18 Context(We do not know why said,List([2, 37))):(We; do not know; why)
+
+West German military officials have speculated that the pilot may have become disoriented when he tried to climb out of the bad weather.
+0.74 (West German military officials; have speculated; that the pilot may have become disoriented when he tried to climb out of the bad weather)
+0.87 Context(West German military officials have speculated,List([0, 46))):(the pilot; may have become; disoriented; T:when he tried to climb out of the bad weather)
+0.39 (he; tried; to climb out of the bad weather)
+0.39 Context(he tried,List([95, 103))):(he; tried to climb; out of the bad weather)
+
+Witnesses on the ground, however, have said they saw one of the jet's two engines on fire before it crashed.
+0.19 (it; crashed; )
+0.86 (Witnesses on the ground; have said; they saw one of the jet's two engines on fire before it crashed)
+0.62 Context(Witnesses on the ground have said,List([0, 43))):(they; saw; one of the jet's two engines on fire)
+

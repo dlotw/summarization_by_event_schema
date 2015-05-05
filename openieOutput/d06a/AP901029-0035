@@ -1,0 +1,163 @@
+The accidental shooting death of a young stockbroker by an officer looking for a burglar is one more strike against a police force already struggling with allegations of brutality and racism.
+0.90 (an officer; looking; for a burglar)
+0.96 (The accidental shooting death of a young stockbroker by an officer; is; one more strike against a police force)
+0.94 (a police force; struggling; with allegations of brutality and racism; T:already)
+0.39 (a burglar; is one more strike against; a police force)
+
+Terry D. Barnes, 24, was shot between the eyes in his apartment.
+0.86 (Terry D. Barnes; was shot; L:between the eyes; L:in his apartment)
+
+Police said an officer investigating a report of a prowler had entered the apartment at 3:30 a.m. and fired after Barnes got out of bed to see what was wrong.
+0.94 (an officer investigating a report of a prowler; fired; T:after Barnes got out of bed)
+0.91 (Police; said; an officer investigating a report of a prowler had entered the apartment at 3:30 a.m. and fired)
+0.93 Context(Police said,List([0, 11))):(an officer investigating a report of a prowler; had entered; the apartment; T:at 3:30 a.m.)
+0.88 Context(Police said an officer investigating a report of a prowler had entered,List([0, 70))):(an officer; investigating; a report of a prowler)
+0.92 (Barnes; got; out of bed; to see what was wrong)
+0.76 Context(Barnes got,List([114, 124))):(Barnes; got out of bed to see; what was wrong)
+
+It was the seventh shooting death involving Kansas City police officers this year.
+0.68 (It; was; the seventh shooting death involving Kansas City police officers this year)
+0.93 (the seventh shooting death; involving; Kansas City police officers; T:this year)
+
+In the previous three years, five people were shot and killed.
+0.93 (five people; were shot; T:In the previous three years)
+0.92 (five people; killed; T:In the previous three years)
+
+``I just hope that this case will draw the line on where the police can kill an innocent man.
+0.90 (the police; can kill; an innocent man)
+0.27 (I; just hope; that this case will draw the line on where the police can kill an innocent man)
+0.92 Context(I just hope,List([2, 13))):(this case; will draw; the line on where the police can kill an innocent man)
+
+Where do you draw the line?'' said roommate Andy Brez, 23, who was sleeping in another bedroom when police entered on Saturday.
+0.91 (police; entered; on Saturday)
+0.68 (Where do you draw the line; said; roommate Andy Brez)
+0.92 Context(Where do you draw the line said,List([0, 34))):(roommate Andy Brez; was sleeping; L:in another bedroom; T:when police entered on Saturday)
+
+Barnes was white, as is the officer who shot him; however, other recent incidents of alleged excessive force involved black citizens.
+0.80 (Barnes; was; white)
+0.85 (the officer; shot; him)
+
+Police said they were told the prowler might have run to the floor on which Barnes lived.
+0.94 (Barnes; lived; L:the floor)
+0.85 (Police; said; they were told the prowler might have run to the floor)
+0.56 Context(Police said,List([0, 11))):(they; were told; the prowler might have run to the floor)
+0.88 Context(Police said they were told,List([0, 26))):(the prowler; might have run; to the floor)
+
+Two police officers, whose names were not disclosed, noticed the door to his apartment was not tightly shut and entered, authorities said.
+0.72 (Two police officers; were not disclosed; )
+0.94 (Two police officers, whose names were not disclosed, noticed the door to his apartment was not tightly shut and entered; said; authorities)
+0.93 Context(Two police officers , whose names were not disclosed , noticed the door to his apartment was not tightly shut and entered said,List([0, 137))):(Two police officers, whose names were not disclosed; noticed; the door)
+
+An officer encountered Barnes, unarmed, in a T-shirt and boxer shorts, standing in his bedroom, police spokesman Sgt.
+0.92 (An officer; encountered; Barnes; L:in a T-shirt and boxer shorts)
+0.39 (Sgt; [is] spokesman [of]; police)
+
+Greg Mills said.
+0.79 (Greg Mills; said; )
+
+Barnes made ``a kind of lunging motion,'' and the officer fired from about 5 to 8 feet, Mills said.
+0.90 (the officer; fired; from about 5; to 8 feet)
+0.99 (Barnes made ``a kind of lunging motion,'' and the officer fired from about 5 to 8 feet; said; Mills)
+0.85 Context(Barnes made `` a kind of lunging motion , '' and the officer fired from about 5 to 8 feet said,List([0, 98))):(Barnes; made; a kind of lunging motion)
+
+Friends of Barnes questioned whether his apartment door was ajar and whether he would have lunged at the officer.
+0.45 (he; would have lunged; at the officer)
+0.91 (Friends of Barnes; questioned; whether his apartment door was ajar and whether he would have lunged at the officer)
+0.42 Context(Friends of Barnes questioned,List([0, 28))):(his apartment door; was; ajar)
+
+``We are defending the officers being in that apartment,'' Mills said.
+0.77 (the officers; being; in that apartment)
+0.77 (We are defending the officers; said; Mills)
+0.19 Context(We are defending the officers said,List([2, 69))):(We; are defending; the officers being in that apartment)
+
+``As for the shooting itself, we will make no assessment of the propriety of that until after the investigation.''
+0.23 (we; will make; no assessment of the propriety of that; T:until after the investigation)
+
+The department has suffered a string of complaints about excessive force and racism since the spring.
+0.90 (The department; has suffered; a string of complaints about excessive force and racism; T:since the spring)
+
+Police Chief Steven Bishop said before the latest slaying that the department's standing has fallen in the community, and a ``behavior modification'' program is being developed for offending officers.
+0.80 (a ``behavior modification'' program; is being developed; )
+0.87 (Police Chief Steven Bishop; said; T:before the latest slaying; that the department's standing has fallen in the community, and a ``behavior modification'' program is being developed for offending officers)
+0.90 Context(Police Chief Steven Bishop said,List([0, 31))):(the department's standing; has fallen; L:in the community)
+
+``We're part of the problem out there on the street, and we've got to get back to good, basic police work,'' Bishop said after Barnes' death.
+0.40 (we; 've got; to get back to good, basic police work)
+0.16 Context(we 've got,List([57, 66))):(we; 've got to get back to good, basic police work to get back; )
+0.93 (We're part of the problem out there on the street, and we've got to get back to good, basic police work; said; T:after Barnes' death)
+0.46 Context(We 're part of the problem out there on the street , and we 've got to get back to good , basic police work said,List([2, 120))):(We; 're; part of the problem out there on the street)
+
+In June, several white officers bloodied a Nigerian-born Roman Catholic priest with nightsticks as he lay on the ground.
+0.92 (several white officers; bloodied; a Nigerian-born Roman Catholic priest; T:as he lay on the ground; T:In June)
+0.45 (he; lay; on the ground)
+
+The Rev. Joseph Okoye said officers who stopped him on suspicion of drunken driving mistook his foreign accent for drunken speech.
+0.91 (The Rev. Joseph Okoye; said; officers who stopped him on suspicion of drunken driving mistook his foreign accent for drunken speech)
+0.60 Context(The Rev. Joseph Okoye said,List([0, 26))):(officers who stopped him on suspicion of drunken driving; mistook; his foreign accent for drunken speech)
+0.76 Context(The Rev. Joseph Okoye said officers who stopped him on suspicion of drunken driving mistook,List([0, 91))):(officers; stopped; him; L:on suspicion of drunken driving)
+
+In May, another black clergyman was hit on the head with a shotgun by a white officer while lying on the ground.
+0.96 (another black clergyman; was hit; L:on the head; with a shotgun; T:while lying on the ground; T:In May)
+
+Police said a youth in the car of the Rev. William Fountaine matched the description of an armed robber.
+0.93 (Police; said; a youth in the car of the Rev. William Fountaine matched the description of an armed robber)
+0.87 Context(Police said,List([0, 11))):(a youth in the car of the Rev. William Fountaine; matched; )
+
+Neither clergyman nor the passenger in Fountaine's car was charged.
+0.88 (Neither clergyman nor the passenger in Fountaine's car; was charged; )
+
+Both clergymen alleged racism; Bishop suspended some of the officers involved in the May incident.
+0.90 (Both clergymen; alleged; racism)
+0.92 (Bishop; suspended; some of the officers)
+0.92 (the officers; involved; in the May incident)
+
+In another case, three undercover officers were suspended for a shooting this spring that left a young black man crippled.
+0.87 (three undercover officers; were suspended; for a shooting; T:this spring that left a young black man crippled; L:In another case)
+0.91 (this spring; left; a young black man; crippled)
+
+The officers and the victim accused each other of starting the fight that led to the shooting.
+0.93 (The officers and the victim; accused; each other; of starting the fight)
+0.91 (the fight; led; to the shooting)
+
+Also this year, four oficers riddled a man brandishing a barbecue fork with 15 bullets, killing him.
+0.94 (four oficers; riddled; a man brandishing a barbecue fork with 15 bullets, killing him; T:this year)
+0.90 (a man; brandishing; a barbecue fork)
+0.81 (a man; killing; him)
+
+And an officer killed a man who was spraying him with a fire extinguisher.
+0.89 (an officer; killed; a man who was spraying him with a fire extinguisher)
+0.81 (a man; was spraying; him; with a fire extinguisher)
+
+No officer involved in the two killings was charged.
+0.90 (No officer; involved; in the two killings)
+0.82 (No officer involved in the two killings; was charged; )
+
+The officer who shot Barnes was a two-year veteran of the force.
+0.93 (The officer; shot; Barnes)
+0.96 (The officer who shot Barnes; was; a two-year veteran of the force)
+0.39 (Barnes; was a two-year veteran of; the force)
+
+He was placed on paid leave pending a police investigation and that of a grand jury.
+0.45 (He; was placed; on paid leave; T:pending a police investigation)
+
+``This is a tragic chain of events that is regrettable for Mr. Barnes' family and for this officer,'' Bishop said.
+0.96 (a tragic chain of events; is; regrettable for Mr. Barnes' family and for this officer)
+0.96 (This is a tragic chain of events; said; Bishop)
+0.32 Context(This is a tragic chain of events said,List([2, 113))):(This; is; a tragic chain of events that is regrettable for Mr. Barnes' family and for this officer)
+0.50 (This; is a tragic chain of; events)
+
+``The officers were reacting appropriately to a number of circumstances which together led them to that apartment.''
+0.90 (The officers; were reacting appropriately; to a number of circumstances)
+0.59 (circumstances; together led; them; to that apartment)
+
+``Terry was a good man.
+0.94 (Terry; was; a good man)
+
+He would have been a good husband and a good father,'' said Barnes' fiancee, Alison Brady.
+0.77 (He would have been a good husband and a good father; said; Barnes' fiancee)
+0.40 Context(He would have been a good husband and a good father said,List([0, 59))):(He; would have been; a good husband and a good father)
+
+They had planned to marry in June.
+0.66 (They; had planned; to marry in June)
+0.62 (They; to marry; T:in June)
+

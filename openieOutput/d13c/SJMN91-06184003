@@ -1,0 +1,168 @@
+But Thomas, who has risen in Republican ranks as an advocate of bootstrap conservatism, would present a striking change from Marshall, a civil-rights pioneer and an anchor of the court's declining liberal faction.;
+0.91 (Thomas; has risen; L:in Republican ranks; as an advocate of bootstrap conservatism)
+0.92 (Thomas; would present; a striking change from Marshall)
+
+Thomas, barely half the age of the man whose seat he was named to fill, came of age in the world that Marshall helped create.;
+0.23 (he; was named; to fill)
+0.86 (the man; to fill; he)
+0.87 (Thomas; came; L:in the world)
+0.73 Context(Thomas came,List([0, 76))):(Marshall; helped create; )
+
+Now the question is to what extent Thomas would add weight to the court's new majority that appears willing to dismantle important parts of the legacy that Marshall helped to build.;
+0.91 (the court's new majority; appears; willing to dismantle important parts of the legacy)
+0.91 (the court's new majority; to dismantle; important parts of the legacy)
+0.97 (the question; is; to what extent Thomas would add weight to the court's new majority; T:Now)
+0.76 (Marshall; helped; to build)
+0.92 Context(Marshall helped,List([156, 171))):(the legacy; to build; Marshall)
+
+While not much is known about Thomas' views on most issues likely to come before the court, he has made clear his opposition to affirmative action and to policies that can be viewed as incorporating quotas or racial preferences.;
+0.72 (not much; is known; about Thomas' views on most issues likely to come before the court)
+0.91 (most issues likely; to come; before the court)
+0.31 (he; has made; clear his opposition to affirmative action and to policies)
+0.88 (policies; can be viewed; as incorporating quotas or racial preferences)
+
+Opposes affirmative action;  In his year as a federal appeals court judge, he has not ruled on affirmative action, but he has long been outspoken in taking the position that government affirmative-action programs are not only unwise but unconstitutional.;
+0.36 (he; has been; outspoken in taking the position that government affirmative-action programs are not only unwise but unconstitutional; T:long)
+0.81 (government affirmative-action programs; are; not only unwise but unconstitutional)
+0.38 (he; has not ruled; on affirmative action; T:In his year)
+
+However, in other respects, this nomination is very much a wild card both for conservatives who jumped instantly to embrace it and for liberals whose responses ranged from cautious to hostile.;    His views on other major issues before the court, including abortion, church-state relations and the definition of constitutional due process, are unknown.
+0.72 (liberals; ranged; from cautious; to hostile)
+0.75 (conservatives; jumped; T:instantly; to embrace it)
+0.66 Context(conservatives jumped,List([78, 102))):(conservatives; jumped to embrace; it)
+0.78 (His views on other major issues before the court, including abortion, church-state relations and the definition of constitutional due process; are; unknown)
+0.91 Context(His views on other major issues before the court , including abortion , church - state relations and the definition of constitutional due process are,List([197, 343))):(this nomination; is; very much; a wild card both for conservatives)
+
+Those views may well remain unknown through a confirmation process that may be contentious but that in the end is not likely to derail the nomination.;
+0.86 (Those views; may remain; unknown; T:through a confirmation process)
+0.75 (a confirmation process; may be; contentious)
+
+Studied for priesthood;  Thomas attended Roman Catholic schools through college and studied for the priesthood.
+0.91 (Thomas; attended; Catholic schools)
+0.91 (Thomas; studied; for the priesthood)
+
+Although the Catholic Church vigorously opposes abortion, Thomas has apparently never taken a public position on abortion or on the dimensions of the constitutional right to privacy, on which the right to abortion was based.;
+0.93 (the Catholic Church; vigorously opposes; abortion)
+0.95 (Thomas; has apparently never taken; a public position on abortion or on the dimensions of the constitutional right to privacy)
+0.93 (privacy; was based; the right to abortion)
+
+His position on affirmative action is probably sufficient to shift the court's direction since the court remains closely divided.;    "My opposition to preferences and quotas not only is a constitutional, legal opposition, it has been a moral, ethical opposition," he said five years ago at a conference sponsored by the Anti-Defamation League of B'nai B'rith.;
+0.67 (His position on affirmative action; to shift; the court's direction)
+0.99 (His position on affirmative action is probably sufficient to shift the court's direction since the court remains closely divided.;    "My opposition to preferences and quotas not only is a constitutional, legal opposition, it has been a moral, ethical opposition; said; T:five years ago; L:at a conference)
+0.39 Context(His position on affirmative action is probably sufficient to shift the court 's direction since the court remains closely divided . ; " My opposition to preferences and quotas not only is a constitutional , legal opposition , it has been a moral , ethical opposition said,List([0, 272))):(it; has been; a moral, ethical opposition)
+0.64 Context(His position on affirmative action is probably sufficient to shift the court 's direction since the court remains closely divided . ; " My opposition to preferences and quotas not only is a constitutional , legal opposition , it has been a moral , ethical opposition said,List([0, 272))):(His position on affirmative action; is probably; sufficient to shift the court's direction)
+0.69 Context(His position on affirmative action is probably sufficient to shift the court 's direction since the court remains closely divided . ; " My opposition to preferences and quotas not only is a constitutional , legal opposition , it has been a moral , ethical opposition said,List([0, 272))):(My opposition to preferences and quotas; is; a constitutional, legal opposition)
+0.77 (the court; remains; closely divided)
+0.92 (a conference; sponsored; by the Anti-Defamation League of B'nai B'rith)
+0.70 (the court; closely divided; )
+
+In its most recent affirmative-action decision, a year ago, the court split 5-4 in upholding a Federal Communications Commission policy that gives preference to blacks and members of other minorities in acquiring some radio and television licenses.;
+0.92 (the court; split; 5-4; L:In its most recent affirmative-action decision; T:a year ago)
+0.96 (a Federal Communications Commission policy; gives; preference to blacks and members of other minorities in acquiring some radio and television licenses)
+
+Justice William Brennan wrote that decision a few weeks before he retired from the court.
+0.73 (Justice William Brennan; wrote; that decision; T:a few weeks before he retired from the court)
+0.45 (he; retired; from the court)
+
+Marshall joined it.
+0.86 (Marshall; joined; it)
+
+The views of Justice David Souter, Brennan's successor, remain largely unknown.;
+0.85 (The views of Justice David Souter; remain; largely unknown)
+0.38 (Justice David Souter; [is] successor [of]; Brennan)
+
+Views on big issues unknown;  Thomas' views on the other major issues remain unknown, although the 1990 confirmation hearing for his seat on the Court of Appeals was widely viewed on Capitol Hill and in ideological interest groups as a rehearsal for a Supreme Court nomination.;
+0.89 (Thomas' views on the other major issues; remain; unknown)
+0.88 (the 1990 confirmation hearing for his seat on the Court of Appeals; was widely viewed; L:on Capitol Hill and in ideological interest groups; as a rehearsal for a Supreme Court nomination)
+
+Some Democratic senators said at the time and again Monday that their votes to confirm him for the appeals court should not be taken as endorsements for the Supreme Court.;
+0.91 (Some Democratic senators; said; T:at the time)
+0.49 (their votes; to confirm; him)
+0.93 (again Monday; should not be taken; as endorsements for the Supreme Court)
+
+Three years ago, the Senate denied confirmation to Judge Robert Bork despite having voted to confirm him only a few years earlier to the same court on which Thomas now sits.;    Leaders of abortion rights groups said Monday that they would press the Senate to deny confirmation to Thomas unless he expresses his support for the Supreme Court's abortion precedents, including continued adherence to Roe vs. Wade, the 1973 ruling that established the constitutional right to abortion.;
+0.94 (the Senate; to deny; confirmation; to Thomas)
+0.90 (the 1973 ruling; established; the constitutional right to abortion)
+0.46 (he; expresses; his support for the Supreme Court's abortion precedents, including continued adherence to Roe vs. Wade)
+0.88 (the same court; sits; T:now)
+0.79 (Leaders of abortion rights groups; said; T:Monday; that they would press the Senate to deny confirmation to Thomas)
+0.95 Context(Leaders of abortion rights groups said,List([178, 216))):(the Senate; denied; confirmation; to Judge Robert Bork; T:Three years ago)
+
+Abortion faction speaks out;  "The Souter model of silence and evasion that we saw last year is absolutely unacceptable," said Kate Michelman, executive director of the National Abortion Rights Action League.;
+0.96 (The Souter model of silence and evasion; saw; T:last year)
+0.87 (The Souter model of silence and evasion that we saw last year is absolutely unacceptable; said; Kate Michelman)
+0.69 Context(The Souter model of silence and evasion that we saw last year is absolutely unacceptable said,List([31, 126))):(Abortion faction; speaks out; )
+0.87 Context(The Souter model of silence and evasion that we saw last year is absolutely unacceptable said,List([31, 126))):(The Souter model of silence and evasion; is; absolutely unacceptable)
+0.38 (Kate Michelman; [is] executive director of; the National Abortion Rights Action League)
+
+Her reference was to Souter's confirmation hearing last September, during which the nominee gracefully but firmly deflected questions on abortion.;
+0.74 (Her reference; was; to Souter's confirmation hearing; T:last September)
+0.90 (the nominee gracefully; firmly deflected; questions on abortion)
+
+Sen.
+
+Howard Metzenbaum, an Ohio Democrat who serves on the Judiciary Committee, endorsed Michelman's position.;
+0.93 (an Ohio Democrat; serves; on the Judiciary Committee)
+0.93 (Howard Metzenbaum; endorsed; Michelman's position)
+
+"I'm through reading tea leaves and voting in the dark," he said.;
+0.73 (I'm through reading tea leaves and voting in the dark; said; he)
+0.47 Context(I 'm through reading tea leaves and voting in the dark said,List([1, 64))):(I; 'm; through reading tea leaves and voting in the dark)
+
+But the Judiciary Committee includes some of the most conservative Democrats in the Senate as well several combative Republican conservatives.
+0.94 (the Judiciary Committee; includes; some of the most conservative Democrats in the Senate)
+
+If Thomas maintains his silence, his nomination is unlikely to founder on the abortion issue alone.;
+0.86 (Thomas; maintains; his silence)
+0.70 (his nomination; is; unlikely to founder on the abortion issue alone)
+0.30 (his nomination; to founder; )
+
+Rights groups cautious;  Civil rights groups took a cautious tone Monday, essentially noting "concerns" and saying they would study the record.;    "We urge the Senate not to rush to judgment," said a statement from a Leadership Conference on Civil Rights, an umbrella group of 185 organizations that took an early and leading role in the defeat of the Bork nomination.;    Introducing his nominee to the country at a televised news conference Monday, Bush drew on the powerful appeal of Thomas' life story as a self-motivated and self-made success.;    "Judge Thomas' life is a model for all Americans," Bush said.;
+0.93 (the Senate; not to rush; to judgment)
+0.98 (Rights groups cautious;  Civil rights groups took a cautious tone Monday, essentially noting "concerns" and saying they would study the record.;    "We urge the Senate not to rush to judgment; said; a statement from a Leadership Conference on Civil Rights)
+0.43 Context(Rights groups cautious ; Civil rights groups took a cautious tone Monday , essentially noting " concerns " and saying they would study the record . ; " We urge the Senate not to rush to judgment said,List([0, 198))):(We; urge; the Senate; not to rush to judgment)
+0.90 Context(Rights groups cautious ; Civil rights groups took a cautious tone Monday , essentially noting " concerns " and saying they would study the record . ; " We urge the Senate not to rush to judgment said,List([0, 198))):(Civil rights groups; took; a cautious tone; T:Monday)
+0.81 Context(Rights groups cautious ; Civil rights groups took a cautious tone Monday , essentially noting " concerns " and saying they would study the record . ; " We urge the Senate not to rush to judgment said,List([0, 198))):(Civil rights groups; took a cautious tone essentially noting; concerns)
+0.74 Context(Rights groups cautious ; Civil rights groups took a cautious tone Monday , essentially noting " concerns " and saying they would study the record . ; " We urge the Senate not to rush to judgment said,List([0, 198))):(Civil rights groups; took a cautious tone saying; they would study the record)
+0.55 Context(Rights groups cautious ; Civil rights groups took a cautious tone Monday , essentially noting " concerns " and saying they would study the record . ; " We urge the Senate not to rush to judgment said,List([0, 198))):(they; would study; the record)
+1.00 (Rights groups cautious;  Civil rights groups took a cautious tone Monday, essentially noting "concerns" and saying they would study the record.;    "We urge the Senate not to rush to judgment," said a statement from a Leadership Conference on Civil Rights, an umbrella group of 185 organizations that took an early and leading role in the defeat of the Bork nomination.;    Introducing his nominee to the country at a televised news conference Monday, Bush drew on the powerful appeal of Thomas' life story as a self-motivated and self-made success.;    "Judge Thomas' life is a model for all Americans; said; Bush)
+0.95 Context(Rights groups cautious ; Civil rights groups took a cautious tone Monday , essentially noting " concerns " and saying they would study the record . ; " We urge the Senate not to rush to judgment , " said a statement from a Leadership Conference on Civil Rights , an umbrella group of 185 organizations that took an early and leading role in the defeat of the Bork nomination . ; Introducing his nominee to the country at a televised news conference Monday , Bush drew on the powerful appeal of Thomas ' life story as a self - motivated and self - made success . ; " Judge Thomas ' life is a model for all Americans said,List([0, 614))):(Judge Thomas' life; is; a model for all Americans)
+0.92 (an umbrella group of 185 organizations; took; an early and leading role)
+0.38 (' life; is a model for; all Americans)
+
+At his side stood a black man who was 5 years old when Marshall won his Supreme Court argument in Brown vs. the Board of Education and who was a college freshman when Marshall joined the Supreme Court.;
+0.92 (a black man; was; 5 years old; T:when Marshall won his Supreme Court argument in Brown vs. the Board of Education and who was a college freshman)
+0.94 (Marshall; won; his Supreme Court argument in Brown vs. the Board of Education)
+0.96 (a black man who was 5 years old; was; a college freshman when Marshall joined the Supreme Court)
+0.93 (Marshall; joined; the Supreme Court)
+
+That was a generation ago, when the court was still rewriting the ground rules by which Americans were to live their lives.
+0.45 (That; was; a generation ago)
+0.92 (the court; was rewriting; the ground rules by which Americans were to live their lives; T:still)
+0.86 (Americans; were; to live their lives)
+0.84 (Americans; to live; their lives)
+
+Well before Bush presented Thomas to the country Monday, it was clear that that chapter in the court's history is largely closed and that a new page was about to be turned.
+0.88 (Bush; presented; Thomas; to the country; T:Monday)
+0.70 (it; was; clear; T:Well before Bush presented Thomas to the country Monday)
+0.82 (that chapter in the court's history; is largely closed; )
+0.83 (a new page; was; about to be turned)
+0.72 (a new page; to be turned; )
+
+After Monday's nomination, some -- but by no means all -- of the blanks on that page have been filled in.; CLARENCE THOMAS; Born: June 23, 1948, in Pinpoint, Ga.; Education: B.A. from Holy Cross College, 1971; J.D. from Yale Law School, 1974.; Career:; (box) 1974-'77: assistant attorney general, state of Missouri; (box) 1977-'79: attorney, Monsanto Co.; (box) 1979-'81: legislative assistant to Sen. John Danforth, R-Mo.; (box) 1981-'82: assistant secretary for civil rights, Education Department; (box) 1982-'90: chairman of the Equal Employment Opportunity Commission; (box) 1990-: U.S. Circuit Court of Appeals for District of Columbia; Source: Who's Who Among Black Americans; WHAT'S NEXT?; Now that President Bush has nominated Clarence Thomas to the Supreme Court, the next step is up to the Senate.;
+0.96 (all -- of the blanks on that page; have been filled in; T:by no means)
+0.93 (the next step; is; up to the Senate; T:Now that President Bush has nominated Clarence Thomas to the Supreme Court)
+0.94 (President Bush; has nominated; Clarence Thomas; to the Supreme Court)
+
+(box)The Senate Judiciary Committee is expected to begin confirmation hearings in September, after the August recess.;
+0.82 (The Senate Judiciary Committee; is expected; )
+0.94 (The Senate Judiciary Committee; to begin; confirmation hearings; T:in September)
+
+(box)After the committee makes a recommendation, the nomination will be voted on by the full Senate.;
+0.90 (the committee; makes; a recommendation)
+0.95 (the nomination; will be voted on; by the full Senate; T:After the committee makes a recommendation)
+
+(box)If confirmed promptly, Thomas could be on the Supreme Court by the time it begins
+0.93 (Thomas; could be; on the Supreme Court; T:by the time)
+0.55 (it; begins; T:the time)
+

@@ -1,0 +1,93 @@
+Two U.S. Air Force F-16 fighter jets crashed in the air today and exploded, an air force spokeswoman said.
+0.76 (Two U.S. Air Force F-16 fighter jets; exploded; )
+0.97 (Two U.S. Air Force F-16 fighter jets crashed in the air today and exploded; said; an air force spokeswoman)
+0.91 Context(Two U.S. Air Force F - 16 fighter jets crashed in the air today and exploded said,List([0, 105))):(Two U.S. Air Force F-16 fighter jets; crashed; L:in the air; T:today)
+
+The accident occurred less than two hours after another F-16 crashed into the Black Forest.
+0.95 (The accident; occurred; T:less than two hours after another F-16 crashed into the Black Forest)
+0.95 (another F-16; crashed; into the Black Forest)
+
+West German police said one pilot was killed in the in-flight crash.
+0.89 (West German police; said; one pilot was killed in the in-flight crash)
+0.88 Context(West German police said,List([0, 23))):(one pilot; was killed; L:in the in-flight crash)
+
+The Air Force spokeswoman, Capt.
+
+Gail Hayes, said the aircraft were on a training mission when they crashed near Bodenheim, about six miles south of Mainz.
+0.65 (they; crashed south; L:near Bodenheim)
+0.90 (Gail Hayes; said; the aircraft were on a training mission)
+0.88 Context(Gail Hayes said,List([0, 16))):(the aircraft; were; on a training mission)
+
+She said the aircraft, assigned to the 50th Tactical Fighter Wing at Hahn Air Base, crashed at 1:30 p.m.
+0.94 (the aircraft; assigned; to the 50th Tactical Fighter Wing at Hahn Air Base)
+0.56 (She; said; the aircraft, assigned to the 50th Tactical Fighter Wing at Hahn Air Base, crashed at 1:30 p.m.)
+0.93 Context(She said,List([0, 8))):(the aircraft, assigned to the 50th Tactical Fighter Wing at Hahn Air Base; crashed; T:at 1:30 p.m.)
+
+``There was one person aboard each aircraft.
+0.50 (There; was one person aboard; each aircraft)
+
+The condition of those on board is unknown,'' Ms. Hayes told The Associated Press in a telephone interview from U.S. Air Force European headquarters at Ramstein Air Base.
+0.97 (The condition of those on board is unknown; told; The Associated Press; L:in a telephone interview from U.S. Air Force European headquarters at Ramstein Air Base)
+0.83 Context(The condition of those on board is unknown told,List([0, 60))):(The condition of those on board; is; unknown)
+
+West German police spokesman Hugo Lenxweiler told the AP in a telephone interview that one of the pilots was killed in the accident.
+0.93 (West German police spokesman Hugo Lenxweiler; told; the AP; L:in a telephone interview; that one of the pilots was killed in the accident)
+0.90 Context(West German police spokesman Hugo Lenxweiler told,List([0, 49))):(one of the pilots; was killed; L:in the accident)
+0.38 (Hugo Lenxweiler; [is] West spokesman [of]; German police)
+
+``The other pilot was able to eject safely,'' Lenxweiler said.
+0.72 (The other pilot; to eject safely; )
+0.96 (The other pilot was able to eject safely; said; Lenxweiler)
+0.79 Context(The other pilot was able to eject safely said,List([2, 61))):(The other pilot; was; able to eject safely)
+
+Lenxweiler said he did not know if the pilot who ejected suffered any injuries.
+0.89 (the pilot; ejected suffered; any injuries)
+0.83 (Lenxweiler; said; he did not know)
+0.16 Context(Lenxweiler said,List([0, 15))):(he; did not know; )
+
+Identities of the pilots were not immediately released.
+0.79 (Identities of the pilots; were not released; T:immediately)
+
+He said the planes crashed within several hundred yards of a populated area but that no one on the ground was hurt.
+0.79 (no one on the ground; was hurt; )
+0.28 (He; said; the planes crashed within several hundred yards of a populated area but that no one on the ground was hurt)
+0.88 Context(He said,List([0, 7))):(the planes; crashed; L:within several hundred yards of a populated area)
+
+He said preliminary information indicated that one of the F-16s rammed the other from behind.
+0.32 (He; said; preliminary information indicated that one of the F-16s rammed the other from behind)
+0.84 Context(He said,List([0, 7))):(preliminary information; indicated; that one of the F-16s rammed the other from behind)
+0.85 Context(He said preliminary information indicated,List([0, 41))):(one of the F-16s; rammed; the other; from behind)
+
+Both planes exploded on impact, he said.
+0.89 (Both planes exploded on impact; said; he)
+0.88 Context(Both planes exploded on impact said,List([0, 39))):(Both planes; exploded; L:on impact)
+
+The other crash occurred about 90 miles away.
+0.91 (The other crash; occurred; L:about 90 miles away)
+
+Air Force Spokesman 1st Lt. Al Sattler said the pilot in the Black Forest crash ejected safely before the crash and was taken to Ramstein Air Base to be examined.
+0.95 (the pilot in the Black Forest crash; was taken; to Ramstein Air Base; to be examined)
+0.95 (Air Force Spokesman 1st Lt. Al Sattler; said; the pilot in the Black Forest crash ejected safely before the crash and was taken to Ramstein Air Base)
+0.94 Context(Air Force Spokesman 1 st Lt. Al Sattler said,List([0, 43))):(the pilot in the Black Forest crash; ejected safely; T:before the crash)
+
+Police in Karlsruhe said the crash occurred at noon (6 a.m.
+0.92 (Police in Karlsruhe; said; the crash occurred at noon)
+0.88 Context(Police in Karlsruhe said,List([0, 24))):(the crash; occurred; T:at noon)
+
+EDT) near the village of Marxzell-Burbach.
+
+Sattler said the aircraft was from the 52nd Tactical Fighter Wing, stationed at Spangdahlen Air Base.
+0.94 (the 52nd Tactical Fighter Wing; stationed; at Spangdahlen Air Base)
+0.92 (Sattler; said; the aircraft was from the 52nd Tactical Fighter Wing)
+0.92 Context(Sattler said,List([0, 12))):(the aircraft; was; from the 52nd Tactical Fighter Wing)
+
+The aircraft was taking part in a NATO military tactical air exercise being conducted from the Canadian air force base in Baden-Soellingen, Sattler said.
+0.85 (a NATO military tactical air exercise; being conducted; )
+0.98 (The aircraft was taking part in a NATO military tactical air exercise; said; Sattler)
+0.90 Context(The aircraft was taking part in a NATO military tactical air exercise said,List([0, 152))):(The aircraft; was taking; part; L:in a NATO military tactical air exercise)
+
+West German police and U.S. military personnel secured the area of the crashes, and teams of experts were sent to the accident sites to determine the cause of the crashes.
+0.95 (West German police and U.S. military personnel; secured; the area of the crashes)
+0.91 (teams of experts; were sent; to the accident sites; to determine the cause of the crashes)
+0.90 (teams of experts; to determine; the cause of the crashes)
+

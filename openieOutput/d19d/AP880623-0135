@@ -1,0 +1,89 @@
+Lawmakers clashed Thursday over the question of counting illegal aliens in the 1990 Census, debating whether following the letter of the Constitution results in a system that is unfair to citizens.
+0.94 (Lawmakers; clashed; T:Thursday; over the question of counting illegal aliens in the 1990 Census, debating)
+0.91 (a system; is; unfair to citizens)
+
+The forum was a Census subcommittee hearing on bills which would require the Census Bureau to figure out whether people are in the country legally and, if not, to delete them from the counts used in reapportioning seats in the House of Representatives.
+0.94 (The forum; was; a Census subcommittee)
+0.93 (a Census subcommittee; hearing; on bills)
+0.92 (the counts; used; L:in reapportioning seats in the House of Representatives)
+0.88 (bills; would require; the Census Bureau; to figure out whether people are in the country legally)
+0.91 (the Census Bureau; to figure out; whether people are in the country legally)
+0.86 Context(the Census Bureau to figure out,List([73, 104))):(people; are legally; in the country)
+0.89 (The forum; was a Census subcommittee hearing on; bills)
+
+``This is a fairness issue,'' said Rep. Thomas J. Ridge, R-Pa., who contended that states with large numbers of illegal aliens benefit unfairly when their large population totals give then extra seats in the House.
+0.72 (their large population totals; give then; extra seats in the House)
+0.91 (This is a fairness issue; said; Rep. Thomas J. Ridge)
+0.40 Context(This is a fairness issue said,List([2, 34))):(This; is; a fairness issue)
+
+Because there is a 435-seat limit, when one state gains a House member another must lose one.
+0.92 (one state; gains; a House member)
+0.30 (another; must lose; one)
+
+Ridge cited the 1980 census, which estimated the number of illegal aliens at 2 million.
+0.95 (Ridge; cited; the 1980 census, which estimated the number of illegal aliens at 2 million)
+0.90 (the 1980 census; estimated; the number of illegal aliens; at 2 million)
+
+The result, he said, was that Georgia and Indiana lost House seats to New York and California.
+0.33 (he; said; was that Georgia and Indiana lost House seats to New York and California)
+0.85 (The result; was; that Georgia and Indiana lost House seats to New York and California)
+0.95 Context(The result was,List([0, 24))):(Georgia and Indiana; lost; House seats; to New York and California)
+
+Subcommittee Chairman Mervyn M. Dymally, D-Calif., however, said he is unsure whether the bills backed by Ridge and others are constitutional.
+0.92 (the bills; backed; by Ridge and others)
+0.92 (Subcommittee Chairman Mervyn M. Dymally; said; he is unsure whether the bills backed by Ridge and others are constitutional)
+0.23 Context(Subcommittee Chairman Mervyn M. Dymally said,List([0, 64))):(he; is; unsure)
+0.85 Context(Subcommittee Chairman Mervyn M. Dymally said he is,List([0, 70))):(the bills backed by Ridge and others; are; constitutional)
+
+The U.S. Constitution requires the Census Bureau to cound all the ``persons'' in the country every 10 years for purposes of reapportionment.
+0.96 (The U.S. Constitution; requires; the Census Bureau; to cound all the ``persons'' in the country every 10 years for purposes of reapportionment)
+0.93 (the Census Bureau; to cound; all the ``persons'' in the country; for purposes of reapportionment)
+
+It doesn't specify citizens.
+0.45 (It; does n't specify; citizens)
+
+``I am disturbed by the implication that undocumented residents of the United States are not `persons,''' Dymally said.
+0.94 (undocumented residents of the United States; are not; persons)
+0.94 (I am disturbed by the implication that undocumented residents of the United States are not `persons; said; Dymally)
+0.32 Context(I am disturbed by the implication that undocumented residents of the United States are not ` persons said,List([2, 118))):(I; am disturbed; by the implication that undocumented residents of the United States are not `persons)
+
+Noting that at times in the past blacks and Indians have been excluded from participation in government, he commented: ``I do not want to return to a time when some human beings are considered less than equal in the eyes of the law.''
+0.41 (I; to return; to a time)
+0.22 (he; commented; I do not want to return to a time)
+0.39 Context(he commented,List([105, 117))):(I; do not want; to return to a time)
+
+``Every census since the Constitution was adopted has counted all residents of the states, including both legal and illegal aliens,'' added Rep. Don Edwards, D-Calif.
+0.79 (the Constitution; was adopted; )
+0.98 (Every census since the Constitution was adopted has counted all residents of the states, including both legal and illegal aliens; added; Rep. Don Edwards)
+
+``It was never the intent of the framers to include only citizens for apportionment purposes.''
+0.57 (It; was never; the intent of the framers to include only citizens for apportionment purposes)
+
+And Rep. Albert G. Bustamente, D-Texas, termed the worry over counting aliens ``hysterical,'' pointing out that the movement of Americans into western and southern states has had a much larger effect on representation than the presence of aliens.
+0.91 (Rep. Albert G. Bustamente; termed; the worry over counting aliens ``hysterical)
+0.82 Context(Rep. Albert G. Bustamente termed,List([4, 46))):(Rep. Albert G. Bustamente; termed the worry over counting aliens ``hysterical pointing out; that the movement of Americans into western and southern states has had a much larger effect on representation than the presence of aliens)
+0.97 Context(Rep. Albert G. Bustamente termed pointing out,List([4, 106))):(the movement of Americans into western and southern states; has had; a much larger effect on representation than the presence of aliens)
+
+The Census Bureau also opposes the bills, contending that the effort to determine who is an illegal alien could delay and complicate the count and that people would be unlikely to tell the truth anyway.
+0.90 (The Census Bureau; opposes; the bills)
+0.78 Context(The Census Bureau opposes,List([0, 30))):(The Census Bureau; opposes the bills contending; that the effort to determine who is an illegal alien could delay and complicate the count and that people would be unlikely to tell the truth anyway)
+0.81 Context(The Census Bureau opposes contending,List([0, 52))):(the effort to determine who is an illegal alien; could delay; )
+0.94 (the effort to determine who is an illegal alien; complicate; the count)
+0.89 (people; would be; unlikely to tell the truth anyway)
+0.87 (people; to tell anyway; the truth)
+0.91 (the effort; is; an illegal alien)
+
+But Reps.
+
+Tom Petri, R-Wis.
+
+and William F. Goodling, R-Pa., asserted that counting illegal aliens violates citizens' basic right to equal representation by giving greater voice in Congress to states where the aliens live.
+0.93 (the aliens; live; L:states)
+0.86 (William F. Goodling; asserted; that counting illegal aliens violates citizens' basic right to equal representation by giving greater voice in Congress to states)
+0.89 Context(William F. Goodling asserted,List([4, 40))):(counting illegal aliens; violates; citizens' basic right to equal representation)
+
+And Rep. Tim Valentine, D-N.C., contended that counting aliens ``in effect, is granting representation in Congress to individuals who have entered this country by breaking the laws of the United States.''
+0.88 (individuals; have entered; this country)
+0.86 (Rep. Tim Valentine; contended; that counting aliens ``in effect, is granting representation in Congress to individuals)
+0.88 Context(Rep. Tim Valentine contended,List([4, 41))):(counting aliens; is granting; representation in Congress; to individuals)
+

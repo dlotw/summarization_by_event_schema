@@ -1,0 +1,197 @@
+It is already a multi-million pound disaster for  British agriculture and now it threatens to erupt into a major  political row between European governments.
+0.52 (It; is; T:already; a multi-million pound disaster for  British agriculture)
+0.70 (it; threatens; to erupt into a major  political row between European governments; T:now)
+
+It is bovine  spongiform encephalopathy (BSE) -- "mad cow" disease -- and few  would be prepared to say exactly when and where it will end.
+0.52 (It; is; bovine  spongiform encephalopathy)
+0.18 (few; to say; exactly when and where it will end)
+0.16 Context(few to say,List([74, 103))):(it; will end; )
+
+Next week European Community health ministers will meet to  discuss a German call for a ban on British beef imports to that  country.
+0.93 (European Community health ministers; will meet; to  discuss a German call for a ban on British beef imports to that  country; T:Next week)
+0.87 Context(European Community health ministers will meet,List([10, 55))):(European Community health ministers; will meet to discuss; a German call for a ban on British beef imports to that  country)
+
+Some German politicians say their country should risk  breaking Single Market free trade rules because the potential  health risks are so grave.
+0.80 (the potential  health risks; are; so grave)
+0.89 (Some German politicians; say; their country should risk  breaking Single Market free trade rules)
+0.62 Context(Some German politicians say,List([0, 27))):(their country; should risk; breaking Single Market free trade rules; because the potential  health risks are so grave)
+0.62 Context(Some German politicians say their country should risk,List([0, 53))):(their country; should risk breaking; Single Market free trade rules)
+
+Nonsense, say British government  scientists.
+
+Meanwhile, the controversy in Britain is reaching new  heights.
+0.96 (the controversy in Britain; is reaching; new  heights; T:Meanwhile)
+
+Last week, the scientific journal Nature  called for a start to be made on replacing the British cattle  population with animals free from the infection -- which the  magazine estimate would cost &pound;30 billion.
+0.96 (the scientific journal; called; for a start; to be made on replacing the British cattle  population with animals free from the infection; T:Last week)
+0.93 (the infection; would cost; the  magazine estimate)
+
+Next day, one of the farming industry's loudest voices, the  magazine Farmers Weekly hit back at what it called "a  diet of speculation, half-truths and downright lies" and  denounced what it called "certain publicity-hungry scientists  promoted by the media more interested in fiction than fact."
+0.88 (the  magazine; hit back; L:at what it called "a  diet of speculation; T:Next day)
+0.41 (it; called; a  diet of speculation)
+0.93 (certain publicity-hungry scientists; promoted; by the media)
+0.89 (half-truths and downright lies; denounced; what it called "certain publicity-hungry scientists  promoted by the media more interested in fiction than fact)
+0.35 Context(half - truths and downright lies denounced,List([137, 183))):(it; called; more interested in fiction than fact)
+
+Calling on the Ministry of Agriculture, Fisheries and Food  (MAFF) to do more to explain the disease, the magazine  concluded: "The alternative is to exacerbate the current climate  of fear and uncertainty..."    The fear is not just that shared by farmers worried about  their livelihood.
+0.57 (just that; shared; by farmers)
+0.91 (the magazine; concluded; The alternative is to exacerbate the current climate  of fear and uncertainty..."    The fear is not)
+0.90 Context(the magazine concluded,List([102, 125))):(The alternative; is; to exacerbate the current climate  of fear and uncertainty)
+0.68 Context(the magazine concluded The alternative is,List([102, 146))):(The fear; is not; )
+0.82 (farmers; worried; about  their livelihood)
+
+Could it transfer itself from cows to humans?
+
+"Mad Cow" disease was probably first observed on a farm in  Kent in 1985, when four animals were put down after they were  observed drooling, staggering before collapsing.
+0.94 (Mad Cow" disease; was probably observed; L:on a farm in  Kent; T:in 1985; T:first)
+0.83 (four animals; were put; down; T:after they were  observed drooling, staggering before collapsing)
+0.32 (they; were observed; )
+0.28 (they; drooling; )
+
+Scientists at  the Central Veterinary Laboratory in Surrey found that the  animals' brains had become holed and spongelike -- similar  symptoms to the disease scrapie in sheep and the rare  Creutzfeldt-Jakob disease (CJD), in humans.
+0.74 (the  animals' brains; holed; )
+0.93 (Scientists at  the Central Veterinary Laboratory in Surrey; found; that the  animals' brains had become holed and spongelike -- similar  symptoms to the disease scrapie in sheep and the rare  Creutzfeldt-Jakob disease (CJD), in humans)
+0.76 Context(Scientists at the Central Veterinary Laboratory in Surrey found,List([0, 64))):(the  animals' brains; had become; holed)
+
+MAFF scientists concluded that BSE had appeared in cattle  given processed feed that included remains of diseased sheep.
+0.89 (processed feed; included; remains of diseased sheep)
+0.77 (MAFF scientists; concluded; that BSE had appeared in cattle  given processed feed)
+0.83 Context(MAFF scientists concluded,List([0, 25))):(BSE; had appeared; L:in cattle)
+
+New rendering methods, reducing the temperature at which the  feed was prepared, were enabling the infective agent to survive,  they concluded.
+0.93 (the  feed; was prepared; L:the temperature)
+0.75 (the infective agent; to survive; )
+0.97 (New rendering methods, reducing the temperature at which the  feed was prepared, were enabling the infective agent to survive; concluded; they)
+0.91 Context(New rendering methods , reducing the temperature at which the feed was prepared , were enabling the infective agent to survive concluded,List([0, 142))):(New rendering methods, reducing the temperature; were enabling; the infective agent; to survive)
+0.87 Context(New rendering methods , reducing the temperature at which the feed was prepared , were enabling the infective agent to survive concluded,List([0, 142))):(New rendering methods; reducing; the temperature at which the  feed was prepared)
+
+Acting on this advice, in July 1988, John  MacGregor, then Agriculture Minister, introduced a ban on such  ruminant protein being used in feed.
+0.91 (such  ruminant protein; being used; L:in feed)
+
+Cattle confirmed as having BSE have been put down and  incinerated, with the ashes being buried.
+0.91 (Cattle; confirmed; as having BSE)
+0.86 (Cattle confirmed as having BSE; have been put; down)
+0.81 (Cattle confirmed as having BSE; incinerated; )
+0.73 (the ashes; being buried; )
+
+In 1989 a further ban  was introduced, on cattle offal sold for human consumption.
+0.84 (a further ban; was introduced; T:In 1989)
+0.89 (cattle; offal sold; for human consumption)
+
+That  year it was officially predicted that 20,000 animals would be  affected before the feed ban, together with the drying up of any  supplies already on farms, had its effect.
+
+But the spread of BSE  has confounded original expectations.
+0.94 (the spread of BSE; has confounded; original expectations)
+
+The Ministry of  Agriculture said yesterday that by the beginning of last week  the total number of cattle diagnosed since November 1986 as  having BSE had risen to 121,898 -- six times the original  prediction.
+0.94 (The Ministry of  Agriculture; said; T:yesterday)
+0.91 (cattle; diagnosed; T:since November 1986; as  having BSE had risen to 121,898)
+
+The ministry believes that the reason more cattle have died  is that farmers or food renderers kept using infected feed after  the ban.
+0.73 (more cattle; have died; )
+0.81 (The ministry; believes; that the reason more cattle have died  is that farmers or food renderers kept using infected feed after  the ban)
+0.90 Context(The ministry believes,List([0, 21))):(the reason more cattle have died; is; that farmers or food renderers kept using infected feed after  the ban)
+0.92 Context(The ministry believes the reason more cattle have died is,List([0, 63))):(farmers or food renderers; kept; using infected feed after  the ban)
+0.90 Context(The ministry believes the reason more cattle have died is farmers or food renderers kept,List([0, 99))):(farmers or food renderers; kept using; infected feed after  the ban)
+
+Last week, MAFF said that the numbers of confirmed BSE  cases in the first two months of this year showed a 20 per cent  drop over the same period in 1993 -- proof, the ministry says,  that the epidemic is waning.
+0.85 (MAFF; said; that the numbers of confirmed BSE  cases in the first two months of this year showed a 20 per cent  drop over the same period in 1993; T:Last week)
+0.98 Context(MAFF said,List([11, 20))):(the numbers of confirmed BSE  cases in the first two months of this year; showed; a 20 per cent  drop over the same period in 1993)
+0.69 (the ministry; says; that the epidemic is waning)
+0.69 Context(the ministry says,List([165, 182))):(the epidemic; is waning; )
+
+Yet there is still controversy.
+
+Some 8,004 cattle have died  from BSE despite being born after the feed ban was  introduced.
+0.93 (Some 8,004 cattle; have died; from BSE)
+0.75 (the feed ban; was introduced; )
+
+MAFF says 5,767 of these were born before the end of  1988, and were probably fed from remaining infected supplies.
+0.88 (MAFF; says; 5,767 of these were born before the end of  1988, and were probably fed from remaining infected supplies)
+0.54 Context(MAFF says,List([0, 9))):(5,767 of these; were born; T:before the end of  1988)
+
+That theory has been assailed by critics of the ministry.
+0.90 (That theory; has been assailed; by critics of the ministry)
+
+Mark Purdey, a Somerset farmer and independent researcher,  believes that the use of organophosphate pesticides, used from  the 1980s as a sheep dip and to treat warble-fly infestation in  cattle, could have damaged the animals' immune system, exposing  them to the disease.
+0.90 (the use of organophosphate pesticides; used; as a sheep dip)
+0.73 (Mark Purdey; believes; that the use of organophosphate pesticides, used from  the 1980s as a sheep dip and to treat warble-fly infestation in  cattle, could have damaged the animals' immune system, exposing  them to the disease)
+0.98 Context(Mark Purdey believes,List([0, 68))):(the use of organophosphate pesticides, used from  the 1980s as a sheep dip and to treat warble-fly infestation in  cattle; could have damaged; the animals' immune system)
+0.88 (Mark Purdey; [is] a farmer [of]; Somerset)
+
+Ministry scientists, originally dismissive,  are now reassessing his theories.
+0.87 (Ministry scientists; are reassessing; his theories; T:now)
+
+More recently, researchers have suggested that in some  cattle, BSE has been "vertically" transmitted from cow to calf.
+0.89 (researchers; have suggested; that in some  cattle, BSE has been "vertically" transmitted from cow to calf; T:More recently)
+0.71 Context(researchers have suggested,List([15, 41))):(BSE; has been vertically transmitted; to calf)
+
+Given a long incubation period, such a possibility could make  the disease harder to eradicate.
+0.91 (such a possibility; could make; the disease harder to eradicate)
+0.70 (the disease; to eradicate; )
+
+This month 19 cattle have died  on farms where MAFF is conducting a seven-year experiment into  the disease.
+0.94 (19 cattle; have died; L:on farms; T:This month)
+0.91 (MAFF; is conducting; a seven-year experiment into  the disease; L:farms)
+
+It is a daunting possibility for the farming industry, which  has responded angrily.
+0.52 (It; is; a daunting possibility for the farming industry)
+0.72 (the farming industry; has responded angrily; )
+0.89 (It; is a daunting possibility for; the farming industry)
+
+"There is no evidence that this  disturbing disease can be transferred from cow to calf,"  Farmers Weekly insisted last week.
+0.91 (this  disturbing disease; can be transferred; from cow; to calf)
+0.80 (There is no evidence that this  disturbing disease can be transferred from cow to calf; insisted; T:last week)
+0.50 (There; is no evidence that; this disturbing disease)
+
+More cautiously,  MAFF told The Sunday Telegraph: "We have never said  we have ruled out the possibility of maternal transmission, but  even if it occurs, our scientists do not believe it will do  anything other than lengthen the time before the disease is  eradicated."
+0.92 (MAFF; told; The Sunday Telegraph; We have never said  we have ruled out the possibility of maternal transmission, but  even if it occurs, our scientists do not believe it will do  anything other; T:More cautiously)
+0.26 Context(MAFF told,List([18, 27))):(We; have never said; we have ruled out the possibility of maternal transmission)
+0.39 Context(MAFF told We have never said,List([18, 69))):(we; have ruled out; the possibility of maternal transmission)
+0.73 (the disease; is eradicated; )
+0.42 (our scientists; do not believe; it will do  anything other than lengthen the time)
+0.39 Context(our scientists do not believe,List([155, 184))):(it; will do; anything other)
+
+So how long will it be before the epidemic is ended?
+0.73 (the epidemic; is ended; )
+
+Richard  North, a former environmental health officer turned consultant,  and a contributor to The Sunday Telegraph, believes  that MAFF's statistics are being skewed to produce more  optimistic figures -- claims not surprisingly rejected by the  ministry.
+0.93 (a former environmental health officer; turned; consultant)
+0.92 (MAFF's statistics; to produce; more  optimistic figures)
+0.89 (claims; not surprisingly rejected; by the  ministry)
+0.95 (Richard  North, a former environmental health officer turned consultant,  and a contributor to The Sunday Telegraph; believes; that MAFF's statistics are being skewed)
+0.92 Context(Richard North , a former environmental health officer turned consultant , and a contributor to The Sunday Telegraph believes,List([0, 125))):(MAFF's statistics; are being skewed; to produce more  optimistic figures)
+
+Mr North said: "We have more than 8,000 cattle born after  the  feed ban that have subsequently contracted BSE.
+0.94 (more than 8,000 cattle; born; T:after  the  feed ban)
+0.75 (the  feed ban; have contracted; T:subsequently)
+0.70 (Mr North; said; We have more than 8,000 cattle)
+0.40 Context(Mr North said,List([0, 13))):(We; have; more than 8,000 cattle born after  the  feed ban)
+
+The claim that  all of these are affected by illegally retained infected feed  gets less credible by the hour."
+0.59 (all of these; are affected; by illegally retained infected feed)
+0.97 (The claim that  all of these are affected by illegally retained infected feed; gets; less credible; T:by the hour)
+
+One question -- perhaps the most important -- remains.
+0.70 (One question; remains; )
+
+If  the  disease has jumped from sheep to cattle -- and cases have also  been reported in kudu antelope at London Zoo -- could it affect  humans?
+0.90 (the  disease; has jumped; from sheep; to cattle)
+0.87 (cases; have been reported; L:in kudu antelope at London Zoo)
+
+That prospect, discounted by most scientists -- including  MAFF critics such as Mr Purdey -- is considered a possibility by  Richard Lacey, a Leeds University microbiologist who has been  studying cases of CJD, a disease with a long incubation period.
+0.89 (That prospect; discounted; by most scientists)
+0.94 (a Leeds University microbiologist; has been studying; cases of CJD)
+0.38 (Richard Lacey; [is] a microbiologist [of]; Leeds University)
+
+Reviled by the farming industry and privately disparaged by  MAFF, he nevertheless insists that there may be a threat.
+0.10 (he; insists; that there may be a threat)
+
+"I'd  expect an increase in cases of CJD by the early years of the  next century," he says.
+0.87 (I'd  expect an increase in cases of CJD by the early years of the  next century; says; he)
+0.56 Context(I 'd expect an increase in cases of CJD by the early years of the next century says,List([1, 90))):(I; 'd expect; an increase in cases of CJD by the early years of the  next century)
+
+"The bottom line is we just don't know  what risks we may be running."
+0.90 (The bottom line; is; we just don't know  what risks we may be running)
+0.26 Context(The bottom line is,List([1, 19))):(we; just do n't know; what risks we may be running)
+

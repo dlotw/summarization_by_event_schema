@@ -1,0 +1,155 @@
+While Angel and his followers meditate to prepare for their journey, French New Age musician Jean-Michel Jarre is coordinating an elaborate sound-and-light show to play at the foot of the pyramids in Teotihuacan, north of the capital.;
+0.96 (French New Age musician Jean-Michel Jarre; is coordinating; an elaborate sound-and-light show to play at the foot of the pyramids in Teotihuacan, north of the capital; T:While Angel and his followers meditate to prepare for their journey)
+0.97 (an elaborate sound-and-light show; to play; L:at the foot of the pyramids in Teotihuacan, north of the capital)
+0.56 (Angel and his followers; meditate; to prepare for their journey)
+0.56 Context(Angel and his followers meditate,List([6, 38))):(Angel and his followers; meditate to prepare; for their journey)
+0.38 (Jean-Michel Jarre; [is] musician [of]; French New Age)
+
+Also on E-day, July 11, crowded cruise ships will linger off Mexico's Pacific Coast, and thousands of U.S. tourists will drive south into Baja California, which, usually boasting clear skies, is being billed as the world's most promising site from which to view nature's own light show.;
+0.95 (thousands of U.S. tourists; will drive; south into Baja California)
+0.95 (Baja California; boasting; clear skies; T:usually)
+0.76 (Baja California; is being billed; )
+
+Eclipse fans from Japan to New York to the Netherlands are expected in droves, but Californians -- because of their proximity to Baja and propensity for mystical phenomena -- should be conspicuous.;
+0.96 (Eclipse fans from Japan to New York to the Netherlands; are expected; L:in droves)
+0.67 (Californians -- because of their proximity to Baja and propensity for mystical phenomena; should be; conspicuous)
+
+However, the chic hot spot for eclipse watchers won't be Mexico, but the big island of Hawaii, where the 18,000 tourists who would be there anyway to enjoy the sunshine will be joined by an additional 30,000 or more coming to watch the sun go out for four minutes.;
+0.95 (the chic hot spot for eclipse watchers; wo n't be; Mexico)
+0.85 (the 18,000 tourists; would be anyway; to enjoy the sunshine)
+0.90 (the 18,000 tourists; to enjoy; the sunshine)
+0.83 (the 18,000 tourists who would be there anyway; will be joined; by an additional 30,000 or more)
+0.93 (the big island of Hawaii; coming; to watch the sun go out for four minutes)
+
+Even more people might be there for the show, but for the lack of seats on flights to the island.
+0.91 (Even more people; might be; there; T:for the show)
+
+Most visitors will be funneled in through the relatively small airport at Kailua.;    Airlines are adding scores of flights to ferry thousands of people from neighboring islands in the hours just before the eclipse.;
+0.91 (Airlines; are adding; scores of flights; to ferry thousands of people from neighboring islands in the hours just before the eclipse)
+0.72 Context(Airlines are adding,List([86, 105))):(Most visitors; will be funneled; in)
+0.87 Context(Airlines are adding,List([86, 105))):(Airlines; are adding scores of flights to ferry; thousands of people; from neighboring islands in the hours; T:just before the eclipse)
+
+Car rental companies have shipped in 3,000 or so extra cars.;
+0.91 (Car rental companies; have shipped; in 3,000 or so extra cars)
+
+More than one caller from the mainland has asked the visitors' bureau whether the island is in danger of tipping over under the tourists' weight.;
+0.95 (More than one caller from the mainland; has asked; the visitors' bureau; whether the island is in danger of tipping over under the tourists' weight)
+0.94 Context(More than one caller from the mainland has asked,List([0, 48))):(the island; is; in danger of tipping over under the tourists' weight)
+
+But Mexico will host the biggest share of travelers, partly because of its easy access from the United States and partly since the eclipse will last longest here: up to seven minutes, which is three more minutes than the maximum length in Hawaii.
+0.92 (Mexico; will host; the biggest share of travelers; partly because of its easy access from the United States and partly since the eclipse will last longest here: up to seven minutes)
+0.94 (up to seven minutes; is; three more minutes than the maximum length in Hawaii)
+0.27 (which; is three more minutes than; the maximum length)
+
+This will also be the longest-lasting total eclipse until 2132, according to Alan Dyer, an associate editor at Astronomy magazine.;
+0.38 (This; will also be; the longest-lasting total eclipse; T:until 2132)
+0.38 (Alan Dyer; [is] an associate editor at; Astronomy magazine)
+
+The midday eclipse will consist of a 160-mile wide lunar shadow speeding at up to 5,000 miles per hour along the Earth's surface.;
+0.91 (The midday eclipse; will consist; of a 160-mile wide lunar shadow)
+0.97 (a 160-mile wide lunar shadow; speeding; L:at up to 5,000 miles per hour along the Earth's surface)
+
+While many Mexicans are looking forward to the event, some are quietly taking precautions.
+0.93 (many Mexicans; are looking forward; to the event)
+0.54 (some; are quietly taking; precautions)
+
+In pre-Colombian times, eclipses were viewed as bad omens by the sun-worshiping Aztecs.;
+0.95 (eclipses; were viewed; as bad omens; by the sun-worshiping Aztecs; T:In pre-Colombian times)
+
+In the capital's Sonora market, specializing in magic, vendors have stocked up on garlic bulbs tied with red ribbon, which they hawk as protection from "the bad vibrations of the eclipse."
+0.89 (vendors; have stocked up; on garlic bulbs)
+0.90 (garlic bulbs; tied; with red ribbon)
+0.94 (red ribbon; hawk; as protection from "the bad vibrations of the eclipse)
+
+A thriving trade is also taking place in magnets, for those with low blood pressure to carry in their pockets on July 11, and old copper coins for pregnant women to place as charms in their belly buttons.;
+0.87 (A thriving trade; is taking; place; L:in magnets)
+0.83 (pregnant women; to place; as charms in their belly buttons)
+
+As in Hawaii, Mexico could probably use some otherworldly intervention to cope with the scores of thousands of tourists who have already started arriving.;
+0.95 (Mexico; could probably use; some otherworldly intervention to cope with the scores of thousands of tourists)
+0.83 (the scores of thousands of tourists; have started; arriving; T:already)
+0.77 (the scores of thousands of tourists; arriving; )
+
+In the southern half of the Baja Peninsula, some hotels have had rooms reserved for more than a year.
+0.95 (some hotels; have had; rooms reserved for more than a year; T:In the southern half of the Baja Peninsula)
+0.89 (rooms; reserved; T:for more than a year)
+
+All are now booked up, and authorities fear competition at campsites.;    "We're worried that Californians will drive down on the spur of the moment, without taking water or fuel," said Marivi Lerdo, who promotes tourism to Mexico in New York.;
+0.89 (authorities; fear; competition; L:at campsites)
+0.90 (Californians; will drive; down; on the spur of the moment)
+0.85 Context(Californians will drive,List([94, 117))):(Californians; will drive down without taking; water or fuel)
+0.98 (All are now booked up, and authorities fear competition at campsites.;    "We're worried that Californians will drive down on the spur of the moment, without taking water or fuel; said; Marivi Lerdo)
+0.38 Context(All are now booked up , and authorities fear competition at campsites . ; " We 're worried that Californians will drive down on the spur of the moment , without taking water or fuel said,List([0, 185))):(We; 're; worried that Californians will drive down on the spur of the moment, without taking water or fuel)
+0.14 Context(All are now booked up , and authorities fear competition at campsites . ; " We 're worried that Californians will drive down on the spur of the moment , without taking water or fuel said,List([0, 185))):(All; are booked up; T:now)
+0.91 Context(All are now booked up , and authorities fear competition at campsites . ; " We 're worried that Californians will drive down on the spur of the moment , without taking water or fuel said,List([0, 185))):(Marivi Lerdo; promotes; tourism; to Mexico in New York)
+
+Although Hawaii's isolation will limit the size of the crowds, locals are still predicting problems.
+0.93 (Hawaii's isolation; will limit; the size of the crowds)
+0.91 (locals; are predicting; problems; T:still)
+
+"By God, there's just one road on this island," a circle route that often narrows to two lanes, one shop owner said.
+0.94 (a circle route; narrows; to two lanes; T:often)
+0.87 (By God, there's just one road on this island; said; one shop owner)
+
+"It's going to be total insanity.";
+0.41 (It; to be; total insanity)
+
+"We're worrying that we won't have enough alcohol and food on the island," said the manager of a local restaurant and disco called The Eclipse, named by coincidence 10 years ago.;
+0.95 (a local restaurant and disco called The Eclipse; named; by coincidence; T:10 years ago)
+0.81 (We're worrying that we won't have enough alcohol and food on the island; said; the manager of a local restaurant and disco)
+0.17 Context(We 're worrying that we wo n't have enough alcohol and food on the island said,List([1, 79))):(We; 're worrying; that we won't have enough alcohol and food on the island)
+0.40 Context(We 're worrying that we wo n't have enough alcohol and food on the island said,List([1, 79))):(we; wo n't have; enough alcohol and food on the island)
+
+While authorities fret over infrastructure capacity, many Californians are preparing to revel in a New Age wonderland.;    "These are people who have never, ever, missed a single episode of 'Star Trek,' " said Ken Stewart, who is planning to lead a caravan of 50 enthusiasts from San Diego to Cabo San Lucas, on the south tip of Baja.;    Mexico's government is heavily involved in eclipse planning, having formed an Intersecretarial Commission for the Eclipse, which, among other things, is supposed to oversee production of as many as 60 million protective lenses.
+0.92 (authorities; fret; over infrastructure capacity)
+0.94 (the Eclipse; is supposed; to oversee production of as many as 60 million protective lenses)
+0.91 (the Eclipse; to oversee; production of as many as 60 million protective lenses)
+0.91 (Mexico's government; is heavily involved; in eclipse planning)
+0.91 (people; have never missed; a single episode of 'Star Trek; T:ever)
+
+Newspapers here are carrying frequent reminders not to stare directly at the sun.;
+0.88 (Newspapers here; are carrying; frequent reminders)
+0.88 Context(Newspapers here are carrying,List([0, 28))):(Newspapers here; are carrying frequent reminders not to stare directly; at the sun)
+
+During the eclipse, the mystic and the scientific will not be far apart.;
+0.96 (the mystic and the scientific; will not be; far apart; T:During the eclipse)
+
+At six observatories atop Hawaii's Mauna Kea, a dormant volcano that is the highest peak in the Pacific, solar researchers will turn their telescopes on the sun's outer atmosphere as the moon covers the rest of the star.;
+0.93 (a dormant volcano; is; the highest peak in the Pacific)
+0.92 (solar researchers; will turn; their telescopes; on the sun's outer atmosphere; T:as the moon covers the rest of the star; T:At six observatories atop Hawaii's Mauna Kea)
+0.90 (the moon; covers; the rest of the star)
+0.27 (that; is the highest peak in; the Pacific , solar researchers)
+
+Twenty miles downhill, at The Crystal Grotto in Honomu, Wendy Gilliam is selling pouches of three stones called corona crystals and advising people to "expose them to the energy" during the eclipse.
+0.96 (Wendy Gilliam; is selling; pouches of three stones; T:Twenty miles downhill; L:at The Crystal Grotto in Honomu)
+0.90 (three stones; called; corona crystals)
+0.75 (people; to expose; them; to the energy; T:during the eclipse)
+
+"As the moon passes over the sun, there are certain power vortexes here that are going to be opened up and awakened," she said.;
+0.90 (the moon; passes; over the sun)
+0.79 (As the moon passes over the sun, there are certain power vortexes here; said; she)
+0.74 (certain power vortexes here; to be opened up; )
+0.65 (certain power vortexes here; to awakened; )
+
+DON'T LOOK DIRECTLY AT IT; (box) If you want to watch the moon's progress across the sun: Don't look at it.
+0.63 (you; want; to watch the moon's progress across the sun)
+0.56 Context(you want,List([36, 44))):(you; want to watch; the moon's progress across the sun)
+
+Staring at the sun during a partial eclipse could quickly -- without your feeling a thing -- burn into your retina a permanent image of the crescent sun, causing severe and permanent vision loss.;    (box) It's safest to watch the eclipse indirectly by projecting the sun's image through a pinhole and onto a sheet of white paper.;
+
+(box) Other safe methods: (check) Pieces of arc-welders' glass labeled  14 and available at welding supply stores.
+
+Most welders' goggles are not suitable protection.
+0.92 (Most welders' goggles; are not; suitable protection)
+
+(check) Two or three layers of Mylar plastic heavily coated with aluminum.
+0.90 (Mylar plastic; heavily coated; with aluminum)
+
+Some stores are selling "eclipse glasses" made with this material.;
+0.89 (Some stores; are selling; eclipse glasses" made with this material)
+0.89 (eclipse glasses; made; with this material)
+
+COMING TUESDAY IN SCIENCE &amp; MEDICINE;    (box) All the details about Thursday's eclipse, one of nature's most stunning events.;
+
+(box) How to watch it,
+

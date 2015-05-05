@@ -1,0 +1,161 @@
+Public officials throughout California have condemned a U.S. Senate vote  Thursday to exclude illegal aliens from the 1990 census, saying the action will  shortchange California in Congress and possibly deprive the state of millions  of dollars of federal aid for medical emergency services and other programs for  poor people.
+0.93 (the action; possibly deprive; the state of millions  of dollars of federal aid for medical emergency services and other programs for  poor people)
+0.93 (Public officials throughout California; have condemned; a U.S. Senate vote  Thursday)
+0.94 Context(Public officials throughout California have condemned,List([0, 53))):(Public officials throughout California; have condemned a U.S. Senate vote  Thursday saying; the action will  shortchange California in Congress and possibly deprive the state of millions  of dollars of federal aid for medical emergency services and other programs for  poor people)
+0.90 Context(Public officials throughout California have condemned saying,List([0, 137))):(the action; will shortchange; California; L:in Congress)
+
+"I think it's an outrageous piece of legislation and probably  unconstitutional," Assemblyman Peter Chacon said Friday.
+0.78 (I think it's an outrageous piece of legislation and probably  unconstitutional; said; T:Friday)
+0.42 Context(I think it 's an outrageous piece of legislation and probably unconstitutional said,List([1, 111))):(I; think; it's an outrageous piece of legislation and probably  unconstitutional)
+0.46 Context(I think it 's an outrageous piece of legislation and probably unconstitutional said,List([1, 111))):(it; 's; an outrageous piece of legislation and probably  unconstitutional)
+
+Chacon, a San Diego  Democrat, is the chairman of the Assembly's Elections, Reapportionment and  Constitutional Amendments Committee.
+0.96 (Chacon; is; the chairman of the Assembly's Elections, Reapportionment and  Constitutional Amendments Committee)
+
+At the same time, the Senate's action has created great confusion and stirred  hopes, especially among urban Democrats, that it will be overturned by the  House of Representatives.
+0.96 (the Senate's action; has created; great confusion; T:At the same time)
+0.96 (the Senate's action; stirred; hopes; L:especially among urban Democrats; T:At the same time)
+0.43 Context(the Senate 's action stirred,List([18, 77))):(it; will be overturned; by the  House of Representatives)
+
+Major Impact  If it becomes law, the Senate's action could have a major impact on California  and other states where the influx of illegal aliens significantly boosts the  population and, thus, can affect the size of congressional delegations and the  amount of federal aid that is doled out.
+0.45 (it; becomes; law)
+0.96 (the influx of illegal aliens; significantly boosts; the  population; L:other states)
+0.70 (federal aid; is doled out; )
+0.93 (Major Impact; can affect; the size of congressional delegations and the  amount of federal aid)
+0.93 Context(Major Impact can affect,List([0, 204))):(the Senate's action; could have; a major impact on California  and other states)
+
+With an estimated population of about  28 million people, California is thought to have at least 50% of the nation's 3  million to 8 million illegal aliens.
+0.77 (California; is thought; )
+0.94 (California; to have; at least 50% of the nation's 3  million to 8 million illegal aliens)
+
+Authorities on reapportionment have widely predicted that California would gain  five to seven congressional seats as a result of population gains made during  the last decade.
+0.85 (Authorities on reapportionment; have widely predicted; that California would gain  five to seven congressional seats as a result of population gains)
+0.90 Context(Authorities on reapportionment have widely predicted,List([0, 52))):(California; would gain; five to seven congressional seats)
+
+But if illegal aliens are not counted, the experts say the  state would not get one of the anticipated seats.
+0.73 (illegal aliens; are not counted; )
+0.92 (the experts; say; the  state would not get one of the anticipated seats)
+0.88 Context(the experts say,List([39, 54))):(the  state; would not get; one of the anticipated seats)
+
+"It's hard to tell exactly how many congressional seats California will lose.
+
+But we could have gotten six or seven additional seats and this could cost us  one or two.
+0.45 (we; could have gotten; six or seven additional seats)
+0.25 (this; could cost; us)
+
+It's possible," said state Sen. Milton Marks, a San Francisco  Democrat who chairs the Senate's Elections and Reapportionment Committee.
+0.94 (a San Francisco  Democrat; chairs; the Senate's Elections and Reapportionment Committee)
+0.61 (It's possible; said; state Sen. Milton Marks)
+0.24 Context(It 's possible said,List([0, 20))):(It; 's; possible)
+
+Loss of Funds Feared  Jesse R. Huff, the state's financial director, said the state could lose as  much as $300 million in federal aid that is allocated on the basis of  population as determined by census counts.
+0.82 (as  much as $300 million in federal aid; is allocated; )
+0.92 (Loss of Funds Feared  Jesse R. Huff; said; the state could lose as  much as $300 million in federal aid)
+0.81 Context(Loss of Funds Feared Jesse R. Huff said,List([0, 73))):(the state; could lose; as  much as $300 million in federal aid that is allocated on the basis of  population)
+0.39 (Funds Feared Jesse R. Huff; [is] financial director [of]; the state)
+
+Los Angeles County officials said the measure could cut off federal funds for  emergency medical services for illegal aliens.
+0.95 (Los Angeles County officials; said; the measure could cut off federal funds for  emergency medical services for illegal aliens)
+0.88 Context(Los Angeles County officials said,List([0, 33))):(the measure; could cut off; federal funds for  emergency medical services for illegal aliens)
+
+In the past, about $80 million  annually in such services for illegal aliens has been paid out, with about half  of that amount paid in Los Angeles County, according to Mark Tajima, a  legislative analyst employed by the county's chief administrative officer.
+0.92 (about $80 million  annually in such services for illegal aliens; has been paid out; with about half  of that amount; T:In the past)
+0.92 (that amount; paid; L:in Los Angeles County)
+0.91 (a  legislative analyst; employed; by the county's chief administrative officer)
+
+Los Angeles City Atty.
+
+James K. Hahn described the Senate's vote as an attempt  by "callous, self-serving interests in Washington, D.C., to deny representation  and financial resources to minorities and underprivileged in our cities."
+0.96 (James K. Hahn; described; the Senate's vote; as an attempt  by "callous, self-serving interests in Washington)
+
+Hahn's office said the city could lose at least $20 million in federal aid over  the next 10 years -- money that goes for child care, housing rehabilitation,  drug counseling and services for homeless people.
+0.92 (money; goes; for child care, housing rehabilitation,  drug counseling and services for homeless people)
+0.95 (Hahn's office; said; the city could lose at least $20 million in federal aid over  the next 10 years -- money)
+0.88 Context(Hahn 's office said,List([0, 18))):(the city; could lose; at least $20 million in federal aid; T:over  the next 10 years)
+
+Immigration Law Overhaul  The measure passed by the Senate was part of a larger overhaul of the nation's  immigration laws that, if it becomes law, would place an annual cap of 630,000  immigrants for each of the next three years and make room for more residents of  Western Europe.
+0.92 (The measure; passed; by the Senate)
+0.45 (it; becomes; law)
+0.95 (Immigration Law Overhaul; was; part of a larger overhaul of the nation's  immigration laws)
+0.39 (the Senate; was part of; a larger overhaul)
+
+The Senate bill is expected to face tough opposition in the House, where states  such as California, New York and Illinois with large alien populations have  many votes.
+0.80 (The Senate bill; is expected; )
+0.93 (The Senate bill; to face; tough opposition in the House)
+0.99 (states  such as California, New York and Illinois with large alien populations; have; many votes; L:the House)
+
+Moreover, a federal court in Pittsburgh ruled earlier this year  that excluding illegal aliens from the census would be unconstitutional.
+0.88 (a federal court in Pittsburgh; ruled; T:earlier this year; that excluding illegal aliens from the census would be unconstitutional)
+0.79 Context(a federal court in Pittsburgh ruled,List([10, 45))):(excluding illegal aliens from the census; would be; unconstitutional)
+
+But even if the Senate's action were to become law, it is not clear how much  impact it would have on federal aid.
+0.93 (the Senate's action; to become; law)
+
+"I think the effect is going to be minimal," said Michael Myers, counsel to the  House subcommittee on immigration and refugee affairs.
+0.74 (the effect; to be; minimal)
+0.74 (I think the effect is going to be minimal; said; Michael Myers)
+0.47 Context(I think the effect is going to be minimal said,List([1, 49))):(I; think; the effect is going to be minimal)
+
+Myers said the measure  would prohibit aliens from receiving direct federal benefits, such as Social  Security payments.
+0.91 (aliens; from receiving; direct federal benefits, such as Social  Security payments)
+0.95 (Myers; said; the measure  would prohibit aliens from receiving direct federal benefits, such as Social  Security payments)
+0.94 Context(Myers said,List([0, 10))):(the measure; would prohibit; aliens; from receiving direct federal benefits, such as Social  Security payments)
+
+But he maintained that such ineligibility is already written  into a number of federal programs.
+0.27 (he; maintained; that such ineligibility is already written  into a number of federal programs)
+0.89 Context(he maintained,List([4, 17))):(such ineligibility; is written; into a number of federal programs; T:already)
+
+Myers said that most of the assistance that  states and cities now receive comes in the form of block grants that do not  qualify as direct financial aid and, therefore, would not be affected.
+0.83 (the assistance; receive; T:most of; T:now)
+0.89 (block grants; do not qualify; as direct financial aid)
+
+Puzzled by Action  Still, many local officials remain puzzled by the Senate's action.
+0.93 (many local officials; remain; puzzled by the Senate's action)
+0.91 (many local officials; puzzled; by the Senate's action)
+
+Tajima said he was not sure whether programs such as foster care for abused and  neglected children or Supplemental Security Income for aged, blind or disabled  people would be vulnerable.
+0.97 (programs such as foster care for abused and  neglected children or Supplemental Security Income for aged, blind or disabled  people; would be; vulnerable)
+0.91 (Tajima; said; he was not sure whether programs such as foster care for abused and  neglected children or Supplemental Security Income for aged, blind or disabled  people would be vulnerable)
+0.56 Context(Tajima said,List([0, 11))):(he; was not; sure whether programs such as foster care for abused and  neglected children or Supplemental Security Income for aged, blind or disabled  people would be vulnerable)
+
+"They all involve direct payments by the county of  federal money," he said.
+0.73 (They all involve direct payments by the county of  federal money; said; he)
+0.52 Context(They all involve direct payments by the county of federal money said,List([1, 75))):(They; involve; direct payments by the county of  federal money)
+
+In Orange County, with the second-largest illegal alien population in the  state, officials warned that any effort by the Census Bureau to identify  illegals would promote "fear and intimidation" among recent immigrants, both  legal and illegal.
+0.89 (officials; warned; that any effort by the Census Bureau to identify  illegals would promote "fear and intimidation" among recent immigrants, both  legal and illegal; L:In Orange County)
+0.91 Context(officials warned,List([82, 98))):(any effort by the Census Bureau; would promote; fear and intimidation)
+
+Any such effort, officials said, would discourage people  from participating in the census and even further reduce official population  figures.
+0.92 (officials; said; would discourage people  from participating in the census and even further reduce official population  figures)
+0.93 (Any such effort; would discourage; people; from participating in the census and even further reduce official population  figures)
+0.89 (people; from participating; in the census)
+0.82 (people; even reduce; official population  figures)
+
+"They counted them in 1980, and now for them to say they won't count them in  1990 is ludicrous," said Angelo Doti, director of financial assistance for the  Orange County Social Services Agency.
+0.68 (now for them to say they won't count them in  1990; is; ludicrous)
+0.90 (They counted them in 1980, and now for them to say they won't count them in  1990 is ludicrous; said; Angelo Doti)
+0.41 Context(They counted them in 1980 , and now for them to say they wo n't count them in 1990 is ludicrous said,List([1, 102))):(They; counted; them; T:in 1980)
+0.39 (Angelo Doti; [is] director of; financial assistance)
+
+"The fact is they are here.
+0.84 (The fact; is; they are here)
+0.31 Context(The fact is,List([1, 12))):(they; are; here)
+
+They're going to stay here.
+0.32 (They; to stay; here)
+
+They pay taxes and are  going to avail themselves of our services.
+0.62 (They; pay; taxes)
+
+We need to know the numbers.
+0.40 (We; need; to know the numbers)
+0.40 Context(We need,List([0, 7))):(We; need to know; the numbers)
+
+To not  count them is to close our eyes," Doti said.
+0.83 (To not  count them is to close our eyes; said; Doti)
+0.55 Context(To not count them is to close our eyes said,List([0, 51))):(To not  count them; is; to close our eyes)
+
+Times staff writers Jerry Gillam and Marcida Dodson contributed to this  article.
+0.92 (Times staff writers; contributed; to this  article)
+

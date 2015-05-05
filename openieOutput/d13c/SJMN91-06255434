@@ -1,0 +1,105 @@
+Her critics see her as more than the supportive spouse who'll accompany her husband, Clarence, through his Senate confirmation hearings, which began Tuesday and are likely to run through next week.
+0.49 (Her critics; see; her; as more than the supportive spouse)
+0.85 (the supportive spouse; 'll accompany; her husband; through his Senate confirmation hearings)
+0.75 (his Senate confirmation hearings; began; T:Tuesday)
+0.71 (his Senate confirmation hearings; are; likely to run through next week)
+
+They see a woman with strong opinions on issues that are bound to come before the court.;
+0.62 (They; see; a woman with strong opinions on issues)
+0.88 (issues; are bound; to come before the court)
+0.88 (issues; to come; before the court)
+
+Some women's-rights activists are upset by her lobbying against such issues as comparable-worth legislation.
+0.92 (Some women's-rights activists; are upset; by her lobbying against such issues as comparable-worth legislation)
+
+Some religious rights groups are troubled by her anti-cult activities in light of her former involvement with Lifespring, a motivational group.;
+0.88 (Some religious rights groups; are troubled; by her anti-cult activities; L:in light of her former involvement with Lifespring)
+
+Skin color an issue; Even the color of her skin is being used to determine the content of Clarence Thomas's character.
+
+The fact that she is white has drawn criticism from some blacks who see the marriage as evidence that Clarence Thomas has rejected his roots.;
+0.28 (she; is; white)
+0.72 (The fact that she is white; has drawn; criticism; from some blacks)
+0.75 (some blacks; see; the marriage as evidence that Clarence Thomas has rejected his roots)
+0.87 (Clarence Thomas; has rejected; his roots)
+
+In their respective careers, the Thomases have embraced the view that women and minorities are hindered, rather than helped, by affirmative action and government programs.
+0.84 (the Thomases; have embraced; the view that women and minorities are hindered, rather than helped, by affirmative action and government programs; T:In their respective careers)
+0.75 (women and minorities; are hindered; )
+
+True equality is achieved by holding everyone to the same standard, they believe.;
+0.27 (they; believe; )
+0.69 Context(they believe,List([68, 80))):(True equality; is achieved; )
+
+"I don't think it's fair to say she's anti-women's rights," said Ricky Silberman, vice chairwoman of the EEOC and a friend of the Thomases.
+0.81 (I don't think it's fair to say she's anti-women's rights; said; Ricky Silberman)
+0.36 Context(I do n't think it 's fair to say she 's anti-women 's rights said,List([1, 64))):(I; do n't think; it's fair to say she's anti-women's rights)
+0.38 (Ricky Silberman; [is] vice chairwoman of; the EEOC)
+
+She said Virginia Thomas opposed legislation on comparable worth because it would have involved the government in determining wages, which is "not good for the economy, not good for workers, not good for women.";
+0.44 (She; said; Virginia Thomas opposed legislation on comparable worth)
+0.90 Context(She said,List([0, 8))):(Virginia Thomas; opposed; legislation on comparable worth; because it would have involved the government in determining wages, which is "not good for the economy, not good for workers, not good for women)
+
+Conservative viewpoint; Virginia Thomas has represented the conservative viewpoint in her jobs as a staffer for a Republican congressman, spokeswoman at the U.S. Chamber of Congress and deputy assistant secretary at the Department of Labor.;   Clarence Thomas advocates a colorblind society, and his marriage may be an example of that philosophy.
+0.39 (his marriage; may be; an example of that philosophy)
+0.91 (Clarence Thomas; advocates; a colorblind society)
+0.85 Context(Clarence Thomas advocates,List([244, 269))):(Virginia Thomas; has represented; the conservative viewpoint; L:in her jobs)
+
+But others see a different symbolism.;
+0.89 (others; see; a different symbolism)
+
+"His marrying a white woman is a sign of his rejection of the black community," said Russell Adams, chairman of Howard University's department of Afro-American studies.
+0.45 (His; marrying; a white woman)
+0.83 (His marrying a white woman is a sign of his rejection of the black community; said; Russell Adams)
+0.58 Context(His marrying a white woman is a sign of his rejection of the black community said,List([1, 84))):(His marrying a white woman; is; a sign of his rejection of the black community)
+0.38 (Russell Adams; [is] chairman of; Howard University)
+0.39 (a white woman; is a sign of; his rejection)
+
+"Great justices have had community roots that served as a basis for understanding the Constitution.
+0.87 (Great justices; have had; community roots that served as a basis for understanding the Constitution)
+0.90 (community roots; served; as a basis for understanding the Constitution)
+
+Clarence's lack of a sense of community makes his nomination troubling.";
+0.92 (Clarence's lack of a sense of community; makes; his nomination troubling)
+
+Religious leaders wonder; Some religious leaders are troubled as well.
+0.71 (Some religious leaders; are troubled as well; )
+0.69 Context(Some religious leaders are troubled as well,List([26, 69))):(Religious leaders; wonder; )
+
+Dean Kelley, the National Council of Churches' counselor on religious liberty, wrote a critique of Clarence Thomas that was used as grounds for his organization's opposition to the Supreme Court nominee.
+0.93 (Dean Kelley; wrote; a critique of Clarence Thomas)
+0.94 (a critique of Clarence Thomas; was used; as grounds for his organization's opposition to the Supreme Court nominee)
+
+The author did not mention Virginia Thomas in his text, but has said he was concerned about her involvement in the Cult Awareness Network (CAN), a Chicago-based organization that says it educates the public about "destructive" cults.
+0.86 (The author; did not mention; Virginia Thomas; L:in his text)
+0.31 (he; concerned; about her involvement in the Cult Awareness Network)
+0.87 (The author; has said; he was concerned about her involvement in the Cult Awareness Network)
+0.36 Context(The author has said,List([0, 68))):(he; was; concerned about her involvement in the Cult Awareness Network)
+0.86 (a Chicago-based organization; says; it educates the public about "destructive" cults)
+0.39 Context(a Chicago - based organization says,List([145, 183))):(it; educates; the public; about "destructive" cults)
+
+That involvement, he said, might affect her husband's handling of religious-liberty cases if he shares her views on the subject.;
+0.37 (he; said; might affect her husband's handling of religious-liberty cases if he shares her views on the subject)
+0.81 (That involvement; might affect; her husband's handling of religious-liberty cases)
+0.31 (he; shares; her views on the subject)
+
+During the early '80s, Virginia Thomas enrolled in Lifespring, a self-help course that challenges students to take responsibility for their lives.
+0.96 (Virginia Thomas; enrolled; L:in Lifespring; T:During the early '80s)
+0.85 (a self-help course; challenges; students; to take responsibility for their lives)
+0.82 (students; to take; responsibility for their lives)
+
+A small percentage of the program's 300,000 graduates have been deeply disturbed by Lifespring's methods, which involve intense emotional self-examination.;
+0.96 (A small percentage of the program's 300,000 graduates; have been deeply disturbed; by Lifespring's methods)
+0.92 (Lifespring's methods; involve; intense emotional self-examination)
+
+A clean break; Virginia Thomas was troubled by some of Lifespring's activities and eventually broke with the organization.
+0.94 (Virginia Thomas; was troubled; by some of Lifespring's activities)
+0.87 (Virginia Thomas; broke; T:eventually)
+
+Since 1985, she has been a public advocate against cult activities.;
+0.60 (she; has been; a public advocate against cult activities; T:Since 1985)
+
+When she served as a labor-relations attorney at the U.S. Chamber of Commerce from 1985 to 1989, she represented the interests of the business community at congressional hearings on such issues as comparable worth, affirmative action and federal child-care
+0.61 (she; served; as a labor-relations attorney at the U.S. Chamber of Commerce)
+0.61 (she; represented; the interests of the business community at congressional hearings on such issues as comparable worth, affirmative action and federal child-care; T:When she served as a labor-relations attorney at the U.S. Chamber of Commerce from 1985 to 1989)
+
