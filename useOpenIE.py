@@ -46,8 +46,8 @@ for p in paths:
             score = setScore(words, scores)
             sentenceScores[line] = score
 
-    print_entity = sorted(sentenceScores.items(), key=lambda d :d[1]/math.log(len(nltk.tokenize.word_tokenize(d[0])),2), reverse=True)
-    #print_entity = sorted(sentenceScores.items(), key=lambda d :d[1], reverse=True)
+    #print_entity = sorted(sentenceScores.items(), key=lambda d :d[1]/math.log(len(nltk.tokenize.word_tokenize(d[0])),2), reverse=True)
+    print_entity = sorted(sentenceScores.items(), key=lambda d :d[1], reverse=True)
 
     summary = ''
     cnt = 0
