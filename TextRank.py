@@ -56,32 +56,30 @@ class TextRank:
                 else:
                     row.append(self.similarity(wordsList[node], wordsList[neiNoe]))
             graph.append(row)
-        print(graph)
-        print('graph construdted')
+        for g in graph:
+            print(g)
+        print('graph constructed')
         return graph
-
-    def loopDir(self, rootDir):
-        d = []
-        for lists in os.listdir(rootDir):
-            path = os.path.join(rootDir, lists)
-            d.append(path)
-        return d
 
     def getWordScore(self):
         articles = [Article(f) for f in self.pathList]
         articleWords = [article.wordFrequency for article in articles]
 
-        ne = NE(self.loopDir(self.nerPathList))
+        ne = NE(self.nerPathList)
         t = ScoreWords(articleWords, ne.dict)
         scores = t.getScore()
+
         return scores
 
     def similarity(self, wordsA, wordsB):
         cnt = 0
         for word in wordsA:
             if word in wordsB:
-                cnt += (1 + math.log(self.wordScore[word],2))
-        result = cnt / (math.log(len(wordsA)) + math.log(len(wordsB)))
+                if not word in self.wordScore:
+                    cnt += 1
+                else:
+                    cnt += (1 + math.log(self.wordScore[word], 2))
+        result = cnt / (1 + math.log(len(wordsA)) + math.log(len(wordsB)))
         return result
 
 
@@ -89,10 +87,23 @@ class TextRank:
 
 if __name__ == "__main__":
     nerDir = DIR.loopShallowDir('ner')
+    DIR.mkdir('openieSummary')
+    #l = ['d04a', 'd05a', 'd08b','d11b', 'd12b', 'd14c', 'd19d','d13c','d15c']
     for nD in nerDir:
         tmp = nD.split('/')
-        print(tmp[0], tmp[1])
-        print(DIR.loopDeepDir(nD))
+        # if tmp[1] in l:
+        #     continue
+       # print(tmp[0], tmp[1])
+        #print(DIR.loopDeepDir(nD))
+        docPath = DIR.loopShallowDir('openieOutput/' + tmp[1])
+        tR = TextRank(docPath, DIR.loopDeepDir(nD))
+        s = tR.summary(200)
+        file = open( 'openieSummary/' + tmp[1] + '.txt', 'w')
+        file.write(s)
+        file.close()
+        # dict = tR.getWordScore()
+        # for d in dict:
+        #     print(d, dict[d])
     # fileNames = ['d04aOpenieResult/' + str(i+1) + '.txt' for i in range(7)]
     # tR = TextRank(fileNames, 'ner/d04a')
     # s = tR.summary(200)

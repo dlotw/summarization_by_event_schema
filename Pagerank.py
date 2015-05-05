@@ -9,13 +9,19 @@ class PageRank:
     def rank(self):
         lastScores = [1 for i in range(self.nodeNum)]
         scores = [1 for i in range(self.nodeNum)]
+        inEdgesDict = {}
+        outEdgesDict = {}
+        for i in range(self.nodeNum):
+            inEdgesDict[i] = self.getInEdge(i)
+            outEdgesDict[i] = self.getOutEdge(i)
         for i in range(self.iterationTimes):
+            print(i)
             for i in range(self.nodeNum):
-                inEdges = self.getInEdge(i)
+                inEdges = inEdgesDict[i]
                 temp = 0
                 for inEdge in inEdges:
                     neiIndex = inEdge[0]
-                    outEdges = self.getOutEdge(neiIndex)
+                    outEdges = outEdgesDict[neiIndex]
                     w = self.graph[neiIndex][i] / sum([wei[1] for wei in outEdges])
                     temp += lastScores[neiIndex] * w
                 scores[i] = (1 - self.damping) + self.damping * temp
