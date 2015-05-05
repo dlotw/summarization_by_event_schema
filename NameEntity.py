@@ -26,8 +26,6 @@ class NE:
                     else:
                         if not word in dict[entity]:
                             dict[entity].append(word)
-        for d in dict:
-            print(d)
         return dict
 
 if __name__ == "__main__":

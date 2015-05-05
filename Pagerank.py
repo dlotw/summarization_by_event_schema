@@ -2,23 +2,23 @@ __author__ = 'zephyros'
 class PageRank:
     def __init__(self, graph, d, t):
         self.graph = graph
-        self.nodeNum = len(graph)
         self.damping = d
         self.iterationTimes = t
+        self.nodeNum = len(graph)
 
     def rank(self):
         lastScores = [1 for i in range(self.nodeNum)]
         scores = [1 for i in range(self.nodeNum)]
         for i in range(self.iterationTimes):
-            print(scores)
             for i in range(self.nodeNum):
                 inEdges = self.getInEdge(i)
                 temp = 0
                 for inEdge in inEdges:
-                    index = inEdge[0]
-                    outDegree =len(self.getOutEdge(index))
-                    temp += lastScores[index] / outDegree
-                scores[i] = self.damping * (temp + 1)
+                    neiIndex = inEdge[0]
+                    outEdges = self.getOutEdge(neiIndex)
+                    w = self.graph[neiIndex][i] / sum([wei[1] for wei in outEdges])
+                    temp += lastScores[neiIndex] * w
+                scores[i] = (1 - self.damping) + self.damping * temp
             for i in range(self.nodeNum):
                 lastScores[i] = scores[i]
         return scores
@@ -40,7 +40,7 @@ class PageRank:
         return edges
 
 if __name__ == "__main__":
-    g = [[0, 1, 1], [0, 0, 1], [1, 0 , 0]]
+    g = [[0, 1, 1], [0, 0, 1], [1, 0, 0]]
     pr = PageRank(g, 0.5, 100)
     print(pr.rank())
 

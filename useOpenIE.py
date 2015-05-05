@@ -2,7 +2,7 @@ __author__ = 'zephyrYin'
 import os
 from ScoreWords import ScoreWords
 from Article import Article
-from NameEntity import  NE
+from NameEntity import NE
 import nltk.tokenize
 import math
 
@@ -57,7 +57,7 @@ while cnt < 200:
     summary += line + ' '
     lineCnt += 1
     cnt += len(nltk.tokenize.word_tokenize(line))
-file= open('summary.txt','w')
+file = open('summary.txt','w')
 file.write(summary)
 file.close()
 
