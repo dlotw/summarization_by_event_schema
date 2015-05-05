@@ -1,0 +1,1 @@
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 100 -niters 1000 -savestep 100 -twords 20 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d04a.dat
