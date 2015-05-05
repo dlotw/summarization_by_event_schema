@@ -47,9 +47,9 @@ class Feed_lda():
         # print self.docs
 
     def write_file(self):
-        fileName = self.dir.strip('/').replace('docs/', '') + '.dat'
+        fileName = 'input.dat'
         print fileName
-        dest_dir = './LDA_input/'
+        dest_dir = './LDA_input/'+self.dir.strip('/').replace('docs/', '')
         if not os.path.exists(dest_dir):
             os.makedirs(dest_dir)
         path = os.path.join(dest_dir, fileName)
