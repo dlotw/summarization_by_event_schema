@@ -20,11 +20,16 @@ class Feed_openIE():
             if '</TEXT>' in ele:
                 flag = False
                 continue
+            elif '<P>' in ele:
+                continue
+            elif '</P>' in ele:
+                continue
             elif flag is True:
                 sentence.append(ele)
             elif '<TEXT>' in ele:
                 flag = True
                 continue
+
         return sentence
 
     def read_file(self):
