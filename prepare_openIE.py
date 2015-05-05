@@ -46,7 +46,7 @@ class Feed_openIE():
             files = docs_path[i]
             # print files
             for file in files:
-                # print file
+                print file
                 content[file]=self.load_file(file)
         return content
         # print self.docs
@@ -55,7 +55,7 @@ class Feed_openIE():
         content = self.read_file()
         for k in os.listdir(self.dir):
             fileName = k
-            # print fileName
+            print fileName
             dest_dir = './OPENIE_input/'+self.dir.strip('/').replace('docs/', '')
             # print dest_dir
             if not os.path.exists(dest_dir):
@@ -65,7 +65,7 @@ class Feed_openIE():
                 # f.write(str(len(self.docs))+'\n')
                 fileName = self.dir+fileName
                 for doc in content[fileName]:
-                    # print doc
+                    print doc
                     f.write(' '.join(doc)+'\n')
                 # f.write(doc)
 
@@ -75,5 +75,5 @@ if __name__ == '__main__':
     for dd in doc_dir:
         # construct path string
         doc_str = "docs/"+dd+"/"
-        # print doc_str
+        print doc_str
         openIE = Feed_openIE(doc_str)

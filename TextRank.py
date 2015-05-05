@@ -6,7 +6,7 @@ from Article import Article
 from NameEntity import NE
 from ScoreWords import ScoreWords
 import nltk
-import os
+import DIR
 
 class TextRank:
     def __init__(self, articlePaths, nerPath):
@@ -84,14 +84,21 @@ class TextRank:
         result = cnt / (math.log(len(wordsA)) + math.log(len(wordsB)))
         return result
 
-if __name__ == "__main__":
 
-    fileNames = ['d04aOpenieResult/' + str(i+1) + '.txt' for i in range(7)]
-    tR = TextRank(fileNames, 'ner/d04a')
-    s = tR.summary(200)
-    file = open('testRankSummary.txt', 'w')
-    file.write(s)
-    file.close()
+
+
+if __name__ == "__main__":
+    nerDir = DIR.loopShallowDir('ner')
+    for nD in nerDir:
+        tmp = nD.split('/')
+        print(tmp[0], tmp[1])
+        print(DIR.loopDeepDir(nD))
+    # fileNames = ['d04aOpenieResult/' + str(i+1) + '.txt' for i in range(7)]
+    # tR = TextRank(fileNames, 'ner/d04a')
+    # s = tR.summary(200)
+    # file = open('testRankSummary.txt', 'w')
+    # file.write(s)
+    # file.close()
     # dict = tR.getWordScore()
     # for d in dict:
     #     print(d, dict[d])
