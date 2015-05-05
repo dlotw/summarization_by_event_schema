@@ -4,9 +4,10 @@ from nltk.tokenize import word_tokenize
 import os
 
 class Feed_lda():
-    def __init__(self, doc_dir):
+    def __init__(self, doc_dir, stopping_words):
         self.dir = doc_dir
         self.docs = []
+        self.s_w = list(stopping_words)
         self.read_file()
         self.write_file()
 
@@ -21,8 +22,16 @@ class Feed_lda():
             if '/TEXT' in ele:
                 flag = False
                 continue
+            elif 'P' in ele:
+                continue
+            elif '/P' in ele:
+                continue
             elif flag is True:
-                sentence.append(ele)
+                new = []
+                for word in ele:
+                    if word.lower() not in self.s_w:
+                        new.append(word)
+                sentence.append(new)
             elif 'TEXT' in ele:
                 flag = True
                 continue
@@ -48,7 +57,7 @@ class Feed_lda():
 
     def write_file(self):
         fileName = 'input.dat'
-        print fileName
+        # print fileName
         dest_dir = './LDA_input/'+self.dir.strip('/').replace('docs/', '')
         if not os.path.exists(dest_dir):
             os.makedirs(dest_dir)

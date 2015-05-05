@@ -1,6 +1,6 @@
 alpha=0.500000
 beta=0.100000
-ntopics=5
+ntopics=1
 ndocs=8
-nwords=1677
-liter=1000
+nwords=1537
+liter=3000

@@ -1,1 +1,19 @@
-src/lda -est -alpha 0.5 -beta 0.1 -ntopics 100 -niters 1000 -savestep 100 -twords 20 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d04a.dat
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 1 -niters 3000 -savestep 10000 -twords 30 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d04a/input.dat
+
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 1 -niters 3000 -savestep 10000 -twords 30 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d05a/input.dat
+
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 1 -niters 3000 -savestep 10000 -twords 30 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d06a/input.dat
+
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 1 -niters 3000 -savestep 10000 -twords 30 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d08b/input.dat
+
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 1 -niters 3000 -savestep 10000 -twords 30 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d11b/input.dat
+
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 1 -niters 3000 -savestep 10000 -twords 30 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d12b/input.dat
+
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 1 -niters 3000 -savestep 10000 -twords 30 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d13c/input.dat
+
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 1 -niters 3000 -savestep 10000 -twords 30 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d14c/input.dat
+
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 1 -niters 3000 -savestep 10000 -twords 30 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d15c/input.dat
+
+src/lda -est -alpha 0.5 -beta 0.1 -ntopics 1 -niters 3000 -savestep 10000 -twords 30 -dfile /mnt/hgfs/NLP/summarization_by_event_schema/LDA_input/d19d/input.dat
