@@ -13,13 +13,16 @@ for path in paths:
     for line in lines:
         if '<TEXT>' in line:
             status += 1
+            if line.strip('\n') == '<TEXT>':
+                continue
+            else:
+                content.append(line.replace('<TEXT>', ''))
         elif '</TEXT>' in line:
             tmp = path.split('/')
             DIR.mkdir('openieInput/' + tmp[1])
             outputPath = 'openieInput/' + tmp[1] + '/' + tmp[2]
             file = open(outputPath,'w')
             for l in content:
-                print(l)
                 file.write(l.strip('\n'))
                 file.write('\n')
             file.close()
